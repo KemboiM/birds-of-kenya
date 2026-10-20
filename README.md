@@ -5,9 +5,9 @@ names the species, counts them ("12 Marabou Storks, 3 Hadada Ibises"), describes
 species, and estimates how far away the birds are. It runs on a computer or, through the
 web app, on Android and iOS phones.
 
-**Status (October 2026):** version 0.9 (50 species, 72.2% test accuracy) is the current
-model; version 1.0 on the full cleaned dataset (467 species with 20+ photos) is next.
-Results for each version are in [reports/](reports/).
+**Status (October 2026):** version 1.0 covers 467 species with 44.9% test accuracy
+(top-5 69.3%), trained without fine-tuning. Version 0.9 (50 species, 72.2%) is kept as a
+baseline. Results for each version are in [reports/](reports/).
 
 ## How it works
 
@@ -90,6 +90,11 @@ evaluation to `data/validation_data/1.0/1.0_results/`:
 
 The small files are also copied to `reports/1.0/` for git. Add `--copy-correct` to also
 save correctly classified photos. Use a new `--version` for every run.
+
+On a computer without a GPU, add `--cached-features`: MobileNetV2 features are computed
+once per photo (plus a mirrored copy) and only the classifier head is trained, which takes
+minutes instead of hours. It skips fine-tuning, so a GPU run without the flag usually
+scores a few points higher.
 
 ## 3. Build the species knowledge base
 

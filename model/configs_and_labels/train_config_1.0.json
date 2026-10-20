@@ -1,0 +1,18 @@
+{
+  "version": "1.0",
+  "data_root": "data",
+  "data_dir": null,
+  "epochs": 40,
+  "fine_tune_epochs": 10,
+  "batch_size": 64,
+  "img_size": 224,
+  "min_images": 20,
+  "cached_features": true,
+  "copy_correct": false,
+  "no_pretrained": false,
+  "num_classes": 467,
+  "model_path": "model/model_assets/trained_checkpoints/1.0/birds_classify_1.0.keras",
+  "base_model": "MobileNetV2",
+  "created": "2026-10-20T06:55:38.751069",
+  "image_preprocessing": "photos resized to shorter side 224 px before training"
+}

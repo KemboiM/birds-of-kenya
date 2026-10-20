@@ -89,6 +89,84 @@ def train_model(train_ds, val_ds, num_classes, epochs=10, fine_tune_epochs=10,
     return model, history
 
 
+def _feature_extractor(img_size, weights):
+    """Raw 0-255 image -> 1280 MobileNetV2 features (same path as build_model, minus the head)."""
+    base = MobileNetV2(input_shape=(img_size, img_size, 3), include_top=False, weights=weights)
+    inputs = keras.Input(shape=(img_size, img_size, 3))
+    x = layers.Rescaling(1.0 / 127.5, offset=-1.0)(inputs)
+    x = base(x, training=False)
+    return keras.Model(inputs, layers.GlobalAveragePooling2D()(x))
+
+
+def _features(extractor, paths, img_size, flip=False, batch_size=64):
+    import tensorflow as tf
+    from src.data.loader import _load_image
+    ds = tf.data.Dataset.from_tensor_slices((paths, [0] * len(paths)))
+    ds = ds.map(lambda p, l: _load_image(p, l, (img_size, img_size)),
+                num_parallel_calls=tf.data.AUTOTUNE)
+    if flip:
+        ds = ds.map(lambda x, l: (tf.image.flip_left_right(x), l))
+    ds = ds.batch(batch_size).prefetch(tf.data.AUTOTUNE)
+    return extractor.predict(ds.map(lambda x, l: x), verbose=1)
+
+
+def train_model_cached(splits, num_classes, epochs=40, patience=6, weights='imagenet',
+                       img_size=224, cache_path=None, batch_size=256,
+                       model_path='model/model_assets/trained_checkpoints/birds_classify.keras'):
+    """Fast training for computers without a GPU.
+
+    MobileNetV2 features are computed once per photo (plus a mirrored copy of each
+    training photo as augmentation) and cached; only the softmax head is trained on
+    them, which takes seconds per epoch. The head is then placed on a full model
+    identical to build_model(), so prediction, evaluation and export are unchanged.
+    No fine-tuning of the base: use train_model() on a GPU for that.
+    """
+    if weights is None:
+        raise ValueError("--cached-features needs the ImageNet starting weights (drop --no-pretrained)")
+    (tr_p, tr_y), (va_p, va_y) = splits.files['train'], splits.files['val']
+    if cache_path and os.path.exists(cache_path):
+        print(f"  Using cached features: {cache_path}")
+        c = np.load(cache_path)
+        x_tr, y_tr, x_va = c['x_tr'], c['y_tr'], c['x_va']
+    else:
+        extractor = _feature_extractor(img_size, weights)
+        print(f"  Computing features: {len(tr_p)} training photos x 2 views, {len(va_p)} validation")
+        x_tr = np.concatenate([_features(extractor, tr_p, img_size),
+                               _features(extractor, tr_p, img_size, flip=True)])
+        y_tr = np.concatenate([tr_y, tr_y])
+        x_va = _features(extractor, va_p, img_size)
+        if cache_path:
+            os.makedirs(os.path.dirname(cache_path), exist_ok=True)
+            np.savez(cache_path, x_tr=x_tr, y_tr=y_tr, x_va=x_va)
+    y_va = np.array(va_y)
+
+    # Balance classes: species with few photos count more, dampened by a square root.
+    counts = np.bincount(y_tr, minlength=num_classes).astype(float)
+    weights_per_class = np.sqrt(counts.max() / np.maximum(counts, 1))
+    class_weight = {i: float(w / weights_per_class.mean()) for i, w in enumerate(weights_per_class)}
+
+    feat_in = keras.Input(shape=(x_tr.shape[1],))
+    h = layers.Dropout(0.3)(feat_in)
+    head_out = layers.Dense(num_classes, activation='softmax', name='species')(h)
+    head = keras.Model(feat_in, head_out)
+    _compile(head, 1e-3)
+    print(f"\n=== Training classifier head on cached features (up to {epochs} epochs) ===")
+    history = head.fit(
+        x_tr, y_tr, validation_data=(x_va, y_va), epochs=epochs, batch_size=batch_size,
+        class_weight=class_weight, verbose=2,
+        callbacks=[keras.callbacks.EarlyStopping(monitor='val_accuracy', patience=patience,
+                                                 restore_best_weights=True, verbose=1),
+                   keras.callbacks.ReduceLROnPlateau(monitor='val_loss', factor=0.3,
+                                                     patience=3, verbose=1)])
+
+    model, _ = build_model(num_classes, input_shape=(img_size, img_size, 3), weights=weights)
+    model.layers[-1].set_weights(head.get_layer('species').get_weights())
+    os.makedirs(os.path.dirname(model_path), exist_ok=True)
+    model.save(model_path)
+    print(f"  Saved {model_path}")
+    return model, history
+
+
 def predict_dataset(model, ds):
     """Run the model over a batched dataset; returns (y_true, probabilities)."""
     y_true, probs = [], []

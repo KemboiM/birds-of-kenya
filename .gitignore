@@ -28,6 +28,7 @@ ENV/
 
 # Reports are committed, including their CSV files
 !/reports/**/*.csv
+/reports/1.0/*.png
 
 # Phone app: generated model and runtime files (rebuild with scripts/export_web.py)
 /app/web/models/

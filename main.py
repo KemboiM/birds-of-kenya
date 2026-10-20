@@ -24,7 +24,7 @@ os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'
 
 from src.data.loader import prepare_dataset, save_split_lists
 from src.evaluation.report import write_evaluation
-from src.models.train import predict_dataset, train_model
+from src.models.train import predict_dataset, train_model, train_model_cached
 from src.utils.helpers import log_training, save_label_list
 
 PROJECT = 'birds'
@@ -43,6 +43,9 @@ def parse_args():
     p.add_argument('--img-size', type=int, default=224)
     p.add_argument('--min-images', type=int, default=10,
                    help='skip species with fewer usable images than this')
+    p.add_argument('--cached-features', action='store_true',
+                   help='fast CPU training: compute MobileNetV2 features once (photo + mirrored copy) '
+                        'and train only the classifier head; no fine-tuning')
     p.add_argument('--copy-correct', action='store_true',
                    help='also copy correctly classified test images into correct/')
     p.add_argument('--no-pretrained', action='store_true',
@@ -87,12 +90,18 @@ def main():
                    'base_model': 'MobileNetV2', 'created': datetime.now().isoformat()}, f, indent=2)
 
     print("\nStep 2: Training model...")
-    model, history = train_model(
-        splits.train_ds, splits.val_ds, num_classes=len(names),
-        epochs=args.epochs, fine_tune_epochs=args.fine_tune_epochs,
-        weights=None if args.no_pretrained else 'imagenet',
-        img_size=args.img_size, model_path=model_path,
-    )
+    weights = None if args.no_pretrained else 'imagenet'
+    if args.cached_features:
+        model, history = train_model_cached(
+            splits, num_classes=len(names), epochs=args.epochs, weights=weights,
+            img_size=args.img_size, model_path=model_path,
+            cache_path=os.path.join(args.data_root, 'training_data', f'feature_cache_{v}.npz'))
+    else:
+        model, history = train_model(
+            splits.train_ds, splits.val_ds, num_classes=len(names),
+            epochs=args.epochs, fine_tune_epochs=args.fine_tune_epochs,
+            weights=weights, img_size=args.img_size, model_path=model_path,
+        )
 
     print("\nStep 3: Evaluating on the test images...")
     y_true, probs = predict_dataset(model, splits.test_ds)
@@ -103,7 +112,8 @@ def main():
     print("\nStep 4: Saving results...")
     os.makedirs(checkpoint_dir, exist_ok=True)
     shutil.copy2(os.path.join(config_dir, f'{PROJECT}_label_list_{v}.txt'), checkpoint_dir)
-    log_training(f'{PROJECT}_{v}', args.epochs + args.fine_tune_epochs, args.batch_size, metrics)
+    epochs_run = len(history.history.get('loss', []))
+    log_training(f'{PROJECT}_{v}', epochs_run, args.batch_size, metrics)
     report_dir = os.path.join('reports', v)
     os.makedirs(report_dir, exist_ok=True)
     for name in REPORT_FILES:

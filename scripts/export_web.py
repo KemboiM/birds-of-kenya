@@ -11,8 +11,8 @@ Writes into app/web/ (git-ignored except index.html and README.md):
     species_info.json                common names, sizes etc. from species_info/ (for distance)
     ort/ort-wasm-simd-threaded.*     ONNX Runtime Web engine files (downloaded once)
 
-The models are written as base64 text because the Claude artifact host serves text
-files but not .onnx files; any static host (e.g. GitHub Pages) can serve them too.
+The models are written as base64 text so that hosts which serve only text and
+web files can serve them; any static host (e.g. GitHub Pages) works.
 Needs: pip install -r requirements-export.txt
 """
 

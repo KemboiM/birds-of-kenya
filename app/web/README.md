@@ -19,7 +19,7 @@ accuracy) to match `reports/<version>/metrics.json`.
 Any static host works, as long as `index.html`, `models/`, `ort/` and
 `species_info.json` are served from the same folder:
 
-- **Claude artifact** (what the current test link uses): ask Claude to republish `app/web`.
+- **Current test link**: republish `app/web` to the same host.
 - **GitHub Pages**: copy `app/web` to a `gh-pages` branch, or a `docs/` folder on `main`,
   and enable Pages in the repository settings. The model files are about 27 MB, which is
   fine for Pages.
