@@ -14,6 +14,24 @@ def save_metrics(metrics, species_name):
     
     print(f"Metrics saved to {filename}")
 
+def save_report(report, run_name):
+    """Save the per-species classification report to JSON."""
+    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+    filename = f"results/{run_name}_per_species_{timestamp}.json"
+    os.makedirs("results", exist_ok=True)
+    with open(filename, 'w') as f:
+        json.dump(report, f, indent=4)
+    print(f"Per-species report saved to {filename}")
+
+
+def save_class_names(class_names, path="models/class_names.json"):
+    """Save label order so predictions can be mapped back to species names."""
+    os.makedirs(os.path.dirname(path), exist_ok=True)
+    with open(path, 'w') as f:
+        json.dump(class_names, f, indent=2)
+    print(f"  Class names saved to {path}")
+
+
 def log_training(species_name, epochs, batch_size, metrics):
     """Log training details."""
     log_entry = {
