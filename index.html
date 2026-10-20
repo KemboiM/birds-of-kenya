@@ -1,0 +1,403 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#0c7a5c">
+<style>:root{padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}body{margin:0}img{max-width:100%}[hidden]{display:none!important}</style>
+<title>Birds of Kenya</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Public+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: one narrow field-notebook column; photo with numbered boxes first, then the tally, then each bird. */
+:root {
+  --bg: #f2f5f1;
+  --surface: #ffffff;
+  --ink: #16231d;
+  --muted: #5b6b63;
+  --line: #d6dfd8;
+  --accent: #0c7a5c;        /* malachite green */
+  --accent-ink: #ffffff;
+  --mark: #e3a21a;          /* weaver yellow: detection boxes */
+  --mark-ink: #1b1405;
+  --warn: #b35a10;
+  --display: "Instrument Serif", "Iowan Old Style", Georgia, serif;
+  --body: "Public Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --mono: "IBM Plex Mono", ui-monospace, "SF Mono", Menlo, monospace;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #0e1612; --surface: #16211b; --ink: #e3ebe6; --muted: #98a9a0; --line: #2a3a32;
+    --accent: #3cc49a; --accent-ink: #06150f; --mark: #f2b93b; --mark-ink: #1b1405; --warn: #f0a35e;
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #0e1612; --surface: #16211b; --ink: #e3ebe6; --muted: #98a9a0; --line: #2a3a32;
+  --accent: #3cc49a; --accent-ink: #06150f; --mark: #f2b93b; --mark-ink: #1b1405; --warn: #f0a35e;
+  color-scheme: dark;
+}
+* { box-sizing: border-box; }
+body {
+  background: var(--bg); color: var(--ink); font-family: var(--body); font-size: 15px; line-height: 1.5;
+  padding-left: max(16px, env(safe-area-inset-left, 0px));
+  padding-right: max(16px, env(safe-area-inset-right, 0px));
+}
+main { max-width: 640px; margin: 0 auto; padding-block: 20px 40px; display: grid; gap: 20px; }
+header { display: grid; gap: 6px; }
+h1 { font-family: var(--display); font-weight: 400; font-size: 2.4rem; line-height: 1.05; margin: 0; letter-spacing: -0.01em; text-wrap: balance; }
+h1 span { font-style: italic; color: var(--accent); }
+.lede { margin: 0; color: var(--muted); max-width: 60ch; }
+.chips { display: flex; flex-wrap: wrap; gap: 6px; }
+.chip { font-family: var(--mono); font-size: 0.72rem; letter-spacing: 0.02em; border: 1px solid var(--line); border-radius: 999px; padding: 2px 9px; color: var(--muted); background: var(--surface); }
+
+.actions { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+.btn { display: flex; align-items: center; justify-content: center; gap: 8px; min-height: 48px; border-radius: 12px; font: 600 0.95rem var(--body); cursor: pointer; border: 1px solid var(--line); background: var(--surface); color: var(--ink); padding: 0 12px; }
+.btn.primary { background: var(--accent); color: var(--accent-ink); border-color: var(--accent); }
+.btn:focus-visible, .sample:focus-visible, input:focus-visible + span { outline: 3px solid var(--mark); outline-offset: 2px; }
+.btn[aria-disabled="true"] { opacity: 0.55; pointer-events: none; }
+.btn svg { width: 20px; height: 20px; flex: none; }
+input[type=file] { position: absolute; width: 1px; height: 1px; opacity: 0; pointer-events: none; }
+.samples { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.85rem; color: var(--muted); }
+.sample { font: 500 0.85rem var(--body); color: var(--accent); background: none; border: 0; padding: 4px 2px; text-decoration: underline; text-underline-offset: 3px; cursor: pointer; }
+.toggle { display: flex; align-items: center; gap: 8px; font-size: 0.85rem; color: var(--muted); cursor: pointer; }
+.toggle input { accent-color: var(--accent); width: 18px; height: 18px; }
+
+.stage { position: relative; border-radius: 14px; overflow: hidden; background: var(--surface); border: 1px solid var(--line); }
+canvas#view { display: block; width: 100%; height: auto; max-width: 100%; }
+.status { position: absolute; inset: auto 10px 10px 10px; background: color-mix(in srgb, var(--surface) 90%, transparent); border: 1px solid var(--line); border-radius: 10px; padding: 8px 12px; font-size: 0.85rem; display: grid; gap: 6px; }
+.status[hidden] { display: none; }
+.bar { height: 4px; border-radius: 4px; background: var(--line); overflow: hidden; }
+.bar i { display: block; height: 100%; width: 0; background: var(--accent); transition: width .2s; }
+
+.tally { display: grid; gap: 4px; }
+.tally .count { font-family: var(--display); font-size: 1.9rem; line-height: 1.1; text-wrap: balance; }
+.tally .count em { color: var(--accent); }
+.tally p { margin: 0; color: var(--muted); font-size: 0.88rem; }
+
+.birds { list-style: none; margin: 0; padding: 0; display: grid; gap: 1px; background: var(--line); border: 1px solid var(--line); border-radius: 14px; overflow: hidden; }
+.bird { background: var(--surface); padding: 12px 14px; display: grid; grid-template-columns: auto 1fr; gap: 4px 12px; }
+.num { grid-row: span 3; width: 28px; height: 28px; border-radius: 7px; background: var(--mark); color: var(--mark-ink); font: 600 0.85rem var(--mono); display: grid; place-items: center; }
+.bird.unsure .num { background: var(--line); color: var(--ink); }
+.name { font-family: var(--display); font-style: italic; font-size: 1.35rem; line-height: 1.15; min-width: 0; }
+.bird.unsure .name { font-style: normal; color: var(--warn); }
+.meta { font-family: var(--mono); font-size: 0.78rem; color: var(--muted); font-variant-numeric: tabular-nums; min-width: 0; }
+.alts { font-size: 0.82rem; color: var(--muted); min-width: 0; }
+.alts i { color: var(--ink); }
+
+details { border-top: 1px solid var(--line); padding-top: 14px; color: var(--muted); font-size: 0.85rem; }
+summary { cursor: pointer; color: var(--ink); font-weight: 600; }
+details p, details ul { margin: 8px 0 0; max-width: 62ch; }
+details ul { padding-left: 18px; }
+a { color: var(--accent); }
+@media (max-width: 420px) { h1 { font-size: 2rem; } .actions { grid-template-columns: 1fr; } }
+@media (prefers-reduced-motion: reduce) { .bar i { transition: none; } }
+</style>
+
+</head>
+<body>
+<main>
+  <header>
+    <h1>Birds of <span>Kenya</span></h1>
+    <p class="lede">Photograph birds and get a count by species. Everything runs on your phone; photos are never uploaded.</p>
+    <div class="chips">
+      <span class="chip">Classifier v0.9</span>
+      <span class="chip">50 species</span>
+      <span class="chip">Test accuracy 72.2%</span>
+      <span class="chip">Top-5 90.1%</span>
+    </div>
+  </header>
+
+  <div class="actions">
+    <label class="btn primary" id="takeBtn" aria-disabled="true">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M4 8h3l2-3h6l2 3h3v11H4z"/><circle cx="12" cy="13" r="3.5"/></svg>
+      Take photo
+      <input type="file" id="camera" accept="image/*" capture="environment">
+    </label>
+    <label class="btn" id="chooseBtn" aria-disabled="true">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><rect x="3" y="4" width="18" height="16" rx="2"/><path d="M3 16l5-5 4 4 3-3 6 6"/></svg>
+      Choose photo
+      <input type="file" id="library" accept="image/*">
+    </label>
+  </div>
+  <div class="samples">
+    <span>Samples:</span>
+    <button class="sample" data-src="samples/sacred-ibis.jpg" data-credit="Sacred Ibis photo: Sri Srikumar, CC0, via iNaturalist/GBIF">Sacred Ibis pair</button>
+    <button class="sample" data-src="samples/lesser-flamingos.jpg" data-credit="Lesser Flamingo photo: Sri Srikumar, CC0, via iNaturalist/GBIF">Lesser Flamingo flock</button>
+    <label class="toggle"><input type="checkbox" id="tile"> Scan in tiles (distant flocks, slower)</label>
+  </div>
+
+  <div class="stage">
+    <canvas id="view" width="640" height="380" aria-label="Photo with numbered boxes around each bird"></canvas>
+    <div class="status" id="status">
+      <span id="statusText">Loading the two models (about 20 MB, first time only)…</span>
+      <div class="bar"><i id="progress"></i></div>
+    </div>
+  </div>
+
+  <section class="tally" aria-live="polite">
+    <div class="count" id="count">Looking for birds…</div>
+    <p id="countNote"></p>
+  </section>
+
+  <ol class="birds" id="birds"></ol>
+
+  <details>
+    <summary>How it works and its limits</summary>
+    <p>A YOLO11n detector finds every bird, then a MobileNetV2 classifier names each one. Birds below 50% confidence are listed as unidentified with the model's best guesses.</p>
+    <ul>
+      <li>This test build knows 50 species. Birds outside that list get the closest wrong answer.</li>
+      <li>Dense flocks are undercounted; tile scanning helps with large photos.</li>
+      <li>Distance, common names and species notes appear once the species knowledge base is built.</li>
+    </ul>
+  </details>
+  <details>
+    <summary>Credits and licenses</summary>
+    <p id="credit"></p>
+    <ul>
+      <li>Detector: Ultralytics YOLO11n, AGPL-3.0.</li>
+      <li>Classifier: trained on CC-licensed iNaturalist photos via GBIF, including CC BY-NC photos, so for non-commercial use.</li>
+      <li>Runtime: ONNX Runtime Web, MIT License.</li>
+      <li>Source: <a href="https://github.com/KemboiM/birds-of-kenya" target="_blank" rel="noopener">github.com/KemboiM/birds-of-kenya</a></li>
+    </ul>
+  </details>
+</main>
+
+<script src="https://cdn.jsdelivr.net/npm/onnxruntime-web@1.20.1/dist/ort.wasm.min.js"></script>
+<script>
+(() => {
+  const DET_SIZE = 640, CLS_SIZE = 224, BIRD = 14, DET_CONF = 0.25, MIN_CONF = 0.5, PAD = 0.10;
+  const $ = (id) => document.getElementById(id);
+
+  // Find the folder the page's own files are served from. Tries the usual
+  // places in order and keeps the first that answers.
+  let BASE = "";
+  const url = (path) => BASE + path;
+  async function findBase() {
+    const here = location.origin + location.pathname;
+    const candidates = [...new Set([
+      new URL("./", document.baseURI).href,
+      new URL("./", location.href).href,
+      here.endsWith("/") ? here : here + "/",
+      location.origin + "/",
+    ])];
+    for (const c of candidates) {
+      try {
+        const r = await fetch(c + "models/labels.txt", { cache: "no-store" });
+        if (r.ok) { BASE = c; return await r.text(); }
+      } catch (e) { /* try the next one */ }
+    }
+    throw new Error("files not found at " + candidates.map((c) => c + "models/labels.txt").join(" , "));
+  }
+  const canvas = $("view"), ctx = canvas.getContext("2d");
+  let det, cls, labels = [], info = {}, busy = false;
+
+  const status = (text, pct) => {
+    $("status").hidden = !text;
+    $("statusText").textContent = text || "";
+    if (pct != null) $("progress").style.width = Math.round(pct * 100) + "%";
+  };
+  const pretty = (label) => label.replace(/_/g, " ");
+
+  async function fetchWithProgress(url, onBytes) {
+    const res = await fetch(url);
+    if (!res.ok) throw new Error(`${url}: HTTP ${res.status}`);
+    if (!res.body) { const b = new Uint8Array(await res.arrayBuffer()); onBytes(b.length); return b; }
+    const reader = res.body.getReader(), parts = []; let size = 0;
+    for (;;) { const { done, value } = await reader.read(); if (done) break; parts.push(value); size += value.length; onBytes(value.length); }
+    const out = new Uint8Array(size); let o = 0;
+    for (const p of parts) { out.set(p, o); o += p.length; }
+    return out;
+  }
+
+  async function load() {
+    ort.env.wasm.numThreads = 1;
+    const labelText = await findBase();
+    ort.env.wasm.wasmPaths = url("ort/");
+    const TOTAL = 10.77e6 + 9.17e6; let got = 0;
+    const tick = (n) => { got += n; status("Loading the two models (about 20 MB, first time only)…", Math.min(got / TOTAL, 0.98)); };
+    const [d, c] = await Promise.all([
+      fetchWithProgress(url("models/detector.onnx"), tick),
+      fetchWithProgress(url("models/classifier.onnx"), tick),
+    ]);
+    const l = labelText;
+    labels = l.split(/\s+/).filter(Boolean);
+    try { const r = await fetch(url("species_info.json")); if (r.ok) info = await r.json(); } catch (e) { /* optional */ }
+    status("Starting the models…", 0.99);
+    det = await ort.InferenceSession.create(d, { executionProviders: ["wasm"] });
+    cls = await ort.InferenceSession.create(c, { executionProviders: ["wasm"] });
+    for (const id of ["takeBtn", "chooseBtn"]) $(id).setAttribute("aria-disabled", "false");
+  }
+
+  // ---- EXIF: 35 mm-equivalent focal length (tag 0xA405) for distance estimates
+  function focal35(buf) {
+    try {
+      const v = new DataView(buf); if (v.getUint16(0) !== 0xFFD8) return null;
+      let p = 2;
+      while (p < v.byteLength - 4) {
+        const marker = v.getUint16(p), len = v.getUint16(p + 2);
+        if (marker === 0xFFE1 && v.getUint32(p + 4) === 0x45786966) {
+          const t = p + 10, le = v.getUint16(t) === 0x4949;
+          const u16 = (o) => v.getUint16(t + o, le), u32 = (o) => v.getUint32(t + o, le);
+          const ifd = (o, want) => { const n = u16(o); for (let i = 0; i < n; i++) { const e = o + 2 + i * 12; if (u16(e) === want) return e; } return -1; };
+          const ptr = ifd(u32(4), 0x8769); if (ptr < 0) return null;
+          const e = ifd(u32(ptr + 8), 0xA405); return e < 0 ? null : u16(e + 8) || null;
+        }
+        p += 2 + len;
+      }
+    } catch (e) { /* no EXIF */ }
+    return null;
+  }
+
+  function distanceText(box, w, h, f35, label) {
+    const size = info[label]?.size?.adult;
+    if (!size?.length_cm) return "distance: needs species size";
+    const f = (f35 || 26) * Math.hypot(w, h) / 43.27, px = Math.max(box[2] - box[0], box[3] - box[1]);
+    const wide = (box[2] - box[0]) > 1.6 * (box[3] - box[1]) && size.wingspan_cm;
+    const r = wide ? size.wingspan_cm : size.length_cm;
+    const lo = r[0] / 100 * f / px * 0.85, hi = r[r.length - 1] / 100 * f / px * 1.15;
+    const fmt = (x) => hi >= 10 ? x.toFixed(0) : x.toFixed(1);
+    return `about ${fmt(lo)}–${fmt(hi)} m away${f35 ? "" : " (focal length assumed)"}`;
+  }
+
+  // ---- detector
+  function letterbox(src, x0, y0, w, h) {
+    const s = DET_SIZE / Math.max(w, h), c = new OffscreenCanvasOr(DET_SIZE, DET_SIZE), g = c.getContext("2d");
+    g.fillStyle = "rgb(114,114,114)"; g.fillRect(0, 0, DET_SIZE, DET_SIZE);
+    g.drawImage(src, x0, y0, w, h, 0, 0, Math.round(w * s), Math.round(h * s));
+    const px = g.getImageData(0, 0, DET_SIZE, DET_SIZE).data, n = DET_SIZE * DET_SIZE, t = new Float32Array(3 * n);
+    for (let i = 0; i < n; i++) { t[i] = px[i * 4] / 255; t[n + i] = px[i * 4 + 1] / 255; t[2 * n + i] = px[i * 4 + 2] / 255; }
+    return { tensor: new ort.Tensor("float32", t, [1, 3, DET_SIZE, DET_SIZE]), s };
+  }
+  function OffscreenCanvasOr(w, h) { const c = document.createElement("canvas"); c.width = w; c.height = h; return c; }
+
+  async function detectIn(src, x0, y0, w, h) {
+    const { tensor, s } = letterbox(src, x0, y0, w, h);
+    const out = (await det.run({ images: tensor }))[det.outputNames[0]].data, boxes = [];
+    for (let i = 0; i < out.length; i += 6) {
+      if (out[i + 4] >= DET_CONF && Math.round(out[i + 5]) === BIRD)
+        boxes.push({ b: [x0 + out[i] / s, y0 + out[i + 1] / s, x0 + out[i + 2] / s, y0 + out[i + 3] / s], score: out[i + 4] });
+    }
+    return boxes;
+  }
+  function iou(a, b) {
+    const x1 = Math.max(a[0], b[0]), y1 = Math.max(a[1], b[1]), x2 = Math.min(a[2], b[2]), y2 = Math.min(a[3], b[3]);
+    const inter = Math.max(0, x2 - x1) * Math.max(0, y2 - y1);
+    return inter / ((a[2] - a[0]) * (a[3] - a[1]) + (b[2] - b[0]) * (b[3] - b[1]) - inter + 1e-9);
+  }
+  function nms(list) {
+    list.sort((p, q) => q.score - p.score); const keep = [];
+    for (const d of list) if (keep.every((k) => iou(k.b, d.b) < 0.5)) keep.push(d);
+    return keep;
+  }
+  async function detect(img, tile) {
+    const W = img.naturalWidth || img.width, H = img.naturalHeight || img.height;
+    let found = await detectIn(img, 0, 0, W, H);
+    if (tile && Math.max(W, H) > DET_SIZE * 1.3) {
+      const T = Math.min(960, Math.max(W, H)), step = Math.round(T * 0.8);
+      const xs = [], ys = [];
+      for (let x = 0; ; x += step) { xs.push(Math.min(x, W - T)); if (x + T >= W) break; }
+      for (let y = 0; ; y += step) { ys.push(Math.min(y, H - T)); if (y + T >= H) break; }
+      let done = 0;
+      for (const y of ys) for (const x of xs) {
+        status(`Scanning tile ${++done} of ${xs.length * ys.length}…`, done / (xs.length * ys.length));
+        found = found.concat(await detectIn(img, Math.max(0, x), Math.max(0, y), Math.min(T, W), Math.min(T, H)));
+      }
+      found = nms(found);
+    }
+    return found.sort((p, q) => (q.b[2] - q.b[0]) * (q.b[3] - q.b[1]) - (p.b[2] - p.b[0]) * (p.b[3] - p.b[1]));
+  }
+
+  // ---- classifier
+  async function classify(img, box) {
+    const W = img.naturalWidth || img.width, H = img.naturalHeight || img.height;
+    const pw = (box[2] - box[0]) * PAD, ph = (box[3] - box[1]) * PAD;
+    const x1 = Math.max(0, box[0] - pw), y1 = Math.max(0, box[1] - ph), x2 = Math.min(W, box[2] + pw), y2 = Math.min(H, box[3] + ph);
+    const c = OffscreenCanvasOr(CLS_SIZE, CLS_SIZE), g = c.getContext("2d");
+    g.drawImage(img, x1, y1, x2 - x1, y2 - y1, 0, 0, CLS_SIZE, CLS_SIZE);
+    const px = g.getImageData(0, 0, CLS_SIZE, CLS_SIZE).data, t = new Float32Array(CLS_SIZE * CLS_SIZE * 3);
+    for (let i = 0, j = 0; i < px.length; i += 4) { t[j++] = px[i]; t[j++] = px[i + 1]; t[j++] = px[i + 2]; }
+    const p = (await cls.run({ [cls.inputNames[0]]: new ort.Tensor("float32", t, [1, CLS_SIZE, CLS_SIZE, 3]) }))[cls.outputNames[0]].data;
+    return [...p].map((v, i) => [i, v]).sort((a, b) => b[1] - a[1]).slice(0, 3);
+  }
+
+  // ---- drawing and report
+  function draw(img, birds) {
+    const W = img.naturalWidth || img.width, H = img.naturalHeight || img.height;
+    const scale = 1400 / Math.max(W, H);   // fixed working size keeps labels legible
+    canvas.width = Math.round(W * scale); canvas.height = Math.round(H * scale);
+    ctx.drawImage(img, 0, 0, canvas.width, canvas.height);
+    const css = getComputedStyle(document.documentElement);
+    const mark = css.getPropertyValue("--mark").trim(), markInk = css.getPropertyValue("--mark-ink").trim();
+    const lw = Math.max(3, canvas.width / 280), fs = Math.max(22, canvas.width / 30);
+    ctx.font = `600 ${fs}px "IBM Plex Mono", monospace`;
+    for (const b of birds) {
+      const [x1, y1, x2, y2] = b.box.map((v) => v * scale);
+      ctx.strokeStyle = b.sure ? mark : "rgba(240,240,240,.9)"; ctx.lineWidth = lw; ctx.strokeRect(x1, y1, x2 - x1, y2 - y1);
+      const tag = String(b.id), tw = ctx.measureText(tag).width + fs * 0.6;
+      ctx.fillStyle = b.sure ? mark : "rgba(240,240,240,.95)"; ctx.fillRect(x1, Math.max(0, y1 - fs * 1.3), tw, fs * 1.3);
+      ctx.fillStyle = markInk; ctx.fillText(tag, x1 + fs * 0.3, Math.max(fs, y1 - fs * 0.3));
+    }
+  }
+
+  function report(birds, credit) {
+    const groups = new Map();
+    for (const b of birds) { const k = b.sure ? b.label : null; groups.set(k, (groups.get(k) || 0) + 1); }
+    const parts = [...groups.entries()].sort((a, b) => b[1] - a[1]).map(([k, n]) =>
+      k ? `${n} <em>${info[k]?.common_name || pretty(k)}</em>` : `${n} unidentified`);
+    $("count").innerHTML = birds.length ? `${birds.length} bird${birds.length > 1 ? "s" : ""}: ${parts.join(", ")}` : "No birds found";
+    $("countNote").textContent = birds.length ? "Numbers match the boxes on the photo." :
+      "Try a closer photo, or turn on tile scanning for distant birds.";
+    $("credit").textContent = credit || "Your photo stays on this phone.";
+    const ol = $("birds"); ol.innerHTML = "";
+    for (const b of birds) {
+      const li = document.createElement("li"); li.className = "bird" + (b.sure ? "" : " unsure");
+      const name = b.sure ? (info[b.label]?.common_name ? `${info[b.label].common_name}` : pretty(b.label)) : "Unidentified bird";
+      li.innerHTML = `<span class="num">${b.id}</span><span class="name"></span>
+        <span class="meta">${Math.round(b.conf * 100)}% sure · ${b.dist}</span>
+        <span class="alts">Also possible: ${b.top.slice(1).map(([i, p]) => `<i>${pretty(labels[i])}</i> ${Math.round(p * 100)}%`).join(", ")}</span>`;
+      li.querySelector(".name").textContent = name;
+      ol.appendChild(li);
+    }
+  }
+
+  async function analyse(src, credit, buf) {
+    if (busy || !det) return; busy = true;
+    try {
+      const img = new Image(); img.decoding = "async"; img.src = src; await img.decode();
+      draw(img, []);
+      status("Looking for birds…", 0.2);
+      const W = img.naturalWidth, H = img.naturalHeight, f35 = buf ? focal35(buf) : null;
+      const found = await detect(img, $("tile").checked);
+      const birds = [];
+      for (let i = 0; i < found.length; i++) {
+        status(`Identifying bird ${i + 1} of ${found.length}…`, (i + 1) / found.length);
+        const top = await classify(img, found[i].b), label = labels[top[0][0]];
+        birds.push({ id: i + 1, box: found[i].b, label, conf: top[0][1], sure: top[0][1] >= MIN_CONF, top,
+                     dist: distanceText(found[i].b, W, H, f35, label) });
+      }
+      draw(img, birds); report(birds, credit); status("");
+    } catch (e) {
+      status("Could not analyse this photo: " + e.message + ". Try another photo.", 0);
+    } finally { busy = false; }
+  }
+
+  function onFile(e) {
+    const file = e.target.files && e.target.files[0]; if (!file) return;
+    file.arrayBuffer().then((buf) => analyse(URL.createObjectURL(file), "", buf));
+    e.target.value = "";
+  }
+  $("camera").addEventListener("change", onFile);
+  $("library").addEventListener("change", onFile);
+  for (const b of document.querySelectorAll(".sample")) b.addEventListener("click", () => analyse(url(b.dataset.src), b.dataset.credit));
+
+  // Show the sample photo straight away, then analyse it once the models are ready.
+  const first = document.querySelector(".sample");
+  load().then(() => analyse(url(first.dataset.src), first.dataset.credit))
+        .catch((e) => status("The models did not load: " + e.message + ". Reload to try again; if it keeps failing, send a screenshot of this message.", 0));
+})();
+</script>
+
+</body>
+</html>
