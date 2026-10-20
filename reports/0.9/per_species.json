@@ -1,0 +1,315 @@
+{
+    "Acryllium_vulturinum": {
+        "precision": 0.7297297297297297,
+        "recall": 0.9,
+        "f1-score": 0.8059701492537313,
+        "support": 30.0
+    },
+    "Actophilornis_africanus": {
+        "precision": 0.896551724137931,
+        "recall": 0.8666666666666667,
+        "f1-score": 0.8813559322033898,
+        "support": 30.0
+    },
+    "Alopochen_aegyptiaca": {
+        "precision": 0.7307692307692307,
+        "recall": 0.6333333333333333,
+        "f1-score": 0.6785714285714286,
+        "support": 30.0
+    },
+    "Aquila_rapax": {
+        "precision": 0.8,
+        "recall": 0.5333333333333333,
+        "f1-score": 0.64,
+        "support": 30.0
+    },
+    "Ardea_cinerea": {
+        "precision": 0.43902439024390244,
+        "recall": 0.6,
+        "f1-score": 0.5070422535211268,
+        "support": 30.0
+    },
+    "Ardea_melanocephala": {
+        "precision": 0.7307692307692307,
+        "recall": 0.6333333333333333,
+        "f1-score": 0.6785714285714286,
+        "support": 30.0
+    },
+    "Ardeotis_kori": {
+        "precision": 0.8571428571428571,
+        "recall": 0.8,
+        "f1-score": 0.8275862068965517,
+        "support": 30.0
+    },
+    "Balearica_regulorum": {
+        "precision": 0.8214285714285714,
+        "recall": 0.7666666666666667,
+        "f1-score": 0.7931034482758621,
+        "support": 30.0
+    },
+    "Bostrychia_hagedash": {
+        "precision": 0.72,
+        "recall": 0.6,
+        "f1-score": 0.6545454545454545,
+        "support": 30.0
+    },
+    "Bubulcus_ibis": {
+        "precision": 0.4888888888888889,
+        "recall": 0.7333333333333333,
+        "f1-score": 0.5866666666666667,
+        "support": 30.0
+    },
+    "Buphagus_erythrorhynchus": {
+        "precision": 0.875,
+        "recall": 0.9333333333333333,
+        "f1-score": 0.9032258064516129,
+        "support": 30.0
+    },
+    "Buteo_augur": {
+        "precision": 0.43902439024390244,
+        "recall": 0.6,
+        "f1-score": 0.5070422535211268,
+        "support": 30.0
+    },
+    "Centropus_superciliosus": {
+        "precision": 0.7142857142857143,
+        "recall": 0.8333333333333334,
+        "f1-score": 0.7692307692307693,
+        "support": 30.0
+    },
+    "Ceryle_rudis": {
+        "precision": 0.7857142857142857,
+        "recall": 0.7333333333333333,
+        "f1-score": 0.7586206896551724,
+        "support": 30.0
+    },
+    "Cinnyris_venustus": {
+        "precision": 0.8928571428571429,
+        "recall": 0.8333333333333334,
+        "f1-score": 0.8620689655172413,
+        "support": 30.0
+    },
+    "Colius_striatus": {
+        "precision": 0.4666666666666667,
+        "recall": 0.4666666666666667,
+        "f1-score": 0.4666666666666667,
+        "support": 30.0
+    },
+    "Coracias_caudatus": {
+        "precision": 0.84375,
+        "recall": 0.9,
+        "f1-score": 0.8709677419354839,
+        "support": 30.0
+    },
+    "Corythaixoides_leucogaster": {
+        "precision": 0.7727272727272727,
+        "recall": 0.5666666666666667,
+        "f1-score": 0.6538461538461539,
+        "support": 30.0
+    },
+    "Dicrurus_adsimilis": {
+        "precision": 0.7307692307692307,
+        "recall": 0.6333333333333333,
+        "f1-score": 0.6785714285714286,
+        "support": 30.0
+    },
+    "Gyps_africanus": {
+        "precision": 0.696969696969697,
+        "recall": 0.7666666666666667,
+        "f1-score": 0.7301587301587301,
+        "support": 30.0
+    },
+    "Halcyon_leucocephala": {
+        "precision": 0.8333333333333334,
+        "recall": 0.6666666666666666,
+        "f1-score": 0.7407407407407407,
+        "support": 30.0
+    },
+    "Haliaeetus_vocifer": {
+        "precision": 0.72,
+        "recall": 0.6,
+        "f1-score": 0.6545454545454545,
+        "support": 30.0
+    },
+    "Lamprotornis_purpuroptera": {
+        "precision": 0.696969696969697,
+        "recall": 0.7666666666666667,
+        "f1-score": 0.7301587301587301,
+        "support": 30.0
+    },
+    "Lamprotornis_superbus": {
+        "precision": 0.8275862068965517,
+        "recall": 0.8,
+        "f1-score": 0.8135593220338984,
+        "support": 30.0
+    },
+    "Leptoptilos_crumenifer": {
+        "precision": 0.7083333333333334,
+        "recall": 0.5666666666666667,
+        "f1-score": 0.6296296296296297,
+        "support": 30.0
+    },
+    "Melierax_poliopterus": {
+        "precision": 0.7666666666666667,
+        "recall": 0.7666666666666667,
+        "f1-score": 0.7666666666666667,
+        "support": 30.0
+    },
+    "Merops_pusillus": {
+        "precision": 0.9230769230769231,
+        "recall": 0.8,
+        "f1-score": 0.8571428571428571,
+        "support": 30.0
+    },
+    "Motacilla_aguimp": {
+        "precision": 0.7096774193548387,
+        "recall": 0.7333333333333333,
+        "f1-score": 0.7213114754098361,
+        "support": 30.0
+    },
+    "Mycteria_ibis": {
+        "precision": 0.6451612903225806,
+        "recall": 0.6666666666666666,
+        "f1-score": 0.6557377049180327,
+        "support": 30.0
+    },
+    "Numida_meleagris": {
+        "precision": 0.7058823529411765,
+        "recall": 0.8,
+        "f1-score": 0.75,
+        "support": 30.0
+    },
+    "Pelecanus_onocrotalus": {
+        "precision": 0.75,
+        "recall": 0.9,
+        "f1-score": 0.8181818181818182,
+        "support": 30.0
+    },
+    "Phalacrocorax_carbo": {
+        "precision": 0.6842105263157895,
+        "recall": 0.8666666666666667,
+        "f1-score": 0.7647058823529411,
+        "support": 30.0
+    },
+    "Phoeniconaias_minor": {
+        "precision": 0.8125,
+        "recall": 0.8666666666666667,
+        "f1-score": 0.8387096774193549,
+        "support": 30.0
+    },
+    "Platalea_alba": {
+        "precision": 0.7666666666666667,
+        "recall": 0.7666666666666667,
+        "f1-score": 0.7666666666666667,
+        "support": 30.0
+    },
+    "Plocepasser_mahali": {
+        "precision": 0.7391304347826086,
+        "recall": 0.5666666666666667,
+        "f1-score": 0.6415094339622641,
+        "support": 30.0
+    },
+    "Ploceus_baglafecht": {
+        "precision": 0.625,
+        "recall": 0.6666666666666666,
+        "f1-score": 0.6451612903225806,
+        "support": 30.0
+    },
+    "Ploceus_cucullatus": {
+        "precision": 0.6388888888888888,
+        "recall": 0.7666666666666667,
+        "f1-score": 0.696969696969697,
+        "support": 30.0
+    },
+    "Polemaetus_bellicosus": {
+        "precision": 0.5161290322580645,
+        "recall": 0.5333333333333333,
+        "f1-score": 0.5245901639344263,
+        "support": 30.0
+    },
+    "Pternistis_leucoscepus": {
+        "precision": 0.96,
+        "recall": 0.8,
+        "f1-score": 0.8727272727272727,
+        "support": 30.0
+    },
+    "Pycnonotus_barbatus": {
+        "precision": 0.6521739130434783,
+        "recall": 0.5,
+        "f1-score": 0.5660377358490566,
+        "support": 30.0
+    },
+    "Sagittarius_serpentarius": {
+        "precision": 0.6666666666666666,
+        "recall": 0.8,
+        "f1-score": 0.7272727272727273,
+        "support": 30.0
+    },
+    "Scopus_umbretta": {
+        "precision": 0.6451612903225806,
+        "recall": 0.6666666666666666,
+        "f1-score": 0.6557377049180327,
+        "support": 30.0
+    },
+    "Streptopelia_capicola": {
+        "precision": 0.7307692307692307,
+        "recall": 0.6333333333333333,
+        "f1-score": 0.6785714285714286,
+        "support": 30.0
+    },
+    "Struthio_camelus": {
+        "precision": 0.8484848484848485,
+        "recall": 0.9333333333333333,
+        "f1-score": 0.8888888888888888,
+        "support": 30.0
+    },
+    "Threskiornis_aethiopicus": {
+        "precision": 0.6,
+        "recall": 0.6,
+        "f1-score": 0.6,
+        "support": 30.0
+    },
+    "Tockus_erythrorhynchus": {
+        "precision": 0.88,
+        "recall": 0.7333333333333333,
+        "f1-score": 0.8,
+        "support": 30.0
+    },
+    "Uraeginthus_bengalus": {
+        "precision": 0.7931034482758621,
+        "recall": 0.7666666666666667,
+        "f1-score": 0.7796610169491526,
+        "support": 30.0
+    },
+    "Vanellus_armatus": {
+        "precision": 0.95,
+        "recall": 0.6333333333333333,
+        "f1-score": 0.76,
+        "support": 30.0
+    },
+    "Vanellus_coronatus": {
+        "precision": 0.6756756756756757,
+        "recall": 0.8333333333333334,
+        "f1-score": 0.746268656716418,
+        "support": 30.0
+    },
+    "Vanellus_spinosus": {
+        "precision": 0.8214285714285714,
+        "recall": 0.7666666666666667,
+        "f1-score": 0.7931034482758621,
+        "support": 30.0
+    },
+    "accuracy": 0.722,
+    "macro avg": {
+        "precision": 0.7344949087963658,
+        "recall": 0.722,
+        "f1-score": 0.7227613653056892,
+        "support": 1500.0
+    },
+    "weighted avg": {
+        "precision": 0.7344949087963657,
+        "recall": 0.722,
+        "f1-score": 0.7227613653056892,
+        "support": 1500.0
+    }
+}

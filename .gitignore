@@ -15,8 +15,36 @@ ENV/
 
 # Data files
 *.csv
-data/
 *.pkl
+# Images, downloads and evaluation outputs stay on your computer;
+# only the train/val/test lists are committed
+/data/*
+!/data/training_data/
+/data/training_data/*
+!/data/training_data/trainvals/
 
 # Environment variables
 .env
+
+# Reports are committed, including their CSV files
+!/reports/**/*.csv
+
+# Phone app: generated model and runtime files (rebuild with scripts/export_web.py)
+/app/web/models/
+/app/web/ort/
+/app/web/species_info.json
+*.onnx
+
+# Files set aside for deletion
+/_to_delete/
+
+# Trained models and run outputs (labels and configs in model/configs_and_labels are committed)
+*.keras
+*.h5
+*.tflite
+*.pt
+saved_model/
+results/
+logs/
+outputs/
+.DS_Store
