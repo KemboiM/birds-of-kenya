@@ -2,9 +2,9 @@
 
 Expected layout (what scripts/download_gbif_images.py produces):
 
-    data/gbif/images/
-        Haliaeetus_vocifer/123.jpg
-        Tauraco_hartlaubi/456.jpg
+    data/images/sorted_data/
+        Haliaeetus_vocifer/Haliaeetus_vocifer_1.jpg
+        Tauraco_hartlaubi/Tauraco_hartlaubi_1.jpg
         ...
 
 Each sub-folder is one class. The split is stratified, so every species
@@ -12,6 +12,7 @@ appears in train, validation and test in the same proportions.
 """
 
 import os
+from dataclasses import dataclass, field
 
 import tensorflow as tf
 from PIL import Image
@@ -84,13 +85,35 @@ def _make_dataset(paths, labels, img_size, batch_size, shuffle, seed):
     return ds.batch(batch_size).prefetch(AUTOTUNE)
 
 
+@dataclass
+class Splits:
+    """Datasets plus the file lists behind them (test order matches test_ds)."""
+    train_ds: tf.data.Dataset
+    val_ds: tf.data.Dataset
+    test_ds: tf.data.Dataset
+    class_names: list
+    files: dict = field(default_factory=dict)   # {"train"|"val"|"test": (paths, labels)}
+
+
+def save_split_lists(splits, out_dir, name, version, data_dir):
+    """Write train/val/test file lists (like groundnut's trainval files), LF line endings."""
+    os.makedirs(out_dir, exist_ok=True)
+    written = []
+    for split, (paths, labels) in splits.files.items():
+        path = os.path.join(out_dir, f"{split}_{name}_{version}.txt")
+        with open(path, "w", newline="\n") as f:
+            for p, y in zip(paths, labels):
+                f.write(f"{os.path.relpath(p, data_dir)}\t{splits.class_names[y]}\n")
+        written.append(path)
+    return written
+
+
 def prepare_dataset(data_dir, img_size=(224, 224), batch_size=32,
                     val_split=0.15, test_split=0.15, min_images=10, seed=42):
     """Build stratified train/val/test datasets.
 
-    Returns:
-        train_ds, val_ds, test_ds: batched tf.data.Dataset of (image, label)
-        class_names: list of species folder names, index = label
+    Returns a Splits object: batched tf.data.Dataset of (image, label) for each
+    split, class_names (species folder names, index = label) and the file lists.
     """
     paths, labels, class_names = list_images(data_dir, min_images=min_images)
 
@@ -107,4 +130,5 @@ def prepare_dataset(data_dir, img_size=(224, 224), batch_size=32,
     train_ds = _make_dataset(train_p, train_y, img_size, batch_size, True, seed)
     val_ds = _make_dataset(val_p, val_y, img_size, batch_size, False, seed)
     test_ds = _make_dataset(test_p, test_y, img_size, batch_size, False, seed)
-    return train_ds, val_ds, test_ds, class_names
+    return Splits(train_ds, val_ds, test_ds, class_names,
+                  {"train": (train_p, train_y), "val": (val_p, val_y), "test": (test_p, test_y)})

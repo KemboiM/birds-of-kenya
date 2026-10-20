@@ -5,10 +5,6 @@ import numpy as np
 from tensorflow import keras
 from tensorflow.keras import layers
 from tensorflow.keras.applications import MobileNetV2
-from sklearn.metrics import (accuracy_score, classification_report,
-                             f1_score, precision_score, recall_score)
-
-MODEL_PATH = 'models/best_model.keras'
 
 
 def build_model(num_classes, input_shape=(224, 224, 3), weights='imagenet', dropout=0.3):
@@ -48,10 +44,10 @@ def _compile(model, learning_rate):
     )
 
 
-def _callbacks(patience):
-    os.makedirs(os.path.dirname(MODEL_PATH), exist_ok=True)
+def _callbacks(patience, model_path):
+    os.makedirs(os.path.dirname(model_path), exist_ok=True)
     return [
-        keras.callbacks.ModelCheckpoint(MODEL_PATH, monitor='val_accuracy',
+        keras.callbacks.ModelCheckpoint(model_path, monitor='val_accuracy',
                                         save_best_only=True, verbose=1),
         keras.callbacks.EarlyStopping(monitor='val_accuracy', patience=patience,
                                       restore_best_weights=True, verbose=1),
@@ -61,7 +57,8 @@ def _callbacks(patience):
 
 
 def train_model(train_ds, val_ds, num_classes, epochs=10, fine_tune_epochs=10,
-                fine_tune_layers=40, weights='imagenet', patience=4, img_size=224):
+                fine_tune_layers=40, weights='imagenet', patience=4, img_size=224,
+                model_path='model/model_assets/trained_checkpoints/birds_classify.keras'):
     """Two-phase training.
 
     1. Train only the new head with the MobileNetV2 base frozen.
@@ -74,7 +71,7 @@ def train_model(train_ds, val_ds, num_classes, epochs=10, fine_tune_epochs=10,
     print("\n=== Phase 1: training classifier head ===")
     _compile(model, 1e-3)
     history = model.fit(train_ds, validation_data=val_ds, epochs=epochs,
-                        callbacks=_callbacks(patience), verbose=1)
+                        callbacks=_callbacks(patience, model_path), verbose=1)
 
     if fine_tune_epochs > 0:
         print(f"\n=== Phase 2: fine-tuning top {fine_tune_layers} MobileNetV2 layers ===")
@@ -85,51 +82,17 @@ def train_model(train_ds, val_ds, num_classes, epochs=10, fine_tune_epochs=10,
         start = len(history.history['loss'])
         fine = model.fit(train_ds, validation_data=val_ds,
                          epochs=start + fine_tune_epochs, initial_epoch=start,
-                         callbacks=_callbacks(patience), verbose=1)
+                         callbacks=_callbacks(patience, model_path), verbose=1)
         for key, values in fine.history.items():
             history.history.setdefault(key, []).extend(values)
 
     return model, history
 
 
-def evaluate_model(model, test_ds, class_names):
-    """Accuracy, top-5 accuracy, macro precision/recall/F1 and a per-species report."""
+def predict_dataset(model, ds):
+    """Run the model over a batched dataset; returns (y_true, probabilities)."""
     y_true, probs = [], []
-    for images, labels in test_ds:
+    for images, labels in ds:
         probs.append(model.predict(images, verbose=0))
         y_true.append(labels.numpy())
-    probs = np.concatenate(probs)
-    y_true = np.concatenate(y_true)
-    y_pred = probs.argmax(axis=1)
-
-    k = min(5, len(class_names))
-    top_k = np.argsort(probs, axis=1)[:, -k:]
-    top5 = float(np.mean([t in row for t, row in zip(y_true, top_k)]))
-
-    labels = list(range(len(class_names)))
-    metrics = {
-        'num_classes': len(class_names),
-        'test_images': int(len(y_true)),
-        'accuracy': float(accuracy_score(y_true, y_pred)),
-        f'top{k}_accuracy': top5,
-        'precision_macro': float(precision_score(y_true, y_pred, labels=labels,
-                                                 average='macro', zero_division=0)),
-        'recall_macro': float(recall_score(y_true, y_pred, labels=labels,
-                                           average='macro', zero_division=0)),
-        'f1_macro': float(f1_score(y_true, y_pred, labels=labels,
-                                   average='macro', zero_division=0)),
-    }
-    report = classification_report(y_true, y_pred, labels=labels,
-                                   target_names=class_names,
-                                   output_dict=True, zero_division=0)
-
-    print("\n=== Test Results ===")
-    for key, value in metrics.items():
-        print(f"{key:<16} {value:.4f}" if isinstance(value, float) else f"{key:<16} {value}")
-
-    worst = sorted(class_names, key=lambda c: report[c]['f1-score'])[:5]
-    print("\nHardest species (lowest F1):")
-    for name in worst:
-        print(f"  {name:<35} F1 {report[name]['f1-score']:.2f}  (n={int(report[name]['support'])})")
-
-    return metrics, report
+    return np.concatenate(y_true), np.concatenate(probs)
