@@ -26,18 +26,18 @@ improves on 1.0 (45.2% on the same test photos). Results for each version are in
 ```
 birds-of-kenya/
 ├── app/web/                    phone web app (Android and iOS)
-├── data/                       on your computer only, except the train/val/test lists
+├── data/                       on your computer only (not in git)
 │   ├── images/sorted_data/<Species>/<Species>_1.jpg ...   training photos
 │   ├── images/images_from_field/                          your own photos
 │   ├── gbif_metadata.csv       license and photographer for every training photo
 │   ├── annotations/<Species>/<photo>.xml   bird boxes (Pascal VOC, opens in LabelImg)
-│   ├── training_data/trainvals/{train,val,test}_birds_<version>.txt
 │   └── validation_data/<version>/<version>_results/       full evaluation incl. misclassified/
 ├── docs/mobile.md              running the models in Android and iOS apps
 ├── model/
 │   ├── configs_and_labels/     label lists and training settings per version
 │   └── model_assets/           trained_checkpoints/<version>/, tflite_models/
 ├── protocols/                  naming and sourcing, annotation, field testing
+├── splits/                     train/validation/test photo lists for each version
 ├── reports/<version>/          results committed to git (metrics, confusion matrix, ...)
 ├── scripts/                    download data, annotate birds, build species info, export models
 ├── species_info/               species knowledge base, one JSON per species

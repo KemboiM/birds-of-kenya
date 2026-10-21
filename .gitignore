@@ -16,12 +16,8 @@ ENV/
 # Data files
 *.csv
 *.pkl
-# Images, downloads and evaluation outputs stay on your computer;
-# only the train/val/test lists are committed
+# Images, annotations, downloads and evaluation outputs stay on your computer
 /data/*
-!/data/training_data/
-/data/training_data/*
-!/data/training_data/trainvals/
 
 # Environment variables
 .env

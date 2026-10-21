@@ -5,7 +5,7 @@ Outputs (for --version 1.0):
     model/model_assets/trained_checkpoints/1.0/birds_classify_1.0.keras
     model/configs_and_labels/birds_label_list_1.0.txt    (+ birds_label_list.txt = latest)
     model/configs_and_labels/train_config_1.0.json
-    data/training_data/trainvals/{train,val,test}_birds_1.0.txt
+    splits/{train,val,test}_birds_1.0.txt
     data/validation_data/1.0/1.0_results/                (N x N confusion matrix, misclassified/, ...)
     reports/1.0/                                         small copies of the results, committed to git
 """
@@ -97,7 +97,7 @@ def main():
                                  batch_size=args.batch_size, min_images=args.min_images)
     names = splits.class_names
     save_label_list(names, config_dir, PROJECT, v)
-    for path in save_split_lists(splits, os.path.join(args.data_root, 'training_data', 'trainvals'),
+    for path in save_split_lists(splits, 'splits',
                                  PROJECT, v, args.data_root):
         print(f"  Split list saved to {path}")
     os.makedirs(config_dir, exist_ok=True)

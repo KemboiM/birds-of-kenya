@@ -182,7 +182,7 @@ def prepare_crop_dataset(data_root, split_from, img_size=(224, 224), batch_size=
                          max_boxes=5, pad=0.10, seed=42, exclude=()):
     """Train on the annotated birds instead of whole photos.
 
-    Uses the photo split of an earlier version (data/training_data/trainvals/
+    Uses the photo split of an earlier version (splits/
     {train,val,test}_birds_<split_from>.txt) so results are directly comparable,
     and the boxes in data/annotations/<Species>/<photo>.xml.
 
@@ -199,7 +199,7 @@ def prepare_crop_dataset(data_root, split_from, img_size=(224, 224), batch_size=
 
     files, boxes_out, stats = {}, {}, {"boxes": 0, "whole_photo": 0, "excluded": 0}
     for split in ("train", "val", "test"):
-        lst = os.path.join(data_root, "training_data", "trainvals", f"{split}_birds_{split_from}.txt")
+        lst = os.path.join("splits", f"{split}_birds_{split_from}.txt")
         paths, labels, boxes = [], [], []
         with open(lst) as f:
             for line in f:
