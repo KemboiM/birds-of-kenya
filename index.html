@@ -102,10 +102,10 @@ a { color: var(--accent); }
     <h1>Birds of <span>Kenya</span></h1>
     <p class="lede">Photograph birds and get a count by species. Everything runs on your phone; photos are never uploaded.</p>
     <div class="chips">
-      <span class="chip">Classifier v0.9</span>
-      <span class="chip">50 species</span>
-      <span class="chip">Test accuracy 72.2%</span>
-      <span class="chip">Top-5 90.1%</span>
+      <span class="chip">Classifier v1.1</span>
+      <span class="chip">467 species</span>
+      <span class="chip">Test accuracy 63.2%</span>
+      <span class="chip">Top-5 83.0%</span>
     </div>
   </header>
 
@@ -131,7 +131,7 @@ a { color: var(--accent); }
   <div class="stage">
     <canvas id="view" width="640" height="380" aria-label="Photo with numbered boxes around each bird"></canvas>
     <div class="status" id="status">
-      <span id="statusText">Loading the two models (about 20 MB, first time only)…</span>
+      <span id="statusText">Loading the two models (about 22 MB, first time only)…</span>
       <div class="bar"><i id="progress"></i></div>
     </div>
   </div>
@@ -147,7 +147,7 @@ a { color: var(--accent); }
     <summary>How it works and its limits</summary>
     <p>A YOLO11n detector finds every bird, then a MobileNetV2 classifier names each one. Birds below 50% confidence are listed as unidentified with the model's best guesses.</p>
     <ul>
-      <li>This test build knows 50 species. Birds outside that list get the closest wrong answer.</li>
+      <li>This test build knows 467 species. Birds outside that list get the closest wrong answer.</li>
       <li>Dense flocks are undercounted; tile scanning helps with large photos.</li>
       <li>Distance, common names and species notes appear once the species knowledge base is built.</li>
     </ul>
@@ -199,6 +199,7 @@ a { color: var(--accent); }
     if (pct != null) $("progress").style.width = Math.round(pct * 100) + "%";
   };
   const pretty = (label) => label.replace(/_/g, " ");
+  const common = (label) => info[label]?.common_name || pretty(label);
 
   async function fetchWithProgress(url, onBytes) {
     const res = await fetch(url);
@@ -215,8 +216,8 @@ a { color: var(--accent); }
     ort.env.wasm.numThreads = 1;
     const labelText = await findBase();
     ort.env.wasm.wasmPaths = url("ort/");
-    const TOTAL = 10.77e6 + 9.17e6; let got = 0;
-    const tick = (n) => { got += n; status("Loading the two models (about 20 MB, first time only)…", Math.min(got / TOTAL, 0.98)); };
+    const TOTAL = 10.77e6 + 11.30e6; let got = 0;
+    const tick = (n) => { got += n; status("Loading the two models (about 22 MB, first time only)…", Math.min(got / TOTAL, 0.98)); };
     const [d, c] = await Promise.all([
       fetchWithProgress(url("models/detector.onnx"), tick),
       fetchWithProgress(url("models/classifier.onnx"), tick),
@@ -345,7 +346,7 @@ a { color: var(--accent); }
     const groups = new Map();
     for (const b of birds) { const k = b.sure ? b.label : null; groups.set(k, (groups.get(k) || 0) + 1); }
     const parts = [...groups.entries()].sort((a, b) => b[1] - a[1]).map(([k, n]) =>
-      k ? `${n} <em>${info[k]?.common_name || pretty(k)}</em>` : `${n} unidentified`);
+      k ? `${n} <em>${n > 1 && !/s$/.test(common(k)) ? common(k) + "s" : common(k)}</em>` : `${n} unidentified`);
     $("count").innerHTML = birds.length ? `${birds.length} bird${birds.length > 1 ? "s" : ""}: ${parts.join(", ")}` : "No birds found";
     $("countNote").textContent = birds.length ? "Numbers match the boxes on the photo." :
       "Try a closer photo, or turn on tile scanning for distant birds.";
@@ -353,10 +354,12 @@ a { color: var(--accent); }
     const ol = $("birds"); ol.innerHTML = "";
     for (const b of birds) {
       const li = document.createElement("li"); li.className = "bird" + (b.sure ? "" : " unsure");
-      const name = b.sure ? (info[b.label]?.common_name ? `${info[b.label].common_name}` : pretty(b.label)) : "Unidentified bird";
-      li.innerHTML = `<span class="num">${b.id}</span><span class="name"></span>
+      const sw = info[b.label]?.other_names?.sw;
+      const name = b.sure ? common(b.label) : "Unidentified bird";
+      const sub = b.sure && info[b.label]?.common_name ? `<span class="meta"><i>${pretty(b.label)}</i>${sw ? ` · Kiswahili: ${sw}` : ""}</span>` : "";
+      li.innerHTML = `<span class="num">${b.id}</span><span class="name"></span>${sub}
         <span class="meta">${Math.round(b.conf * 100)}% sure · ${b.dist}</span>
-        <span class="alts">Also possible: ${b.top.slice(1).map(([i, p]) => `<i>${pretty(labels[i])}</i> ${Math.round(p * 100)}%`).join(", ")}</span>`;
+        <span class="alts">Also possible: ${b.top.slice(1).map(([i, p]) => `${common(labels[i])} ${Math.round(p * 100)}%`).join(", ")}</span>`;
       li.querySelector(".name").textContent = name;
       ol.appendChild(li);
     }
