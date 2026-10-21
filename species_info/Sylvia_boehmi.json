@@ -1,0 +1,80 @@
+{
+  "label": "Sylvia_boehmi",
+  "scientific_name": "Sylvia boehmi",
+  "common_name": "Banded Parisoma",
+  "other_names": {},
+  "family": "Sylviidae",
+  "summary": "The banded parisoma (Curruca boehmi), banded tit warbler or banded warbler, is a species of Old World warbler in the family Sylviidae. It is found in Ethiopia, Kenya, Somalia, and Tanzania. Its natural habitat is dry savanna.",
+  "appearance": {
+    "description": null,
+    "colors": "Measuring 4.75 in (12.1 cm) in length, this bird is identified as gray on top, white below, with a dark chest band. The bird has variable spotting on the throat, white patches on his wing and outer tail, and buff coloring on the belly and undertail.",
+    "wings": "The bird has variable spotting on the throat, white patches on his wing and outer tail, and buff coloring on the belly and undertail."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        12.1,
+        12.1
+      ]
+    },
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Rift Valley",
+      "Eastern",
+      "Nairobi",
+      "Coast",
+      "Kajiado",
+      "Central"
+    ],
+    "gbif_records_in_kenya": 2649
+  },
+  "look_alikes": [
+    {
+      "label": "Camaroptera_brachyura",
+      "common_name": "Green-backed Camaroptera",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Prinia_subflava",
+      "common_name": "Tawny-flanked Prinia",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pseudonigrita_arnaudi",
+      "common_name": "Grey-capped Social Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tricholaema_diademata",
+      "common_name": "Red-fronted Barbet",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Banded parisoma",
+      "url": "https://en.wikipedia.org/wiki/Banded_parisoma",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/5231305"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

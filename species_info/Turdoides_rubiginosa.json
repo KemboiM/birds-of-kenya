@@ -1,0 +1,117 @@
+{
+  "label": "Turdoides_rubiginosa",
+  "scientific_name": "Turdoides rubiginosa",
+  "common_name": "Rufous Chatterer",
+  "other_names": {},
+  "family": "Leiothrichidae",
+  "summary": "The rufous chatterer (Argya rubiginosa) is a species of bird in the family Leiothrichidae. It is found in Ethiopia, Kenya, Somalia, Sudan, Tanzania, and Uganda. Its natural habitats are dry savanna and subtropical or tropical dry shrubland.",
+  "appearance": {
+    "description": null,
+    "colors": "The rufous chatterer (Argya rubiginosa) is a species of bird in the family Leiothrichidae.",
+    "wings": "This species was formerly placed in the genus Turdoides but following the publication of a comprehensive molecular phylogenetic study in 2018, it was moved to the resurrected genus Argya."
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Eastern",
+      "Coast",
+      "Central",
+      "Baringo"
+    ],
+    "gbif_records_in_kenya": 7773
+  },
+  "look_alikes": [
+    {
+      "label": "Telophorus_cruentus",
+      "common_name": "Rosy-patched Bushshrike",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Passer_gongonensis",
+      "common_name": "Parrot-billed Sparrow",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Upupa_epops",
+      "common_name": "Eurasian Hoopoe",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Otus_ireneae",
+      "common_name": "Sokoke Scops Owl",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cossypha_heuglini",
+      "common_name": "White-browed Robin-chat",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Crithagra_sulphurata",
+      "common_name": "Brimstone Canary",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Dioptrornis_fischeri",
+      "common_name": "White-eyed Slaty Flycatcher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Malaconotus_blanchoti",
+      "common_name": "Grey-headed Bushshrike",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Serinus_flavivertex",
+      "common_name": "Yellow-crowned Canary",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pseudonigrita_arnaudi",
+      "common_name": "Grey-capped Social Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cinnyris_venustus",
+      "common_name": "Variable Sunbird",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Rufous chatterer",
+      "url": "https://en.wikipedia.org/wiki/Rufous_chatterer",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/7340552"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "label": "Buteo_buteo",
+  "scientific_name": "Buteo buteo",
+  "common_name": "Common Buzzard",
+  "other_names": {
+    "sw": "Shakivale-nyika"
+  },
+  "family": "Accipitridae",
+  "summary": "The common buzzard (Buteo buteo) is a medium-sized bird of prey with a large range. It is a member of the genus Buteo in the family Accipitridae. The species lives in most of Europe and extends its breeding range across much of the Palearctic as far as northwestern China (Tian Shan), far western Siberia and northwestern Mongolia.",
+  "appearance": {
+    "description": "The common buzzard is a medium-sized raptor that is highly variable in plumage. Most buzzards are distinctly round headed with a somewhat slender bill, relatively long wings that either reach or fall slightly short of the tail tip when perched, a fairly short tail, and somewhat short and mainly bare tarsi. They can appear fairly compact in overall appearance but may also appear large relative to other more common raptorial birds such as kestrels and sparrowhawks.",
+    "colors": "The common buzzard is an opportunistic predator that can take a wide variety of prey, but it feeds mostly on small mammals, especially rodents such as voles. The common buzzard is a medium-sized raptor that is highly variable in plumage.",
+    "wings": "Most buzzards are distinctly round headed with a somewhat slender bill, relatively long wings that either reach or fall slightly short of the tail tip when perched, a fairly short tail, and somewhat short and mainly bare tarsi. Furthermore, juveniles may show variable creamy to rufous fringes to upperwing coverts but these also may not be present."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        58.0,
+        140.0
+      ]
+    },
+    "juvenile": {
+      "notes": "Juvenile buzzards are quite similar to adult in the nominate subspecies, being best told apart by having a paler eye, a narrower subterminal band on the tail and underside markings that appear as streaks rather than bars. Furthermore, juveniles may show variable creamy to rufous fringes to upperwing coverts but these also may not be present."
+    },
+    "chick": {
+      "notes": "Here, the mean number of fledglings were 1.75 against 0.82–1.41 in other parts of Britain. It was found in the English Midlands that breeding success both by measure of clutch size and mean number of fledglings, was relatively high due to high prey populations."
+    }
+  },
+  "behaviour": "The common buzzard is a typical Buteo in much of its behaviour. It is most often seen either soaring at varying heights or perched prominently on tree tops, bare branches, telegraph poles, fence posts, rocks or ledges, or alternately well inside tree canopies. Buzzards will also stand and forage on the ground.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The common buzzard is found throughout several islands in the eastern Atlantic islands, including the Canary Islands and Azores and almost throughout Europe. It is today found in Ireland and in nearly every part of Scotland, Wales and England.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Nairobi",
+      "Central",
+      "Coast",
+      "Western",
+      "Eastern"
+    ],
+    "gbif_records_in_kenya": 3858
+  },
+  "look_alikes": [
+    {
+      "label": "Aquila_rapax",
+      "common_name": "Tawny Eagle",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Amblyospiza_albifrons",
+      "common_name": "Thick-billed Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Anas_capensis",
+      "common_name": "Cape Teal",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Aquila_spilogaster",
+      "common_name": "African Hawk-eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cecropis_abyssinica",
+      "common_name": "Lesser Striped Swallow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Milvus_migrans",
+      "common_name": "Black Kite",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Circus_macrourus",
+      "common_name": "Pallid Harrier",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Polemaetus_bellicosus",
+      "common_name": "Martial Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Terathopius_ecaudatus",
+      "common_name": "Bateleur",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Haliaeetus_vocifer",
+      "common_name": "African Fish Eagle",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Common buzzard",
+      "url": "https://en.wikipedia.org/wiki/Common_buzzard",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2480537"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

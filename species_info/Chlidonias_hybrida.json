@@ -1,0 +1,101 @@
+{
+  "label": "Chlidonias_hybrida",
+  "scientific_name": "Chlidonias hybrida",
+  "common_name": "Whiskered Tern",
+  "other_names": {},
+  "family": "Laridae",
+  "summary": "The whiskered tern (Chlidonias hybrida) is a tern in the family Laridae. The genus name is from Ancient Greek khelidonios, \"swallow-like\", from khelidon, \"swallow\". The specific hybridus is Latin for hybrid; Peter Simon Pallas thought it might be a hybrid of white-winged black tern and common tern, writing \"Sterna fissipes [Chlidonias leucopterus] et Hirundine [Sterna hirundo] natam\".",
+  "appearance": {
+    "description": "The size, black cap, strong bill (29–34 mm in males, 25–27 mm and stubbier in females, with a pronounced gonys) and more positive flight recall common or Arctic tern, but the short, forked-looking tail and dark grey breeding plumage above and below are typically marsh tern characteristics. The summer adult has white cheeks and red legs and bill. The crown is flecked with white in the juvenile, and the hindcrown is more uniformly blackish, though in the winter adult this too is flecked with white.",
+    "colors": "The whiskered tern (Chlidonias hybrida) is a tern in the family Laridae. The specific hybridus is Latin for hybrid; Peter Simon Pallas thought it might be a hybrid of white-winged black tern and common tern, writing \"Sterna fissipes [Chlidonias leucopterus] et Hirundine [Sterna hirundo] natam\".",
+    "wings": "The specific hybridus is Latin for hybrid; Peter Simon Pallas thought it might be a hybrid of white-winged black tern and common tern, writing \"Sterna fissipes [Chlidonias leucopterus] et Hirundine [Sterna hirundo] natam\"."
+  },
+  "size": {
+    "adult": null,
+    "juvenile": {
+      "notes": "The crown is flecked with white in the juvenile, and the hindcrown is more uniformly blackish, though in the winter adult this too is flecked with white. In the juvenile, the mantle has a variegated pattern."
+    },
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Nyanza",
+      "Central",
+      "Coast",
+      "Nairobi"
+    ],
+    "gbif_records_in_kenya": 4211
+  },
+  "look_alikes": [
+    {
+      "label": "Chlidonias_leucopterus",
+      "common_name": "White-winged Tern",
+      "difference": null,
+      "times_confused": 4
+    },
+    {
+      "label": "Elanus_caeruleus",
+      "common_name": "Black-winged Kite",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Dromas_ardeola",
+      "common_name": "Crab-plover",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Charadrius_hiaticula",
+      "common_name": "Common Ringed Plover",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Chroicocephalus_cirrocephalus",
+      "common_name": "Grey-headed Gull",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Oena_capensis",
+      "common_name": "Namaqua Dove",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Egretta_intermedia",
+      "common_name": "Medium Egret",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tringa_nebularia",
+      "common_name": "Common Greenshank",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Whiskered tern",
+      "url": "https://en.wikipedia.org/wiki/Whiskered_tern",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2481121"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

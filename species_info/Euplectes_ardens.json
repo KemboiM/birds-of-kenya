@@ -1,0 +1,68 @@
+{
+  "label": "Euplectes_ardens",
+  "scientific_name": "Euplectes ardens",
+  "common_name": "Red-collared Widowbird",
+  "other_names": {},
+  "family": "Ploceidae",
+  "summary": "The red-collared widowbird (Euplectes ardens) is a species of bird in the family Ploceidae. Red-collared widowbirds are found in grasslands and bush clearings in western and southern Africa. They are known for their long tails and brilliant red badges, both of which act as sexual ornaments.",
+  "appearance": {
+    "description": "Similar to other widowbirds, male red-collared widowbirds have both seasonal and sexual dimorphism. Males are about 25 cm (9.8 in) in length while females are only 13 centimeters. A similar trend is seen with weight, where males range from 20 to 26 g (0.71 to 0.92 oz) and females are only between 16 and 22 grams.",
+    "colors": "The red-collared widowbird (Euplectes ardens) is a species of bird in the family Ploceidae. Red-collared widowbirds are found in grasslands and bush clearings in western and southern Africa.",
+    "wings": null
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        25.0,
+        25.0
+      ],
+      "mass_g": [
+        20.0,
+        26.0
+      ]
+    },
+    "juvenile": null,
+    "chick": {
+      "notes": "Females also do all of the feeding, primarily via regurgitation, during the nestling period for the offspring, which is between 14 and 17 days."
+    }
+  },
+  "behaviour": "=== Diet === Red-collared widowbirds feed on seeds of sorghum and other grass seeds. They also feed on nectar, small berries, and insects, specifically ants, caterpillars, and termites. They often form large roosts, with between 50 and 100 individuals, which feed together on the ground.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "Red-collared widowbirds are found throughout Eastern and Southern Africa. While their habitats are varied, they are often found in open grasslands, agricultural areas, clearings in forests, and on slopes with limited tree coverage.",
+    "kenya_regions": [
+      "Nairobi",
+      "Kenya",
+      "Rift Valley",
+      "Central",
+      "Eastern",
+      "Central Province"
+    ],
+    "gbif_records_in_kenya": 5004
+  },
+  "look_alikes": [
+    {
+      "label": "Vidua_macroura",
+      "common_name": "Pin-tailed Whydah",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Red-collared widowbird",
+      "url": "https://en.wikipedia.org/wiki/Red-collared_widowbird",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2494098"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

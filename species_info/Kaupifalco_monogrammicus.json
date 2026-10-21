@@ -1,0 +1,92 @@
+{
+  "label": "Kaupifalco_monogrammicus",
+  "scientific_name": "Kaupifalco monogrammicus",
+  "common_name": "Lizard Buzzard",
+  "other_names": {},
+  "family": "Accipitridae",
+  "summary": "The lizard buzzard (Kaupifalco monogrammicus), or lizard hawk, is a bird of prey in the family Accipitridae. It is the only species placed in the genus Kaupifalco. It is native to Sub-Saharan Africa.",
+  "appearance": {
+    "description": "The lizard buzzard is a smallish stocky raptor with a total body length of 35–37 cm and a wingspan of about 79 cm. Males weigh 246 g, females 304 g on average. The upperparts, head and breast are grey.",
+    "colors": "The upperparts, head and breast are grey. There is a vertical black line on the white throat, which distinguishes this species from all other raptors.",
+    "wings": "The underwings are white with dark tips. The juvenile lizard buzzard resembles the adult; the only variations are slight brown tinge to the wings with an orange yellow cere and legs."
+  },
+  "size": {
+    "adult": {
+      "wingspan_cm": [
+        79.0,
+        79.0
+      ],
+      "length_cm": [
+        35.0,
+        37.0
+      ],
+      "mass_g": [
+        246.0,
+        304.0
+      ]
+    },
+    "juvenile": {
+      "notes": "The juvenile lizard buzzard resembles the adult; the only variations are slight brown tinge to the wings with an orange yellow cere and legs."
+    },
+    "chick": {
+      "notes": "The clutch size is 1–3 white eggs which are incubated by the female and take 32–34 days before hatching. During this time the male feeds the female and both feed the chicks for the next 40 days."
+    }
+  },
+  "behaviour": "Lizard buzzards are solitary and silent raptors, except for early in breeding season (September and October) when they produce a clear, distinct and melodious whistle klu-klu-klu. They remain locally resident and are dominant over intruders. There is very limited soaring flight, which only occurs during courtship displays or on rare non-breeding occasions in the late morning.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The lizard buzzard occurs in Sub-Saharan Africa from Eritrea to north eastern South Africa. It remains common in West Africa, Zimbabwe, Mozambique and north eastern areas of Namibia, Botswana and South Africa.",
+    "kenya_regions": [
+      "Kenya",
+      "Coast",
+      "Rift Valley",
+      "Eastern",
+      "Nyanza",
+      "Western"
+    ],
+    "gbif_records_in_kenya": 3960
+  },
+  "look_alikes": [
+    {
+      "label": "Melierax_metabates",
+      "common_name": "Dark Chanting Goshawk",
+      "difference": null,
+      "times_confused": 3
+    },
+    {
+      "label": "Megaceryle_maxima",
+      "common_name": "Giant Kingfisher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Stephanoaetus_coronatus",
+      "common_name": "Crowned Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Streptopelia_lugens",
+      "common_name": "Dusky Turtle Dove",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Lizard buzzard",
+      "url": "https://en.wikipedia.org/wiki/Lizard_buzzard",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2480440"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

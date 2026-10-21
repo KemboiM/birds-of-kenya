@@ -1,0 +1,142 @@
+{
+  "label": "Oenanthe_lugubris",
+  "scientific_name": "Oenanthe lugubris",
+  "common_name": "Abyssinian Wheatear",
+  "other_names": {},
+  "family": "Muscicapidae",
+  "summary": "The Abyssinian wheatear (Oenanthe lugubris), or Abyssinian black wheatear, is a species of bird in the family Muscicapidae, the Old World flycatchers and chats. It is found from Ethiopia to southern Kenya and north-eastern Tanzania.",
+  "appearance": {
+    "description": "The Abyssinian wheatear is a dark wheatear which shows sexual dichromatism, with the males being darker than the females. The males have black upperparts, throat and breast and a grey cap with darker streaks. The colour of the belly varies, both within individuals and geographic populations, from white to black.",
+    "colors": "The Abyssinian wheatear (Oenanthe lugubris), or Abyssinian black wheatear, is a species of bird in the family Muscicapidae, the Old World flycatchers and chats. The males have black upperparts, throat and breast and a grey cap with darker streaks.",
+    "wings": null
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        14.0,
+        14.0
+      ]
+    },
+    "juvenile": null,
+    "chick": {
+      "notes": "The juveniles from the first brood have been recorded bringing food to the nestlings of the 2nd brood in Schalow's wheatear."
+    }
+  },
+  "behaviour": "Abyssinian wheatears are normally solitary outside their breeding season, and in the breeding season, they are typically encountered in pairs. They are generally unafraid of humans and perch in plain sight on rocks, boulders, and shrubs. They may be inactive and shelter during midday.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The Abyssinian wheatear is found in northeastern Africa, from Eritrea and northwestern Somalia south to northeastern Tanzania. The subspecies schalowi occurs in southern Kenya and northern Tanzania, while vauriei in eastern Somalia, and they both have disjunct ranges from the nominate subspecies of Eritrea, Ethiopia, and northwestern Somalia.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Nakuru",
+      "Central",
+      "Nairobi",
+      "Narok"
+    ],
+    "gbif_records_in_kenya": 2204
+  },
+  "look_alikes": [
+    {
+      "label": "Crithagra_reichenowi",
+      "common_name": "Reichenow's Seedeater",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Acryllium_vulturinum",
+      "common_name": "Vulturine Guinea Fowl",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Calendulauda_poecilosterna",
+      "common_name": "Pink-breasted Lark",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cinnyricinclus_leucogaster",
+      "common_name": "Violet-backed Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Corvus_splendens",
+      "common_name": "House Crow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Dendrocygna_viduata",
+      "common_name": "White-faced Whistling Duck",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Myrmecocichla_aethiops",
+      "common_name": "Anteater Chat",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Oenanthe_pleschanka",
+      "common_name": "Pied Wheatear",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Parus_albiventris",
+      "common_name": "White-bellied Tit",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Struthio_molybdophanes",
+      "common_name": "Somali Ostrich",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Vidua_chalybeata",
+      "common_name": "Village Indigobird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Anthus_cinnamomeus",
+      "common_name": "African Pipit",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Phalacrocorax_carbo",
+      "common_name": "Great Cormorant",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Turdus_abyssinicus",
+      "common_name": "Abyssinian Thrush",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Abyssinian wheatear",
+      "url": "https://en.wikipedia.org/wiki/Abyssinian_wheatear",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/5231237"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

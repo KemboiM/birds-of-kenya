@@ -1,0 +1,164 @@
+{
+  "label": "Cinnyris_venustus",
+  "scientific_name": "Cinnyris venustus",
+  "common_name": "Variable Sunbird",
+  "other_names": {},
+  "family": "Nectariniidae",
+  "summary": "The variable sunbird or yellow-bellied sunbird (Cinnyris venustus), formerly Nectarinia venusta, is a sunbird. The sunbirds are a group of small Old World passerine birds which feed largely on nectar, although they will also take insects, especially when feeding young. Flight is fast and direct on their short wings.",
+  "appearance": {
+    "description": null,
+    "colors": "The variable sunbird or yellow-bellied sunbird (Cinnyris venustus), formerly Nectarinia venusta, is a sunbird. The adult male has a glossy green head, throat and nape, and a maroon breast band.",
+    "wings": "Flight is fast and direct on their short wings."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        10.0,
+        10.0
+      ]
+    },
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Nairobi",
+      "Kenya",
+      "Rift Valley",
+      "Central",
+      "Eastern",
+      "Coast"
+    ],
+    "gbif_records_in_kenya": 29114
+  },
+  "look_alikes": [
+    {
+      "label": "Cinnyris_mariquensis",
+      "common_name": "Marico Sunbird",
+      "difference": null,
+      "times_confused": 3
+    },
+    {
+      "label": "Hedydipna_collaris",
+      "common_name": "Collared Sunbird",
+      "difference": null,
+      "times_confused": 3
+    },
+    {
+      "label": "Nectarinia_kilimensis",
+      "common_name": "Bronze Sunbird",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Drepanorhynchus_reichenowi",
+      "common_name": "Golden-winged Sunbird",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Laniarius_erythrogaster",
+      "common_name": "Black-headed Gonolek",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pogonocichla_stellata",
+      "common_name": "White-starred Robin",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cinnyris_reichenowi",
+      "common_name": "Northern Double-collared Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tauraco_hartlaubi",
+      "common_name": "Hartlaub's Turaco",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Quelea_quelea",
+      "common_name": "Red-billed Quelea",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Chalcomitra_senegalensis",
+      "common_name": "Scarlet-chested Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lonchura_cucullata",
+      "common_name": "Bronze Mannikin",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ardea_melanocephala",
+      "common_name": "Black-headed Heron",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lamprotornis_regius",
+      "common_name": "Golden-breasted Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_baglafecht",
+      "common_name": "Baglafecht Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_spekei",
+      "common_name": "Speke's Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Prinia_subflava",
+      "common_name": "Tawny-flanked Prinia",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Turdoides_rubiginosa",
+      "common_name": "Rufous Chatterer",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Urocolius_macrourus",
+      "common_name": "Blue-naped Mousebird",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Variable sunbird",
+      "url": "https://en.wikipedia.org/wiki/Variable_sunbird",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/7340636"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

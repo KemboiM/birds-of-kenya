@@ -1,0 +1,77 @@
+{
+  "label": "Emberiza_tahapisi",
+  "scientific_name": "Emberiza tahapisi",
+  "common_name": "Cinnamon-breasted Bunting",
+  "other_names": {},
+  "family": "Emberizidae",
+  "summary": "The cinnamon-breasted bunting (Emberiza tahapisi) or cinnamon-breasted rock-bunting is a species of bird in the family Emberizidae. It is widespread in Africa south of the Sahara.",
+  "appearance": {
+    "description": "They weigh between 11.6 and 21 grams (0.41 and 0.74 oz) with a length of 13–15 centimetres (5.1–5.9 in). Although plumage differs between juveniles, males, and females, cinnamon-breasted buntings can be identified by their striped head and cinnamon brown underparts. Males have black and white stripes whereas the female stripes are less dark and browner in color.",
+    "colors": "Males have black and white stripes whereas the female stripes are less dark and browner in color. The throat patch is uniformly black on males but smaller, grayish, and densely blotched on females.",
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": {
+      "notes": "Although plumage differs between juveniles, males, and females, cinnamon-breasted buntings can be identified by their striped head and cinnamon brown underparts. Juveniles are similar to females but with buffier head stripes and a paler, browner throat."
+    },
+    "chick": null
+  },
+  "behaviour": "Breeding time varies depending on the rainy season of the region. In arid regions with light rainfall, the breeding season will occur throughout the rainy season but in regions with heavier rainfall, the breeding season occurs at the end of the rainy season. They are monogamous but solitary nesters.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "Having a very widespread distribution, cinnamon-breasted buntings are found across most of mainland sub-Saharan Africa but avoiding deserts, equatorial forest, and the high altitudes of mountains. They can be found in rocky, lightly wooded hillsides with sparse vegetation and bare soil but can sometimes be found in woodlands.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Nairobi",
+      "Eastern",
+      "Coast",
+      "Central"
+    ],
+    "gbif_records_in_kenya": 3349
+  },
+  "look_alikes": [
+    {
+      "label": "Emberiza_flaviventris",
+      "common_name": "Golden-breasted Bunting",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Empidornis_semipartitus",
+      "common_name": "Silverbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Gyps_africanus",
+      "common_name": "White-backed Vulture",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tchagra_australis",
+      "common_name": "Brown-crowned Tchagra",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Cinnamon-breasted bunting",
+      "url": "https://en.wikipedia.org/wiki/Cinnamon-breasted_bunting",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2491491"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

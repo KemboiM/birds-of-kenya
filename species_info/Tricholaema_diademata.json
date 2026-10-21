@@ -1,0 +1,87 @@
+{
+  "label": "Tricholaema_diademata",
+  "scientific_name": "Tricholaema diademata",
+  "common_name": "Red-fronted Barbet",
+  "other_names": {},
+  "family": "Lybiidae",
+  "summary": "The red-fronted barbet (Tricholaema diademata) is a species of bird in the Lybiidae family. It is found in Ethiopia, Kenya, South Sudan, Tanzania, and Uganda.",
+  "appearance": {
+    "description": null,
+    "colors": "The red-fronted barbet (Tricholaema diademata) is a species of bird in the Lybiidae family.",
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Eastern",
+      "Nairobi",
+      "Central",
+      "Nyanza"
+    ],
+    "gbif_records_in_kenya": 6754
+  },
+  "look_alikes": [
+    {
+      "label": "Coturnix_delegorguei",
+      "common_name": "Harlequin Quail",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Sylvia_boehmi",
+      "common_name": "Banded Parisoma",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tricholaema_melanocephala",
+      "common_name": "Black-throated Barbet",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tricholaema_lacrymosa",
+      "common_name": "Spot-flanked Barbet",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Dendropicos_fuscescens",
+      "common_name": "Cardinal Woodpecker",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Batis_molitor",
+      "common_name": "Chinspot Batis",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Red-fronted barbet",
+      "url": "https://en.wikipedia.org/wiki/Red-fronted_barbet",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2478871"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

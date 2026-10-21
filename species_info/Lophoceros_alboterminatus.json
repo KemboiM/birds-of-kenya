@@ -1,0 +1,81 @@
+{
+  "label": "Lophoceros_alboterminatus",
+  "scientific_name": "Lophoceros alboterminatus",
+  "common_name": "Crowned Hornbill",
+  "other_names": {},
+  "family": "Bucerotidae",
+  "summary": "The crowned hornbill (Lophoceros alboterminatus) is an African hornbill.",
+  "appearance": {
+    "description": "It is a medium-sized bird, 50–54 centimetres (20–21 in) in length, and is characterized by its white belly and black back and wings. The tips of the long tail feathers are white. The eyes are yellow; the beak is red and presents a stocky casque on the upper mandible.",
+    "colors": "It is a medium-sized bird, 50–54 centimetres (20–21 in) in length, and is characterized by its white belly and black back and wings. The tips of the long tail feathers are white.",
+    "wings": "It is a medium-sized bird, 50–54 centimetres (20–21 in) in length, and is characterized by its white belly and black back and wings."
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": "It forages mainly in trees, where it feeds on insects (often caught in flight), small rodents, small reptiles, eggs, seeds and fruits. This hornbill species can be seen in flocks, usually in the dry season. Four to five white eggs are incubated for 25 to 30 days; the juveniles remain with both parents for about 8 weeks.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The crowned hornbill is a common resident of the coastal and riverine forests of southern (only the eastern coast) to northeastern Africa.",
+    "kenya_regions": [
+      "Kenya",
+      "Rift Valley",
+      "Coast",
+      "Central",
+      "Eastern",
+      "Western"
+    ],
+    "gbif_records_in_kenya": 5148
+  },
+  "look_alikes": [
+    {
+      "label": "Bycanistes_brevis",
+      "common_name": "Silvery-cheeked Hornbill",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Rhinopomastus_minor",
+      "common_name": "Abyssinian Scimitarbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Columba_livia",
+      "common_name": "Rock Dove",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Phoeniculus_purpureus",
+      "common_name": "Green Wood Hoopoe",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Anhinga_rufa",
+      "common_name": "African Darter",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Crowned hornbill",
+      "url": "https://en.wikipedia.org/wiki/Crowned_hornbill",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/7983173"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "label": "Phoenicopterus_roseus",
+  "scientific_name": "Phoenicopterus roseus",
+  "common_name": "Greater Flamingo",
+  "other_names": {},
+  "family": "Phoenicopteridae",
+  "summary": "The greater flamingo (Phoenicopterus roseus) is the largest and most widespread species of the flamingo family. Common in the Old World, they are found in Northern (coastal) and Sub-Saharan Africa, the Indian subcontinent (south of the Himalayas), Central Asia, the Middle East, the Levant, the Persian Gulf, the Gulf of Aden, the Red Sea, and the Mediterranean countries of Southern Europe.",
+  "appearance": {
+    "description": "The greater flamingo is the largest living species of flamingo, averaging 110–150 cm (43–59 in) tall and weighing 2–4 kg (4.4–8.8 lb). Most of the plumage is pinkish-white, but the wing coverts are red and the primary and secondary flight feathers are black. The bill is pink with a restricted black tip, and the legs are entirely pink.",
+    "colors": "Common in the Old World, they are found in Northern (coastal) and Sub-Saharan Africa, the Indian subcontinent (south of the Himalayas), Central Asia, the Middle East, the Levant, the Persian Gulf, the Gulf of Aden, the Red Sea, and the Mediterranean countries of Southern Europe. Most of the plumage is pinkish-white, but the wing coverts are red and the primary and secondary flight feathers are black.",
+    "wings": "Most of the plumage is pinkish-white, but the wing coverts are red and the primary and secondary flight feathers are black."
+  },
+  "size": {
+    "adult": {
+      "mass_g": [
+        2000.0,
+        4000.0
+      ]
+    },
+    "juvenile": null,
+    "chick": {
+      "notes": "Eggs take 26-32 days to hatch."
+    }
+  },
+  "behaviour": "Like all flamingos, this species lays a single chalky-white egg on a mud mound. Adult greater flamingos have few natural predators. Eggs and chicks may be eaten by raptors, crows, gulls, and the marabou stork (Leptoptilos crumenifer); an estimated half of the predation of greater flamingo eggs and chicks in the Mediterranean region is from the yellow-legged gull (Larus michahellis).",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "It is found in parts of Northern Africa (including coastal areas of northern Algeria, Egypt further inland along the Nile River, Libya, Morocco, and Tunisia), portions of Sub-Saharan Africa (Kenya, Madagascar, Rwanda, Tanzania, Uganda), Southern Asia (coastal Bangladesh, India, Pakistan, and Sri Lanka), the Western Asia (Bahrain, Cyprus, Iraq, Iran, Oman, Israel, Palestine, Kuwait, Lebanon, Qatar, and the United Arab Emirates) and Southern Europe (including Albania, Bulgaria, Croatia, France in the Camargue and Corsica, Greece, Italy, Slovenia, Malta, Monaco, Montenegro, North Macedonia, Portugal, Spain and the Balearic Islands, and Turkey).",
+    "kenya_regions": [
+      "Rift Valley",
+      "Coast",
+      "Nakuru",
+      "Kajiado",
+      "Kenya",
+      "Kilifi"
+    ],
+    "gbif_records_in_kenya": 6303
+  },
+  "look_alikes": [
+    {
+      "label": "Phoeniconaias_minor",
+      "common_name": "Lesser Flamingo",
+      "difference": null,
+      "times_confused": 7
+    },
+    {
+      "label": "Lybius_leucocephalus",
+      "common_name": "White-headed Barbet",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Circus_pygargus",
+      "common_name": "Montagu's Harrier",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Riparia_paludicola",
+      "common_name": "Brown-throated Martin",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pelecanus_onocrotalus",
+      "common_name": "Great White Pelican",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Platalea_alba",
+      "common_name": "African Spoonbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Colius_striatus",
+      "common_name": "Speckled Mousebird",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Greater flamingo",
+      "url": "https://en.wikipedia.org/wiki/Greater_flamingo",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/4352332"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

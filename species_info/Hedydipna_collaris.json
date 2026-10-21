@@ -1,0 +1,128 @@
+{
+  "label": "Hedydipna_collaris",
+  "scientific_name": "Hedydipna collaris",
+  "common_name": "Collared Sunbird",
+  "other_names": {},
+  "family": "Nectariniidae",
+  "summary": "The collared sunbird (Hedydipna collaris) is a bird species of the family Nectariniidae. The sunbirds are a group of very small Old World passerine birds which feed largely on nectar, although they will also take insects, especially when feeding young. The collared sunbird is in fact mainly insectivorous.",
+  "appearance": {
+    "description": null,
+    "colors": "The collared sunbird (Hedydipna collaris) is a bird species of the family Nectariniidae. The collared sunbird is in fact mainly insectivorous.",
+    "wings": "Sunbird flight is fast and direct on their short wings."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        9.0,
+        10.0
+      ]
+    },
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Kenya",
+      "Nairobi",
+      "Coast",
+      "Rift Valley",
+      "Central",
+      "Western"
+    ],
+    "gbif_records_in_kenya": 19503
+  },
+  "look_alikes": [
+    {
+      "label": "Cinnyris_venustus",
+      "common_name": "Variable Sunbird",
+      "difference": null,
+      "times_confused": 3
+    },
+    {
+      "label": "Nectarinia_kilimensis",
+      "common_name": "Bronze Sunbird",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Crithagra_citrinelloides",
+      "common_name": "African Citril",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Chamaetylas_poliocephala",
+      "common_name": "Brown-chested Alethe",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Chlorophoneus_sulfureopectus",
+      "common_name": "Orange-breasted Bushshrike",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cuculus_solitarius",
+      "common_name": "Red-chested Cuckoo",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Batis_molitor",
+      "common_name": "Chinspot Batis",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Actophilornis_africanus",
+      "common_name": "African Jacana",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Crithagra_mozambica",
+      "common_name": "Yellow-fronted Canary",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_ocularis",
+      "common_name": "Spectacled Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Camaroptera_brachyura",
+      "common_name": "Green-backed Camaroptera",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_cucullatus",
+      "common_name": "Village Weaver",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Collared sunbird",
+      "url": "https://en.wikipedia.org/wiki/Collared_sunbird",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/7340984"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "label": "Corvus_capensis",
+  "scientific_name": "Corvus capensis",
+  "common_name": "Cape Crow",
+  "other_names": {},
+  "family": "Corvidae",
+  "summary": "The Cape crow or black crow (Corvus capensis) is slightly larger (48–50 cm in length) than the carrion crow and is completely black with a slight gloss of purple in its feathers. It also has proportionately longer legs, wings, and tail, and has a much longer, slimmer bill that seems to be adapted for probing into the ground for invertebrates. The head feathers have a coppery-purple gloss and the throat feathers are quite long and fluffed out in some calls and displays.",
+  "appearance": {
+    "description": null,
+    "colors": "The Cape crow or black crow (Corvus capensis) is slightly larger (48–50 cm in length) than the carrion crow and is completely black with a slight gloss of purple in its feathers. The head feathers have a coppery-purple gloss and the throat feathers are quite long and fluffed out in some calls and displays.",
+    "wings": "It also has proportionately longer legs, wings, and tail, and has a much longer, slimmer bill that seems to be adapted for probing into the ground for invertebrates."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        48.0,
+        50.0
+      ]
+    },
+    "juvenile": null,
+    "chick": {
+      "notes": "Usually, three or four eggs are incubated about 18–19 days and hatchlings are fledged by around 38 days. Typically, only three nestlings survive."
+    }
+  },
+  "behaviour": "=== Diet === It eats grain and other seeds, and invertebrates, which it digs for with powerful downward stabs of its long bill. It opens maize kernels before they are fully ripe, bulbs and fleshy roots of certain plants, frogs and small reptiles, and fruits and berries. It takes the eggs and chicks of ground-nesting birds and has been known to kill birds up to a pound in weight (especially domestic poultry).",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "This species occurs in two large separate regions of the African continent. One form ranges from the Cape at the southern tip of Africa north to southern Angola and across to the east coast of Mozambique.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Central",
+      "Eastern",
+      "Nairobi",
+      "Western"
+    ],
+    "gbif_records_in_kenya": 5280
+  },
+  "look_alikes": [
+    {
+      "label": "Corvus_albicollis",
+      "common_name": "White-necked Raven",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lamprotornis_purpuroptera",
+      "common_name": "Rüppell's Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Malaconotus_blanchoti",
+      "common_name": "Grey-headed Bushshrike",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Colius_striatus",
+      "common_name": "Speckled Mousebird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bostrychia_hagedash",
+      "common_name": "Hadada Ibis",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Cape crow",
+      "url": "https://en.wikipedia.org/wiki/Cape_crow",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2482521"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

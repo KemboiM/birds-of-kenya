@@ -1,0 +1,82 @@
+{
+  "label": "Cypsiurus_parvus",
+  "scientific_name": "Cypsiurus parvus",
+  "common_name": "African Palm Swift",
+  "other_names": {},
+  "family": "Apodidae",
+  "summary": "The African palm swift (Cypsiurus parvus) is a small swift. It is very similar to the Asian palm swift, Cypsiurus balasiensis, and was formerly considered to be the same species. The Malagasy palm swift was also recently split from this species.",
+  "appearance": {
+    "description": "This 16 cm long species is mainly pale brown in colour. It has long swept-back wings that resemble a crescent or a boomerang. The body is slender, and the tail is long and deeply forked, although it is usually held closed.",
+    "colors": "It is very similar to the Asian palm swift, Cypsiurus balasiensis, and was formerly considered to be the same species. This 16 cm long species is mainly pale brown in colour.",
+    "wings": "It has long swept-back wings that resemble a crescent or a boomerang."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        16.0,
+        16.0
+      ]
+    },
+    "juvenile": {
+      "notes": "Sexes are similar, and young birds differ mainly in their shorter tails."
+    },
+    "chick": null
+  },
+  "behaviour": "These swifts spend most of their lives in the air, living on the insects they catch in their beaks. Palm swifts often feed near the ground. They drink on the wing.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The African palm swift is native to Angola, Benin, Botswana, Burkina Faso, Burundi, Cameroon, Central African Republic, Chad, Congo, Democratic Republic of the Congo, Equatorial Guinea, Eritrea, Eswatini, Ethiopia, Gabon, The Gambia, Ghana, Guinea, Guinea-Bissau, Ivory Coast, Kenya, Liberia, Malawi, Mali, Mauritania, Mayotte, Mozambique, Namibia, Niger, Nigeria, Rwanda, São Tomé and Príncipe, Saudi Arabia, Senegal, Sierra Leone, Somalia, South Africa, South Sudan, Sudan, Tanzania, Togo, Uganda, Yemen, Zambia and Zimbabwe.",
+    "kenya_regions": [
+      "Kenya",
+      "Coast",
+      "Nairobi",
+      "Rift Valley",
+      "Eastern",
+      "Nyanza"
+    ],
+    "gbif_records_in_kenya": 24137
+  },
+  "look_alikes": [
+    {
+      "label": "Apus_affinis",
+      "common_name": "Little Swift",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Riparia_cincta",
+      "common_name": "Banded Martin",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Threskiornis_aethiopicus",
+      "common_name": "African Sacred Ibis",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Chlidonias_leucopterus",
+      "common_name": "White-winged Tern",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "African palm swift",
+      "url": "https://en.wikipedia.org/wiki/African_palm_swift",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2477093"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

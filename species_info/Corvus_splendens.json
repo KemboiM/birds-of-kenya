@@ -1,0 +1,182 @@
+{
+  "label": "Corvus_splendens",
+  "scientific_name": "Corvus splendens",
+  "common_name": "House Crow",
+  "other_names": {},
+  "family": "Corvidae",
+  "summary": "The house crow (Corvus splendens), also known as the Indian, greynecked, Ceylon or Colombo crow, is a common bird of the crow family that is of Asian origin but now found in many parts of the world, where they arrived assisted by shipping. It is between the jackdaw and the carrion crow in size (40 cm (16 in) in length) but is slimmer than either. The forehead, crown, throat and upper breast are a richly glossed black, whilst the neck and breast are a lighter grey-brown in colour.",
+  "appearance": {
+    "description": null,
+    "colors": "The house crow (Corvus splendens), also known as the Indian, greynecked, Ceylon or Colombo crow, is a common bird of the crow family that is of Asian origin but now found in many parts of the world, where they arrived assisted by shipping. The forehead, crown, throat and upper breast are a richly glossed black, whilst the neck and breast are a lighter grey-brown in colour.",
+    "wings": "The wings, tail and legs are black."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        40.0,
+        40.0
+      ]
+    },
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": "=== Diet === House crows feed largely on refuse around human habitations, small reptiles and mammals, and other animals such as insects and other small invertebrates, eggs, nestlings, grain and fruits. House crows have also been observed swooping down from the air and snatching baby squirrels. Most food is taken from the ground, but also from trees as opportunity arises.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "It has a widespread distribution in southern Asia, being native to Nepal, Bangladesh, India, Pakistan, Sri Lanka, Maldives and Laccadive Islands, southern Myanmar, south Thailand, and coastal southern Iran. It was introduced to East Africa around Zanzibar (about 1897) and Port Sudan.",
+    "kenya_regions": [
+      "Coast",
+      "Kenya",
+      "Mombasa",
+      "Kilifi",
+      "Kwale",
+      "Eastern"
+    ],
+    "gbif_records_in_kenya": 11841
+  },
+  "look_alikes": [
+    {
+      "label": "Camaroptera_brachyura",
+      "common_name": "Green-backed Camaroptera",
+      "difference": null,
+      "times_confused": 3
+    },
+    {
+      "label": "Corvus_albicollis",
+      "common_name": "White-necked Raven",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Lamprotornis_purpuroptera",
+      "common_name": "Rüppell's Starling",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Otus_senegalensis",
+      "common_name": "African Scops Owl",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Andropadus_importunus",
+      "common_name": "Sombre Greenbul",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Musophaga_rossae",
+      "common_name": "Ross's Turaco",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ciconia_abdimii",
+      "common_name": "Abdim's Stork",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Glareola_pratincola",
+      "common_name": "Collared Pratincole",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Oenanthe_lugubris",
+      "common_name": "Abyssinian Wheatear",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Passer_domesticus",
+      "common_name": "House Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Chroicocephalus_cirrocephalus",
+      "common_name": "Grey-headed Gull",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Columba_livia",
+      "common_name": "Rock Dove",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Creatophora_cinerea",
+      "common_name": "Wattled Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Hirundo_rustica",
+      "common_name": "Barn Swallow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Melaenornis_edolioides",
+      "common_name": "Northern Black Flycatcher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Plegadis_falcinellus",
+      "common_name": "Glossy Ibis",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Myrmecocichla_aethiops",
+      "common_name": "Anteater Chat",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Acryllium_vulturinum",
+      "common_name": "Vulturine Guinea Fowl",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Dioptrornis_fischeri",
+      "common_name": "White-eyed Slaty Flycatcher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Elanus_caeruleus",
+      "common_name": "Black-winged Kite",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pycnonotus_barbatus",
+      "common_name": "Common Bulbul",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "House crow",
+      "url": "https://en.wikipedia.org/wiki/House_crow",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2482499"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

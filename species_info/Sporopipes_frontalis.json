@@ -1,0 +1,129 @@
+{
+  "label": "Sporopipes_frontalis",
+  "scientific_name": "Sporopipes frontalis",
+  "common_name": "Speckle-fronted Weaver",
+  "other_names": {},
+  "family": "Ploceidae",
+  "summary": "The speckle-fronted weaver (Sporopipes frontalis) is a species of bird in the family Ploceidae. It is found in Africa from Mauritania and Gambia in the west to Ethiopia and Tanzania in the east. Its natural habitat is dry savanna.",
+  "appearance": {
+    "description": null,
+    "colors": null,
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Nairobi",
+      "Eastern",
+      "Narok",
+      "Central"
+    ],
+    "gbif_records_in_kenya": 6029
+  },
+  "look_alikes": [
+    {
+      "label": "Passer_rufocinctus",
+      "common_name": "Kenya Sparrow",
+      "difference": null,
+      "times_confused": 3
+    },
+    {
+      "label": "Cisticola_hunteri",
+      "common_name": "Hunter's Cisticola",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Cisticola_robustus",
+      "common_name": "Stout Cisticola",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Coracias_naevius",
+      "common_name": "Purple Roller",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Crithagra_reichenowi",
+      "common_name": "Reichenow's Seedeater",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Amblyospiza_albifrons",
+      "common_name": "Thick-billed Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bradornis_pallidus",
+      "common_name": "Pale Flycatcher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Colius_striatus",
+      "common_name": "Speckled Mousebird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lanius_phoenicuroides",
+      "common_name": "Red-tailed Shrike",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Passer_domesticus",
+      "common_name": "House Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Vidua_chalybeata",
+      "common_name": "Village Indigobird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Eremopterix_leucopareia",
+      "common_name": "Fischer's Sparrow-lark",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Eurocephalus_ruppelli",
+      "common_name": "Northern White-crowned Shrike",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Speckle-fronted weaver",
+      "url": "https://en.wikipedia.org/wiki/Speckle-fronted_weaver",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2494084"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

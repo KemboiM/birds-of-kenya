@@ -1,0 +1,112 @@
+{
+  "label": "Ciconia_ciconia",
+  "scientific_name": "Ciconia ciconia",
+  "common_name": "White Stork",
+  "other_names": {
+    "sw": "Korongo mweupe"
+  },
+  "family": "Ciconiidae",
+  "summary": "The white stork (Ciconia ciconia) is a large bird in the stork family, Ciconiidae. Its plumage is mainly white, with black on the bird's wings. Adults have long red legs and long pointed red beaks, and measure on average 100–115 cm (39–45 in) from beak tip to end of tail, with a 155–215 cm (61–85 in) wingspan.",
+  "appearance": {
+    "description": "The white stork is a large bird. It has a length of 100–115 cm (39–45 in), and a standing height of 100–125 cm (39–49 in). The wingspan is 155–215 cm (61–85 in) and its weight is 2.3–4.5 kg (5.1–9.9 lb).",
+    "colors": "The white stork (Ciconia ciconia) is a large bird in the stork family, Ciconiidae. Its plumage is mainly white, with black on the bird's wings.",
+    "wings": "Its plumage is mainly white, with black on the bird's wings. It has few natural predators, but may harbour several types of parasite; the plumage is home to chewing lice and feather mites, while the large nests maintain a diverse range of mesostigmatic mites."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        100.0,
+        215.0
+      ],
+      "wingspan_cm": [
+        155.0,
+        215.0
+      ],
+      "mass_g": [
+        2300.0,
+        4500.0
+      ]
+    },
+    "juvenile": {
+      "notes": "By three weeks, the young bird acquires black scapulars and flight feathers. By the time it fledges, the juvenile bird's plumage is similar to that of the adult, though its black feathers are often tinged with brown, and its beak and legs are a duller brownish-red or orange."
+    },
+    "chick": {
+      "notes": "Larger nests are associated with greater numbers of young successfully fledged, and appear to be sought after. Incubation begins as soon as the first egg is laid, so the brood hatches asynchronously, beginning 33 to 34 days later."
+    }
+  },
+  "behaviour": "The white stork is a gregarious bird; flocks of thousands of individuals have been recorded on migration routes and at wintering areas in Africa. Non-breeding birds gather in groups of 40 or 50 during the breeding season. The smaller dark-plumaged Abdim's stork is often encountered with white stork flocks in southern Africa.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The nominate race of the white stork has a wide although disjunct summer range across Europe, clustered in the Iberian Peninsula and North Africa in the west, and much of eastern and central Europe, with 25% of the world's population concentrated in Poland, as well as parts of western Asia. The asiatica population of about 1450 birds is restricted to a region in central Asia between the Aral Sea and Xinjiang in western China.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Nairobi",
+      "Eastern",
+      "Coast",
+      "Central"
+    ],
+    "gbif_records_in_kenya": 3354
+  },
+  "look_alikes": [
+    {
+      "label": "Sarkidiornis_melanotos",
+      "common_name": "Knob-billed Duck",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Balearica_regulorum",
+      "common_name": "Grey Crowned Crane",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ephippiorhynchus_senegalensis",
+      "common_name": "Saddle-billed Stork",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Mycteria_ibis",
+      "common_name": "Yellow-billed Stork",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Gypohierax_angolensis",
+      "common_name": "Palm-nut Vulture",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Vanellus_crassirostris",
+      "common_name": "Long-toed Lapwing",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Threskiornis_aethiopicus",
+      "common_name": "African Sacred Ibis",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "White stork",
+      "url": "https://en.wikipedia.org/wiki/White_stork",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2481912"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

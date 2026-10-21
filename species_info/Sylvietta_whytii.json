@@ -1,0 +1,105 @@
+{
+  "label": "Sylvietta_whytii",
+  "scientific_name": "Sylvietta whytii",
+  "common_name": "Red-faced Crombec",
+  "other_names": {},
+  "family": "Macrosphenidae",
+  "summary": "The red-faced crombec (Sylvietta whytii) is a species of African warbler, formerly placed in the family Sylviidae. It is found in Burundi, Ethiopia, Kenya, Malawi, Mozambique, Namibia, Rwanda, South Sudan, Tanzania, Uganda, and Zimbabwe. Its natural habitats are subtropical or tropical dry forests, subtropical or tropical moist montane forests, and subtropical or tropical dry shrubland.",
+  "appearance": {
+    "description": null,
+    "colors": "The red-faced crombec (Sylvietta whytii) is a species of African warbler, formerly placed in the family Sylviidae.",
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Nairobi",
+      "Coast",
+      "Central",
+      "Eastern"
+    ],
+    "gbif_records_in_kenya": 11092
+  },
+  "look_alikes": [
+    {
+      "label": "Sylvietta_brachyura",
+      "common_name": "Northern Crombec",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Turdus_tephronotus",
+      "common_name": "Bare-eyed Thrush",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Malaconotus_blanchoti",
+      "common_name": "Grey-headed Bushshrike",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Phalacrocorax_carbo",
+      "common_name": "Great Cormorant",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_intermedius",
+      "common_name": "Lesser Masked Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pinarochroa_sordida",
+      "common_name": "Moorland Chat",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Quelea_quelea",
+      "common_name": "Red-billed Quelea",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Halcyon_leucocephala",
+      "common_name": "Grey-headed Kingfisher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lanius_humeralis",
+      "common_name": "Northern Fiscal",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Red-faced crombec",
+      "url": "https://en.wikipedia.org/wiki/Red-faced_crombec",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2493539"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

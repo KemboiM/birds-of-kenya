@@ -1,0 +1,100 @@
+{
+  "label": "Indicator_indicator",
+  "scientific_name": "Indicator indicator",
+  "common_name": "Greater Honeyguide",
+  "other_names": {},
+  "family": "Indicatoridae",
+  "summary": "The greater honeyguide (Indicator indicator) is a bird in the paleotropical family Indicatoridae, that is related to the woodpeckers. Its English and scientific names refer to its habit of guiding people to bee colonies. Claims that it also guides non-human animals are disputed.",
+  "appearance": {
+    "description": "The greater honeyguide has bold white patches on the sides of the tail, is about 20 cm (7.9 in) long and weighs about 50 g (1.8 oz). The male has a black throat, pink bill, dark grey-brown upperparts and white underparts. The wings are streaked whitish, and the shoulder patch is yellow.",
+    "colors": "The greater honeyguide has bold white patches on the sides of the tail, is about 20 cm (7.9 in) long and weighs about 50 g (1.8 oz). The male has a black throat, pink bill, dark grey-brown upperparts and white underparts.",
+    "wings": "The wings are streaked whitish, and the shoulder patch is yellow."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        20.0,
+        20.0
+      ],
+      "mass_g": [
+        50.0,
+        50.0
+      ]
+    },
+    "juvenile": {
+      "notes": "Immature birds have olive-brown upperparts with a white rump, yellow throat and upper breast."
+    },
+    "chick": {
+      "notes": "The chick has a membranous hook on the bill that it uses, while still blind and featherless, to kill the host's young outright or by repeated wounds."
+    }
+  },
+  "behaviour": "The greater honeyguide is known to guide people to the nests of wild bees. A guiding bird attracts a person's attention with wavering, chattering \"'tya' notes compounded with peeps or pipes\", sounds it also gives in aggression. The guiding bird flies toward an occupied nest (greater honeyguides know the sites of many bees' nests in their territories) and then stops nearby the nest.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Coast",
+      "Eastern",
+      "Central",
+      "Nairobi"
+    ],
+    "gbif_records_in_kenya": 4688
+  },
+  "look_alikes": [
+    {
+      "label": "Pycnonotus_barbatus",
+      "common_name": "Common Bulbul",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Cecropis_abyssinica",
+      "common_name": "Lesser Striped Swallow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Halcyon_chelicuti",
+      "common_name": "Striped Kingfisher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pseudonigrita_arnaudi",
+      "common_name": "Grey-capped Social Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Urocolius_macrourus",
+      "common_name": "Blue-naped Mousebird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Hirundo_rustica",
+      "common_name": "Barn Swallow",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Greater honeyguide",
+      "url": "https://en.wikipedia.org/wiki/Greater_honeyguide",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/5228976"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

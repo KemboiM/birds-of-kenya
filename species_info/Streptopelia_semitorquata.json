@@ -1,0 +1,124 @@
+{
+  "label": "Streptopelia_semitorquata",
+  "scientific_name": "Streptopelia semitorquata",
+  "common_name": "Red-eyed Dove",
+  "other_names": {},
+  "family": "Columbidae",
+  "summary": "The red-eyed dove (Streptopelia semitorquata) is a dove that is widespread and common in Sub-Saharan Africa. It has been listed as Least Concern on the IUCN Red List since 2004.",
+  "appearance": {
+    "description": "The red-eyed dove's pale bluish grey forehead merges into a darker hue on the crown. The neck, breast, and underparts, are dark mauve-pink to wine-red, upperparts are greyish brown, and primaries are black. Outer wing-coverts are dark slaty blue.",
+    "colors": "The red-eyed dove (Streptopelia semitorquata) is a dove that is widespread and common in Sub-Saharan Africa. It has been listed as Least Concern on the IUCN Red List since 2004.",
+    "wings": "Outer wing-coverts are dark slaty blue. Flanks, sides of rump, and underwing-coverts are bluish-grey."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        30.0,
+        30.0
+      ]
+    },
+    "juvenile": {
+      "notes": "Juveniles are duller and browner."
+    },
+    "chick": null
+  },
+  "behaviour": "Red-eyed doves build stick nests in trees, where the females lay two white eggs at a time. Its flight is quick, with the regular beats and an occasional sharp flick of the wings, which are characteristic of pigeons in general.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "It is distributed through most of sub-Saharan Africa, except in desert zones. It is a common, if not abundant, species in most habitats other than deserts.",
+    "kenya_regions": [
+      "Kenya",
+      "Rift Valley",
+      "Nairobi",
+      "Coast",
+      "Central",
+      "Eastern"
+    ],
+    "gbif_records_in_kenya": 40054
+  },
+  "look_alikes": [
+    {
+      "label": "Streptopelia_capicola",
+      "common_name": "Ring-necked Dove",
+      "difference": null,
+      "times_confused": 9
+    },
+    {
+      "label": "Streptopelia_decipiens",
+      "common_name": "Mourning Collared Dove",
+      "difference": null,
+      "times_confused": 5
+    },
+    {
+      "label": "Streptopelia_lugens",
+      "common_name": "Dusky Turtle Dove",
+      "difference": null,
+      "times_confused": 4
+    },
+    {
+      "label": "Corythaixoides_personatus",
+      "common_name": "Bare-faced Go-away-bird",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Turtur_tympanistria",
+      "common_name": "Tambourine Dove",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Buphagus_erythrorhynchus",
+      "common_name": "Red-billed Oxpecker",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Chrysococcyx_klaas",
+      "common_name": "Klaas's Cuckoo",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Gyps_africanus",
+      "common_name": "White-backed Vulture",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Hieraaetus_wahlbergi",
+      "common_name": "Wahlberg's Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pseudonigrita_cabanisi",
+      "common_name": "Black-capped Social Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Spilopelia_senegalensis",
+      "common_name": "Laughing Dove",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Red-eyed dove",
+      "url": "https://en.wikipedia.org/wiki/Red-eyed_dove",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2495707"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

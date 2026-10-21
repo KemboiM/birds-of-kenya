@@ -1,0 +1,88 @@
+{
+  "label": "Emberiza_flaviventris",
+  "scientific_name": "Emberiza flaviventris",
+  "common_name": "Golden-breasted Bunting",
+  "other_names": {},
+  "family": "Emberizidae",
+  "summary": "The golden-breasted bunting (Emberiza flaviventris) is a passerine bird in the bunting family Emberizidae. It occurs in dry open woodlands and moist savanna in Africa south of the Sahara, but is absent from the equatorial forest belt.",
+  "appearance": {
+    "description": "The golden-breasted bunting is 15–16 cm long. The adult male has striking head pattern with a white crown, black lateral crown stripes, white supercilium and black-bordered white ear coverts. The underparts are orange-yellow becoming yellow on the throat and whitish on the lower belly.",
+    "colors": "The adult male has striking head pattern with a white crown, black lateral crown stripes, white supercilium and black-bordered white ear coverts. The underparts are orange-yellow becoming yellow on the throat and whitish on the lower belly.",
+    "wings": "The browner wings have two conspicuous white wing bars."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        15.0,
+        16.0
+      ]
+    },
+    "juvenile": {
+      "notes": "Young birds are duller and paler than the females."
+    },
+    "chick": null
+  },
+  "behaviour": "The golden-breasted bunting's call is a nasal ascending zzhrr. The song is variable, but includes a weechee weechee weechee. The golden-breasted bunting builds an untidy cup nest lined with fine grass or hair low in a shrub or sapling.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "This species is found in a variety of open woodlands. The subspecies flavigaster favours acacia steppe and savannah, with the other subspecies occurring in a wider range of lightly wooded country including gardens.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Nairobi",
+      "Central",
+      "Eastern",
+      "Western"
+    ],
+    "gbif_records_in_kenya": 5330
+  },
+  "look_alikes": [
+    {
+      "label": "Emberiza_tahapisi",
+      "common_name": "Cinnamon-breasted Bunting",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Batis_molitor",
+      "common_name": "Chinspot Batis",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Chlorophoneus_sulfureopectus",
+      "common_name": "Orange-breasted Bushshrike",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cossypha_heuglini",
+      "common_name": "White-browed Robin-chat",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Passer_rufocinctus",
+      "common_name": "Kenya Sparrow",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Golden-breasted bunting",
+      "url": "https://en.wikipedia.org/wiki/Golden-breasted_bunting",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2491478"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

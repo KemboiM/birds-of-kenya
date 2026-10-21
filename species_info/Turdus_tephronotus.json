@@ -1,0 +1,75 @@
+{
+  "label": "Turdus_tephronotus",
+  "scientific_name": "Turdus tephronotus",
+  "common_name": "Bare-eyed Thrush",
+  "other_names": {},
+  "family": "Turdidae",
+  "summary": "The bare-eyed thrush (Turdus tephronotus) is a species of bird in the family Turdidae. It is found in Ethiopia, Kenya, Somalia, and Tanzania. Its natural habitats are dry savanna and subtropical or tropical dry shrubland.",
+  "appearance": {
+    "description": null,
+    "colors": null,
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Kenya",
+      "Coast",
+      "Rift Valley",
+      "Eastern",
+      "Central",
+      "North-Eastern"
+    ],
+    "gbif_records_in_kenya": 5476
+  },
+  "look_alikes": [
+    {
+      "label": "Cisticola_chiniana",
+      "common_name": "Rattling Cisticola",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Micronisus_gabar",
+      "common_name": "Gabar Goshawk",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Sylvietta_whytii",
+      "common_name": "Red-faced Crombec",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Anaplectes_rubriceps",
+      "common_name": "Red-headed Weaver",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Bare-eyed thrush",
+      "url": "https://en.wikipedia.org/wiki/Bare-eyed_thrush",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2490734"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

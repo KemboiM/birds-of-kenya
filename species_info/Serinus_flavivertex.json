@@ -1,0 +1,86 @@
+{
+  "label": "Serinus_flavivertex",
+  "scientific_name": "Serinus flavivertex",
+  "common_name": "Yellow-crowned Canary",
+  "other_names": {},
+  "family": "Fringillidae",
+  "summary": "The yellow-crowned canary (Serinus flavivertex) is a small passerine bird in the finch family. It is a resident breeder in eastern Africa. It was formerly considered conspecific with the Cape canary (Serinus canicollis).",
+  "appearance": {
+    "description": null,
+    "colors": "The yellow-crowned canary (Serinus flavivertex) is a small passerine bird in the finch family. It was formerly considered conspecific with the Cape canary (Serinus canicollis).",
+    "wings": "The adult male has a green back with black edging to the wings and tail."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        11.0,
+        13.0
+      ]
+    },
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Central",
+      "Rift Valley",
+      "Eastern",
+      "Nairobi",
+      "Nyeri",
+      "Western"
+    ],
+    "gbif_records_in_kenya": 2758
+  },
+  "look_alikes": [
+    {
+      "label": "Ploceus_cucullatus",
+      "common_name": "Village Weaver",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Crithagra_dorsostriata",
+      "common_name": "White-bellied Canary",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Crithagra_mozambica",
+      "common_name": "Yellow-fronted Canary",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Upupa_epops",
+      "common_name": "Eurasian Hoopoe",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Turdoides_rubiginosa",
+      "common_name": "Rufous Chatterer",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Yellow-crowned canary",
+      "url": "https://en.wikipedia.org/wiki/Yellow-crowned_canary",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/7341660"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

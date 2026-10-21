@@ -1,0 +1,143 @@
+{
+  "label": "Chalcomitra_senegalensis",
+  "scientific_name": "Chalcomitra senegalensis",
+  "common_name": "Scarlet-chested Sunbird",
+  "other_names": {
+    "sw": "Neli gunda"
+  },
+  "family": "Nectariniidae",
+  "summary": "The scarlet-chested sunbird (Chalcomitra senegalensis) is a species of bird in the family Nectariniidae. It is found in many areas of Sub-Saharan Africa, and from South Sudan to South Africa.",
+  "appearance": {
+    "description": "The scarlet-chested sunbird is similar to Hunter's sunbird in appearance, with adult males having a characteristic red–scarlet coloured breast and an iridescent green patch on top of its head. The female is dark brown with no supercilium. It inhabits woodland and gardens, at elevations of up to 2,400 metres (7,900 ft).",
+    "colors": "The scarlet-chested sunbird is similar to Hunter's sunbird in appearance, with adult males having a characteristic red–scarlet coloured breast and an iridescent green patch on top of its head. The female is dark brown with no supercilium.",
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": "It is found in Angola, Benin, Botswana, Burkina Faso, Burundi, Cameroon, Central African Republic, Chad, Democratic Republic of the Congo, Eswatini, Ivory Coast, Eritrea, Ethiopia, Gambia, Ghana, Guinea, Guinea-Bissau, Kenya, Malawi, Mali, Mauritania, Mozambique, Namibia, Niger, Nigeria, Rwanda, Senegal, Sierra Leone, South Africa, Sudan, Tanzania, Togo, Uganda, Zambia, and Zimbabwe.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Nairobi",
+      "Central",
+      "Eastern",
+      "Western"
+    ],
+    "gbif_records_in_kenya": 18697
+  },
+  "look_alikes": [
+    {
+      "label": "Chalcomitra_hunteri",
+      "common_name": "Hunter's Sunbird",
+      "difference": null,
+      "times_confused": 3
+    },
+    {
+      "label": "Chalcomitra_amethystina",
+      "common_name": "Amethyst Sunbird",
+      "difference": null,
+      "times_confused": 3
+    },
+    {
+      "label": "Drepanorhynchus_reichenowi",
+      "common_name": "Golden-winged Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Estrilda_astrild",
+      "common_name": "Common Waxbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cinnyricinclus_leucogaster",
+      "common_name": "Violet-backed Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cinnyris_mariquensis",
+      "common_name": "Marico Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cinnyris_venustus",
+      "common_name": "Variable Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Haliaeetus_vocifer",
+      "common_name": "African Fish Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Melaenornis_edolioides",
+      "common_name": "Northern Black Flycatcher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Merops_oreobates",
+      "common_name": "Cinnamon-chested Bee-eater",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Terathopius_ecaudatus",
+      "common_name": "Bateleur",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Turdoides_sharpei",
+      "common_name": "Black-lored Babbler",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Turdus_abyssinicus",
+      "common_name": "Abyssinian Thrush",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Merops_bullockoides",
+      "common_name": "White-fronted Bee-eater",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pseudonigrita_arnaudi",
+      "common_name": "Grey-capped Social Weaver",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Scarlet-chested sunbird",
+      "url": "https://en.wikipedia.org/wiki/Scarlet-chested_sunbird",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/7340870"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

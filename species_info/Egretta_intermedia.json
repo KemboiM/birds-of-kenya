@@ -1,0 +1,90 @@
+{
+  "label": "Egretta_intermedia",
+  "scientific_name": "Egretta intermedia",
+  "common_name": "Medium Egret",
+  "other_names": {},
+  "family": "Ardeidae",
+  "summary": "The medium egret (Ardea intermedia), median egret, smaller egret or intermediate egret, is a medium-sized heron. Some taxonomists put the species in the genus Egretta or Mesophoyx. It is a resident breeder in southern and eastern Asia.",
+  "appearance": {
+    "description": "The medium egret, as its scientific name implies, is intermediate in size between the great egret and smaller white egrets like the little egret and cattle egret, though nearer to little than great. It is about 56–72 cm (22–28 in) long with a 105–115 cm (41–45 in) wingspan and weighs c. 400 g (14 oz), with all-white plumage, generally dark legs and a thickish yellow bill. Breeding birds may have a reddish or black bill, greenish yellow gape skin, loose filamentous plumes on their breast and back, and dull yellow or pink on their upper legs (regional variations).",
+    "colors": "The medium egret, as its scientific name implies, is intermediate in size between the great egret and smaller white egrets like the little egret and cattle egret, though nearer to little than great. It is about 56–72 cm (22–28 in) long with a 105–115 cm (41–45 in) wingspan and weighs c. 400 g (14 oz), with all-white plumage, generally dark legs and a thickish yellow bill.",
+    "wings": null
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        56.0,
+        115.0
+      ],
+      "mass_g": [
+        400.0,
+        400.0
+      ]
+    },
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": "The medium egret stalks its prey methodically in shallow coastal or fresh water, including flooded fields. It eats fish, frogs, crustaceans and insects. It often nests in colonies with other herons, usually on platforms of sticks in trees or shrubs.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Nairobi",
+      "Central",
+      "Coast",
+      "Nyanza"
+    ],
+    "gbif_records_in_kenya": 9790
+  },
+  "look_alikes": [
+    {
+      "label": "Ardea_alba",
+      "common_name": "Great Egret",
+      "difference": null,
+      "times_confused": 9
+    },
+    {
+      "label": "Bubulcus_ibis",
+      "common_name": "Western Cattle Egret",
+      "difference": null,
+      "times_confused": 6
+    },
+    {
+      "label": "Egretta_garzetta",
+      "common_name": "Little Egret",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Chlidonias_hybrida",
+      "common_name": "Whiskered Tern",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Thalassornis_leuconotus",
+      "common_name": "White-backed Duck",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Medium egret",
+      "url": "https://en.wikipedia.org/wiki/Medium_egret",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2480880"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

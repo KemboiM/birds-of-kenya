@@ -1,0 +1,110 @@
+{
+  "label": "Ciconia_abdimii",
+  "scientific_name": "Ciconia abdimii",
+  "common_name": "Abdim's Stork",
+  "other_names": {},
+  "family": "Ciconiidae",
+  "summary": "Abdim's stork (Ciconia abdimii), also known as the white-bellied stork, is a stork belonging to the family Ciconiidae. It is the smallest species of stork, feeds mostly on insects, and is found widely in open habitats in Sub-Saharan Africa and in Yemen. The common name commemorates the Ottoman Albanian Governor of Wadi Halfa in Sudan, Bey El-Arnaut Abdim (1780–1827).",
+  "appearance": {
+    "description": "Ciconia abdimii is a black stork with grey legs, red knees and feet, grey bill and white underparts. It has red facial skin in front of the eye and blue skin near the bill in breeding season. It is the smallest species of stork, at 73 cm (29 in) and a weight of just over 1 kg (2.2 lb).",
+    "colors": "Abdim's stork (Ciconia abdimii), also known as the white-bellied stork, is a stork belonging to the family Ciconiidae. Ciconia abdimii is a black stork with grey legs, red knees and feet, grey bill and white underparts.",
+    "wings": null
+  },
+  "size": {
+    "adult": {
+      "mass_g": [
+        1000.0,
+        1000.0
+      ]
+    },
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": "Abdim's stork is found widely in open habitats throughout Sub-Saharan Africa, from the Sahel to South Africa, being absent mainly from forests, dense woodlands and deserts. A smaller populations occurs in Yemen.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Eastern",
+      "Nyanza",
+      "Coast",
+      "Central"
+    ],
+    "gbif_records_in_kenya": 1806
+  },
+  "look_alikes": [
+    {
+      "label": "Ciconia_nigra",
+      "common_name": "Black Stork",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Leptoptilos_crumenifer",
+      "common_name": "Marabou Stork",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Anastomus_lamelligerus",
+      "common_name": "African Openbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bostrychia_hagedash",
+      "common_name": "Hadada Ibis",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Corvus_splendens",
+      "common_name": "House Crow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lophotis_gindiana",
+      "common_name": "Buff-crested Bustard",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Plegadis_falcinellus",
+      "common_name": "Glossy Ibis",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Corvus_albus",
+      "common_name": "Pied Crow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Torgos_tracheliotos",
+      "common_name": "Lappet-faced Vulture",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Abdim's stork",
+      "url": "https://en.wikipedia.org/wiki/Abdim%27s_stork",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2481915"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

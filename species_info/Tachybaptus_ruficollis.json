@@ -1,0 +1,109 @@
+{
+  "label": "Tachybaptus_ruficollis",
+  "scientific_name": "Tachybaptus ruficollis",
+  "common_name": "Little Grebe",
+  "other_names": {
+    "sw": "Kibisi mdogo"
+  },
+  "family": "Podicipedidae",
+  "summary": "The little grebe (Tachybaptus ruficollis), also known as the dabchick, is a member of the grebe family of water birds. The genus name is from Ancient Greek takhus \"fast\" and bapto \"to sink under\". The specific ruficollis is from Latin rufus \"red\" and Modern Latin -collis, \"-necked\", itself derived from Latin collum \"neck\".",
+  "appearance": {
+    "description": "The little grebe is a small water bird with a pointed bill. The adult is unmistakable in summer, predominantly dark above with its rich, rufous colour neck, cheeks and flanks, and bright yellow gape. The rufous is replaced by a dirty brownish grey in non-breeding and juvenile birds.",
+    "colors": "The specific ruficollis is from Latin rufus \"red\" and Modern Latin -collis, \"-necked\", itself derived from Latin collum \"neck\". The adult is unmistakable in summer, predominantly dark above with its rich, rufous colour neck, cheeks and flanks, and bright yellow gape.",
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": {
+      "notes": "The rufous is replaced by a dirty brownish grey in non-breeding and juvenile birds. Juvenile birds have a yellow bill with a small black tip, and black and white streaks on the cheeks and sides of the neck as seen below."
+    },
+    "chick": null
+  },
+  "behaviour": "The little grebe is an excellent swimmer and diver and pursues its fish and aquatic invertebrate prey underwater. It uses the vegetation skilfully as a hiding place. Like all grebes, it nests at the water's edge, since its legs are set very far back and it cannot walk well.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "This bird breeds in small colonies in heavily vegetated areas of freshwater lakes across Europe, much of Asia down to New Guinea, and most of Africa. Most birds move to more open or coastal waters in winter, but it is only migratory in those parts of its range where the waters freeze.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Nairobi",
+      "Central",
+      "Coast",
+      "Eastern"
+    ],
+    "gbif_records_in_kenya": 11963
+  },
+  "look_alikes": [
+    {
+      "label": "Anas_undulata",
+      "common_name": "Yellow-billed Duck",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Burhinus_vermiculatus",
+      "common_name": "Water Thick-knee",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Fulica_cristata",
+      "common_name": "Red-knobbed Coot",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Phoeniconaias_minor",
+      "common_name": "Lesser Flamingo",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Plectropterus_gambensis",
+      "common_name": "Spur-winged Goose",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pterocles_decoratus",
+      "common_name": "Black-faced Sandgrouse",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Thalassornis_leuconotus",
+      "common_name": "White-backed Duck",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Alopochen_aegyptiaca",
+      "common_name": "Egyptian Goose",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_baglafecht",
+      "common_name": "Baglafecht Weaver",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Little grebe",
+      "url": "https://en.wikipedia.org/wiki/Little_grebe",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2482048"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

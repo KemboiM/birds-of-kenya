@@ -1,0 +1,132 @@
+{
+  "label": "Batis_molitor",
+  "scientific_name": "Batis molitor",
+  "common_name": "Chinspot Batis",
+  "other_names": {},
+  "family": "Platysteiridae",
+  "summary": "The chinspot batis (Batis molitor) is a small songbird of the genus Batis in the family Platysteiridae which is a common and widespread species in the woodlands of southern Africa from the Eastern Cape north to 3°N in southern Kenya and Gabon. It forms a superspecies with other rather similar members of the genus Batis.",
+  "appearance": {
+    "description": "The chinspot batis is a rather stout bird 12–13 cm (4.7–5.1 in) in length. It has a black mask on its face, with a short white eyestripe, a grey cap and a white throat. The upperparts are grey with a prominent white wing stripe.",
+    "colors": "It has a black mask on its face, with a short white eyestripe, a grey cap and a white throat. The upperparts are grey with a prominent white wing stripe.",
+    "wings": "The upperparts are grey with a prominent white wing stripe."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        12.0,
+        13.0
+      ]
+    },
+    "juvenile": {
+      "notes": "Young birds are similar to females but the breast band and spot on the throat are tawny."
+    },
+    "chick": {
+      "notes": "The chinspot batis studied had a fledging rate of 0.65 fledglings per pair per annum. Pairs were normally single brooded unless breeding failed or fledged chicks disappeared."
+    }
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": "It is found in Angola, Botswana, Burundi, Republic of the Congo, DRC, Eswatini, Gabon, Kenya, Lesotho, Malawi, Mozambique, Namibia, Rwanda, South Africa, South Sudan, Tanzania, Uganda, Zambia, and Zimbabwe. The chinspot batis is found in Savanna woodland, mainly deciduous, including miombo, i.e.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Nairobi",
+      "Central",
+      "Eastern",
+      "Coast"
+    ],
+    "gbif_records_in_kenya": 18076
+  },
+  "look_alikes": [
+    {
+      "label": "Batis_perkeo",
+      "common_name": "Pygmy Batis",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Laniarius_major",
+      "common_name": "Tropical Boubou",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Tricholaema_melanocephala",
+      "common_name": "Black-throated Barbet",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Emberiza_flaviventris",
+      "common_name": "Golden-breasted Bunting",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Dryoscopus_cubla",
+      "common_name": "Black-backed Puffback",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tricholaema_lacrymosa",
+      "common_name": "Spot-flanked Barbet",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Hedydipna_collaris",
+      "common_name": "Collared Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lanius_humeralis",
+      "common_name": "Northern Fiscal",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Motacilla_aguimp",
+      "common_name": "African Pied Wagtail",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Saxicola_rubetra",
+      "common_name": "Whinchat",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tricholaema_diademata",
+      "common_name": "Red-fronted Barbet",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Vidua_macroura",
+      "common_name": "Pin-tailed Whydah",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Chinspot batis",
+      "url": "https://en.wikipedia.org/wiki/Chinspot_batis",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/5231186"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

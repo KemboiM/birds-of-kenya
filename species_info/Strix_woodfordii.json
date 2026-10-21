@@ -1,0 +1,84 @@
+{
+  "label": "Strix_woodfordii",
+  "scientific_name": "Strix woodfordii",
+  "common_name": "African Wood Owl",
+  "other_names": {},
+  "family": "Strigidae",
+  "summary": "The African wood owl (Strix woodfordii) or Woodford's owl, is a typical owl from the genus Strix in the family Strigidae and is arguably the most common forest owl in Africa. It inhabits wooded areas and possesses a distinctive call. During the day it roosts singly or in pairs in dense cover, high in trees, whilst at night it forages for food.",
+  "appearance": {
+    "description": "The African wood owl is a medium-sized owl which has the typical rounded head of the genus Strix, similar to the Palearctic tawny owl or Holarctic great grey owl, with large dark eyes outlined by white eyebrows. The rest of the head is generally dark brown with white spots and a prominent yellow beak. It has a white belly with brown barring and has and overall rich brown plumage with paler underparts, but this varies considerably across its range.",
+    "colors": "The African wood owl is a medium-sized owl which has the typical rounded head of the genus Strix, similar to the Palearctic tawny owl or Holarctic great grey owl, with large dark eyes outlined by white eyebrows. The rest of the head is generally dark brown with white spots and a prominent yellow beak.",
+    "wings": null
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        30.5,
+        35.0
+      ]
+    },
+    "juvenile": {
+      "notes": "Juveniles are a paler rufous colour."
+    },
+    "chick": {
+      "notes": "Incubation starts with the first egg so that the young hatch asynchronously and if there is a food shortage then siblicide occurs. Five weeks after the eggs hatch, the young will leave the nest and are able to fly two weeks later."
+    }
+  },
+  "behaviour": "The typical song, like that of the tawny owl, is a duet between the male and the female, the male makes a series of rapid, clear hoots, and the female answers with higher pitched, more leisurely hoots. Each series of hoots (for each sex) comprise three groups of syllables (WHU-hu, WHU-hu-hu, hu-hu). Calling begins after dusk.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "African wood owls can be found throughout much of sub-Saharan Africa. They are found from Senegal and The Gambia, along the Gulf of Guinea into the Congo Basin and Angola.",
+    "kenya_regions": [
+      "Coast",
+      "Kenya",
+      "Nairobi",
+      "Rift Valley",
+      "Central",
+      "Kilifi"
+    ],
+    "gbif_records_in_kenya": 1870
+  },
+  "look_alikes": [
+    {
+      "label": "Bubo_lacteus",
+      "common_name": "Verreaux's Eagle-owl",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Bubo_cinerascens",
+      "common_name": "Greyish Eagle-owl",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Glaucidium_perlatum",
+      "common_name": "Pearl-spotted Owlet",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Campephaga_flava",
+      "common_name": "Black Cuckooshrike",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "African wood owl",
+      "url": "https://en.wikipedia.org/wiki/African_wood_owl",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2497530"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "label": "Bycanistes_bucinator",
+  "scientific_name": "Bycanistes bucinator",
+  "common_name": "Trumpeter Hornbill",
+  "other_names": {},
+  "family": "Bucerotidae",
+  "summary": "The trumpeter hornbill (Bycanistes bucinator) is a medium-sized hornbill, with length between 58 and 65 cm (23 and 26 in), characterized by a large grey casque on the bill, smaller in females. The eyes are brown or red, with pink surrounding skin. Body mass is between 0.45 and 1 kg (0.99 and 2.20 lb).",
+  "appearance": {
+    "description": null,
+    "colors": "The trumpeter hornbill (Bycanistes bucinator) is a medium-sized hornbill, with length between 58 and 65 cm (23 and 26 in), characterized by a large grey casque on the bill, smaller in females. The eyes are brown or red, with pink surrounding skin.",
+    "wings": "Distinguishing features include an all-black back, white belly and white underwing coverts (in flight, wings present white tips), and red facial skin."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        65.0,
+        65.0
+      ],
+      "mass_g": [
+        1000.0,
+        1000.0
+      ]
+    },
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Coast",
+      "Kenya",
+      "Eastern",
+      "Kilifi",
+      "Central",
+      "Kwale"
+    ],
+    "gbif_records_in_kenya": 2638
+  },
+  "look_alikes": [
+    {
+      "label": "Bycanistes_brevis",
+      "common_name": "Silvery-cheeked Hornbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Creatophora_cinerea",
+      "common_name": "Wattled Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tockus_deckeni",
+      "common_name": "Von Der Decken's Hornbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Speculipastor_bicolor",
+      "common_name": "Magpie Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Chrysococcyx_klaas",
+      "common_name": "Klaas's Cuckoo",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Trumpeter hornbill",
+      "url": "https://en.wikipedia.org/wiki/Trumpeter_hornbill",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/5228451"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

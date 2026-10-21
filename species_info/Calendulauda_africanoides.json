@@ -1,0 +1,87 @@
+{
+  "label": "Calendulauda_africanoides",
+  "scientific_name": "Calendulauda africanoides",
+  "common_name": "Fawn-coloured Lark",
+  "other_names": {},
+  "family": "Alaudidae",
+  "summary": "The fawn-coloured lark (Calendulauda africanoides) or fawn-coloured bush-lark is a species of lark in the family Alaudidae. It is found in south-central Africa.",
+  "appearance": {
+    "description": null,
+    "colors": "The fawn-coloured lark (Calendulauda africanoides) or fawn-coloured bush-lark is a species of lark in the family Alaudidae.",
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The range of the fawn-coloured lark is broadly spread, with an estimated global extent of occurrence of 2,400,000 km2. It can be found in the countries of Angola, Botswana, Ethiopia, Kenya, Mozambique, Namibia, Somalia, South Africa, Tanzania, Uganda, Zambia, and Zimbabwe.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Eastern",
+      "Nairobi",
+      "Coast",
+      "Laikipia"
+    ],
+    "gbif_records_in_kenya": 4542
+  },
+  "look_alikes": [
+    {
+      "label": "Anthus_cinnamomeus",
+      "common_name": "African Pipit",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Buphagus_erythrorhynchus",
+      "common_name": "Red-billed Oxpecker",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Calidris_pugnax",
+      "common_name": "Ruff",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Odontospiza_caniceps",
+      "common_name": "Grey-headed Silverbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cisticola_chiniana",
+      "common_name": "Rattling Cisticola",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ortygornis_sephaena",
+      "common_name": "Crested Francolin",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Fawn-coloured lark",
+      "url": "https://en.wikipedia.org/wiki/Fawn-coloured_lark",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/7340946"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "label": "Turtur_tympanistria",
+  "scientific_name": "Turtur tympanistria",
+  "common_name": "Tambourine Dove",
+  "other_names": {},
+  "family": "Columbidae",
+  "summary": "The tambourine dove (Turtur tympanistria) is a pigeon which is a widespread resident breeding bird in woodlands and other thick vegetation in Africa south of the Sahara Desert. Its range extends from Senegal east to Ethiopia and Kenya and southwards through eastern Africa to south-eastern South Africa, but it is absent from the drier areas of south-western Africa. There is a population on the Comoros Islands.",
+  "appearance": {
+    "description": null,
+    "colors": "The male has a white face with a black spot behind the eye, white underparts and a grey crown. Its back, hind neck, wings and tail are pale grey brown, and the folded wings have large dark purple patches.",
+    "wings": "Its back, hind neck, wings and tail are pale grey brown, and the folded wings have large dark purple patches. In flight it shows chestnut primary flight feathers and under wings."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        22.0,
+        22.0
+      ]
+    },
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Kenya",
+      "Coast",
+      "Rift Valley",
+      "Central",
+      "Western",
+      "Nairobi"
+    ],
+    "gbif_records_in_kenya": 9348
+  },
+  "look_alikes": [
+    {
+      "label": "Turtur_chalcospilos",
+      "common_name": "Emerald-spotted Wood Dove",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Speculipastor_bicolor",
+      "common_name": "Magpie Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Eurocephalus_ruppelli",
+      "common_name": "Northern White-crowned Shrike",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Oena_capensis",
+      "common_name": "Namaqua Dove",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Streptopelia_semitorquata",
+      "common_name": "Red-eyed Dove",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cisticola_marginatus",
+      "common_name": "Winding Cisticola",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Tambourine dove",
+      "url": "https://en.wikipedia.org/wiki/Tambourine_dove",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/5231790"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

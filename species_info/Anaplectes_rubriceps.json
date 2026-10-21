@@ -1,0 +1,129 @@
+{
+  "label": "Anaplectes_rubriceps",
+  "scientific_name": "Anaplectes rubriceps",
+  "common_name": "Red-headed Weaver",
+  "other_names": {},
+  "family": "Ploceidae",
+  "summary": "The red-headed weaver (Anaplectes rubriceps) is a species of bird in the family Ploceidae. It is placed in the monotypic genus Anaplectes and is found throughout the Afrotropics. The red-headed weaver (Anaplectes rubriceps) is a bird commonly found in eastern and southern Africa in countries such as Zambia, Zimbabwe and most of Mozambique and Botswana.",
+  "appearance": {
+    "description": null,
+    "colors": "The red-headed weaver (Anaplectes rubriceps) is a species of bird in the family Ploceidae. The red-headed weaver (Anaplectes rubriceps) is a bird commonly found in eastern and southern Africa in countries such as Zambia, Zimbabwe and most of Mozambique and Botswana.",
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": "The red-headed weaver searches for insects on leaves and branches either alone or in pairs. It can be found searching for food on leaves and at the tips of branches in bushes, saplings, and both small and large trees. The red-headed weaver usually hangs upside-down and uses its bill to pry open clusters of dead leaves and will probe bark to find insects.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The species can be found in a wide range of areas, from Senegambia to Ethiopia and northwest Somalia, and southwards to Mozambique, northern and northeast Namibia, northern and eastern Botswana, Zimbabwe, northeast South Africa, eastern Eswatini, and northeast KwaZulu-Natal.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Eastern",
+      "Coast",
+      "Central",
+      "Nakuru",
+      "Nairobi"
+    ],
+    "gbif_records_in_kenya": 5383
+  },
+  "look_alikes": [
+    {
+      "label": "Cinnyricinclus_leucogaster",
+      "common_name": "Violet-backed Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Coccopygia_quartinia",
+      "common_name": "Yellow-bellied Waxbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Estrilda_rhodopyga",
+      "common_name": "Crimson-rumped Waxbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ispidina_picta",
+      "common_name": "African Pygmy Kingfisher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Laniarius_erythrogaster",
+      "common_name": "Black-headed Gonolek",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Merops_oreobates",
+      "common_name": "Cinnamon-chested Bee-eater",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Nectarinia_kilimensis",
+      "common_name": "Bronze Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Passer_eminibey",
+      "common_name": "Chestnut Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Quelea_quelea",
+      "common_name": "Red-billed Quelea",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Turdus_tephronotus",
+      "common_name": "Bare-eyed Thrush",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Upupa_epops",
+      "common_name": "Eurasian Hoopoe",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Burhinus_vermiculatus",
+      "common_name": "Water Thick-knee",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lagonosticta_senegala",
+      "common_name": "Red-billed Firefinch",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Red-headed weaver",
+      "url": "https://en.wikipedia.org/wiki/Red-headed_weaver",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2494106"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

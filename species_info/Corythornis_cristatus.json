@@ -1,0 +1,82 @@
+{
+  "label": "Corythornis_cristatus",
+  "scientific_name": "Corythornis cristatus",
+  "common_name": "Malachite Kingfisher",
+  "other_names": {},
+  "family": "Alcedinidae",
+  "summary": "The malachite kingfisher (Corythornis cristatus) is a river kingfisher which is widely distributed in Africa south of the Sahara. It is largely resident except for seasonal climate-related movements.",
+  "appearance": {
+    "description": "It is a small kingfisher, around 13 cm (5.1 in) in length. In Southern Africa, the reference size is 14cm and in East Africa and Ethiopia, 12cm. The general color of the upper parts of the adult bird is bright metallic blue.",
+    "colors": "The general color of the upper parts of the adult bird is bright metallic blue. The head has a short crest of black and blue feathers, which gives rise to the scientific name.",
+    "wings": null
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        13.0,
+        13.0
+      ]
+    },
+    "juvenile": {
+      "notes": "The bill is black in young birds and reddish-orange in adults; the legs are bright red. Sexes are similar, but juveniles are a duller version of the adult."
+    },
+    "chick": null
+  },
+  "behaviour": "=== Breeding === The nest is a tunnel in a sandy bank, usually over water. Both birds excavate. Most burrows incline upward before the nesting chamber is reached.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "This species is common to reeds and aquatic vegetation near slow-moving water or ponds. It occurs throughout Sub-Saharan Africa except for the very arid parts of Somalia, Kenya, Namibia and Botswana.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Nairobi",
+      "Coast",
+      "Nyanza",
+      "Central"
+    ],
+    "gbif_records_in_kenya": 13769
+  },
+  "look_alikes": [
+    {
+      "label": "Ispidina_picta",
+      "common_name": "African Pygmy Kingfisher",
+      "difference": null,
+      "times_confused": 4
+    },
+    {
+      "label": "Phoeniculus_purpureus",
+      "common_name": "Green Wood Hoopoe",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lamprotornis_superbus",
+      "common_name": "Superb Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Vidua_paradisaea",
+      "common_name": "Long-tailed Paradise Whydah",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Malachite kingfisher",
+      "url": "https://en.wikipedia.org/wiki/Malachite_kingfisher",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/6095338"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

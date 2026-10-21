@@ -1,0 +1,75 @@
+{
+  "label": "Rhinoptilus_africanus",
+  "scientific_name": "Rhinoptilus africanus",
+  "common_name": "Double-banded Courser",
+  "other_names": {},
+  "family": "Glareolidae",
+  "summary": "The double-banded courser (Smutsornis africanus), also known as the two-banded courser, is a species of bird in the family Glareolidae. It was formerly placed in the genus Rhinoptilus but is now the only species placed in the genus Smutsornis.",
+  "appearance": {
+    "description": "The bird's crown is pale and streaked with brown/black feathers. A narrow black stripe extends from the base of the bill, through the eye to the nape. The cheeks, chin, throat and neck are buff/white flecked with dark brown.",
+    "colors": "The bird's crown is pale and streaked with brown/black feathers. A narrow black stripe extends from the base of the bill, through the eye to the nape.",
+    "wings": "The feather of the back and wing coverts are sandy brown with dark centres and broadly edged with white/buff."
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": "=== Breeding === Double-banded coursers breed in monogamous pairs. Breeding begins after a mating dance where the male dances in semicircles around the female. The female then lays one egg, which the parents take hour-long shifts incubating; the egg hatches after about twenty-five days.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The double-banded courser is found in Ethiopia, Somalia, South Africa, and Tanzania. The bird is widespread enough to have practically no chance of becoming endangered or extinct.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Kajiado",
+      "Coast",
+      "Narok",
+      "Rift Valley Province"
+    ],
+    "gbif_records_in_kenya": 2075
+  },
+  "look_alikes": [
+    {
+      "label": "Cisticola_natalensis",
+      "common_name": "Croaking Cisticola",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pterocles_decoratus",
+      "common_name": "Black-faced Sandgrouse",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Rhinoptilus_cinctus",
+      "common_name": "Three-banded Courser",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lophotis_gindiana",
+      "common_name": "Buff-crested Bustard",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Double-banded courser",
+      "url": "https://en.wikipedia.org/wiki/Double-banded_courser",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2480738"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

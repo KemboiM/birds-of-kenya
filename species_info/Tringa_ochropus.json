@@ -1,0 +1,75 @@
+{
+  "label": "Tringa_ochropus",
+  "scientific_name": "Tringa ochropus",
+  "common_name": "Green Sandpiper",
+  "other_names": {
+    "sw": "Chamchanga Kijani"
+  },
+  "family": "Scolopacidae",
+  "summary": "The green sandpiper (Tringa ochropus) is a small wader (shorebird) of the Old World. The green sandpiper represents an ancient lineage of the genus Tringa; its only close living relative is the solitary sandpiper (T. solitaria). They both have brown wings with little light dots and a delicate but contrasting neck and chest pattern.",
+  "appearance": {
+    "description": "This species is a somewhat plump wader with a dark greenish-brown back and wings, greyish head and breast and otherwise white underparts. The back is spotted white to varying extents, being maximal in the breeding adult, and less in winter and young birds. The legs and short bill are both dark green.",
+    "colors": "The green sandpiper (Tringa ochropus) is a small wader (shorebird) of the Old World. The green sandpiper represents an ancient lineage of the genus Tringa; its only close living relative is the solitary sandpiper (T. solitaria).",
+    "wings": "They both have brown wings with little light dots and a delicate but contrasting neck and chest pattern. This species is a somewhat plump wader with a dark greenish-brown back and wings, greyish head and breast and otherwise white underparts."
+  },
+  "size": {
+    "adult": null,
+    "juvenile": {
+      "notes": "The back is spotted white to varying extents, being maximal in the breeding adult, and less in winter and young birds."
+    },
+    "chick": {
+      "notes": "The clutch takes about three weeks to hatch."
+    }
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The green sandpiper breeds across subarctic Europe and east across the Palearctic and is a migratory bird, wintering in southern Europe, the Indian subcontinent, Southeast Asia, and tropical Africa. Food is small invertebrate items picked off the mud as this species works steadily around the edges of its chosen pond.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Nairobi",
+      "Eastern",
+      "Central",
+      "Coast"
+    ],
+    "gbif_records_in_kenya": 6518
+  },
+  "look_alikes": [
+    {
+      "label": "Actitis_hypoleucos",
+      "common_name": "Common Sandpiper",
+      "difference": null,
+      "times_confused": 4
+    },
+    {
+      "label": "Tringa_glareola",
+      "common_name": "Wood Sandpiper",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Tringa_nebularia",
+      "common_name": "Common Greenshank",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Green sandpiper",
+      "url": "https://en.wikipedia.org/wiki/Green_sandpiper",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2481728"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

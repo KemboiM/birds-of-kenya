@@ -1,0 +1,120 @@
+{
+  "label": "Turdus_pelios",
+  "scientific_name": "Turdus pelios",
+  "common_name": "African Thrush",
+  "other_names": {},
+  "family": "Turdidae",
+  "summary": "The African thrush or West African thrush (Turdus pelios) is a passerine bird in the thrush family Turdidae. It is common in well-wooded areas over much of the western part of sub-Saharan Africa, it was once considered to be conspecific with the olive thrush but that species has now been split further. Populations are resident (non-migratory).",
+  "appearance": {
+    "description": "The African Thrush has dark olive-grey upperparts. The underparts show a whitish evenly brown- streaked side throat, the breast is greyish brown and the flanks are pale buff-orange with this colour not extending on to the lower breast, the belly and vent are white. It has a yellow-orange bill.",
+    "colors": "It is common in well-wooded areas over much of the western part of sub-Saharan Africa, it was once considered to be conspecific with the olive thrush but that species has now been split further. The African Thrush has dark olive-grey upperparts.",
+    "wings": null
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        21.0,
+        23.0
+      ],
+      "mass_g": [
+        46.0,
+        78.0
+      ]
+    },
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": "The song of the African thrush is a sustained, clear warbling made up of different phrases repeated rather randomly in a sequence. Also a high-pitched squealing flight call.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The African thrush is distributed from Senegal and Gambia in the west to South Sudan, Uganda, Ethiopia and Eritrea south to northwestern Zambia and western Angola. The African thrush can be found in all sorts of wooded habitats including forest edge, riparian woodland, scrub cultivation, parks and gardens.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Western",
+      "Kenya",
+      "Nyanza",
+      "Nakuru",
+      "Kisumu"
+    ],
+    "gbif_records_in_kenya": 5856
+  },
+  "look_alikes": [
+    {
+      "label": "Turdus_abyssinicus",
+      "common_name": "Abyssinian Thrush",
+      "difference": null,
+      "times_confused": 3
+    },
+    {
+      "label": "Urorhipis_rufifrons",
+      "common_name": "Red-fronted Prinia",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ardea_melanocephala",
+      "common_name": "Black-headed Heron",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bubalornis_niger",
+      "common_name": "Red-billed Buffalo Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Eurillas_latirostris",
+      "common_name": "Yellow-whiskered Greenbul",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Muscicapa_striata",
+      "common_name": "Spotted Flycatcher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_bojeri",
+      "common_name": "Golden Palm Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Zosterops_kikuyuensis",
+      "common_name": "Kikuyu White-eye",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_xanthops",
+      "common_name": "Holub's Golden Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Dessonornis_caffer",
+      "common_name": "Cape Robin-chat",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "African thrush",
+      "url": "https://en.wikipedia.org/wiki/African_thrush",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/9348895"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "label": "Lanius_mackinnoni",
+  "scientific_name": "Lanius mackinnoni",
+  "common_name": "Mackinnon's Shrike",
+  "other_names": {},
+  "family": "Laniidae",
+  "summary": "Mackinnon's shrike (Lanius mackinnoni), also called Mackinnon's fiscal, is a songbird species of the family Laniidae. Its natural habitats are subtropical or tropical moist montane forests and moist savanna. It is not considered a threatened species by the IUCN.The population of this species is increasing, which is thought to be due to the degradation of nearby habitat.",
+  "appearance": {
+    "description": "Mackinnon's shrike grows to a length of about 20 cm (8 in). The adult male has a greyish-black head and mantle, a white supercilium, white scapulars and black wings. The tail is black with white margins and the underparts are white, sometimes tinged with buff.",
+    "colors": "It is not considered a threatened species by the IUCN.The population of this species is increasing, which is thought to be due to the degradation of nearby habitat. The adult male has a greyish-black head and mantle, a white supercilium, white scapulars and black wings.",
+    "wings": "The adult male has a greyish-black head and mantle, a white supercilium, white scapulars and black wings."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        20.0,
+        20.0
+      ]
+    },
+    "juvenile": {
+      "notes": "The juvenile is greyish-brown and heavily barred."
+    },
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": "Mackinnon's fiscal is found in tropical humid parts of Central Africa. It has a disjunct range (from the Obudu Plateau to northern Angola on one hand and across northern Congo, the Ruwenzori and Lake Victoria regions on the other).",
+    "kenya_regions": [
+      "Western",
+      "Kenya",
+      "Rift Valley",
+      "Kakamega",
+      "Western Province",
+      "Nyanza Province"
+    ],
+    "gbif_records_in_kenya": 1820
+  },
+  "look_alikes": [
+    {
+      "label": "Lanius_humeralis",
+      "common_name": "Northern Fiscal",
+      "difference": null,
+      "times_confused": 2
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Mackinnon's shrike",
+      "url": "https://en.wikipedia.org/wiki/Mackinnon%27s_shrike",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2492844"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "label": "Eminia_lepida",
+  "scientific_name": "Eminia lepida",
+  "common_name": "Grey-capped Warbler",
+  "other_names": {},
+  "family": "Cisticolidae",
+  "summary": "The grey-capped warbler (Eminia lepida) is a species of bird in the family Cisticolidae. It is monotypic (only species) in the genus Eminia. The grey-capped warbler is found in Burundi, Democratic Republic of the Congo, Kenya, Rwanda, South Sudan, Tanzania, and Uganda.",
+  "appearance": {
+    "description": "The grey-capped warbler is roughly 15 cm in length, and weighs 16–24 grams. It is typically chunky and thin-tailed with a distinctive grey cap, a black band around the head, and a chestnut throat with rump feathers that are long and lax. Its cheek, neck, and underparts are grey and it is tinged olive-green on the flanks and under tail-coverts.",
+    "colors": "The grey-capped warbler (Eminia lepida) is a species of bird in the family Cisticolidae. The grey-capped warbler is found in Burundi, Democratic Republic of the Congo, Kenya, Rwanda, South Sudan, Tanzania, and Uganda.",
+    "wings": "The tail and the median and greater upper wing-coverts are olive-green. The lesser coverts and underwing-coverts are chestnut."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        15.0,
+        15.0
+      ]
+    },
+    "juvenile": null,
+    "chick": {
+      "notes": "Chicks are fed by both sexes, the male often passing food to the female and she then feeds the nestlings. The fledging period is 16 days with the adults accompanying the fledglings, calling loudly if approached."
+    }
+  },
+  "behaviour": "Its diet includes insects and other invertebrates, including caterpillars and moths (Lepidoptera), grasshoppers (Orthoptera), mantids (Mantodea), spiders (Araneae), and millipedes (Diplopoda). It forages by gleaning from foliage and bark, actively searching among dead, curled-up leaves, crevices in bark, and holes in twigs. It is secretive and lurks among dense vegetation, and may easily be overlooked if not singing.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The natural habitat of the grey-capped warbler is subtropical or moist tropical shrubland. It is found in dense undergrowth, scrub, and creepers, usually in damp areas along forest edges, seeps, or riparian strips, as well as around well-planted gardens.",
+    "kenya_regions": [
+      "Kenya",
+      "Rift Valley",
+      "Nairobi",
+      "Central",
+      "Nyanza",
+      "Western"
+    ],
+    "gbif_records_in_kenya": 11077
+  },
+  "look_alikes": [
+    {
+      "label": "Tchagra_senegalus",
+      "common_name": "Black-crowned Tchagra",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Colius_striatus",
+      "common_name": "Speckled Mousebird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Drepanorhynchus_reichenowi",
+      "common_name": "Golden-winged Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Turdoides_hypoleuca",
+      "common_name": "Northern Pied Babbler",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Dryoscopus_cubla",
+      "common_name": "Black-backed Puffback",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Grey-capped warbler",
+      "url": "https://en.wikipedia.org/wiki/Grey-capped_warbler",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/5231294"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

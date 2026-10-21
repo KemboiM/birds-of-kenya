@@ -1,0 +1,86 @@
+{
+  "label": "Oenanthe_pileata",
+  "scientific_name": "Oenanthe pileata",
+  "common_name": "Capped Wheatear",
+  "other_names": {},
+  "family": "Muscicapidae",
+  "summary": "The capped wheatear (Oenanthe pileata) is a small insectivorous passerine bird that is widely distributed over southern Africa. It was formerly classed as a member of the thrush family Turdidae, but is now placed in the Old World flycatcher family, Muscicapidae.",
+  "appearance": {
+    "description": "The capped wheatear is 17–18 cm long and weighs 32 g. Its legs and pointed bill are black. This common species is striking and unmistakable in appearance.",
+    "colors": "Its legs and pointed bill are black. The adult has a black cap, cheeks and breast band, and white eye stripe and throat.",
+    "wings": null
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        17.0,
+        18.0
+      ],
+      "mass_g": [
+        32.0,
+        32.0
+      ]
+    },
+    "juvenile": {
+      "notes": "The juvenile has a brown cap and cheeks, and the breast band is weak and diffuse."
+    },
+    "chick": null
+  },
+  "behaviour": "The capped wheatear's song is a loud melodic warble interspersed with slurred chattering, and it has a chik-chik alarm call. It is monogamous and builds a nest of straw, grass, and leaves in a hole in the ground or a termite mound. It may use man-made drainage pipes if available.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "This wheatear is found in open dry sandy and stony habitats and short grassland with a few bushes and termite mounds in Africa, from Kenya and Angola south to the Cape. It is largely non-migratory, but undertakes seasonal movements.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Coast",
+      "Nairobi",
+      "Central",
+      "Eastern"
+    ],
+    "gbif_records_in_kenya": 2005
+  },
+  "look_alikes": [
+    {
+      "label": "Buphagus_africanus",
+      "common_name": "Yellow-billed Oxpecker",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Oenanthe_pleschanka",
+      "common_name": "Pied Wheatear",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Saxicola_rubetra",
+      "common_name": "Whinchat",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Vanellus_spinosus",
+      "common_name": "Spur-winged Lapwing",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Capped wheatear",
+      "url": "https://en.wikipedia.org/wiki/Capped_wheatear",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/5231249"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

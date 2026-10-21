@@ -1,0 +1,136 @@
+{
+  "label": "Streptopelia_capicola",
+  "scientific_name": "Streptopelia capicola",
+  "common_name": "Ring-necked Dove",
+  "other_names": {},
+  "family": "Columbidae",
+  "summary": "The ring-necked dove (Streptopelia capicola), also known as the Cape turtle dove, half-collared dove, or the Cape Lager is a widespread and often abundant dove species in East and southern Africa. It is a mostly sedentary bird, found in a variety of open habitats. Within range, its penetrating and rhythmic, three-syllabled crooning is a familiar sound at any time of the year.",
+  "appearance": {
+    "description": "Their body feathers are darkest on the upper side, where they are coloured in dull tones of grey and brown, with shades of lavender on the nape. It is paler below, where a tint of pinkish lavender is usually present. The lower belly and crissum (the undertail coverts surrounding the cloaca) is white.",
+    "colors": "The ring-necked dove (Streptopelia capicola), also known as the Cape turtle dove, half-collared dove, or the Cape Lager is a widespread and often abundant dove species in East and southern Africa. Its name is derived from the semi-collar of black feathers on the lower nape, a feature shared with a number of Streptopelia species.",
+    "wings": "It also has buff edges to all the upper part and wing covert feathers, while the plumage below is broadly edged greyish-white."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        25.0,
+        26.5
+      ],
+      "mass_g": [
+        92.0,
+        188.0
+      ]
+    },
+    "juvenile": {
+      "notes": "An immature is duller and lacks the semi-collar of an adult."
+    },
+    "chick": {
+      "notes": "Chicks are fed regurgitated food by both parents and fledge after about 16 days."
+    }
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": "It occupies a diverse range of habitat types, including semi-desert scrub, Boscia and Acacia savannah, a variety of woodland types, farmlands, open plantations and alien acacia thickets. Only closed forest or plantations, or the extensive waterless dune fields and gravel plains of the Namib are unsuited to their requirements.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Coast",
+      "Eastern",
+      "Nairobi",
+      "Central"
+    ],
+    "gbif_records_in_kenya": 45646
+  },
+  "look_alikes": [
+    {
+      "label": "Streptopelia_semitorquata",
+      "common_name": "Red-eyed Dove",
+      "difference": null,
+      "times_confused": 9
+    },
+    {
+      "label": "Streptopelia_decipiens",
+      "common_name": "Mourning Collared Dove",
+      "difference": null,
+      "times_confused": 4
+    },
+    {
+      "label": "Vanellus_melanopterus",
+      "common_name": "Black-winged Lapwing",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pelecanus_rufescens",
+      "common_name": "Pink-backed Pelican",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Dinemellia_dinemelli",
+      "common_name": "White-headed Buffalo Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Eupodotis_senegalensis",
+      "common_name": "White-bellied Bustard",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Creatophora_cinerea",
+      "common_name": "Wattled Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Haliaeetus_vocifer",
+      "common_name": "African Fish Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lanius_phoenicuroides",
+      "common_name": "Red-tailed Shrike",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pseudonigrita_cabanisi",
+      "common_name": "Black-capped Social Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ptyonoprogne_fuligula",
+      "common_name": "Large Rock Martin",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tockus_deckeni",
+      "common_name": "Von Der Decken's Hornbill",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Ring-necked dove",
+      "url": "https://en.wikipedia.org/wiki/Ring-necked_dove",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2495667"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

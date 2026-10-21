@@ -1,0 +1,84 @@
+{
+  "label": "Otus_senegalensis",
+  "scientific_name": "Otus senegalensis",
+  "common_name": "African Scops Owl",
+  "other_names": {},
+  "family": "Strigidae",
+  "summary": "The African scops owl (Otus senegalensis) is a small owl which is widespread in sub-Saharan Africa.",
+  "appearance": {
+    "description": "The African scops owl is a small owl, measuring 17 cm (6.7 in) in length. It is typically greyish-brown, though sometimes pale rufous or warmer brown, and is cryptically marked with streaks and mottling. Its grey facial disk has a narrow black edge, and its eyes are yellow.",
+    "colors": "It is typically greyish-brown, though sometimes pale rufous or warmer brown, and is cryptically marked with streaks and mottling. Its grey facial disk has a narrow black edge, and its eyes are yellow.",
+    "wings": null
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        17.0,
+        17.0
+      ],
+      "wingspan_cm": [
+        45.0,
+        45.0
+      ]
+    },
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": "The African scops owl gives a monotonous quivering distinctive \"prrrp\" at five second intervals. The African scops owl is strictly nocturnal. During the day, it perches close to the trunk of a tree.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The African scops owl is endemic to sub-Saharan Africa. It ranges from sea level to 2,000 m (6,600 ft) in elevation, and is found in wooded habitats and forest edge, including in gardens and mangroves.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Eastern",
+      "Coast",
+      "Baringo",
+      "Isiolo"
+    ],
+    "gbif_records_in_kenya": 1421
+  },
+  "look_alikes": [
+    {
+      "label": "Corvus_splendens",
+      "common_name": "House Crow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Quelea_quelea",
+      "common_name": "Red-billed Quelea",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Turdoides_jardineii",
+      "common_name": "Arrow-marked Babbler",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Caprimulgus_clarus",
+      "common_name": "Slender-tailed Nightjar",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "African scops owl",
+      "url": "https://en.wikipedia.org/wiki/African_scops_owl",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/5232311"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "label": "Bradornis_microrhynchus",
+  "scientific_name": "Bradornis microrhynchus",
+  "common_name": "African Grey Flycatcher",
+  "other_names": {
+    "sw": "Shore Kijivu"
+  },
+  "family": "Muscicapidae",
+  "summary": "The African grey flycatcher, grayish flycatcher, or large flycatcher (Bradornis microrhynchus) is a passerine bird in the Old World flycatcher family Muscicapidae that occurs in parts of East Africa.",
+  "appearance": {
+    "description": null,
+    "colors": "The African grey flycatcher, grayish flycatcher, or large flycatcher (Bradornis microrhynchus) is a passerine bird in the Old World flycatcher family Muscicapidae that occurs in parts of East Africa.",
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": "It is found in Ethiopia, Kenya, Somalia, South Sudan, Tanzania, and Uganda. Its natural habitats are dry savanna and subtropical or tropical dry shrubland.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Eastern",
+      "Nairobi",
+      "Coast",
+      "Central"
+    ],
+    "gbif_records_in_kenya": 14522
+  },
+  "look_alikes": [
+    {
+      "label": "Oenanthe_isabellina",
+      "common_name": "Isabelline Wheatear",
+      "difference": null,
+      "times_confused": 3
+    },
+    {
+      "label": "Muscicapa_adusta",
+      "common_name": "African Dusky Flycatcher",
+      "difference": null,
+      "times_confused": 3
+    },
+    {
+      "label": "Bradornis_pallidus",
+      "common_name": "Pale Flycatcher",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Cisticola_chiniana",
+      "common_name": "Rattling Cisticola",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Motacilla_capensis",
+      "common_name": "Cape Wagtail",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lybius_leucocephalus",
+      "common_name": "White-headed Barbet",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Actitis_hypoleucos",
+      "common_name": "Common Sandpiper",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Passer_rufocinctus",
+      "common_name": "Kenya Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Creatophora_cinerea",
+      "common_name": "Wattled Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Gymnoris_pyrgita",
+      "common_name": "Yellow-spotted Bush Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Passer_gongonensis",
+      "common_name": "Parrot-billed Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Plocepasser_mahali",
+      "common_name": "White-browed Sparrow-weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Turdoides_sharpei",
+      "common_name": "Black-lored Babbler",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pycnonotus_barbatus",
+      "common_name": "Common Bulbul",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "African grey flycatcher",
+      "url": "https://en.wikipedia.org/wiki/African_grey_flycatcher",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/9476359"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

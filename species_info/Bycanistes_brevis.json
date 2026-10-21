@@ -1,0 +1,183 @@
+{
+  "label": "Bycanistes_brevis",
+  "scientific_name": "Bycanistes brevis",
+  "common_name": "Silvery-cheeked Hornbill",
+  "other_names": {},
+  "family": "Bucerotidae",
+  "summary": "The silvery-cheeked hornbill (Bycanistes brevis) is a large species of hornbill found in Africa. Silvery-cheeked hornbills are residents of the tall evergreen forests of East Africa from Ethiopia to South Africa. In Zimbabwe it is threatened by habitat destruction and its presence in South Africa is marginal, but it remains locally fairly common, especially in the northern and central parts of its range.",
+  "appearance": {
+    "description": "It measures 75 to 80 centimetres (30 to 31 in) in length, and has a very large cream-colored casque on the beak. The head is silver-grey and the rest of the plumage is iridescent black, except for the white rump, lower back, thighs, vent and tip of the outer tail-feathers. The sexes are similar except the female has a smaller casque and reddish skin around the eyes.",
+    "colors": "Silvery-cheeked hornbills are residents of the tall evergreen forests of East Africa from Ethiopia to South Africa. It measures 75 to 80 centimetres (30 to 31 in) in length, and has a very large cream-colored casque on the beak.",
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": "It is omnivorous, feeding on fruits, insects, small birds, rodents, small reptiles and centipedes. Usually they live in pairs and sometimes roost in flocks of hundreds of individuals. They breed in spring (September and October; at least in part of its range) and lay clutches of one to three white eggs, incubated for 40 days.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Central",
+      "Kenya",
+      "Coast",
+      "Nairobi",
+      "Eastern",
+      "Rift Valley"
+    ],
+    "gbif_records_in_kenya": 5578
+  },
+  "look_alikes": [
+    {
+      "label": "Bycanistes_subcylindricus",
+      "common_name": "Black-and-white-casqued Hornbill",
+      "difference": null,
+      "times_confused": 5
+    },
+    {
+      "label": "Corvus_albus",
+      "common_name": "Pied Crow",
+      "difference": null,
+      "times_confused": 4
+    },
+    {
+      "label": "Lophoceros_alboterminatus",
+      "common_name": "Crowned Hornbill",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Bycanistes_bucinator",
+      "common_name": "Trumpeter Hornbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tricholaema_lacrymosa",
+      "common_name": "Spot-flanked Barbet",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Apalis_flavida",
+      "common_name": "Yellow-breasted Apalis",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bubalornis_niger",
+      "common_name": "Red-billed Buffalo Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Corythaixoides_leucogaster",
+      "common_name": "White-bellied Go-away-bird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Dicrurus_adsimilis",
+      "common_name": "Fork-tailed Drongo",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Motacilla_clara",
+      "common_name": "Mountain Wagtail",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tringa_glareola",
+      "common_name": "Wood Sandpiper",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Dendropicos_fuscescens",
+      "common_name": "Cardinal Woodpecker",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tauraco_hartlaubi",
+      "common_name": "Hartlaub's Turaco",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Phoeniculus_purpureus",
+      "common_name": "Green Wood Hoopoe",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Laniarius_funebris",
+      "common_name": "Slate-colored Boubou",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Onychognathus_morio",
+      "common_name": "Red-winged Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Campethera_nubica",
+      "common_name": "Nubian Woodpecker",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Terpsiphone_viridis",
+      "common_name": "African Paradise Flycatcher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Colius_striatus",
+      "common_name": "Speckled Mousebird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Eurocephalus_ruppelli",
+      "common_name": "Northern White-crowned Shrike",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bostrychia_hagedash",
+      "common_name": "Hadada Ibis",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Milvus_migrans",
+      "common_name": "Black Kite",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Silvery-cheeked hornbill",
+      "url": "https://en.wikipedia.org/wiki/Silvery-cheeked_hornbill",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/5228450"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

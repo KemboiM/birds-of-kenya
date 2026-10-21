@@ -1,0 +1,148 @@
+{
+  "label": "Pseudonigrita_cabanisi",
+  "scientific_name": "Pseudonigrita cabanisi",
+  "common_name": "Black-capped Social Weaver",
+  "other_names": {},
+  "family": "Passeridae",
+  "summary": "The black-capped social weaver (Pseudonigrita cabanisi) is a sparrow-like species of bird that has been assigned to the weaverbird family. It was originally described by Fisher and Reichenow, and later re-classified by the latter to the genus Pseudonigrita. Adults have a large black cap, ivory-colored bill, red eyes, brown back and wings, blackish-brown tail, white throat and underparts with a black midline, and dark horn-colored legs.",
+  "appearance": {
+    "description": "The black-capped weaver is 13 cm (5.1 in) long and weighs 18–24 g (0.63–0.85 oz). Adult birds have an extensive and well-delimited black cap that runs from the bill opening, across the crown to the back neck, and also covers the area around the eye and ear. The neck, mantle, wings and rump are evenly brown.",
+    "colors": "The black-capped social weaver (Pseudonigrita cabanisi) is a sparrow-like species of bird that has been assigned to the weaverbird family. Adults have a large black cap, ivory-colored bill, red eyes, brown back and wings, blackish-brown tail, white throat and underparts with a black midline, and dark horn-colored legs.",
+    "wings": "Adults have a large black cap, ivory-colored bill, red eyes, brown back and wings, blackish-brown tail, white throat and underparts with a black midline, and dark horn-colored legs. The neck, mantle, wings and rump are evenly brown."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        13.0,
+        13.0
+      ],
+      "mass_g": [
+        18.0,
+        24.0
+      ]
+    },
+    "juvenile": {
+      "notes": "Young birds miss the black markings entirely, which instead are the same brownish shade as the mantle and wings. The bill of juveniles is horn-colored and the iris is dark brown."
+    },
+    "chick": {
+      "notes": "Nests have two downward-facing entrances, one of which is closed as soon as the eggs are laid until the moment the youngsters fledge."
+    }
+  },
+  "behaviour": "The black-capped social weaver is monogamous and breeds in colonies. It feeds primarily on grass seeds, but also takes juicy vegetation to get enough water, and insects, particularly to feed the nestlings.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "Pseudonigrita cabanisi occurs in central and southern Ethiopia, much of Kenya, a patch of Somalia towards the tripoint with Ethiopia and Kenya, and in northern Tanzania. The black-capped social weaver prefers semi-arid savannas dominated by acacias and other thorny bushes.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Eastern",
+      "Kenya",
+      "Coast",
+      "Samburu",
+      "Isiolo"
+    ],
+    "gbif_records_in_kenya": 3869
+  },
+  "look_alikes": [
+    {
+      "label": "Cinnyricinclus_leucogaster",
+      "common_name": "Violet-backed Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Clamator_jacobinus",
+      "common_name": "Jacobin Cuckoo",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Dryoscopus_cubla",
+      "common_name": "Black-backed Puffback",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lagonosticta_senegala",
+      "common_name": "Red-billed Firefinch",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Notopholia_corrusca",
+      "common_name": "Black-bellied Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Oena_capensis",
+      "common_name": "Namaqua Dove",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Oenanthe_oenanthe",
+      "common_name": "Northern Wheatear",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Passer_eminibey",
+      "common_name": "Chestnut Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Anthreptes_orientalis",
+      "common_name": "Eastern Violet-backed Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Buteo_augur",
+      "common_name": "Augur Buzzard",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_cucullatus",
+      "common_name": "Village Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Streptopelia_semitorquata",
+      "common_name": "Red-eyed Dove",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Streptopelia_capicola",
+      "common_name": "Ring-necked Dove",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lanius_humeralis",
+      "common_name": "Northern Fiscal",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Black-capped social weaver",
+      "url": "https://en.wikipedia.org/wiki/Black-capped_social_weaver",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2492352"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

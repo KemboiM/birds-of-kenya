@@ -1,0 +1,149 @@
+{
+  "label": "Ploceus_xanthops",
+  "scientific_name": "Ploceus xanthops",
+  "common_name": "Holub's Golden Weaver",
+  "other_names": {},
+  "family": "Ploceidae",
+  "summary": "Holub's golden weaver (Ploceus xanthops), also known as the African golden weaver, is a species of bird in the family Ploceidae. The common name commemorates the Czech naturalist Emil Holub. It is found from Gabon to Uganda and Kenya, south to northern Namibia, northern Botswana and eastern South Africa.",
+  "appearance": {
+    "description": "Males differentiate from the females because of their full yellow heads, bright greenish-yellow body and the bit of orange under their chins that continues to the upper breast. The coloring on the females are duller and they only have the yellow coloring on the forehead. The males and the females share several similar characteristics, dull brown wings on the upper portion and then the lower portion having a yellow coloring.",
+    "colors": "They have a yellow on their heads and light yellow eyes. Males differentiate from the females because of their full yellow heads, bright greenish-yellow body and the bit of orange under their chins that continues to the upper breast.",
+    "wings": "The males and the females share several similar characteristics, dull brown wings on the upper portion and then the lower portion having a yellow coloring."
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": {
+      "notes": "The incubation time is fourteen to fifteen days and after hatching they spend nineteen to twenty two days in the nest where they are fed by both parents."
+    }
+  },
+  "behaviour": "=== Diet === The Holub's Golden Weaver is omnivorous and eats a diet of invertebrate fruits, seed and nectar. The insects include beetle larvae, termites, grasshoppers, praying mantis, tabanid flies and spiders. The fruit includes guavas, figs and rhus pyroides.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "They live in seventeen countries which are Angola, Botswana, Burundi, Congo, The Democratic Republic of the Congo, Eswatini, Gabon, Kenya, Malawi, Mozambique, Namibia, Rwanda, South Africa, United Republic of Tanzania, Uganda, Zambia and Zimbabwe. They live in areas that are inland from freshwater which includes forests, savannas, shrublands, grasslands, and wetlands.",
+    "kenya_regions": [
+      "Nairobi",
+      "Kenya",
+      "Central",
+      "Rift Valley",
+      "Eastern",
+      "Nyanza"
+    ],
+    "gbif_records_in_kenya": 8499
+  },
+  "look_alikes": [
+    {
+      "label": "Ploceus_ocularis",
+      "common_name": "Spectacled Weaver",
+      "difference": null,
+      "times_confused": 3
+    },
+    {
+      "label": "Ploceus_cucullatus",
+      "common_name": "Village Weaver",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Crithagra_sulphurata",
+      "common_name": "Brimstone Canary",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Ploceus_spekei",
+      "common_name": "Speke's Weaver",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Chlorocichla_laetissima",
+      "common_name": "Joyful Greenbul",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Euplectes_afer",
+      "common_name": "Yellow-crowned Bishop",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_subaureus",
+      "common_name": "Eastern Golden Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_castaneiceps",
+      "common_name": "Taveta Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Crithagra_citrinelloides",
+      "common_name": "African Citril",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_bojeri",
+      "common_name": "Golden Palm Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Crithagra_dorsostriata",
+      "common_name": "White-bellied Canary",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Gymnoris_pyrgita",
+      "common_name": "Yellow-spotted Bush Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Oriolus_larvatus",
+      "common_name": "Black-headed Oriole",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_baglafecht",
+      "common_name": "Baglafecht Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_vitellinus",
+      "common_name": "Vitelline Masked Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Turdus_pelios",
+      "common_name": "African Thrush",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Holub's golden weaver",
+      "url": "https://en.wikipedia.org/wiki/Holub%27s_golden_weaver",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2494027"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

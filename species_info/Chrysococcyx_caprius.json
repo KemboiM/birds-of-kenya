@@ -1,0 +1,89 @@
+{
+  "label": "Chrysococcyx_caprius",
+  "scientific_name": "Chrysococcyx caprius",
+  "common_name": "Diederik Cuckoo",
+  "other_names": {},
+  "family": "Cuculidae",
+  "summary": "The diederik cuckoo (Chrysococcyx caprius), formerly dideric cuckoo or didric cuckoo, is a member of the cuckoo family of birds, Cuculidae, which also includes the roadrunners and the anis.",
+  "appearance": {
+    "description": "The diederik cuckoo is a smallish cuckoo at 18 to 20 cm. Adult males are glossy green above with copper-sheened areas on the back and whitish underparts. They have a broken white eye-stripe and a short, green malar stripe.",
+    "colors": "Adult males are glossy green above with copper-sheened areas on the back and whitish underparts. They have a broken white eye-stripe and a short, green malar stripe.",
+    "wings": "Juveniles have a red bill, streaky throat and a white wing-bar."
+  },
+  "size": {
+    "adult": null,
+    "juvenile": {
+      "notes": "Juveniles have a red bill, streaky throat and a white wing-bar."
+    },
+    "chick": null
+  },
+  "behaviour": "=== Breeding === The diederik cuckoo is a brood parasite. It lays a single egg mostly in the nests of weavers, especially the village weaver and the bishops in the genus Euplectes. For example, it has been recorded in red-collared widowbirds.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "It is a common resident breeder in Sub-Saharan Africa and the southern Arabian Peninsula. It has been recorded as far north as Cyprus (1982 & 2023).",
+    "kenya_regions": [
+      "Kenya",
+      "Rift Valley",
+      "Coast",
+      "Nairobi",
+      "Eastern",
+      "Western"
+    ],
+    "gbif_records_in_kenya": 11422
+  },
+  "look_alikes": [
+    {
+      "label": "Corythaixoides_leucogaster",
+      "common_name": "White-bellied Go-away-bird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Dryoscopus_cubla",
+      "common_name": "Black-backed Puffback",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lophoceros_nasutus",
+      "common_name": "African Grey Hornbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Dendropicos_fuscescens",
+      "common_name": "Cardinal Woodpecker",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Polihierax_semitorquatus",
+      "common_name": "Pygmy Falcon",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Hirundo_rustica",
+      "common_name": "Barn Swallow",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Diederik cuckoo",
+      "url": "https://en.wikipedia.org/wiki/Diederik_cuckoo",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2496333"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "label": "Eremopterix_leucopareia",
+  "scientific_name": "Eremopterix leucopareia",
+  "common_name": "Fischer's Sparrow-lark",
+  "other_names": {},
+  "family": "Alaudidae",
+  "summary": "Fischer's sparrow-lark (Eremopterix leucopareia) or Fischer's finch-lark is a species of passerine bird in the family Alaudidae. It is found from central Kenya to eastern Zambia, Malawi and north-western Mozambique. Its natural habitat is subtropical or tropical dry lowland grassland.",
+  "appearance": {
+    "description": null,
+    "colors": "This inconspicuous dull-coloured bird somewhat resembles a finch. It can be distinguished from the similar chestnut-headed sparrow-lark by the absence of a white patch on the crown of its head.",
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Eastern",
+      "Nairobi",
+      "Coast",
+      "Kajiado"
+    ],
+    "gbif_records_in_kenya": 9097
+  },
+  "look_alikes": [
+    {
+      "label": "Eremopterix_signatus",
+      "common_name": "Chestnut-headed Sparrow-lark",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Rhinoptilus_cinctus",
+      "common_name": "Three-banded Courser",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Oenanthe_pleschanka",
+      "common_name": "Pied Wheatear",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Calandrella_cinerea",
+      "common_name": "Red-capped Lark",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Anthus_cinnamomeus",
+      "common_name": "African Pipit",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Gyps_rueppellii",
+      "common_name": "Rüppell's Vulture",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pseudonigrita_arnaudi",
+      "common_name": "Grey-capped Social Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Sporopipes_frontalis",
+      "common_name": "Speckle-fronted Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Turdoides_hypoleuca",
+      "common_name": "Northern Pied Babbler",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lagonosticta_senegala",
+      "common_name": "Red-billed Firefinch",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Fischer's sparrow-lark",
+      "url": "https://en.wikipedia.org/wiki/Fischer%27s_sparrow-lark",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2490695"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "label": "Pinarochroa_sordida",
+  "scientific_name": "Pinarochroa sordida",
+  "common_name": "Moorland Chat",
+  "other_names": {},
+  "family": "Muscicapidae",
+  "summary": "The moorland chat (Pinarochroa sordida), also known as the alpine chat or hill chat, is a species of songbird in the Old World flycatcher family. It is endemic to the eastern Afromontane. It lives at high altitudes on moors and grassland, usually above 3,400 m (11,100 ft), but can live as low as 2,100 m (6,900 ft).",
+  "appearance": {
+    "description": null,
+    "colors": null,
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Central",
+      "Eastern",
+      "Kenya",
+      "Nyeri",
+      "Meru",
+      "Western"
+    ],
+    "gbif_records_in_kenya": 1431
+  },
+  "look_alikes": [
+    {
+      "label": "Muscicapa_adusta",
+      "common_name": "African Dusky Flycatcher",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Muscicapa_aquatica",
+      "common_name": "Swamp Flycatcher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bradornis_pallidus",
+      "common_name": "Pale Flycatcher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Histurgops_ruficauda",
+      "common_name": "Rufous-tailed Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Camaroptera_brachyura",
+      "common_name": "Green-backed Camaroptera",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Circaetus_cinereus",
+      "common_name": "Brown Snake Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Creatophora_cinerea",
+      "common_name": "Wattled Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Euplectes_albonotatus",
+      "common_name": "White-winged Widowbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Passer_gongonensis",
+      "common_name": "Parrot-billed Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Saxicola_torquatus",
+      "common_name": "African Stonechat",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Sylvietta_whytii",
+      "common_name": "Red-faced Crombec",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Moorland chat",
+      "url": "https://en.wikipedia.org/wiki/Moorland_chat",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/5845316"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

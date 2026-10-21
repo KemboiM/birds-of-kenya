@@ -1,0 +1,80 @@
+{
+  "label": "Otus_ireneae",
+  "scientific_name": "Otus ireneae",
+  "common_name": "Sokoke Scops Owl",
+  "other_names": {},
+  "family": "Strigidae",
+  "summary": "The Sokoke scops owl (Otus ireneae), also Morden's scops owl or Morden's owlet, is a highly localized species of scops owl found in lowland forests of Kenya and Tanzania. The greatest population of this species of owl is in the Cynometra-Manilkara forest, which is less than one-third of the Sokoke Forest. It is also found in the Afzelia-Cynometra forest.",
+  "appearance": {
+    "description": "Sokoke scops owl is a fairly plain scops owl with small spotted markings on the underside. They are found in a number of color morphs ranging from grey through brown to an orange-rufous. Their call consists of a repetitive \"too-too-too-too-too\" reminiscent of the calls of tinkerbirds.",
+    "colors": "It is insectivorous and coloring ranges from grey to rufous. They are found in a number of color morphs ranging from grey through brown to an orange-rufous.",
+    "wings": null
+  },
+  "size": {
+    "adult": {
+      "mass_g": [
+        57.0,
+        57.0
+      ]
+    },
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": "Like other Otus owls, they are strictly nocturnal, making their biology difficult to study. They are most active immediately after dark and before dawn and travel further from their roost sites to forage when there is less illumination from the Moon. They roost in the dense understory of Cynometra trees during the day.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "Sokoke scops owl have a highly restricted range in coastal Kenya and north-eastern Tanzania. It was first discovered in 1965 in the Arabuko-Sokoke Forest Reserve in coastal Kenya.",
+    "kenya_regions": [
+      "Coast",
+      "Kenya",
+      "Kilifi",
+      "Coastal Kenya",
+      "Coast Province",
+      "Coast prov"
+    ],
+    "gbif_records_in_kenya": 1051
+  },
+  "look_alikes": [
+    {
+      "label": "Bubo_cinerascens",
+      "common_name": "Greyish Eagle-owl",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Passer_eminibey",
+      "common_name": "Chestnut Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Turdoides_rubiginosa",
+      "common_name": "Rufous Chatterer",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pseudonigrita_arnaudi",
+      "common_name": "Grey-capped Social Weaver",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Sokoke scops owl",
+      "url": "https://en.wikipedia.org/wiki/Sokoke_scops_owl",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/5232277"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

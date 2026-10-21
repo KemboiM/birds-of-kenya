@@ -1,0 +1,116 @@
+{
+  "label": "Phoeniconaias_minor",
+  "scientific_name": "Phoeniconaias minor",
+  "common_name": "Lesser Flamingo",
+  "other_names": {},
+  "family": "Phoenicopteridae",
+  "summary": "The lesser flamingo (Phoeniconaias minor) is a species of flamingo occurring in sub-Saharan Africa and western India. Birds are occasionally reported from farther north, but these are generally considered vagrants.",
+  "appearance": {
+    "description": "The lesser flamingo is the smallest species of flamingo, though it is a tall and large bird by most standards. The species can weigh from 1.2 to 2.7 kg (2.6 to 6.0 lb). The standing height is around 80 to 90 cm (31 to 35 in).",
+    "colors": "Birds are occasionally reported from farther north, but these are generally considered vagrants. Most of the plumage is pinkish white.",
+    "wings": null
+  },
+  "size": {
+    "adult": {
+      "mass_g": [
+        1200.0,
+        2700.0
+      ],
+      "wingspan_cm": [
+        90.0,
+        105.0
+      ]
+    },
+    "juvenile": null,
+    "chick": {
+      "notes": "Chicks join creches soon after hatching, sometimes numbering over 100,000 individuals."
+    }
+  },
+  "behaviour": "The lesser flamingo may be the most common species of flamingo, with a population that (at its peak) probably numbered up to two million individual birds. This species feeds primarily on Spirulina, algae which grow only in very alkaline lakes. Presence of flamingo groups near water bodies is an indication of sodic alkaline water which is not suitable for irrigation use.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Nakuru",
+      "Coast",
+      "Kajiado",
+      "Baringo"
+    ],
+    "gbif_records_in_kenya": 7703
+  },
+  "look_alikes": [
+    {
+      "label": "Phoenicopterus_roseus",
+      "common_name": "Greater Flamingo",
+      "difference": null,
+      "times_confused": 7
+    },
+    {
+      "label": "Plectropterus_gambensis",
+      "common_name": "Spur-winged Goose",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Anhinga_rufa",
+      "common_name": "African Darter",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Plegadis_falcinellus",
+      "common_name": "Glossy Ibis",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tachybaptus_ruficollis",
+      "common_name": "Little Grebe",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Threskiornis_aethiopicus",
+      "common_name": "African Sacred Ibis",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Actophilornis_africanus",
+      "common_name": "African Jacana",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Mycteria_ibis",
+      "common_name": "Yellow-billed Stork",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Recurvirostra_avosetta",
+      "common_name": "Pied Avocet",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Lesser flamingo",
+      "url": "https://en.wikipedia.org/wiki/Lesser_flamingo",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2481104"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

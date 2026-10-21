@@ -1,0 +1,147 @@
+{
+  "label": "Calendulauda_poecilosterna",
+  "scientific_name": "Calendulauda poecilosterna",
+  "common_name": "Pink-breasted Lark",
+  "other_names": {},
+  "family": "Alaudidae",
+  "summary": "The pink-breasted lark (Calendulauda poecilosterna) or pink-breasted bushlark is a species of passerine bird in the family Alaudidae.",
+  "appearance": {
+    "description": null,
+    "colors": "The pink-breasted lark (Calendulauda poecilosterna) or pink-breasted bushlark is a species of passerine bird in the family Alaudidae.",
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": "It is generally found singly or in pairs foraging on the ground for insects and seeds. When disturbed it flies to a safe, elevated position on the branch of a tree or the top of a bush. These are also its favoured perches for engaging in territorial song.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The pink-breasted lark is estimated to have a global extent of occurrence of 560,000 km2, covering a broad range from south-eastern South Sudan and southern Ethiopia through Kenya to southern Somalia, north-eastern Tanzania and eastern Uganda. Its natural habitat is dry savannah, open bush and wooded areas, in particular dry acacia and Commiphora scrub.",
+    "kenya_regions": [
+      "Coast",
+      "Rift Valley",
+      "Eastern",
+      "Kenya",
+      "North-Eastern",
+      "Taita Taveta"
+    ],
+    "gbif_records_in_kenya": 6242
+  },
+  "look_alikes": [
+    {
+      "label": "Histurgops_ruficauda",
+      "common_name": "Rufous-tailed Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Plocepasser_donaldsoni",
+      "common_name": "Donaldson Smith's Sparrow-weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Amblyospiza_albifrons",
+      "common_name": "Thick-billed Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Anthus_cinnamomeus",
+      "common_name": "African Pipit",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cisticola_chiniana",
+      "common_name": "Rattling Cisticola",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Crithagra_reichenowi",
+      "common_name": "Reichenow's Seedeater",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Gymnoris_pyrgita",
+      "common_name": "Yellow-spotted Bush Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Muscicapa_striata",
+      "common_name": "Spotted Flycatcher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Myrmecocichla_aethiops",
+      "common_name": "Anteater Chat",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Passer_gongonensis",
+      "common_name": "Parrot-billed Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_castaneiceps",
+      "common_name": "Taveta Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ptyonoprogne_fuligula",
+      "common_name": "Large Rock Martin",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pycnonotus_barbatus",
+      "common_name": "Common Bulbul",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tmetothylacus_tenellus",
+      "common_name": "Golden Pipit",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Oenanthe_lugubris",
+      "common_name": "Abyssinian Wheatear",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Trachyphonus_darnaudii",
+      "common_name": "D'Arnaud's Barbet",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Pink-breasted lark",
+      "url": "https://en.wikipedia.org/wiki/Pink-breasted_lark",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/6089205"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

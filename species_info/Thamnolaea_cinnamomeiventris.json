@@ -1,0 +1,88 @@
+{
+  "label": "Thamnolaea_cinnamomeiventris",
+  "scientific_name": "Thamnolaea cinnamomeiventris",
+  "common_name": "Mocking Cliff Chat",
+  "other_names": {
+    "sw": "Chati Chamawe"
+  },
+  "family": "Muscicapidae",
+  "summary": "The mocking cliff chat, mocking chat or cliff chat, (Thamnolaea cinnamomeiventris) is a species of chat in the family Muscicapidae which occurs in rocky habitats in much of eastern Sub-Saharan Africa. It is the only species placed in the genus Thamnolaea.",
+  "appearance": {
+    "description": "The mocking cliff chat is a large chat with distinctive colouration. The male has a glossy black with a chestnut belly, vent, and rump and white shoulder patches. The shoulder patches vary in size geographically.",
+    "colors": "The mocking cliff chat is a large chat with distinctive colouration. The male has a glossy black with a chestnut belly, vent, and rump and white shoulder patches.",
+    "wings": null
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        19.0,
+        21.0
+      ],
+      "mass_g": [
+        41.0,
+        51.0
+      ]
+    },
+    "juvenile": null,
+    "chick": {
+      "notes": "Both parents feed the chicks which fledge at about three weeks old."
+    }
+  },
+  "behaviour": "A song containing phrases mimicking other species, interspersed with other phrases. === Food and feeding === The mocking cliff chat is mainly insectivorous but also eats fruit and feeds on the nectar of aloes, such as the Krantz aloe, Aloe arborescens. Its chief foraging technique is to pounce on food on the ground from a perch but it will also glean food from branches and foliage. They habitually wag their tails, slowly raising it over their backs and fanning it out.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The mocking cliff chat occurs in a neat band from central Ethiopia in the north through east Africa into Zimbabwe, south-eastern Botswana, southern Mozambique and eastern South Africa as far as the far east of Western Cape province. Mostly resident but in the south of its range tends to move to lower altitudes in the winter months.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Eastern",
+      "Nakuru",
+      "Nairobi",
+      "Western"
+    ],
+    "gbif_records_in_kenya": 2332
+  },
+  "look_alikes": [
+    {
+      "label": "Cossypha_semirufa",
+      "common_name": "Rüppell's Robin-chat",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Monticola_rufocinereus",
+      "common_name": "Little Rock Thrush",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Turdoides_jardineii",
+      "common_name": "Arrow-marked Babbler",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Dessonornis_caffer",
+      "common_name": "Cape Robin-chat",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Mocking cliff chat",
+      "url": "https://en.wikipedia.org/wiki/Mocking_cliff_chat",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2492397"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

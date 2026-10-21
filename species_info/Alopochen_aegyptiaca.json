@@ -1,0 +1,168 @@
+{
+  "label": "Alopochen_aegyptiaca",
+  "scientific_name": "Alopochen aegyptiaca",
+  "common_name": "Egyptian Goose",
+  "other_names": {},
+  "family": "Anatidae",
+  "summary": "The Egyptian goose (Alopochen aegyptiaca) is an African member of the Anatidae family including ducks, geese, and swans. Because of its popularity chiefly as an ornamental bird, the species has also been introduced to Europe, the United States, and elsewhere outside its natural range. Egyptian geese were regularly represented in ancient Egyptian art.",
+  "appearance": {
+    "description": "It swims well and appears heavy in flight, more like a goose than a duck, hence the English name. Typically, they are 63–73 cm (25–29 in) in length and weigh 1,500–2,348 g (3.307–5.176 lb). The sexes of this species are identical in plumage, but the males are usually somewhat larger.",
+    "colors": "The sexes of this species are identical in plumage, but the males are usually somewhat larger. They vary greatly in plumage tone, with some birds greyer and others browner, but this variation has not been observed to be sex- or age-related.",
+    "wings": "A large part of the wings of mature birds is white, but the white is hidden by the wing coverts when at rest."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        63.0,
+        73.0
+      ],
+      "mass_g": [
+        1500.0,
+        2348.0
+      ]
+    },
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": "This species nests in a large variety of situations, especially in holes in mature trees in parkland. The female builds the nest from reeds, leaves, and grass, and both parents take turns incubating the eggs. Incubation takes 28 to 30 days.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The Egyptian goose is native to sub-Saharan Africa and the Nile Valley, where it is widespread and common to abundant, though it has become scarce in the northern Nile Valley. It is found in open or semiopen habitats, typically near fresh water, ranging from lowlands to 4,000 m (13,000 ft) above sea level in the Ethiopian Highlands and largely absent from dense forests and deserts.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Nairobi",
+      "Coast",
+      "Central",
+      "Eastern"
+    ],
+    "gbif_records_in_kenya": 41351
+  },
+  "look_alikes": [
+    {
+      "label": "Dendrocygna_bicolor",
+      "common_name": "Fulvous Whistling Duck",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Eremopterix_signatus",
+      "common_name": "Chestnut-headed Sparrow-lark",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Sarkidiornis_melanotos",
+      "common_name": "Knob-billed Duck",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Chlidonias_leucopterus",
+      "common_name": "White-winged Tern",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Anhinga_rufa",
+      "common_name": "African Darter",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Quelea_quelea",
+      "common_name": "Red-billed Quelea",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Anas_erythrorhyncha",
+      "common_name": "Red-billed Teal",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Passer_domesticus",
+      "common_name": "House Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Microcarbo_africanus",
+      "common_name": "Reed Cormorant",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Balearica_regulorum",
+      "common_name": "Grey Crowned Crane",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Chroicocephalus_cirrocephalus",
+      "common_name": "Grey-headed Gull",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Gyps_africanus",
+      "common_name": "White-backed Vulture",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Phoeniculus_purpureus",
+      "common_name": "Green Wood Hoopoe",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Plectropterus_gambensis",
+      "common_name": "Spur-winged Goose",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Plegadis_falcinellus",
+      "common_name": "Glossy Ibis",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Scopus_umbretta",
+      "common_name": "Hamerkop",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tachybaptus_ruficollis",
+      "common_name": "Little Grebe",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Vanellus_armatus",
+      "common_name": "Blacksmith Lapwing",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Egyptian goose",
+      "url": "https://en.wikipedia.org/wiki/Egyptian_goose",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2498252"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

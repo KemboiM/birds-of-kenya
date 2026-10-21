@@ -1,0 +1,69 @@
+{
+  "label": "Phyllolais_pulchella",
+  "scientific_name": "Phyllolais pulchella",
+  "common_name": "Buff-bellied Warbler",
+  "other_names": {},
+  "family": "Cisticolidae",
+  "summary": "The buff-bellied warbler (Phyllolais pulchella) is a species of bird in the family Cisticolidae. It is monotypic within the genus Phyllolais. It is found in Cameroon, Central African Republic, Chad, Democratic Republic of the Congo, Eritrea, Ethiopia, Kenya, Nigeria, Rwanda, Sudan, Tanzania, and Uganda, where its natural habitats are subtropical or tropical dry forest, dry savanna, and subtropical or tropical dry shrubland.",
+  "appearance": {
+    "description": null,
+    "colors": "The buff-bellied warbler (Phyllolais pulchella) is a species of bird in the family Cisticolidae. It is a small, dull coloured warbler found in savanna and acacia woodland.",
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Nairobi",
+      "Eastern",
+      "Western",
+      "Central"
+    ],
+    "gbif_records_in_kenya": 5238
+  },
+  "look_alikes": [
+    {
+      "label": "Cisticola_chiniana",
+      "common_name": "Rattling Cisticola",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Prinia_subflava",
+      "common_name": "Tawny-flanked Prinia",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Urocolius_macrourus",
+      "common_name": "Blue-naped Mousebird",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Buff-bellied warbler",
+      "url": "https://en.wikipedia.org/wiki/Buff-bellied_warbler",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2493359"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

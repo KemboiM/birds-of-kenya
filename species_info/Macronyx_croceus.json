@@ -1,0 +1,123 @@
+{
+  "label": "Macronyx_croceus",
+  "scientific_name": "Macronyx croceus",
+  "common_name": "Yellow-throated Longclaw",
+  "other_names": {},
+  "family": "Motacillidae",
+  "summary": "The yellow-throated longclaw (Macronyx croceus) is a species of bird in the family Motacillidae.",
+  "appearance": {
+    "description": "They have yellow underparts and a black \"bib\" on the upper chest. They may be distinguished from the closely related pangani longclaw by its yellow under tail-coverts, which the pangani lacks. The pangani also has an orange throat, whereas the yellow-throated does not.",
+    "colors": "The yellow-throated longclaw (Macronyx croceus) is a species of bird in the family Motacillidae. They have yellow underparts and a black \"bib\" on the upper chest.",
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": "Longclaws are generally solitary, except when found as mated pairs.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "It is found in Angola, Benin, Burkina Faso, Burundi, Cameroon, Central African Republic, Chad, Republic of the Congo, Democratic Republic of the Congo, Eswatini, Ivory Coast, Gabon, Gambia, Ghana, Guinea, Guinea-Bissau, Kenya, Lesotho, Liberia, Malawi, Mali, Mozambique, Niger, Nigeria, Rwanda, Senegal, Sierra Leone, Somalia, South Africa, South Sudan, Tanzania, Togo, Uganda, Zambia, and Zimbabwe. Its natural habitats are dry savanna, subtropical or tropical seasonally wet or flooded lowland grassland, and sandy shores.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Nairobi",
+      "Coast",
+      "Central",
+      "Narok"
+    ],
+    "gbif_records_in_kenya": 12449
+  },
+  "look_alikes": [
+    {
+      "label": "Macronyx_aurantiigula",
+      "common_name": "Pangani Longclaw",
+      "difference": null,
+      "times_confused": 3
+    },
+    {
+      "label": "Creatophora_cinerea",
+      "common_name": "Wattled Starling",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Crithagra_mozambica",
+      "common_name": "Yellow-fronted Canary",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Tmetothylacus_tenellus",
+      "common_name": "Golden Pipit",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Plocepasser_donaldsoni",
+      "common_name": "Donaldson Smith's Sparrow-weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_vitellinus",
+      "common_name": "Vitelline Masked Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Crithagra_dorsostriata",
+      "common_name": "White-bellied Canary",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_spekei",
+      "common_name": "Speke's Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Motacilla_flava",
+      "common_name": "Western Yellow Wagtail",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_cucullatus",
+      "common_name": "Village Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Centropus_superciliosus",
+      "common_name": "White-browed Coucal",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_baglafecht",
+      "common_name": "Baglafecht Weaver",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Yellow-throated longclaw",
+      "url": "https://en.wikipedia.org/wiki/Yellow-throated_longclaw",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/5230851"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

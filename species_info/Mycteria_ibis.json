@@ -1,0 +1,138 @@
+{
+  "label": "Mycteria_ibis",
+  "scientific_name": "Mycteria ibis",
+  "common_name": "Yellow-billed Stork",
+  "other_names": {},
+  "family": "Ciconiidae",
+  "summary": "The yellow-billed stork (Mycteria ibis) is a large African stork species in the family Ciconiidae. It is widespread south of the Sahara and also occurs in Madagascar.",
+  "appearance": {
+    "description": "[[File:]] This medium-sized stork stands 90–105 cm (35–41 in) tall. Its body is white with a short black tail that is glossed green and purple when freshly moulted. The bill is deep yellow, slightly decurved at the end and with a rounder cross-section than in other stork species outside the Mycteria.",
+    "colors": "The yellow-billed stork (Mycteria ibis) is a large African stork species in the family Ciconiidae. Its body is white with a short black tail that is glossed green and purple when freshly moulted.",
+    "wings": "In the breeding season, the plumage is coloured pink on the upperwings and back; the ordinarily brown legs also turn bright pink; the bill becomes a deeper yellow and the face becomes a deeper red. At fledging, salmon-pink colouration in the underwings begins to develop and after about one year, the plumage is greyish-white."
+  },
+  "size": {
+    "adult": {
+      "mass_g": [
+        1900.0,
+        2300.0
+      ]
+    },
+    "juvenile": {
+      "notes": "Juveniles are greyish-brown with a dull, partially bare orange face and a dull yellowish bill."
+    },
+    "chick": {
+      "notes": "As in many other stork species, hatching is asynchronous (usually at 1- to 2-day intervals), so that the young in the brood differ considerably in body size at any one time. Alongside parental feeding by regurgitation of fish, parents have also been observed to regurgitate water into the open bills of their nestlings, especially on hot days."
+    }
+  },
+  "behaviour": "=== Diet and feeding === This stork's diet mainly comprises small, freshwater fish of about 60-100mm length and maximally 150g, which they swallow whole. They also feed on crustaceans, worms, aquatic insects, frogs and occasionally small mammals and birds. This species appears to rely principally on sense of touch to detect and capture prey, rather than by vision.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The yellow-billed stork occurs primarily in Eastern Africa, but is widely distributed in areas extending from Senegal and Somalia down to South Africa and in some regions of western Madagascar. During one observation of a mixed species bird colony on the Tana River in Kenya, it was found to be the commonest species there, with 2000 individuals being counted at once.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Nairobi",
+      "Coast",
+      "Eastern",
+      "Central"
+    ],
+    "gbif_records_in_kenya": 21460
+  },
+  "look_alikes": [
+    {
+      "label": "Platalea_alba",
+      "common_name": "African Spoonbill",
+      "difference": null,
+      "times_confused": 3
+    },
+    {
+      "label": "Urolestes_melanoleucus",
+      "common_name": "Magpie Shrike",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ciconia_ciconia",
+      "common_name": "White Stork",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Urocolius_macrourus",
+      "common_name": "Blue-naped Mousebird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Anas_undulata",
+      "common_name": "Yellow-billed Duck",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Dendropicos_spodocephalus",
+      "common_name": "Eastern Grey Woodpecker",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ciconia_microscelis",
+      "common_name": "African Woolly-necked Stork",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Actitis_hypoleucos",
+      "common_name": "Common Sandpiper",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Balearica_regulorum",
+      "common_name": "Grey Crowned Crane",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Leptoptilos_crumenifer",
+      "common_name": "Marabou Stork",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Numenius_phaeopus",
+      "common_name": "Eurasian Whimbrel",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Sagittarius_serpentarius",
+      "common_name": "Secretarybird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Phoeniconaias_minor",
+      "common_name": "Lesser Flamingo",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Yellow-billed stork",
+      "url": "https://en.wikipedia.org/wiki/Yellow-billed_stork",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2481936"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

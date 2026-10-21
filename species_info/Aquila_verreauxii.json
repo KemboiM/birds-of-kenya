@@ -1,0 +1,98 @@
+{
+  "label": "Aquila_verreauxii",
+  "scientific_name": "Aquila verreauxii",
+  "common_name": "Verreaux's Eagle",
+  "other_names": {},
+  "family": "Accipitridae",
+  "summary": "Verreaux's eagle (; Aquila verreauxii) is a large, mostly African, bird of prey. It is also called the black eagle, especially in southern Africa, not to be confused with the black eagle (Ictinaetus malayensis) of south and southeast Asia. The Verreaux's eagle lives in hilly and mountainous regions of southern and eastern Africa (extending marginally into Chad, Mali and Niger), and very locally in the Middle East.",
+  "appearance": {
+    "description": "Verreaux's eagle is a very large eagle. It measures 75 to 96 cm (30 to 38 in) long from the bill to the tip of the tail, making it the sixth longest eagle in the world. Males can weigh 3 to 4.2 kg (6.6 to 9.3 lb) and the larger females weigh 3.1 to 7 kg (6.8 to 15.4 lb).",
+    "colors": "It is also called the black eagle, especially in southern Africa, not to be confused with the black eagle (Ictinaetus malayensis) of south and southeast Asia. Like all eagles, this species belongs to the taxonomic order Accipitriformes (formerly included in Falconiformes) and the family Accipitridae, which may be referred to colloquially as accipitrids or raptors.",
+    "wings": "The wing chord of the male is 56.5 to 59.5 cm (22.2 to 23.4 in) and that of the female is 59 to 64 cm (23 to 25 in). Adults also have conspicuous white windows on the wing quills at the carpal joint (at the base of the primaries) when seen flying both from above and below."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        75.0,
+        96.0
+      ],
+      "mass_g": [
+        3000.0,
+        7000.0
+      ],
+      "wingspan_cm": [
+        181.0,
+        230.0
+      ]
+    },
+    "juvenile": {
+      "notes": "Juvenile and immature plumages differ markedly from the plumage of adults. Immatures have a strongly contrasting golden crown and a rufous or ginger nape and mantle."
+    },
+    "chick": {
+      "notes": "Hatching happens at about to 2–3 days apart, with about 24 hours from the first chipping of the egg's surface to complete hatching. Aggression may continue for up to 70 days after hatching."
+    }
+  },
+  "behaviour": "This species is largely silent, though is arguably a stronger vocalist than its close cousin, the golden eagle. Chicking and chirruping sounds like that of a young turkey or francolin, pyuck, have been heard in various contexts, such as pairs being reunited. More striking sounds are loud, ringing whaeee-whaeee, heeeee-oh or keeooo-keeooo calls used as contact calls or during intruder chases.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "Verreaux's eagle has specific habitat requirements and is rare outside of its particular habitat type. It lives in kopjes, which are dry, rocky environments in anything from rocky hills to high mountains amongst cliffs, gorges and inselbergs often surrounded by savanna, thornbush and sub-desert.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Coast",
+      "Eastern",
+      "Nairobi",
+      "Central"
+    ],
+    "gbif_records_in_kenya": 2567
+  },
+  "look_alikes": [
+    {
+      "label": "Corvus_rhipidurus",
+      "common_name": "Fan-tailed Raven",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ichthyaetus_hemprichii",
+      "common_name": "Sooty Gull",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Falco_ardosiaceus",
+      "common_name": "Grey Kestrel",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lophaetus_occipitalis",
+      "common_name": "Long-crested Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Phalacrocorax_carbo",
+      "common_name": "Great Cormorant",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Verreaux's eagle",
+      "url": "https://en.wikipedia.org/wiki/Verreaux%27s_eagle",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/5229184"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

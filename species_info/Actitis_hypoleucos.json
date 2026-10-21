@@ -1,0 +1,174 @@
+{
+  "label": "Actitis_hypoleucos",
+  "scientific_name": "Actitis hypoleucos",
+  "common_name": "Common Sandpiper",
+  "other_names": {
+    "sw": "Kiulimazi"
+  },
+  "family": "Scolopacidae",
+  "summary": "The common sandpiper (Actitis hypoleucos) is a small Palearctic wader. This bird and its American sister species, the spotted sandpiper (A. macularia), make up the genus Actitis. They are parapatric and replace each other geographically; stray birds of either species may settle down with breeders of the other and hybridize.",
+  "appearance": {
+    "description": "The adult is 18–20 cm (7.1–7.9 in) long with a 32–35 cm (13–14 in) wingspan. It has greyish-brown upperparts, white underparts, short dark-yellowish legs and feet, and a bill with a pale base and dark tip. In winter plumage, they are duller and have more conspicuous barring on the wings, though this is still only visible at close range.",
+    "colors": "Hybridization has also been reported between the common sandpiper and the green sandpiper, a member of the closely related genus Tringa. It has greyish-brown upperparts, white underparts, short dark-yellowish legs and feet, and a bill with a pale base and dark tip.",
+    "wings": "In winter plumage, they are duller and have more conspicuous barring on the wings, though this is still only visible at close range. Juveniles are more heavily barred above and have buff edges to the wing feathers."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        18.0,
+        35.0
+      ]
+    },
+    "juvenile": {
+      "notes": "Juveniles are more heavily barred above and have buff edges to the wing feathers."
+    },
+    "chick": null
+  },
+  "behaviour": "The Common Sandpiper is usually encountered alone, occasionally in small groups, although larger flocks are sometimes formed around migration or at breeding season roosts. It seldom joins multispecies flocks. This species has a distinctive stiff-winged flight, low over the water.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The common sandpiper breeds across most of temperate and subtropical Europe and Asia, and migrates to Africa, southern Asia and Australia in winter. The eastern edge of its migration route passes by Palau in Micronesia, where hundreds of birds may gather for a stop-over.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Coast",
+      "Nairobi",
+      "Eastern",
+      "Central"
+    ],
+    "gbif_records_in_kenya": 19122
+  },
+  "look_alikes": [
+    {
+      "label": "Tringa_ochropus",
+      "common_name": "Green Sandpiper",
+      "difference": null,
+      "times_confused": 4
+    },
+    {
+      "label": "Tringa_nebularia",
+      "common_name": "Common Greenshank",
+      "difference": null,
+      "times_confused": 4
+    },
+    {
+      "label": "Tringa_glareola",
+      "common_name": "Wood Sandpiper",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Lybius_leucocephalus",
+      "common_name": "White-headed Barbet",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Chlidonias_leucopterus",
+      "common_name": "White-winged Tern",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Charadrius_hiaticula",
+      "common_name": "Common Ringed Plover",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Burhinus_vermiculatus",
+      "common_name": "Water Thick-knee",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Calidris_minuta",
+      "common_name": "Little Stint",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ardeola_ralloides",
+      "common_name": "Squacco Heron",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lonchura_cucullata",
+      "common_name": "Bronze Mannikin",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bostrychia_hagedash",
+      "common_name": "Hadada Ibis",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bradornis_microrhynchus",
+      "common_name": "African Grey Flycatcher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cinnyricinclus_leucogaster",
+      "common_name": "Violet-backed Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Fulica_cristata",
+      "common_name": "Red-knobbed Coot",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ichthyaetus_hemprichii",
+      "common_name": "Sooty Gull",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Mycteria_ibis",
+      "common_name": "Yellow-billed Stork",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Necrosyrtes_monachus",
+      "common_name": "Hooded Vulture",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Riparia_paludicola",
+      "common_name": "Brown-throated Martin",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Himantopus_himantopus",
+      "common_name": "Black-winged Stilt",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Common sandpiper",
+      "url": "https://en.wikipedia.org/wiki/Common_sandpiper",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2481800"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

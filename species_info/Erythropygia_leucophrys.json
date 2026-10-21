@@ -1,0 +1,121 @@
+{
+  "label": "Erythropygia_leucophrys",
+  "scientific_name": "Erythropygia leucophrys",
+  "common_name": "White-browed Scrub Robin",
+  "other_names": {},
+  "family": "Muscicapidae",
+  "summary": "The white-browed scrub robin (Cercotrichas leucophrys), also known as the red-backed scrub-robin, is a species of bird in the family Muscicapidae. It is native to sub-Saharan Africa, especially East and southern Africa. Within range, its Turdus-like song is one of the often-heard sounds of the bush.",
+  "appearance": {
+    "description": "The white-browed scrub robin measures 14.0–16.5 cm from bill tip to tail tip and the sexes are alike. The pale superciliary stripe is distinct, and the crown may be warm brown, olive brown or greyish brown. The wings are dusky but well-marked.",
+    "colors": "The white-browed scrub robin (Cercotrichas leucophrys), also known as the red-backed scrub-robin, is a species of bird in the family Muscicapidae. The white-browed scrub robin measures 14.0–16.5 cm from bill tip to tail tip and the sexes are alike.",
+    "wings": "The wings are dusky but well-marked. Greater and lesser wing coverts are always white-tipped, but the secondaries are with or without white edging."
+  },
+  "size": {
+    "adult": null,
+    "juvenile": {
+      "notes": "Juveniles are mottled but with the tail pattern of adults."
+    },
+    "chick": {
+      "notes": "The chicks are reared by both parents."
+    }
+  },
+  "behaviour": "Sedentary except in the far south. A restless but shy species which mostly sings from concealment inside bushes. It hops on the ground when foraging.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The white-browed scrub robin is found in Angola, Botswana, Burundi, Republic of the Congo, DRC, Djibouti, Eswatini, Ethiopia, Gabon, Kenya, Malawi, Mozambique, Namibia, Rwanda, Somalia, South Africa, South Sudan, Tanzania, Uganda, Zambia, and Zimbabwe. Its range spans tropical, subtropical and temperate latitudes.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Coast",
+      "Nairobi",
+      "Eastern",
+      "Nyanza"
+    ],
+    "gbif_records_in_kenya": 13490
+  },
+  "look_alikes": [
+    {
+      "label": "Passer_domesticus",
+      "common_name": "House Sparrow",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Cichladusa_guttata",
+      "common_name": "Spotted Palm Thrush",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Falco_naumanni",
+      "common_name": "Lesser Kestrel",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Saxicola_torquatus",
+      "common_name": "African Stonechat",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Macronyx_ameliae",
+      "common_name": "Rosy-throated Longclaw",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Passer_rufocinctus",
+      "common_name": "Kenya Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tockus_erythrorhynchus",
+      "common_name": "Northern Red-billed Hornbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Dendropicos_fuscescens",
+      "common_name": "Cardinal Woodpecker",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Calandrella_cinerea",
+      "common_name": "Red-capped Lark",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Quelea_quelea",
+      "common_name": "Red-billed Quelea",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Plocepasser_mahali",
+      "common_name": "White-browed Sparrow-weaver",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "White-browed scrub robin",
+      "url": "https://en.wikipedia.org/wiki/White-browed_scrub_robin",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/5788858"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

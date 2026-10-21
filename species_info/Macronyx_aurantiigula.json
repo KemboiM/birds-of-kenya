@@ -1,0 +1,64 @@
+{
+  "label": "Macronyx_aurantiigula",
+  "scientific_name": "Macronyx aurantiigula",
+  "common_name": "Pangani Longclaw",
+  "other_names": {},
+  "family": "Motacillidae",
+  "summary": "The Pangani longclaw (Macronyx aurantiigula) is a species of bird in the family Motacillidae, which includes the pipits and wagtails. It is found in Tanzania, Kenya and Somalia. The bird's natural habitats are dry savanna and subtropical or tropical dry lowland grassland.",
+  "appearance": {
+    "description": "The Pangani longclaw measures around 20 cm (8 in) in length. As its species name suggests, it has a yellow-orange throat. This is bordered with a black necklace.",
+    "colors": "The species name is derived from the Latin words aurantium \"orange\", and gŭla \"throat\" or \"gullet\" The Pangani longclaw measures around 20 cm (8 in) in length. As its species name suggests, it has a yellow-orange throat.",
+    "wings": null
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        20.0,
+        20.0
+      ]
+    },
+    "juvenile": {
+      "notes": "In immature birds, the belly is more buff than yellow and the dark breast band less distinct. Its more orange throat helps distinguish it from the yellow-throated longclaw and Abyssinian longclaw, however the throats of female and older immature Pangani longclaws can be more yellow."
+    },
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Coast",
+      "Nairobi",
+      "Kenya",
+      "Rift Valley",
+      "Eastern",
+      "Kajiado"
+    ],
+    "gbif_records_in_kenya": 2788
+  },
+  "look_alikes": [
+    {
+      "label": "Macronyx_croceus",
+      "common_name": "Yellow-throated Longclaw",
+      "difference": null,
+      "times_confused": 3
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Pangani longclaw",
+      "url": "https://en.wikipedia.org/wiki/Pangani_longclaw",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/5230849"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

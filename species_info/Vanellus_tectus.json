@@ -1,0 +1,69 @@
+{
+  "label": "Vanellus_tectus",
+  "scientific_name": "Vanellus tectus",
+  "common_name": "Black-headed Lapwing",
+  "other_names": {},
+  "family": "Charadriidae",
+  "summary": "The black-headed lapwing or black-headed plover (Vanellus tectus) is a large lapwing, a group of largish waders in the family Charadriidae. It is a resident breeder across sub-Saharan Africa from Senegal to Ethiopia, although it has seasonal movements. It lays two or three eggs on a ground scrape.",
+  "appearance": {
+    "description": null,
+    "colors": "The black-headed lapwing or black-headed plover (Vanellus tectus) is a large lapwing, a group of largish waders in the family Charadriidae. They are medium-large waders with a black head other than a white forehead, lower face and bands across the rear head and nape.",
+    "wings": "The black-headed lapwing or black-headed plover (Vanellus tectus) is a large lapwing, a group of largish waders in the family Charadriidae. There is a wispy black crest like northern lapwing and the bill and legs are red."
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Coast",
+      "Kenya",
+      "Rift Valley",
+      "Eastern",
+      "North-Eastern",
+      "Taita Taveta"
+    ],
+    "gbif_records_in_kenya": 2452
+  },
+  "look_alikes": [
+    {
+      "label": "Vanellus_coronatus",
+      "common_name": "Crowned Lapwing",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Cinnyricinclus_leucogaster",
+      "common_name": "Violet-backed Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Vanellus_crassirostris",
+      "common_name": "Long-toed Lapwing",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Black-headed lapwing",
+      "url": "https://en.wikipedia.org/wiki/Black-headed_lapwing",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/5229143"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

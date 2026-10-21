@@ -1,0 +1,170 @@
+{
+  "label": "Corythaixoides_leucogaster",
+  "scientific_name": "Corythaixoides leucogaster",
+  "common_name": "White-bellied Go-away-bird",
+  "other_names": {},
+  "family": "Musophagidae",
+  "summary": "The white-bellied go-away-bird (Crinifer leucogaster) is a bird of eastern Africa in the family Musophagidae, commonly known as turacos.",
+  "appearance": {
+    "description": "This species averages 51 cm (20\") in length. Its long, pointed grey and black tail with a white median band is characteristic of the species. It has a white under-wing patch, visible in flight.",
+    "colors": "The white-bellied go-away-bird (Crinifer leucogaster) is a bird of eastern Africa in the family Musophagidae, commonly known as turacos. Its long, pointed grey and black tail with a white median band is characteristic of the species.",
+    "wings": "It has a white under-wing patch, visible in flight. The juvenile is similar to adults, with the plumage being more brown, especially on wing-coverts."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        51.0,
+        51.0
+      ],
+      "mass_g": [
+        170.0,
+        250.0
+      ]
+    },
+    "juvenile": {
+      "notes": "The juvenile is similar to adults, with the plumage being more brown, especially on wing-coverts."
+    },
+    "chick": null
+  },
+  "behaviour": "The white-bellied go-away-bird is sedentary in its range, wandering locally when searching for water and food sources. They are gregarious birds that do not migrate but move in family groups of up to 10. They are territorial and a breeding pair likely maintains its territory year round.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "Their habitat consists of hot acacia-steppe, savanna, and woodland areas. It avoids deep forest, but the species has been seen at a range of elevations, from sea level up to 2000m.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Eastern",
+      "Coast",
+      "Nairobi",
+      "Kajiado",
+      "Laikipia"
+    ],
+    "gbif_records_in_kenya": 16459
+  },
+  "look_alikes": [
+    {
+      "label": "Ptilopsis_leucotis",
+      "common_name": "Northern White-faced Owl",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Chrysococcyx_caprius",
+      "common_name": "Diederik Cuckoo",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Spatula_hottentota",
+      "common_name": "Blue-billed Teal",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bycanistes_brevis",
+      "common_name": "Silvery-cheeked Hornbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Polihierax_semitorquatus",
+      "common_name": "Pygmy Falcon",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bubo_lacteus",
+      "common_name": "Verreaux's Eagle-owl",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Corythaixoides_personatus",
+      "common_name": "Bare-faced Go-away-bird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Polyboroides_typus",
+      "common_name": "African Harrier-hawk",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Spilopelia_senegalensis",
+      "common_name": "Laughing Dove",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Columba_livia",
+      "common_name": "Rock Dove",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Hirundo_rustica",
+      "common_name": "Barn Swallow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Laniarius_major",
+      "common_name": "Tropical Boubou",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pluvialis_squatarola",
+      "common_name": "Grey Plover",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Sagittarius_serpentarius",
+      "common_name": "Secretarybird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Microcarbo_africanus",
+      "common_name": "Reed Cormorant",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Creatophora_cinerea",
+      "common_name": "Wattled Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Vanellus_armatus",
+      "common_name": "Blacksmith Lapwing",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ardea_cinerea",
+      "common_name": "Grey Heron",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "White-bellied go-away-bird",
+      "url": "https://en.wikipedia.org/wiki/White-bellied_go-away-bird",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2475264"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

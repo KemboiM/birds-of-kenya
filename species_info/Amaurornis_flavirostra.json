@@ -1,0 +1,108 @@
+{
+  "label": "Amaurornis_flavirostra",
+  "scientific_name": "Amaurornis flavirostra",
+  "common_name": "Black Crake",
+  "other_names": {},
+  "family": "Rallidae",
+  "summary": "The black crake (Zapornia flavirostra) is a waterbird in the rail and crake family, Rallidae. It breeds in most of sub-Saharan Africa except in very arid areas. It undertakes some seasonal movements in those parts of its range which are subject to drought.",
+  "appearance": {
+    "description": "The adult black crake is 19–23 cm (7.5–9.1 in) long with a short tail and long toes. As its name implies, the adult has mainly black plumage, with a brown olive tone on the wings and upperparts which is rarely detectable in the field. The eye is red, the bill is yellow (hence the flavirostra of the binomial name), and the legs and feet are red, duller when not breeding.",
+    "colors": "The black crake (Zapornia flavirostra) is a waterbird in the rail and crake family, Rallidae. The adult black crake is 19–23 cm (7.5–9.1 in) long with a short tail and long toes.",
+    "wings": "As its name implies, the adult has mainly black plumage, with a brown olive tone on the wings and upperparts which is rarely detectable in the field."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        19.0,
+        23.0
+      ]
+    },
+    "juvenile": {
+      "notes": "The immature bird has brown upperparts and a dark grey head and underparts."
+    },
+    "chick": {
+      "notes": "Both parents, sometimes assisted by the young from previous broods, incubate for 13–19 days to hatching. The precocial chicks leave the nest in 1–3 days, but are fed by parents and helpers for several weeks."
+    }
+  },
+  "behaviour": "=== Habitat and status === The habitat of this common to abundant species is freshwater marshes of all types, as long as there is some vegetation to provide cover. Many rails are very secretive, but the black crake is often seen out in the open. It has benefited from human activity in the form of deforestation, and is rarely hunted because of its unpalatable flesh.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Nairobi",
+      "Coast",
+      "Central",
+      "Nyanza"
+    ],
+    "gbif_records_in_kenya": 12538
+  },
+  "look_alikes": [
+    {
+      "label": "Chalcomitra_amethystina",
+      "common_name": "Amethyst Sunbird",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Dendrocygna_viduata",
+      "common_name": "White-faced Whistling Duck",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Gallinula_chloropus",
+      "common_name": "Common Moorhen",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lonchura_cucullata",
+      "common_name": "Bronze Mannikin",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Phoeniculus_purpureus",
+      "common_name": "Green Wood Hoopoe",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pternistis_afer",
+      "common_name": "Red-necked Spurfowl",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Laniarius_funebris",
+      "common_name": "Slate-colored Boubou",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Fulica_cristata",
+      "common_name": "Red-knobbed Coot",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Black crake",
+      "url": "https://en.wikipedia.org/wiki/Black_crake",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2474736"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

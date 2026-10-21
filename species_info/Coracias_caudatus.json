@@ -1,0 +1,110 @@
+{
+  "label": "Coracias_caudatus",
+  "scientific_name": "Coracias caudatus",
+  "common_name": "Lilac-breasted Roller",
+  "other_names": {},
+  "family": "Coraciidae",
+  "summary": "The lilac-breasted roller (Coracias caudatus) is an African bird of the roller family, Coraciidae. It is widely distributed in Southern and Eastern Africa, and is a vagrant to the southern Arabian Peninsula. It prefers open woodland and savanna, and it is for the most part absent from treeless places.",
+  "appearance": {
+    "description": "In the field, these robust, large-headed birds are often perched alone on a tree in a grassy clearing, and are almost unmistakable with their colourful plumage tones. The lilac throat of the nominate subspecies C. c. caudatus deepens into a darker lilac breast. The crown to mantle is olive, and the cheeks and ear coverts a lilac-rufous.",
+    "colors": "This species is unofficially considered the national bird of Kenya. Alternative names for the lilac-breasted roller include the fork-tailed roller, lilac-throated roller (also used for a subspecies of purple roller), Mosilikatze's roller, and troupand.",
+    "wings": null
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        8.0,
+        9.0
+      ],
+      "wingspan_cm": [
+        50.0,
+        58.0
+      ]
+    },
+    "juvenile": {
+      "notes": "Both subspecies have long, black outermost tail streamers that are absent in juveniles. Juveniles, immatures and adults have the largest alula feather dark blue, but the primary coverts and rest of the alula azure."
+    },
+    "chick": null
+  },
+  "behaviour": "=== Breeding === Both subspecies are probably monogamous and nest solitary. The sexes are not readily distinguishable, and their displays have not been definitively linked to either male or female. Pairs are protective of their nest and one of the pair will fly in a rolling pattern as a territorial display against intruders or to detract nest predators.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "Lilac-breasted rollers are found throughout eastern and southern Africa, and occurs locally at sea level, and up to 2,000 metres above sea level or over. Their range extends from the Red Sea coast of Eritrea through East Africa (including Zanzibar) to southern Africa, where they occur commonly in Namibia (excluding the Namib Desert), Botswana, Zimbabwe, and northeastern South Africa.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Coast",
+      "Eastern",
+      "Narok",
+      "Nairobi"
+    ],
+    "gbif_records_in_kenya": 28641
+  },
+  "look_alikes": [
+    {
+      "label": "Coracias_naevius",
+      "common_name": "Purple Roller",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Merops_revoilii",
+      "common_name": "Somali Bee-eater",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Coracias_garrulus",
+      "common_name": "European Roller",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Merops_bullockoides",
+      "common_name": "White-fronted Bee-eater",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lamprotornis_superbus",
+      "common_name": "Superb Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Necrosyrtes_monachus",
+      "common_name": "Hooded Vulture",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Passer_eminibey",
+      "common_name": "Chestnut Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Vidua_macroura",
+      "common_name": "Pin-tailed Whydah",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Lilac-breasted roller",
+      "url": "https://en.wikipedia.org/wiki/Lilac-breasted_roller",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2475360"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

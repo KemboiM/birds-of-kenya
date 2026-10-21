@@ -1,0 +1,91 @@
+{
+  "label": "Nycticorax_nycticorax",
+  "scientific_name": "Nycticorax nycticorax",
+  "common_name": "Black-crowned Night Heron",
+  "other_names": {
+    "sw": "Kingoyo Utosi-mweusi"
+  },
+  "family": "Ardeidae",
+  "summary": "The black-crowned night heron (Nycticorax nycticorax) or black-capped night heron, commonly shortened to just night heron in Eurasia, is a medium-sized heron found throughout a large part of the world, including parts of Africa, Asia, Europe, and North and South America. In Australasia it is replaced by the closely related Nankeen night heron (N. caledonicus), with which it has hybridised in the area of contact.",
+  "appearance": {
+    "description": "Adults have a black crown and back with the remainder of the body white or grey, red eyes, and short yellow legs. They have pale grey wings and white under parts. One to eight (mostly two to four) long slender white plumes, erected in greeting and courtship displays, extend from the back of the head.",
+    "colors": "The black-crowned night heron (Nycticorax nycticorax) or black-capped night heron, commonly shortened to just night heron in Eurasia, is a medium-sized heron found throughout a large part of the world, including parts of Africa, Asia, Europe, and North and South America. Adults have a black crown and back with the remainder of the body white or grey, red eyes, and short yellow legs.",
+    "wings": "They have pale grey wings and white under parts. Immature birds have dull grey-brown plumage on their heads, wings, and backs, with numerous pale \"teardrop\" spots."
+  },
+  "size": {
+    "adult": null,
+    "juvenile": {
+      "notes": "Immature birds have dull grey-brown plumage on their heads, wings, and backs, with numerous pale \"teardrop\" spots. The young birds have orange eyes and duller yellowish-green legs."
+    },
+    "chick": null
+  },
+  "behaviour": "These birds stand still at the water's edge and wait to ambush prey, mainly at night, early morning or evening. They primarily eat small fish, leeches, earthworms, mussels, squid, crustaceans (such as crayfish), frogs, other amphibians, aquatic insects, terrestrial insects, lizards, snakes, small mammals (such as rodents), small birds, eggs, carrion, plant material, and garbage and refuse at landfills.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The breeding habitat is fresh and salt-water wetlands throughout much of the world. The nominate subspecies N. n. nycticorax breeds in Europe, Asia and Africa, subspecies N. n. hoactli in North and South America from Canada as far south as northern Argentina and Chile, N. n. obscurus in southernmost South America, and N. n. falklandicus in the Falkland Islands.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Nairobi",
+      "Kenya",
+      "Coast",
+      "Central",
+      "Eastern"
+    ],
+    "gbif_records_in_kenya": 4073
+  },
+  "look_alikes": [
+    {
+      "label": "Ardea_cinerea",
+      "common_name": "Grey Heron",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ardeola_ralloides",
+      "common_name": "Squacco Heron",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Buteo_augur",
+      "common_name": "Augur Buzzard",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pelecanus_rufescens",
+      "common_name": "Pink-backed Pelican",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Turtur_chalcospilos",
+      "common_name": "Emerald-spotted Wood Dove",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Aquila_spilogaster",
+      "common_name": "African Hawk-eagle",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Black-crowned night heron",
+      "url": "https://en.wikipedia.org/wiki/Black-crowned_night_heron",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2480863"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

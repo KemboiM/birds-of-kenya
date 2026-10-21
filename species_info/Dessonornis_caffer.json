@@ -1,0 +1,132 @@
+{
+  "label": "Dessonornis_caffer",
+  "scientific_name": "Dessonornis caffer",
+  "common_name": "Cape Robin-chat",
+  "other_names": {},
+  "family": "Muscicapidae",
+  "summary": "The Cape robin-chat (Dessonornis caffer) is a small passerine bird of the Old World flycatcher family Muscicapidae. It has a disjunct range from South Sudan to South Africa. The locally familiar and confiding species has colonized and benefited from a range of man-altered habitats, including city suburbs and farmstead woodlots.",
+  "appearance": {
+    "description": "The sexes are similar. The Cape robin-chat measures 16–17 cm from bill tip to tail tip and weighs 28 g. The adult's upper parts are grey, with the mantle and secondary feathers tinged brownish olive.",
+    "colors": "The locally familiar and confiding species has colonized and benefited from a range of man-altered habitats, including city suburbs and farmstead woodlots. It is an accomplished songster like other robin-chats, but is rather less colourful than most, and frequents either drier settings or higher altitudes.",
+    "wings": "Immatures are like adults but retain some buff-tipped greater wing coverts."
+  },
+  "size": {
+    "adult": {
+      "mass_g": [
+        28.0,
+        28.0
+      ]
+    },
+    "juvenile": {
+      "notes": "Juveniles have tails like the adults, but lack a supercilium. Immatures are like adults but retain some buff-tipped greater wing coverts."
+    },
+    "chick": {
+      "notes": "Both parents will feed the nestlings during the subsequent 14 to 18 days, and for 5 to 7 weeks after they leave nest."
+    }
+  },
+  "behaviour": "The Cape robin-chat has a harsh, low, trisyllabic alarm call, which may be rendered as WA-dur-dra, WA-de-da or TURR-da-da. It has given rise to several local names, including \"Jan frederik\", which matches the rhythm of the call if the last syllables are run together. This call is also given year-round when arriving at, or departing from a roost.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The Cape robin-chat occurs from South Sudan (mainly Imatong Mts, above 1,600 m) southwards to Uganda, the DRC (1,800 m – 3,475 m), Kenya, Tanzania, Zambia (above 1,800 m), Malawi (where common above 1,500 m), Zimbabwe, Namibia, South Africa, Eswatini and Lesotho. It is a mainly resident breeder in eastern and southern Africa, though some adults and juveniles may migrate more than 100 km to lower, warmer regions in winter.",
+    "kenya_regions": [
+      "Central",
+      "Nairobi",
+      "Rift Valley",
+      "Eastern",
+      "Coast",
+      "Nakuru"
+    ],
+    "gbif_records_in_kenya": 9421
+  },
+  "look_alikes": [
+    {
+      "label": "Cossypha_heuglini",
+      "common_name": "White-browed Robin-chat",
+      "difference": null,
+      "times_confused": 4
+    },
+    {
+      "label": "Terpsiphone_viridis",
+      "common_name": "African Paradise Flycatcher",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Cossypha_semirufa",
+      "common_name": "Rüppell's Robin-chat",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Poicephalus_rufiventris",
+      "common_name": "Red-bellied Parrot",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Quelea_quelea",
+      "common_name": "Red-billed Quelea",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cecropis_abyssinica",
+      "common_name": "Lesser Striped Swallow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cinnyris_mariquensis",
+      "common_name": "Marico Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Melierax_poliopterus",
+      "common_name": "Eastern Chanting Goshawk",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Merops_albicollis",
+      "common_name": "White-throated Bee-eater",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Thamnolaea_cinnamomeiventris",
+      "common_name": "Mocking Cliff Chat",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Turdus_pelios",
+      "common_name": "African Thrush",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Colius_striatus",
+      "common_name": "Speckled Mousebird",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Cape robin-chat",
+      "url": "https://en.wikipedia.org/wiki/Cape_robin-chat",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/10671440"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

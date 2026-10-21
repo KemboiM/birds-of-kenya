@@ -1,0 +1,216 @@
+{
+  "label": "Corvus_albus",
+  "scientific_name": "Corvus albus",
+  "common_name": "Pied Crow",
+  "other_names": {},
+  "family": "Corvidae",
+  "summary": "The pied crow (Corvus albus) is a widely distributed African bird species in the crow genus of the family Corvidae. Structurally, the pied crow is better thought of as a small crow-sized raven, especially as it can hybridise with the Somali crow (dwarf raven) where their ranges meet in the Horn of Africa. Its behaviour, though, is more typical of the Eurasian carrion crows, and it may be a modern link (along with the Somali crow) between the Eurasian crows and the common raven.",
+  "appearance": {
+    "description": "It is about the size of the European carrion crow or a little larger (46–50 cm in length), but has a proportionately larger bill, slightly longer tail and wings, and longer legs. As its name suggests, its glossy black head and neck are interrupted by a large area of white feathering from the shoulders down to the lower breast. The tail, bill, and wings are black, too.",
+    "colors": "As its name suggests, its glossy black head and neck are interrupted by a large area of white feathering from the shoulders down to the lower breast. The tail, bill, and wings are black, too.",
+    "wings": "It is about the size of the European carrion crow or a little larger (46–50 cm in length), but has a proportionately larger bill, slightly longer tail and wings, and longer legs. The tail, bill, and wings are black, too."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        46.0,
+        50.0
+      ]
+    },
+    "juvenile": {
+      "notes": "The white plumage of immature birds is often mixed with black."
+    },
+    "chick": {
+      "notes": "Incubation is 18–19 days and the young are usually fledged by around 45 days."
+    }
+  },
+  "behaviour": "The voice is often described as a harsh ar-ar-ar-ar or karh-karh-karh. Pied crows are generally encountered in pairs or small groups, although an abundant source of food may bring together large numbers of birds. The species behaves in a similar manner to the hooded and carrion crows.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "This species, Africa's most widespread member of the genus Corvus, can be found in sub-Saharan Africa, specifically Nigeria, Ghana, Senegal, Sudan, Somalia, Eritrea, Zambia, Botswana, Mozambique and Zimbabwe, South Africa and on the large island of Madagascar, the Comoros Islands, Aldabra, Assumption Island, Cosmoledo, Astove Island, Zanzibar, Pemba, and Fernando Po. It does not occur in the equatorial rainforest region.",
+    "kenya_regions": [
+      "Kenya",
+      "Nairobi",
+      "Rift Valley",
+      "Central",
+      "Coast",
+      "Eastern"
+    ],
+    "gbif_records_in_kenya": 39967
+  },
+  "look_alikes": [
+    {
+      "label": "Bycanistes_brevis",
+      "common_name": "Silvery-cheeked Hornbill",
+      "difference": null,
+      "times_confused": 4
+    },
+    {
+      "label": "Ciconia_microscelis",
+      "common_name": "African Woolly-necked Stork",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Buteo_augur",
+      "common_name": "Augur Buzzard",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Bycanistes_subcylindricus",
+      "common_name": "Black-and-white-casqued Hornbill",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Milvus_migrans",
+      "common_name": "Black Kite",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Polemaetus_bellicosus",
+      "common_name": "Martial Eagle",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Rhinopomastus_cyanomelas",
+      "common_name": "Common Scimitarbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Psalidoprocne_pristoptera",
+      "common_name": "Black Saw-wing",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Corvus_albicollis",
+      "common_name": "White-necked Raven",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tmetothylacus_tenellus",
+      "common_name": "Golden Pipit",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Corvus_rhipidurus",
+      "common_name": "Fan-tailed Raven",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Melaenornis_pammelaina",
+      "common_name": "Southern Black Flycatcher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Poicephalus_meyeri",
+      "common_name": "Meyer's Parrot",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Turdoides_sharpei",
+      "common_name": "Black-lored Babbler",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Anastomus_lamelligerus",
+      "common_name": "African Openbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bubalornis_niger",
+      "common_name": "Red-billed Buffalo Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ciconia_abdimii",
+      "common_name": "Abdim's Stork",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Dendrocygna_viduata",
+      "common_name": "White-faced Whistling Duck",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Hieraaetus_wahlbergi",
+      "common_name": "Wahlberg's Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lanius_dorsalis",
+      "common_name": "Taita Fiscal",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Polyboroides_typus",
+      "common_name": "African Harrier-hawk",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Speculipastor_bicolor",
+      "common_name": "Magpie Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tringa_nebularia",
+      "common_name": "Common Greenshank",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Creatophora_cinerea",
+      "common_name": "Wattled Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Motacilla_aguimp",
+      "common_name": "African Pied Wagtail",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Scopus_umbretta",
+      "common_name": "Hamerkop",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Pied crow",
+      "url": "https://en.wikipedia.org/wiki/Pied_crow",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2482519"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "label": "Apaloderma_narina",
+  "scientific_name": "Apaloderma narina",
+  "common_name": "Narina Trogon",
+  "other_names": {
+    "sw": "Lukungu wa Kawaida"
+  },
+  "family": "Trogonidae",
+  "summary": "The Narina trogon (Apaloderma narina) is a largely green and red, medium-sized (32–34 cm long) bird in the family Trogonidae. It is native to forests and woodlands of the Afrotropics. Though it is the most widespread and diverse in habitat choice of the three Apaloderma species, its numbers are locally depleted due to deforestation.",
+  "appearance": {
+    "description": "It is sexually dimorphic, with males more brightly coloured. Both sexes have vivid, gingery green upperpart plumage. The tail feathers have a metallic blue-green gloss.",
+    "colors": "The Narina trogon (Apaloderma narina) is a largely green and red, medium-sized (32–34 cm long) bird in the family Trogonidae. It is sexually dimorphic, with males more brightly coloured.",
+    "wings": "The wing coverts are a grizzled grey, and remiges mostly colourless grey. Immature birds resemble females but have distinct white tips to the tertials (inner wing), and less distinct gape and eye flanges."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        32.0,
+        34.0
+      ]
+    },
+    "juvenile": {
+      "notes": "Immature birds resemble females but have distinct white tips to the tertials (inner wing), and less distinct gape and eye flanges."
+    },
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The species has a large range in Africa, inhabiting lowland to highland, valley and riparian forests, from tropical to temperate regions, those occurring in highlands dispersing seasonally to lower levels. It is found from Sierra Leone to Ethiopia, and east Africa to eastern and southern South Africa.",
+    "kenya_regions": [
+      "Coast",
+      "Kenya",
+      "Rift Valley",
+      "Nairobi",
+      "Central",
+      "Eastern"
+    ],
+    "gbif_records_in_kenya": 3550
+  },
+  "look_alikes": [
+    {
+      "label": "Nectarinia_tacazze",
+      "common_name": "Tacazze Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Laniarius_erythrogaster",
+      "common_name": "Black-headed Gonolek",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Merops_oreobates",
+      "common_name": "Cinnamon-chested Bee-eater",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Poicephalus_meyeri",
+      "common_name": "Meyer's Parrot",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cinnyricinclus_leucogaster",
+      "common_name": "Violet-backed Starling",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Narina trogon",
+      "url": "https://en.wikipedia.org/wiki/Narina_trogon",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2496625"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

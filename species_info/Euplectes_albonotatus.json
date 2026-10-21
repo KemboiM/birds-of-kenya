@@ -1,0 +1,120 @@
+{
+  "label": "Euplectes_albonotatus",
+  "scientific_name": "Euplectes albonotatus",
+  "common_name": "White-winged Widowbird",
+  "other_names": {},
+  "family": "Ploceidae",
+  "summary": "The white-winged widowbird (Euplectes albonotatus) is a species of passerine bird in the family Ploceidae native to Africa south of the Sahara. It is highly sexually dimorphic in its breeding season, during which the male's yellow plumage turns dark and he gains more white feathers, contrasting with the female's predominantly pale coloration. Three subspecies are recognised.",
+  "appearance": {
+    "description": "The white-winged widowbird is 15 to 19 cm (5.9–7.5 in) in length and about 23 g (0.81 oz) in weight. The male is the only short-tailed widowbird in its region with white on its coverts. The breeding male is distinguished from the yellow-mantled widowbird by its shorter tail, wing color, lack of yellow on its back, and paler bill.",
+    "colors": "The white-winged widowbird (Euplectes albonotatus) is a species of passerine bird in the family Ploceidae native to Africa south of the Sahara. It is highly sexually dimorphic in its breeding season, during which the male's yellow plumage turns dark and he gains more white feathers, contrasting with the female's predominantly pale coloration.",
+    "wings": "The white-winged widowbird (Euplectes albonotatus) is a species of passerine bird in the family Ploceidae native to Africa south of the Sahara. The white-winged widowbird is 15 to 19 cm (5.9–7.5 in) in length and about 23 g (0.81 oz) in weight."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        15.0,
+        19.0
+      ],
+      "mass_g": [
+        23.0,
+        23.0
+      ]
+    },
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": "The white-winged widowbird is polygynous, with one male mating with 3–4 females, and lives in flocks. Oval nests, built solely by the male, are located in the branches of trees or shrubs. Nesting takes place from November to May, peaking from December to March.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The white-winged widowbird is found in Angola, Botswana, Burundi, Central African Republic, the Republic of the Congo, the Democratic Republic of the Congo, Ethiopia, Eswatini, Gabon, Kenya, Malawi, Mozambique, Namibia, Rwanda, São Tomé, South Africa, Sudan, Tanzania, Uganda, Zambia, and Zimbabwe. Its preferred habitats are savanna, grasslands and wetlands, as well as cultivated land.",
+    "kenya_regions": [
+      "Kenya",
+      "Nairobi",
+      "Rift Valley",
+      "Central",
+      "Coast",
+      "Eastern"
+    ],
+    "gbif_records_in_kenya": 6425
+  },
+  "look_alikes": [
+    {
+      "label": "Euplectes_axillaris",
+      "common_name": "Fan-tailed Widowbird",
+      "difference": null,
+      "times_confused": 3
+    },
+    {
+      "label": "Myrmecocichla_nigra",
+      "common_name": "Sooty Chat",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Euplectes_afer",
+      "common_name": "Yellow-crowned Bishop",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bubalornis_niger",
+      "common_name": "Red-billed Buffalo Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cecropis_abyssinica",
+      "common_name": "Lesser Striped Swallow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Gallinula_chloropus",
+      "common_name": "Common Moorhen",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pinarochroa_sordida",
+      "common_name": "Moorland Chat",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Amblyospiza_albifrons",
+      "common_name": "Thick-billed Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Upupa_africana",
+      "common_name": "Eurasian Hoopoe",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Passer_rufocinctus",
+      "common_name": "Kenya Sparrow",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "White-winged widowbird",
+      "url": "https://en.wikipedia.org/wiki/White-winged_widowbird",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2494091"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

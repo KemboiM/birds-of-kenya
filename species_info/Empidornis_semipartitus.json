@@ -1,0 +1,98 @@
+{
+  "label": "Empidornis_semipartitus",
+  "scientific_name": "Empidornis semipartitus",
+  "common_name": "Silverbird",
+  "other_names": {},
+  "family": "Muscicapidae",
+  "summary": "The silverbird (Empidornis semipartitus) is an Old World flycatcher native to Eastern Africa, from Sudan to Tanzania. The species is the only member of the genus Empidornis, although it is sometimes placed in the genus Melaenornis .",
+  "appearance": {
+    "description": "The silverbird is a stunning flycatcher of open areas west of the Rift Valley, silvery grey above and tawny orange below. Juveniles have black-bordered tawny spots on upperparts, mottled buff and black on throats and breasts. The species is 18 cm (7.1 in) long and weighs 22–23 g (0.78–0.81 oz).",
+    "colors": "The silverbird is a stunning flycatcher of open areas west of the Rift Valley, silvery grey above and tawny orange below.",
+    "wings": null
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        18.0,
+        18.0
+      ],
+      "mass_g": [
+        22.0,
+        23.0
+      ]
+    },
+    "juvenile": {
+      "notes": "Juveniles have black-bordered tawny spots on upperparts, mottled buff and black on throats and breasts."
+    },
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Nyanza",
+      "Narok",
+      "Nakuru",
+      "Western"
+    ],
+    "gbif_records_in_kenya": 2632
+  },
+  "look_alikes": [
+    {
+      "label": "Coracias_garrulus",
+      "common_name": "European Roller",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Emberiza_tahapisi",
+      "common_name": "Cinnamon-breasted Bunting",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lamprotornis_superbus",
+      "common_name": "Superb Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Macronyx_ameliae",
+      "common_name": "Rosy-throated Longclaw",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Passer_gongonensis",
+      "common_name": "Parrot-billed Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cossypha_heuglini",
+      "common_name": "White-browed Robin-chat",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Silverbird (bird)",
+      "url": "https://en.wikipedia.org/wiki/Silverbird_(bird)",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2492399"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

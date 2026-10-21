@@ -1,0 +1,87 @@
+{
+  "label": "Ploceus_bicolor",
+  "scientific_name": "Ploceus bicolor",
+  "common_name": "Dark-backed Weaver",
+  "other_names": {},
+  "family": "Ploceidae",
+  "summary": "The dark-backed weaver (Ploceus bicolor), also known as the forest weaver, is a species of bird in the family Ploceidae. It is very sparsely present across central and southern Sub-Saharan Africa.",
+  "appearance": {
+    "description": null,
+    "colors": "The dark-backed weaver (Ploceus bicolor), also known as the forest weaver, is a species of bird in the family Ploceidae.",
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Western",
+      "Coast",
+      "Kenya",
+      "Kakamega",
+      "Rift Valley",
+      "Coast prov"
+    ],
+    "gbif_records_in_kenya": 4037
+  },
+  "look_alikes": [
+    {
+      "label": "Lamprotornis_hildebrandti",
+      "common_name": "Hildebrandt's Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lonchura_cucullata",
+      "common_name": "Bronze Mannikin",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_nigricollis",
+      "common_name": "Black-necked Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Poicephalus_rufiventris",
+      "common_name": "Red-bellied Parrot",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Oriolus_larvatus",
+      "common_name": "Black-headed Oriole",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_cucullatus",
+      "common_name": "Village Weaver",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Dark-backed weaver",
+      "url": "https://en.wikipedia.org/wiki/Dark-backed_weaver",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2494065"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

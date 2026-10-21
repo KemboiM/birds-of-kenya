@@ -1,0 +1,63 @@
+{
+  "label": "Scleroptila_shelleyi",
+  "scientific_name": "Scleroptila shelleyi",
+  "common_name": "Shelley's Francolin",
+  "other_names": {},
+  "family": "Phasianidae",
+  "summary": "Shelley's francolin (Scleroptila shelleyi) is a species of bird in the family Phasianidae. The species is named after Sir Edward Shelley, cousin of George Ernest Shelley. IOC 15.1 recognizes the following subspecies: S. s. uluensis S. s. macarthuri S. s. shelleyi",
+  "appearance": {
+    "description": null,
+    "colors": null,
+    "wings": "IOC 15.1 recognizes the following subspecies: S. s. uluensis S. s. macarthuri S. s. shelleyi"
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": "It is found in grassy woodlands and grasslands in Kenya, Mozambique, Rwanda, South Africa, Eswatini, Tanzania, Uganda, and Zimbabwe.",
+    "kenya_regions": [
+      "Nairobi",
+      "Kenya",
+      "Eastern",
+      "Rift Valley",
+      "Coast",
+      "Central"
+    ],
+    "gbif_records_in_kenya": 1323
+  },
+  "look_alikes": [
+    {
+      "label": "Ortygornis_sephaena",
+      "common_name": "Crested Francolin",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pterocles_decoratus",
+      "common_name": "Black-faced Sandgrouse",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Shelley's francolin",
+      "url": "https://en.wikipedia.org/wiki/Shelley%27s_francolin",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2473870"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

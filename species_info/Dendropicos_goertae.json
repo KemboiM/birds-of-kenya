@@ -1,0 +1,64 @@
+{
+  "label": "Dendropicos_goertae",
+  "scientific_name": "Dendropicos goertae",
+  "common_name": "African Grey Woodpecker",
+  "other_names": {},
+  "family": "Picidae",
+  "summary": "The African grey woodpecker (Dendropicos goertae) is a species of bird in the woodpecker family Picidae. Is a widespread and frequently common resident breeder in much of Sub-Saharan and equatorial Africa. It is a species associated with forest and bush which nests in a tree hole, often in an oil palm, laying two to four eggs.",
+  "appearance": {
+    "description": "Like other woodpeckers, this species has a straight pointed bill, a stiff tail to provide support against tree trunks, and zygodactyl or \"yoked\" feet, with two toes pointing forward, and two backward. The long tongue can be darted forward to capture insects. This bird is 20 cm (7.9 in) in length.",
+    "colors": "The African grey woodpecker (Dendropicos goertae) is a species of bird in the woodpecker family Picidae. It is a typical woodpecker shape, and has unmarked green upperparts and a pale grey head and underparts.",
+    "wings": null
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        20.0,
+        20.0
+      ]
+    },
+    "juvenile": {
+      "notes": "Young birds are like the female, but the reds are paler, and there may be some flank barring."
+    },
+    "chick": null
+  },
+  "behaviour": "Like other woodpeckers, this species is an insectivore. It is frequently seen, and regularly taps or drums. The call is a loud and fast peet-peet-peet-peet.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The African grey woodpecker is native to tropical parts of western and central Africa. Its range includes Angola, Benin, Burkina Faso, Burundi, Cameroon, Central African Republic, Chad, Congo, Democratic Republic of Congo, Equatorial Guinea, Eritrea, Ethiopia, Gabon, Gambia, Ghana, Guinea, Guinea-Bissau, Ivory Coast, Kenya, Liberia, Mali, Mauritania, Niger, Nigeria, Rwanda, Senegal, Sierra Leone, South Sudan, Sudan, Tanzania, Togo and Uganda.",
+    "kenya_regions": [
+      "Kenya",
+      "Rift Valley",
+      "Nyanza",
+      "Western",
+      "Nakuru",
+      "Eastern"
+    ],
+    "gbif_records_in_kenya": 2753
+  },
+  "look_alikes": [
+    {
+      "label": "Dendropicos_spodocephalus",
+      "common_name": "Eastern Grey Woodpecker",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "African grey woodpecker",
+      "url": "https://en.wikipedia.org/wiki/African_grey_woodpecker",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2478424"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

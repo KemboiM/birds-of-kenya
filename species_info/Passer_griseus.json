@@ -1,0 +1,153 @@
+{
+  "label": "Passer_griseus",
+  "scientific_name": "Passer griseus",
+  "common_name": "Northern Grey-headed Sparrow",
+  "other_names": {},
+  "family": "Passeridae",
+  "summary": "The northern grey-headed sparrow (Passer griseus), also known as the grey-headed sparrow, is a species of bird in the sparrow family Passeridae, which is resident in much of tropical Africa. It occurs in a wide range of open habitats, including open woodlands and human habitation, often occupying the same niche as the house sparrow does in Eurasia. The adult northern grey-headed sparrow has a pale grey head with a white moustache stripe, pale brown upperparts, whitish underparts and chestnut wings with a small white shoulder patch.",
+  "appearance": {
+    "description": null,
+    "colors": "The northern grey-headed sparrow (Passer griseus), also known as the grey-headed sparrow, is a species of bird in the sparrow family Passeridae, which is resident in much of tropical Africa. The adult northern grey-headed sparrow has a pale grey head with a white moustache stripe, pale brown upperparts, whitish underparts and chestnut wings with a small white shoulder patch.",
+    "wings": "The adult northern grey-headed sparrow has a pale grey head with a white moustache stripe, pale brown upperparts, whitish underparts and chestnut wings with a small white shoulder patch. The sexes are similar, but young birds are slightly duller and lack the white wing patch."
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Western",
+      "Nyanza",
+      "Kajiado",
+      "Narok"
+    ],
+    "gbif_records_in_kenya": 7868
+  },
+  "look_alikes": [
+    {
+      "label": "Passer_gongonensis",
+      "common_name": "Parrot-billed Sparrow",
+      "difference": null,
+      "times_confused": 6
+    },
+    {
+      "label": "Chamaetylas_poliocephala",
+      "common_name": "Brown-chested Alethe",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cyanomitra_olivacea",
+      "common_name": "Olive Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Falco_biarmicus",
+      "common_name": "Lanner Falcon",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tchagra_australis",
+      "common_name": "Brown-crowned Tchagra",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_rubiginosus",
+      "common_name": "Chestnut Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Calamonastes_simplex",
+      "common_name": "Grey Wren-warbler",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Centropus_superciliosus",
+      "common_name": "White-browed Coucal",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Colius_striatus",
+      "common_name": "Speckled Mousebird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lamprotornis_fischeri",
+      "common_name": "Fischer's Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Passer_domesticus",
+      "common_name": "House Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ptyonoprogne_fuligula",
+      "common_name": "Large Rock Martin",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Turdoides_hypoleuca",
+      "common_name": "Northern Pied Babbler",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Dendropicos_spodocephalus",
+      "common_name": "Eastern Grey Woodpecker",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lonchura_cucullata",
+      "common_name": "Bronze Mannikin",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pseudonigrita_arnaudi",
+      "common_name": "Grey-capped Social Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Plocepasser_mahali",
+      "common_name": "White-browed Sparrow-weaver",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Northern grey-headed sparrow",
+      "url": "https://en.wikipedia.org/wiki/Northern_grey-headed_sparrow",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/5231193"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

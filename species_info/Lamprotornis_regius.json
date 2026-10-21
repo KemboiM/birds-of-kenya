@@ -1,0 +1,92 @@
+{
+  "label": "Lamprotornis_regius",
+  "scientific_name": "Lamprotornis regius",
+  "common_name": "Golden-breasted Starling",
+  "other_names": {},
+  "family": "Sturnidae",
+  "summary": "The golden-breasted starling (Lamprotornis regius), also known as royal starling, is a medium-sized passerine in the starling family.",
+  "appearance": {
+    "description": "Lamprotornis regius can reach a body length of about 35 cm (14 in). The adult has a metallic green head and upper back, bright golden yellow breast and belly, dark bill and legs, white iris and metallic violet blue on wings, back, neck and its long tail feathers. Both sexes are similar.",
+    "colors": "The adult has a metallic green head and upper back, bright golden yellow breast and belly, dark bill and legs, white iris and metallic violet blue on wings, back, neck and its long tail feathers.",
+    "wings": "The adult has a metallic green head and upper back, bright golden yellow breast and belly, dark bill and legs, white iris and metallic violet blue on wings, back, neck and its long tail feathers."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        35.0,
+        35.0
+      ]
+    },
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": "The golden-breasted starling is a social animal, living in groups of three to twelve individuals. Adults can be found from January to June and from August to November, with a peak in January. In contrast to other brilliant starlings, which feed mainly on fruits, their diet consists mainly of insects and termites.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The golden-breasted starling has a very large range. It is distributed in Northeastern Africa, from Somalia, Ethiopia, Kenya and northern Tanzania.",
+    "kenya_regions": [
+      "Coast",
+      "Kenya",
+      "Eastern",
+      "Rift Valley",
+      "North-Eastern",
+      "Samburu"
+    ],
+    "gbif_records_in_kenya": 5313
+  },
+  "look_alikes": [
+    {
+      "label": "Corythaeola_cristata",
+      "common_name": "Great Blue Turaco",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_nigricollis",
+      "common_name": "Black-necked Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Euplectes_capensis",
+      "common_name": "Yellow Bishop",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lamprotornis_chalybaeus",
+      "common_name": "Greater Blue-eared Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Onychognathus_morio",
+      "common_name": "Red-winged Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cinnyris_venustus",
+      "common_name": "Variable Sunbird",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Golden-breasted starling",
+      "url": "https://en.wikipedia.org/wiki/Golden-breasted_starling",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/5845381"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

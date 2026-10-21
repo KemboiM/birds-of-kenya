@@ -1,0 +1,82 @@
+{
+  "label": "Anas_sparsa",
+  "scientific_name": "Anas sparsa",
+  "common_name": "African Black Duck",
+  "other_names": {},
+  "family": "Anatidae",
+  "summary": "The African black duck (Anas sparsa) is a species of duck of the genus Anas. It is genetically closest to the mallard group, but shows some peculiarities in its behavior and (as far as they can be discerned) plumage; it is accordingly placed in the subgenus Melananas pending further research.",
+  "appearance": {
+    "description": "The African black duck is a black duck with pronounced white marks on its back, a dark bill, and orange legs and feet. A purpish-blue speculum is often visible, especially in flight. It lives in central and southern Africa.",
+    "colors": "The African black duck (Anas sparsa) is a species of duck of the genus Anas. It is genetically closest to the mallard group, but shows some peculiarities in its behavior and (as far as they can be discerned) plumage; it is accordingly placed in the subgenus Melananas pending further research.",
+    "wings": null
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        48.0,
+        57.0
+      ]
+    },
+    "juvenile": null,
+    "chick": {
+      "notes": "Incubation is about 30 days by the mother and the fledgling period is 86 days and only the mother takes care of the young."
+    }
+  },
+  "behaviour": "It is a very shy and territorial duck. It is usually seen in pairs or small flocks. It breeds throughout the year in different areas.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The African black duck is mainly found in eastern and southern sub-Saharan Africa from South Africa north to South Sudan and Ethiopia with outlying populations in western equatorial Africa, in southeast Nigeria, Cameroon and Gabon.",
+    "kenya_regions": [
+      "Kenya",
+      "Nairobi",
+      "Central",
+      "Rift Valley",
+      "Eastern",
+      "Nyeri"
+    ],
+    "gbif_records_in_kenya": 2530
+  },
+  "look_alikes": [
+    {
+      "label": "Corvus_rhipidurus",
+      "common_name": "Fan-tailed Raven",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Motacilla_aguimp",
+      "common_name": "African Pied Wagtail",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Torgos_tracheliotos",
+      "common_name": "Lappet-faced Vulture",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Gallinula_chloropus",
+      "common_name": "Common Moorhen",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "African black duck",
+      "url": "https://en.wikipedia.org/wiki/African_black_duck",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2498148"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

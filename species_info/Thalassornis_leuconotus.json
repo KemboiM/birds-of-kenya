@@ -1,0 +1,69 @@
+{
+  "label": "Thalassornis_leuconotus",
+  "scientific_name": "Thalassornis leuconotus",
+  "common_name": "White-backed Duck",
+  "other_names": {},
+  "family": "Anatidae",
+  "summary": "The white-backed duck (Thalassornis leuconotus) is a waterbird of the family Anatidae. It is distinct from all other ducks, but most closely related to the whistling ducks in the subfamily Dendrocygninae, though also showing some similarities to the stiff-tailed ducks in the subfamily Oxyurinae. It is the only member of the genus Thalassornis.",
+  "appearance": {
+    "description": "These birds are well adapted for diving. On occasions they have been observed to stay under water for up to half a minute. They search especially for the bulbs of waterlilies, but also seeds and leaves of waterlilies and other water plants and the young feed on lake flies larvae as well.",
+    "colors": "The white-backed duck (Thalassornis leuconotus) is a waterbird of the family Anatidae. From danger, they also escape preferentially by diving; hence, the namesake white back is hardly visible in life.",
+    "wings": "It is distinct from all other ducks, but most closely related to the whistling ducks in the subfamily Dendrocygninae, though also showing some similarities to the stiff-tailed ducks in the subfamily Oxyurinae."
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": "White-backed ducks live in Africa, especially between Senegal and Chad in the west, Ethiopia in the east, and South Africa in the south. Their habitat consists of lakes, ponds, swamps and marshes where they are well camouflaged against predators.",
+    "kenya_regions": [
+      "Nairobi",
+      "Central",
+      "Kenya",
+      "Rift Valley",
+      "Coast",
+      "Eastern"
+    ],
+    "gbif_records_in_kenya": 1990
+  },
+  "look_alikes": [
+    {
+      "label": "Egretta_intermedia",
+      "common_name": "Medium Egret",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Spilopelia_senegalensis",
+      "common_name": "Laughing Dove",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tachybaptus_ruficollis",
+      "common_name": "Little Grebe",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "White-backed duck",
+      "url": "https://en.wikipedia.org/wiki/White-backed_duck",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2498229"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

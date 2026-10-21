@@ -1,0 +1,130 @@
+{
+  "label": "Plectropterus_gambensis",
+  "scientific_name": "Plectropterus gambensis",
+  "common_name": "Spur-winged Goose",
+  "other_names": {},
+  "family": "Anatidae",
+  "summary": "The spur-winged goose (Plectropterus gambensis) is a large, Sub-Saharan African waterbird in the family Anatidae, which includes geese and shelducks. However, P. gambensis developed unique environmental adaptations, which resulted in the evolution of several anatomical features that are not shared with other anatids; thus, the species has been classified one step further into its own subfamily, the Plectropterinae.",
+  "appearance": {
+    "description": "Adults are 75–115 cm (30–45 in) long, and weigh an average of 4–6.8 kg (8.8–15.0 lb) (rarely up to 10 kg (22 lb)), with ganders (males) being noticeably larger than the geese. The wingspan can range from 150 to 200 cm (59 to 79 in). One source claims the average weight of males is around 6 kg (13 lb) and the weight of females is around 4.7 kg (10 lb).",
+    "colors": "However, P. gambensis developed unique environmental adaptations, which resulted in the evolution of several anatomical features that are not shared with other anatids; thus, the species has been classified one step further into its own subfamily, the Plectropterinae. They are mainly black, with a white face and large white wing patches.",
+    "wings": "The spur-winged goose (Plectropterus gambensis) is a large, Sub-Saharan African waterbird in the family Anatidae, which includes geese and shelducks. Among standard measurements, the wing chord is 42.5 to 55 cm (16.7 to 21.7 in), the bill is 5.7 to 6.4 cm (2.2 to 2.5 in) and the tarsus is 5.7 to 12 cm (2.2 to 4.7 in)."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        75.0,
+        115.0
+      ],
+      "mass_g": [
+        4000.0,
+        10000.0
+      ],
+      "wingspan_cm": [
+        150.0,
+        200.0
+      ]
+    },
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": "The spur-winged goose is gregarious, generally meeting in small flocks that contain up to 50 birds. They occur around various African rivers, lakes and swamps. Varied sites may be used for post-breeding moulting, in which case large numbers of the geese may congregate.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "This species often occurs in open grasslands with lakes, seasonal pools, rivers, swamps and river deltas. Large inland rivers and lakes are perhaps most commonly inhabited, with saline lakes and upland areas generally being avoided, although the species can occur to an elevation of 3,000 m (9,800 ft) in eastern Africa.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Coast",
+      "Nairobi",
+      "Central",
+      "Kajiado"
+    ],
+    "gbif_records_in_kenya": 3161
+  },
+  "look_alikes": [
+    {
+      "label": "Ciconia_nigra",
+      "common_name": "Black Stork",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Anas_undulata",
+      "common_name": "Yellow-billed Duck",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Fulica_cristata",
+      "common_name": "Red-knobbed Coot",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ichthyaetus_hemprichii",
+      "common_name": "Sooty Gull",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Phoeniconaias_minor",
+      "common_name": "Lesser Flamingo",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Sarkidiornis_melanotos",
+      "common_name": "Knob-billed Duck",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Terathopius_ecaudatus",
+      "common_name": "Bateleur",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Aquila_spilogaster",
+      "common_name": "African Hawk-eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Gallinula_chloropus",
+      "common_name": "Common Moorhen",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tachybaptus_ruficollis",
+      "common_name": "Little Grebe",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Alopochen_aegyptiaca",
+      "common_name": "Egyptian Goose",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Spur-winged goose",
+      "url": "https://en.wikipedia.org/wiki/Spur-winged_goose",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/5232465"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

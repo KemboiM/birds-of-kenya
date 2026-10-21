@@ -1,0 +1,93 @@
+{
+  "label": "Clamator_jacobinus",
+  "scientific_name": "Clamator jacobinus",
+  "common_name": "Jacobin Cuckoo",
+  "other_names": {},
+  "family": "Cuculidae",
+  "summary": "The Jacobin cuckoo (Clamator jacobinus), also pied cuckoo or pied crested cuckoo, is a member of the cuckoo order of birds that is found in Africa and Asia. It is partially migratory and in India, it has been considered a harbinger of the monsoon rains due to the timing of its arrival. It has been associated with a bird in Indian mythology and poetry, known as the chātaka (Sanskrit: चातक) represented as a bird with a beak on its head that waits for rains to quench its thirst.",
+  "appearance": {
+    "description": "This medium-sized, slim black and white cuckoo with a crest is distinctive. The white wing patch on the black wing and the pattern make it unmistakable even in flight. They are very vocal during the breeding season.",
+    "colors": "It is partially migratory and in India, it has been considered a harbinger of the monsoon rains due to the timing of its arrival. This medium-sized, slim black and white cuckoo with a crest is distinctive.",
+    "wings": "The white wing patch on the black wing and the pattern make it unmistakable even in flight. This is larger and longer winged than the nominate subspecies found in the southern peninsular region and Sri Lanka is said to be a local migrant."
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": "In the breeding season, birds call from prominent perches and chase each other with slow wing-beats and pigeon like clapping flight. Courtship feeding has been observed in Africa. The species is a brood parasite and in India the host is mainly species of babblers in the genus Turdoides.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The species is distributed south of the Sahara in Africa and south of the Himalayas in India. Also found in Sri Lanka and parts of Myanmar.",
+    "kenya_regions": [
+      "Coast",
+      "Rift Valley",
+      "Kenya",
+      "Eastern",
+      "Nairobi",
+      "Nyanza"
+    ],
+    "gbif_records_in_kenya": 3661
+  },
+  "look_alikes": [
+    {
+      "label": "Lanius_cabanisi",
+      "common_name": "Long-tailed Fiscal",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Andropadus_importunus",
+      "common_name": "Sombre Greenbul",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Dicrurus_adsimilis",
+      "common_name": "Fork-tailed Drongo",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lanius_humeralis",
+      "common_name": "Northern Fiscal",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pseudonigrita_cabanisi",
+      "common_name": "Black-capped Social Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Laniarius_funebris",
+      "common_name": "Slate-colored Boubou",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Centropus_superciliosus",
+      "common_name": "White-browed Coucal",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Jacobin cuckoo",
+      "url": "https://en.wikipedia.org/wiki/Jacobin_cuckoo",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2496468"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

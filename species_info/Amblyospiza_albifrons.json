@@ -1,0 +1,153 @@
+{
+  "label": "Amblyospiza_albifrons",
+  "scientific_name": "Amblyospiza albifrons",
+  "common_name": "Thick-billed Weaver",
+  "other_names": {},
+  "family": "Ploceidae",
+  "summary": "The thick-billed weaver (Amblyospiza albifrons), or grosbeak weaver, is a distinctive and bold species of weaver bird that is native to the Afrotropics. It belongs to the monotypic genus Amblyospiza and subfamily Amblyospizinae. They have particularly strong mandibles, which are employed to extricate the seeds in nutlets and drupes, and their songs are comparatively unmusical and harsh.",
+  "appearance": {
+    "description": null,
+    "colors": null,
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": "=== Breeding === Thick-billed weavers are polygynous, in that a single male attempts to attract and mate with several females. A male may attract up to six females, and up to three nests may be active in any male's territory at once. When found at low density there are many apparently monogamous pairs, but they normally nest in small colonies.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "It has a patchy distribution in West, East and southern Africa, where it is present in marshes, uplands, suburban areas and artificial wetlands. Thick-billed weavers breed in reedy wetlands and can be found around forest edge outside the breeding season.",
+    "kenya_regions": [
+      "Kenya",
+      "Nairobi",
+      "Coast",
+      "Rift Valley",
+      "Central",
+      "Eastern"
+    ],
+    "gbif_records_in_kenya": 8259
+  },
+  "look_alikes": [
+    {
+      "label": "Passer_eminibey",
+      "common_name": "Chestnut Sparrow",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Psalidoprocne_pristoptera",
+      "common_name": "Black Saw-wing",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Rhinopomastus_minor",
+      "common_name": "Abyssinian Scimitarbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Buteo_buteo",
+      "common_name": "Common Buzzard",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cuculus_solitarius",
+      "common_name": "Red-chested Cuckoo",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cisticola_hunteri",
+      "common_name": "Hunter's Cisticola",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Calendulauda_poecilosterna",
+      "common_name": "Pink-breasted Lark",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Euplectes_albonotatus",
+      "common_name": "White-winged Widowbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Melaenornis_edolioides",
+      "common_name": "Northern Black Flycatcher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Merops_pusillus",
+      "common_name": "Little Bee-eater",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Poicephalus_meyeri",
+      "common_name": "Meyer's Parrot",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Euplectes_capensis",
+      "common_name": "Yellow Bishop",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Turdoides_sharpei",
+      "common_name": "Black-lored Babbler",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Gymnoris_pyrgita",
+      "common_name": "Yellow-spotted Bush Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cinnyricinclus_leucogaster",
+      "common_name": "Violet-backed Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Sporopipes_frontalis",
+      "common_name": "Speckle-fronted Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bubalornis_niger",
+      "common_name": "Red-billed Buffalo Weaver",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Thick-billed weaver",
+      "url": "https://en.wikipedia.org/wiki/Thick-billed_weaver",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2494005"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

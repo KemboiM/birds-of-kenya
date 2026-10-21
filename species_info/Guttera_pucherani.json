@@ -1,0 +1,66 @@
+{
+  "label": "Guttera_pucherani",
+  "scientific_name": "Guttera pucherani",
+  "common_name": "Eastern Crested Guinea Fowl",
+  "other_names": {},
+  "family": "Numididae",
+  "summary": "The eastern crested guinea fowl (Guttera pucherani) is a species of guinea fowl native to East Africa. It is found in Somalia to Tanzania, Zanzibar and Tumbatu Island, where it inhabits open forest, woodland and forest-savanna mosaics. It is one of three species that were formerly considered to be one and the same species, the crested guinea fowl.",
+  "appearance": {
+    "description": "The three species of crested guinea fowl have a total length of around 50 cm (20 in) and weigh 721–1,543 g (1.590–3.402 lb). The plumage is overall blackish with dense white spots. They have distinctive black crests on the top of their heads, the form of which varies from small curly feathers to down depending on the species, and which easily separates them from other species of guinea fowl, except the plumed guinea fowl.",
+    "colors": "It is one of three species that were formerly considered to be one and the same species, the crested guinea fowl. The plumage is overall blackish with dense white spots.",
+    "wings": null
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        50.0,
+        50.0
+      ],
+      "mass_g": [
+        721.0,
+        1543.0
+      ]
+    },
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Coast",
+      "Kenya",
+      "Western",
+      "Eastern",
+      "Central",
+      "Rift Valley"
+    ],
+    "gbif_records_in_kenya": 2205
+  },
+  "look_alikes": [
+    {
+      "label": "Egretta_ardesiaca",
+      "common_name": "Black Heron",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Eastern crested guinea fowl",
+      "url": "https://en.wikipedia.org/wiki/Eastern_crested_guinea_fowl",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2473325"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

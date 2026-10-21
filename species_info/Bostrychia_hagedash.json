@@ -1,0 +1,176 @@
+{
+  "label": "Bostrychia_hagedash",
+  "scientific_name": "Bostrychia hagedash",
+  "common_name": "Hadada Ibis",
+  "other_names": {},
+  "family": "Threskiornithidae",
+  "summary": "The hadada ibis (Bostrychia hagedash) or hadeda () is an ibis native to Sub-Saharan Africa. It is named for its loud three to four note calls uttered in flight especially in the mornings and evenings when they fly out or return to their roost trees. Although not as dependent on water as some ibises, they are found near wetlands and often live in close proximity to humans, foraging in cultivated land and gardens.",
+  "appearance": {
+    "description": "The hadada is a large (about 76 cm (30 in) long), grey-to-partly brown species of ibis. Adults have a mean body mass of 1.2 kilograms (2.65 lbs.). Males and females are alike in plumage.",
+    "colors": "It is named for its loud three to four note calls uttered in flight especially in the mornings and evenings when they fly out or return to their roost trees. A medium-sized ibis with stout legs and a typical down-curved bill, the wing coverts are iridescent with a green or purple sheen.",
+    "wings": "A medium-sized ibis with stout legs and a typical down-curved bill, the wing coverts are iridescent with a green or purple sheen. The plumage over the wings has an iridescent purple sheen produced by optical microstructures within the feathers."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        76.0,
+        76.0
+      ]
+    },
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": "Hadada ibises roost in groups on trees. They fly out in the mornings with loud calls and return in the evenings with regularity. Hadada feed on insects, millipedes and earthworms, using their long scimitar-like bill to probe soft soil.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The hadada ibis occurs throughout Sub-Saharan Africa in open grasslands, savanna and wetlands, as well as urban parks, school fields, green corridors and large gardens. This bird occurs in Sudan, Burundi, Ethiopia, Senegal, Uganda, Tanzania, Gabon, Democratic Republic of Congo, Cameroon, Canary Islands, Gambia, Kenya, Somalia, Lesotho, Eswatini, Botswana, Mozambique, Zimbabwe, Namibia, and South Africa.",
+    "kenya_regions": [
+      "Kenya",
+      "Rift Valley",
+      "Nairobi",
+      "Central",
+      "Coast",
+      "Eastern"
+    ],
+    "gbif_records_in_kenya": 51625
+  },
+  "look_alikes": [
+    {
+      "label": "Scopus_umbretta",
+      "common_name": "Hamerkop",
+      "difference": null,
+      "times_confused": 4
+    },
+    {
+      "label": "Plegadis_falcinellus",
+      "common_name": "Glossy Ibis",
+      "difference": null,
+      "times_confused": 3
+    },
+    {
+      "label": "Nigrita_canicapillus",
+      "common_name": "Grey-headed Nigrita",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Egretta_dimorpha",
+      "common_name": "Dimorphic Egret",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Sarkidiornis_melanotos",
+      "common_name": "Knob-billed Duck",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ciconia_abdimii",
+      "common_name": "Abdim's Stork",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Stephanoaetus_coronatus",
+      "common_name": "Crowned Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bucorvus_leadbeateri",
+      "common_name": "Southern Ground Hornbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Actitis_hypoleucos",
+      "common_name": "Common Sandpiper",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Myrmecocichla_aethiops",
+      "common_name": "Anteater Chat",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Acryllium_vulturinum",
+      "common_name": "Vulturine Guinea Fowl",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Aquila_rapax",
+      "common_name": "Tawny Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ardeotis_kori",
+      "common_name": "Kori Bustard",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bubalornis_niger",
+      "common_name": "Red-billed Buffalo Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bycanistes_brevis",
+      "common_name": "Silvery-cheeked Hornbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Corvus_capensis",
+      "common_name": "Cape Crow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Numida_meleagris",
+      "common_name": "Helmeted Guinea Fowl",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Threskiornis_aethiopicus",
+      "common_name": "African Sacred Ibis",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tringa_nebularia",
+      "common_name": "Common Greenshank",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Vanellus_coronatus",
+      "common_name": "Crowned Lapwing",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Hadada ibis",
+      "url": "https://en.wikipedia.org/wiki/Hadada_ibis",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/5229203"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

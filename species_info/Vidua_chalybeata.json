@@ -1,0 +1,94 @@
+{
+  "label": "Vidua_chalybeata",
+  "scientific_name": "Vidua chalybeata",
+  "common_name": "Village Indigobird",
+  "other_names": {},
+  "family": "Viduidae",
+  "summary": "The village indigobird (Vidua chalybeata), also known as the steelblue widowfinch or (in U.S. aviculture) the Combassou finch, is a small songbird belonging to the family Viduidae. It is distinguishable from other indigobird species by bill and leg colours, the colour tinge of the male's breeding plumage, song, and to lesser extent, the nestling's plumage and mouth pattern. The bill colour can be red or white depending on the population, and there is some regional variation in the colour tone of the male's plumage.",
+  "appearance": {
+    "description": "The village indigobird is 11–12 cm in length. The adult male is entirely greenish-black or bluish-black except for his orange-red legs and conical white bill. The female resembles a female house sparrow, with streaked brown upperparts, buff underparts, a whitish supercilium and a yellowish bill, although she also has red legs.",
+    "colors": "The village indigobird (Vidua chalybeata), also known as the steelblue widowfinch or (in U.S. aviculture) the Combassou finch, is a small songbird belonging to the family Viduidae. It is distinguishable from other indigobird species by bill and leg colours, the colour tinge of the male's breeding plumage, song, and to lesser extent, the nestling's plumage and mouth pattern.",
+    "wings": null
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        11.0,
+        12.0
+      ]
+    },
+    "juvenile": {
+      "notes": "Immature birds are like the female but plainer and without a supercilium."
+    },
+    "chick": null
+  },
+  "behaviour": "The male village indigobird is territorial, and he has an elaborate courtship flight display. The song is given from a high perch, and consists of rapid sputtering and churring intermingled with mimicry of red-billed firefinch's song, especially the characteristic chick-pea-pea-pea. The diet of this species consists of seeds and grain.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "It is a resident breeding bird in most of Africa south of the Sahara Desert. This indigobird is found in many open habitats including open woodland, scrub and cultivation, but, as its name implies, it is most readily seen near villages.",
+    "kenya_regions": [
+      "Kenya",
+      "Nairobi",
+      "Rift Valley",
+      "Coast",
+      "Central",
+      "Eastern"
+    ],
+    "gbif_records_in_kenya": 6028
+  },
+  "look_alikes": [
+    {
+      "label": "Bubalornis_niger",
+      "common_name": "Red-billed Buffalo Weaver",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Notopholia_corrusca",
+      "common_name": "Black-bellied Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Parus_albiventris",
+      "common_name": "White-bellied Tit",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Oenanthe_lugubris",
+      "common_name": "Abyssinian Wheatear",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Sporopipes_frontalis",
+      "common_name": "Speckle-fronted Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Turdus_abyssinicus",
+      "common_name": "Abyssinian Thrush",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Village indigobird",
+      "url": "https://en.wikipedia.org/wiki/Village_indigobird",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2484613"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

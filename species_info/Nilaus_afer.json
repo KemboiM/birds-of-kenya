@@ -1,0 +1,78 @@
+{
+  "label": "Nilaus_afer",
+  "scientific_name": "Nilaus afer",
+  "common_name": "Brubru",
+  "other_names": {},
+  "family": "Malaconotidae",
+  "summary": "The brubru (Nilaus afer) is a species of bushshrike (family Malaconotidae) found in most of Sub-Saharan Africa. It is the only member of the genus Nilaus.",
+  "appearance": {
+    "description": "The brubru is a small passerine, 12–15 cm long. The adult male of the nominate subspecies, N. a. afer, has a black crown, white supercilium and forehead, and black eyestripe. The back is black with a tawny strip, the rump is mottled black, and the tail is black with white tips and edges to the outer feathers.",
+    "colors": "The adult male of the nominate subspecies, N. a. afer, has a black crown, white supercilium and forehead, and black eyestripe. The back is black with a tawny strip, the rump is mottled black, and the tail is black with white tips and edges to the outer feathers.",
+    "wings": "The wings are black with a buff shoulder stripe. The juvenile is mottled brown, buff and white above, with buff edgings to the wing and tail feathers."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        12.0,
+        15.0
+      ]
+    },
+    "juvenile": {
+      "notes": "The juvenile is mottled brown, buff and white above, with buff edgings to the wing and tail feathers."
+    },
+    "chick": {
+      "notes": "Both sexes incubate for about 19 days to hatching. The chicks fledge in another 22 days but are dependent for about eight weeks."
+    }
+  },
+  "behaviour": "The brubru is usually solitary or found in pairs; it is a restless but unobtrusive arboreal species which hunts insects in the canopy. Its need for large trees in which to feed means that it has an unusually large territory for a bird of its size, typically 35 hectares. Outside the breeding season, when insect prey is scarcer, it will join mixed-species feeding flocks.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "Its habitat is dry open woodland, but varies geographically. The six northern races and the subspecies N. a.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Eastern",
+      "Coast",
+      "Nairobi",
+      "Baringo"
+    ],
+    "gbif_records_in_kenya": 9200
+  },
+  "look_alikes": [
+    {
+      "label": "Batis_perkeo",
+      "common_name": "Pygmy Batis",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Plocepasser_mahali",
+      "common_name": "White-browed Sparrow-weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Motacilla_aguimp",
+      "common_name": "African Pied Wagtail",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Brubru",
+      "url": "https://en.wikipedia.org/wiki/Brubru",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2484835"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "label": "Ploceus_castaneiceps",
+  "scientific_name": "Ploceus castaneiceps",
+  "common_name": "Taveta Weaver",
+  "other_names": {},
+  "family": "Ploceidae",
+  "summary": "The Taveta weaver (Ploceus castaneiceps), also known as the Taveta golden weaver, (or the mango bird) is a species of bird in the weaver family, Ploceidae. It is found on the African savannah in Kenya and Tanzania. The name of the bird refers to the region of Taveta in southeastern Kenya near the border with Tanzania where it occurs, as well as how these birds weave intricate nests.",
+  "appearance": {
+    "description": "The male Taveta weaver is a vibrant golden yellow color; this color is duller on its back. The wings and tail are a greener color, whereas brown spots are located on the chest. The back of the head is red, and the bill, or beak, is black.",
+    "colors": "The male Taveta weaver is a vibrant golden yellow color; this color is duller on its back. The wings and tail are a greener color, whereas brown spots are located on the chest.",
+    "wings": "The wings and tail are a greener color, whereas brown spots are located on the chest."
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": "These birds live in large groups, or colonies. The Taveta weaver eats mostly seeds, though they have been seen to feed from small insects. The offspring receive food from the mother.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "This bird is native to savannah of north-eastern Tanzania and south-eastern Kenya. It prefers to live in bulrushes, woodland, and swampy areas.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Coast",
+      "Kenya",
+      "Kajiado",
+      "Taita Taveta",
+      "Taita-Taveta"
+    ],
+    "gbif_records_in_kenya": 1336
+  },
+  "look_alikes": [
+    {
+      "label": "Ploceus_bojeri",
+      "common_name": "Golden Palm Weaver",
+      "difference": null,
+      "times_confused": 5
+    },
+    {
+      "label": "Glareola_pratincola",
+      "common_name": "Collared Pratincole",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lagonosticta_senegala",
+      "common_name": "Red-billed Firefinch",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_cucullatus",
+      "common_name": "Village Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_xanthops",
+      "common_name": "Holub's Golden Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Zosterops_senegalensis",
+      "common_name": "Northern Yellow White-eye",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Calendulauda_poecilosterna",
+      "common_name": "Pink-breasted Lark",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Taveta weaver",
+      "url": "https://en.wikipedia.org/wiki/Taveta_weaver",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2494025"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "label": "Acryllium_vulturinum",
+  "scientific_name": "Acryllium vulturinum",
+  "common_name": "Vulturine Guinea Fowl",
+  "other_names": {},
+  "family": "Numididae",
+  "summary": "The vulturine guinea fowl (Acryllium vulturinum) is the largest extant species of guinea fowl. Systematically, it is only distantly related to other guinea fowl genera. Its closest living relative, the white breasted guinea fowl, Agelastes meleagrides inhabit primary forests in Central Africa.",
+  "appearance": {
+    "description": "The vulturine guinea fowl is a large (61–71 centimetres (24–28 in)) bird with a round body and small head. Its average weight is between 1kg to 1.6kg and it has longer wings, neck, legs and tail than other guinea fowl. The adult has a bare blue face and black neck, and although all other guinea fowl have unfeathered heads, this species looks particularly like a vulture because of the long bare neck and head.",
+    "colors": "Its closest living relative, the white breasted guinea fowl, Agelastes meleagrides inhabit primary forests in Central Africa. The adult has a bare blue face and black neck, and although all other guinea fowl have unfeathered heads, this species looks particularly like a vulture because of the long bare neck and head.",
+    "wings": "Its average weight is between 1kg to 1.6kg and it has longer wings, neck, legs and tail than other guinea fowl. The wings are short and rounded, and the tail is longer than others in the family Numididae."
+  },
+  "size": {
+    "adult": {
+      "mass_g": [
+        1000.0,
+        1600.0
+      ]
+    },
+    "juvenile": {
+      "notes": "Young birds are mainly grey-brown, with a duller blue breast and short hackles."
+    },
+    "chick": null
+  },
+  "behaviour": "The vulturine guinea fowl is a gregarious species, forming flocks outside the breeding season typically of about 25 birds. This species' food are seeds and small invertebrates. This guinea fowl is terrestrial and will run rather than fly when alarmed.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Rift Valley",
+      "Eastern",
+      "Kenya",
+      "Coast",
+      "Samburu",
+      "Isiolo"
+    ],
+    "gbif_records_in_kenya": 7578
+  },
+  "look_alikes": [
+    {
+      "label": "Numida_meleagris",
+      "common_name": "Helmeted Guinea Fowl",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Upupa_africana",
+      "common_name": "Eurasian Hoopoe",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Oenanthe_lugubris",
+      "common_name": "Abyssinian Wheatear",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Anastomus_lamelligerus",
+      "common_name": "African Openbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bostrychia_hagedash",
+      "common_name": "Hadada Ibis",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Corvus_splendens",
+      "common_name": "House Crow",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Vulturine guinea fowl",
+      "url": "https://en.wikipedia.org/wiki/Vulturine_guinea_fowl",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2473339"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

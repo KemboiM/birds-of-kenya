@@ -1,0 +1,190 @@
+{
+  "label": "Dicrurus_adsimilis",
+  "scientific_name": "Dicrurus adsimilis",
+  "common_name": "Fork-tailed Drongo",
+  "other_names": {},
+  "family": "Dicruridae",
+  "summary": "The fork-tailed drongo (Dicrurus adsimilis), also called the common drongo or African drongo, is a small bird found from the Sahel to South Africa that lives in wooded habitats, particularly woodlands and savannas. It is part of the family Dicruridae and has four recognized subspecies, D. a adsimilis, D. a. apivorus, D. a. fugax and D. a. jubaensis. Like other drongos, the fork-tailed is mostly insectivorous; its diet mainly consists of butterflies, termites, and grasshoppers.",
+  "appearance": {
+    "description": "The bird possesses a robust black beak and red eyes. When born, they lack feathers, exhibiting reddish skin, an orange beak, yellow gape flange, brown eyes, and a black beak. Juvenile fork-tailed drongos are dark brown tone with some buff-colored feather tips, a less pronounced tail fork, brown or grey eyes, and a pale mouth.",
+    "colors": "Physically, this species is characterized with a narrow fork-shaped tail, red-brownish eyes, and black plumage throughout all of its body. Due to its extensive range and stable population, the fork-tailed drongo is classified by the IUCN Red List as a least-concern species.",
+    "wings": "Following breeding, adult birds experience a complete molt, usually taking place between December and March in Southern Africa, with varying months in other areas. The partial post-juvenile molt initiates prior to the growth of new wing and tail feathers following the nesting period."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        11.5,
+        12.6
+      ],
+      "wingspan_cm": [
+        13.4,
+        13.4
+      ]
+    },
+    "juvenile": {
+      "notes": "Juvenile fork-tailed drongos are dark brown tone with some buff-colored feather tips, a less pronounced tail fork, brown or grey eyes, and a pale mouth. Young birds maintain their immature plumage until the next breeding season."
+    },
+    "chick": {
+      "notes": "Both male and female birds feed the chicks, providing flies, beetle larvae, lizards, and seeds. The nestling period typically spans from 16 to 22 days."
+    }
+  },
+  "behaviour": "=== Feeding === This species is mostly insectivorous and occasionally eats fishes and other birds, furthermore they may take nectar and eat plants when available too. Predominant preyed animals are butterflies, beetles, caterpillars, grasshoppers, honey bees, moths, termites and weevils, especially common species being the angola white lady, Macrotermes natalensis, Cyrtacanthacris aeruginosa, and the desert locust.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The fork-tailed drongo is a common and widespread resident breeder in Africa south of the Sahara. This insect-eating bird is usually found in open woodland, savanna and forest edge and is tolerant of arid climates.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Coast",
+      "Eastern",
+      "Nairobi",
+      "Central"
+    ],
+    "gbif_records_in_kenya": 42353
+  },
+  "look_alikes": [
+    {
+      "label": "Campephaga_flava",
+      "common_name": "Black Cuckooshrike",
+      "difference": null,
+      "times_confused": 3
+    },
+    {
+      "label": "Terpsiphone_viridis",
+      "common_name": "African Paradise Flycatcher",
+      "difference": null,
+      "times_confused": 3
+    },
+    {
+      "label": "Melaenornis_pammelaina",
+      "common_name": "Southern Black Flycatcher",
+      "difference": null,
+      "times_confused": 3
+    },
+    {
+      "label": "Myrmecocichla_nigra",
+      "common_name": "Sooty Chat",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Melaenornis_edolioides",
+      "common_name": "Northern Black Flycatcher",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Milvus_migrans",
+      "common_name": "Black Kite",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Ploceus_taeniopterus",
+      "common_name": "Northern Masked Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Euplectes_jacksoni",
+      "common_name": "Jackson's Widowbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Clamator_jacobinus",
+      "common_name": "Jacobin Cuckoo",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Saxicola_torquatus",
+      "common_name": "African Stonechat",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bycanistes_brevis",
+      "common_name": "Silvery-cheeked Hornbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Turdoides_sharpei",
+      "common_name": "Black-lored Babbler",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Laniarius_funebris",
+      "common_name": "Slate-colored Boubou",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Onychognathus_morio",
+      "common_name": "Red-winged Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Aquila_spilogaster",
+      "common_name": "African Hawk-eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bubalornis_niger",
+      "common_name": "Red-billed Buffalo Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Hirundo_rustica",
+      "common_name": "Barn Swallow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Hirundo_smithii",
+      "common_name": "Wire-tailed Swallow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lanius_humeralis",
+      "common_name": "Northern Fiscal",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Muscicapa_adusta",
+      "common_name": "African Dusky Flycatcher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Nectarinia_kilimensis",
+      "common_name": "Bronze Sunbird",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Fork-tailed drongo",
+      "url": "https://en.wikipedia.org/wiki/Fork-tailed_drongo",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2493963"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

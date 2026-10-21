@@ -1,0 +1,81 @@
+{
+  "label": "Vanellus_senegallus",
+  "scientific_name": "Vanellus senegallus",
+  "common_name": "African Wattled Lapwing",
+  "other_names": {},
+  "family": "Charadriidae",
+  "summary": "The African wattled lapwing (Vanellus senegallus), also known as the Senegal wattled plover or simply wattled lapwing, is a large lapwing, a group of largish waders in the family Charadriidae. It is a resident breeder in most of sub-Saharan Africa outside the rainforests, although it has seasonal movements. These are conspicuous and unmistakable birds.",
+  "appearance": {
+    "description": null,
+    "colors": "They are large brown waders with a black crown, white forehead and large yellow facial wattles. The tail is white, tipped black, and the long legs are yellow.",
+    "wings": "The African wattled lapwing (Vanellus senegallus), also known as the Senegal wattled plover or simply wattled lapwing, is a large lapwing, a group of largish waders in the family Charadriidae. In flight, the upperwings have black flight feathers and brown coverts separated by a white bar."
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Narok",
+      "Nyanza",
+      "Western",
+      "Bomet"
+    ],
+    "gbif_records_in_kenya": 4699
+  },
+  "look_alikes": [
+    {
+      "label": "Vanellus_lugubris",
+      "common_name": "Senegal Lapwing",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Malaconotus_blanchoti",
+      "common_name": "Grey-headed Bushshrike",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Melierax_poliopterus",
+      "common_name": "Eastern Chanting Goshawk",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Sagittarius_serpentarius",
+      "common_name": "Secretarybird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ardea_cinerea",
+      "common_name": "Grey Heron",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "African wattled lapwing",
+      "url": "https://en.wikipedia.org/wiki/African_wattled_lapwing",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/5229150"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

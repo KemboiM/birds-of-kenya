@@ -1,0 +1,136 @@
+{
+  "label": "Centropus_superciliosus",
+  "scientific_name": "Centropus superciliosus",
+  "common_name": "White-browed Coucal",
+  "other_names": {},
+  "family": "Cuculidae",
+  "summary": "The white-browed coucal or lark-heeled cuckoo (Centropus superciliosus), is a species of cuckoo in the family Cuculidae. It is found in sub-Saharan Africa. It inhabits areas with thick cover afforded by rank undergrowth and scrub, including in suitable coastal regions.",
+  "appearance": {
+    "description": "The white-browed coucal is a medium-sized species growing to 36 to 42 cm (14 to 17 in) in length. The sexes are similar, adults having a blackish crown and nape, a white supercilium, rufous-brown back, chestnut wings, blackish rump and black tail, glossed with green, with a white tip. The underparts are creamy-white, the eyes red, the beak black, and the legs and feet greyish-black or black.",
+    "colors": "The white-browed coucal or lark-heeled cuckoo (Centropus superciliosus), is a species of cuckoo in the family Cuculidae. Burchell's coucal is sometimes considered a subspecies.",
+    "wings": "The white-browed coucal is a medium-sized species growing to 36 to 42 cm (14 to 17 in) in length. The sexes are similar, adults having a blackish crown and nape, a white supercilium, rufous-brown back, chestnut wings, blackish rump and black tail, glossed with green, with a white tip."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        36.0,
+        42.0
+      ]
+    },
+    "juvenile": {
+      "notes": "Juveniles have rufous streaking on the crown, a faint buff supercilium, barred upper parts and darker underparts."
+    },
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The white-browed coucal is native to eastern and southern Africa, and the southwestern part of the Arabian Peninsula. Its range includes Angola, Botswana, Burundi, Congo, Democratic Republic of Congo, Djibouti, Eritrea, Ethiopia, Kenya, Malawi, Namibia, Rwanda, Somalia, South Sudan, Sudan, Tanzania, Uganda, Zambia and Zimbabwe in Africa, as well as Saudi Arabia and Yemen.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Coast",
+      "Nairobi",
+      "Eastern",
+      "Nyanza"
+    ],
+    "gbif_records_in_kenya": 26666
+  },
+  "look_alikes": [
+    {
+      "label": "Lanius_collurio",
+      "common_name": "Red-backed Shrike",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Coracias_naevius",
+      "common_name": "Purple Roller",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Passer_griseus",
+      "common_name": "Northern Grey-headed Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Passer_domesticus",
+      "common_name": "House Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ardeola_ralloides",
+      "common_name": "Squacco Heron",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Terpsiphone_viridis",
+      "common_name": "African Paradise Flycatcher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Aquila_rapax",
+      "common_name": "Tawny Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Gyps_rueppellii",
+      "common_name": "Rüppell's Vulture",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Clamator_jacobinus",
+      "common_name": "Jacobin Cuckoo",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Macronyx_croceus",
+      "common_name": "Yellow-throated Longclaw",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Passer_rufocinctus",
+      "common_name": "Kenya Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Scopus_umbretta",
+      "common_name": "Hamerkop",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Uraeginthus_ianthinogaster",
+      "common_name": "Purple Grenadier",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "White-browed coucal",
+      "url": "https://en.wikipedia.org/wiki/White-browed_coucal",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/5231960"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

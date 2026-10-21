@@ -1,0 +1,106 @@
+{
+  "label": "Vanellus_crassirostris",
+  "scientific_name": "Vanellus crassirostris",
+  "common_name": "Long-toed Lapwing",
+  "other_names": {},
+  "family": "Charadriidae",
+  "summary": "The long-toed lapwing (Vanellus crassirostris), also known as the long-toed plover, is a species of wading bird in the lapwing subfamily, within the family Charadriidae. It is mainly sedentary and found across central and eastern Africa, from Chad and South Sudan in the north to Mozambique in the southeast of its range. It is one of 13 species of ground-nesting lapwings found in Africa.",
+  "appearance": {
+    "description": "The long-toed lapwing measures 31 cm (12 in) in length with a body mass of 162–225 g (5.7–7.9 oz). It is a brown, black, and white lapwing with long red legs, long toes, and a red bill with a black tip. It has short wing spurs and rounded wings; in flight it shows extensive white in the wing feathers, as well as legs and feet extending beyond the end of the tail.",
+    "colors": "It is a brown, black, and white lapwing with long red legs, long toes, and a red bill with a black tip. It has short wing spurs and rounded wings; in flight it shows extensive white in the wing feathers, as well as legs and feet extending beyond the end of the tail.",
+    "wings": "The long-toed lapwing (Vanellus crassirostris), also known as the long-toed plover, is a species of wading bird in the lapwing subfamily, within the family Charadriidae. It is one of 13 species of ground-nesting lapwings found in Africa."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        31.0,
+        31.0
+      ],
+      "mass_g": [
+        162.0,
+        225.0
+      ]
+    },
+    "juvenile": {
+      "notes": "Juveniles have a browner breast than adults and buff tips to feathers. Juvenile primary feathers are retained after the post-juvenile moult."
+    },
+    "chick": {
+      "notes": "Chicks are fiercely defended by the parents from avian predators including African fish-eagles, harriers, and coucals. Chicks are precocial, leaving the nest only a few hours after hatching, and fledge approximately two months after hatching."
+    }
+  },
+  "behaviour": "=== Diet and foraging === The long-toed lapwing is unusual among lapwings as it feeds with behaviour like jacanas, foraging for aquatic insects, larvae, beetles, ants, dragonfly nymphs, and snails on the surface of floating aquatic vegetation, spreading out its weight through the support of its long toes. There has been documentation of some individuals using one foot to stir water, likely to bring prey to the water's surface, similar to the behaviour of blacksmith lapwing and spur-winged lapwing.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The long-toed lapwing is found across central and eastern Africa, from South Sudan in the north to Botswana, Mozambique, and northeast South Africa in the south of its range, as well as outlying populations in Chad and western Angola. The long-toed lapwing prefers habitats of lakes, pools, marshes, floodplains, and swamps.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Nairobi",
+      "Nyanza",
+      "Kajiado",
+      "Central"
+    ],
+    "gbif_records_in_kenya": 6505
+  },
+  "look_alikes": [
+    {
+      "label": "Rostratula_benghalensis",
+      "common_name": "Greater Painted-snipe",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Vanellus_tectus",
+      "common_name": "Black-headed Lapwing",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ciconia_ciconia",
+      "common_name": "White Stork",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Dendrocygna_viduata",
+      "common_name": "White-faced Whistling Duck",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Himantopus_himantopus",
+      "common_name": "Black-winged Stilt",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tringa_stagnatilis",
+      "common_name": "Marsh Sandpiper",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Urocolius_macrourus",
+      "common_name": "Blue-naped Mousebird",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Long-toed lapwing",
+      "url": "https://en.wikipedia.org/wiki/Long-toed_lapwing",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/5229130"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

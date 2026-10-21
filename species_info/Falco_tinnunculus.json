@@ -1,0 +1,108 @@
+{
+  "label": "Falco_tinnunculus",
+  "scientific_name": "Falco tinnunculus",
+  "common_name": "Common Kestrel",
+  "other_names": {
+    "sw": "Kozi kichwa-kijivu"
+  },
+  "family": "Falconidae",
+  "summary": "The common kestrel (Falco tinnunculus), also known as the European kestrel, Eurasian kestrel, Old World kestrel, is a species of predatory bird belonging to the kestrel group of the falcon family Falconidae. In the United Kingdom, where no other kestrel species commonly occurs, it is generally just called the \"kestrel\". This species occurs over a large native range.",
+  "appearance": {
+    "description": "The common kestrel measures 32–39 cm (12+1⁄2–15+1⁄2 in) from head to tail, with a wingspan of 65–82 cm (25+1⁄2–32+1⁄2 in). The female is noticeably larger, with the adult male weighing 136–252 g (4+3⁄4–8+7⁄8 oz), around 155 g (5+1⁄2 oz) on average; the adult female weighs 154–314 g (5+3⁄8–11+1⁄8 oz), around 184 g (6+1⁄2 oz) on average. They are thus small compared with other birds of prey, but larger than most songbirds.",
+    "colors": "The common kestrel (Falco tinnunculus), also known as the European kestrel, Eurasian kestrel, Old World kestrel, is a species of predatory bird belonging to the kestrel group of the falcon family Falconidae. They are thus small compared with other birds of prey, but larger than most songbirds.",
+    "wings": "Like the other Falco species, they have long wings as well as a distinctive long tail."
+  },
+  "size": {
+    "adult": {
+      "wingspan_cm": [
+        65.0,
+        82.0
+      ],
+      "mass_g": [
+        136.0,
+        314.0
+      ]
+    },
+    "juvenile": {
+      "notes": "Juveniles look like adult females, but the underside streaks are wider; the yellow of their bare parts is paler."
+    },
+    "chick": {
+      "notes": "After the eggs have hatched, the parents share brooding and hunting duties. Only the female feeds the chicks, by tearing apart prey into manageable chunks."
+    }
+  },
+  "behaviour": "In the cool-temperate parts of its range, the common kestrel migrates south in winter; otherwise it is sedentary, though juveniles may wander around in search for a good place to settle down as they become mature. It is a diurnal animal of the lowlands and prefers open habitat such as fields, heaths, shrubland and marshland. It does not require woodland to be present as long as there are alternative perching and nesting sites like rocks or buildings.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Eastern",
+      "Nairobi",
+      "Coast",
+      "Central"
+    ],
+    "gbif_records_in_kenya": 3397
+  },
+  "look_alikes": [
+    {
+      "label": "Poicephalus_gulielmi",
+      "common_name": "Red-fronted Parrot",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Aquila_rapax",
+      "common_name": "Tawny Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Melierax_poliopterus",
+      "common_name": "Eastern Chanting Goshawk",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Plegadis_falcinellus",
+      "common_name": "Glossy Ibis",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Turdoides_sharpei",
+      "common_name": "Black-lored Babbler",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cinnyricinclus_leucogaster",
+      "common_name": "Violet-backed Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Campethera_nubica",
+      "common_name": "Nubian Woodpecker",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Common kestrel",
+      "url": "https://en.wikipedia.org/wiki/Common_kestrel",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/9616058"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

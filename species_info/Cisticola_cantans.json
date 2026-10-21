@@ -1,0 +1,75 @@
+{
+  "label": "Cisticola_cantans",
+  "scientific_name": "Cisticola cantans",
+  "common_name": "Singing Cisticola",
+  "other_names": {},
+  "family": "Cisticolidae",
+  "summary": "The singing cisticola (Cisticola cantans) is a species of bird in the family Cisticolidae. It is native to northern and eastern sub-Saharan Africa. Its natural habitats are subtropical or tropical dry forest and subtropical or tropical dry shrubland.",
+  "appearance": {
+    "description": null,
+    "colors": null,
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Nairobi",
+      "Kenya",
+      "Central",
+      "Rift Valley",
+      "Eastern",
+      "Western"
+    ],
+    "gbif_records_in_kenya": 9824
+  },
+  "look_alikes": [
+    {
+      "label": "Cisticola_marginatus",
+      "common_name": "Winding Cisticola",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Prinia_subflava",
+      "common_name": "Tawny-flanked Prinia",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Quelea_quelea",
+      "common_name": "Red-billed Quelea",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cisticola_chiniana",
+      "common_name": "Rattling Cisticola",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Singing cisticola",
+      "url": "https://en.wikipedia.org/wiki/Singing_cisticola",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2492795"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

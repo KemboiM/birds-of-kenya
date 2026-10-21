@@ -1,0 +1,104 @@
+{
+  "label": "Phylloscopus_trochilus",
+  "scientific_name": "Phylloscopus trochilus",
+  "common_name": "Willow Warbler",
+  "other_names": {},
+  "family": "Phylloscopidae",
+  "summary": "The willow warbler (Phylloscopus trochilus) is a very common and widespread leaf warbler which breeds throughout northern and temperate Europe and the Palearctic, from Ireland east to the Anadyr River basin in eastern Siberia. It is strongly migratory, with almost all of the population wintering in sub-Saharan Africa. It is a bird of open woodlands with trees and ground cover for nesting, including most importantly birch, alder, and willow habitats.",
+  "appearance": {
+    "description": "The willow warbler is a typical leaf warbler in appearance, 11–12.5 cm (4.3–4.9 in) long and 7–15 g (0.25–0.53 oz) weight. It is greenish brown above and off-white to yellowish below; the wings are plain greenish-brown with no wingbars. Juveniles are yellower below than adults.",
+    "colors": "It is greenish brown above and off-white to yellowish below; the wings are plain greenish-brown with no wingbars. It is very similar to the chiffchaff, but non-singing birds can be distinguished from that species by their paler pinkish-yellow legs (dark brown to blackish in chiffchaff), longer paler bill, more elegant shape and longer primary projection (wingtip).",
+    "wings": "It is greenish brown above and off-white to yellowish below; the wings are plain greenish-brown with no wingbars. It is very similar to the chiffchaff, but non-singing birds can be distinguished from that species by their paler pinkish-yellow legs (dark brown to blackish in chiffchaff), longer paler bill, more elegant shape and longer primary projection (wingtip)."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        11.0,
+        12.5
+      ],
+      "mass_g": [
+        7.0,
+        15.0
+      ]
+    },
+    "juvenile": {
+      "notes": "Juveniles are yellower below than adults."
+    },
+    "chick": null
+  },
+  "behaviour": "All populations are highly migratory, with the subspecies P. t. yakutensis migrating up to 12,000 km (7,500 mi) from eastern Siberia to southern Africa along the Asian–East African Flyway, one of the longest migrations of any for a bird of its size. Approximate timings are: October to March: wintering in sub-Saharan Africa. Mid-March to mid-May: migrates and arrives in the breeding range.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Kenya",
+      "Rift Valley",
+      "Nairobi",
+      "Central",
+      "Coast",
+      "Western"
+    ],
+    "gbif_records_in_kenya": 9619
+  },
+  "look_alikes": [
+    {
+      "label": "Apalis_flavida",
+      "common_name": "Yellow-breasted Apalis",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Camaroptera_brachyura",
+      "common_name": "Green-backed Camaroptera",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Muscicapa_striata",
+      "common_name": "Spotted Flycatcher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Prinia_subflava",
+      "common_name": "Tawny-flanked Prinia",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Turdoides_hypoleuca",
+      "common_name": "Northern Pied Babbler",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Chalcomitra_amethystina",
+      "common_name": "Amethyst Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Crithagra_reichenowi",
+      "common_name": "Reichenow's Seedeater",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Willow warbler",
+      "url": "https://en.wikipedia.org/wiki/Willow_warbler",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2493052"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

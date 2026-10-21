@@ -1,0 +1,118 @@
+{
+  "label": "Uraeginthus_ianthinogaster",
+  "scientific_name": "Uraeginthus ianthinogaster",
+  "common_name": "Purple Grenadier",
+  "other_names": {},
+  "family": "Estrildidae",
+  "summary": "The purple grenadier (Granatina ianthinogaster) is a common species of estrildid finch found in eastern Africa.",
+  "appearance": {
+    "description": "The length averages 13.3 cm (5.2 in). All ages and sexes have a black tail, and adults have a red bill. The male has a cinnamon-colored head and neck with a blue patch surrounding the eye.",
+    "colors": "The purple grenadier (Granatina ianthinogaster) is a common species of estrildid finch found in eastern Africa. All ages and sexes have a black tail, and adults have a red bill.",
+    "wings": null
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        13.3,
+        13.3
+      ]
+    },
+    "juvenile": {
+      "notes": "Juveniles are like females, but mostly unbarred tawny-brown with a reddish-brown bill."
+    },
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": "It is found in subtropical and tropical (lowland) dry shrubland in Ethiopia, Kenya, Somalia, South Sudan, Tanzania and Uganda, an estimated global extent of occurrence of 1,500,000 km2 (580,000 sq mi). The status of the species is evaluated as Least Concern.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Nairobi",
+      "Central",
+      "Eastern",
+      "Coast"
+    ],
+    "gbif_records_in_kenya": 19170
+  },
+  "look_alikes": [
+    {
+      "label": "Uraeginthus_bengalus",
+      "common_name": "Red-cheeked Cordon-bleu",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Coccopygia_quartinia",
+      "common_name": "Yellow-bellied Waxbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lonchura_bicolor",
+      "common_name": "Black-and-white Mannikin",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Urocolius_macrourus",
+      "common_name": "Blue-naped Mousebird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Dendrocygna_viduata",
+      "common_name": "White-faced Whistling Duck",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pseudonigrita_arnaudi",
+      "common_name": "Grey-capped Social Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Centropus_superciliosus",
+      "common_name": "White-browed Coucal",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cinnyris_reichenowi",
+      "common_name": "Northern Double-collared Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Merops_oreobates",
+      "common_name": "Cinnamon-chested Bee-eater",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Uraeginthus_cyanocephalus",
+      "common_name": "Blue-capped Cordon-bleu",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Purple grenadier",
+      "url": "https://en.wikipedia.org/wiki/Purple_grenadier",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2493724"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

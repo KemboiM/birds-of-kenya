@@ -1,0 +1,105 @@
+{
+  "label": "Bradornis_pallidus",
+  "scientific_name": "Bradornis pallidus",
+  "common_name": "Pale Flycatcher",
+  "other_names": {},
+  "family": "Muscicapidae",
+  "summary": "The pale flycatcher (Agricola pallidus) is a passerine bird of the Old World flycatcher family Muscicapidae, native to Sub-Saharan Africa.",
+  "appearance": {
+    "description": null,
+    "colors": null,
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": "It is widely present across Sub-Saharan Africa, although absent in the Congo Basin and Southern Africa. Its natural habitats are subtropical or tropical dry forests, dry savanna, and subtropical or tropical dry shrubland.",
+    "kenya_regions": [
+      "Kenya",
+      "Rift Valley",
+      "Coast",
+      "Central",
+      "Nairobi",
+      "Eastern"
+    ],
+    "gbif_records_in_kenya": 7476
+  },
+  "look_alikes": [
+    {
+      "label": "Bradornis_microrhynchus",
+      "common_name": "African Grey Flycatcher",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Cisticola_chiniana",
+      "common_name": "Rattling Cisticola",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Muscicapa_adusta",
+      "common_name": "African Dusky Flycatcher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Passer_rufocinctus",
+      "common_name": "Kenya Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pinarochroa_sordida",
+      "common_name": "Moorland Chat",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Prinia_subflava",
+      "common_name": "Tawny-flanked Prinia",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Riparia_paludicola",
+      "common_name": "Brown-throated Martin",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Oenanthe_isabellina",
+      "common_name": "Isabelline Wheatear",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Sporopipes_frontalis",
+      "common_name": "Speckle-fronted Weaver",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Pale flycatcher",
+      "url": "https://en.wikipedia.org/wiki/Pale_flycatcher",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2492639"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

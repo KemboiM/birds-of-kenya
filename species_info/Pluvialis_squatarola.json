@@ -1,0 +1,100 @@
+{
+  "label": "Pluvialis_squatarola",
+  "scientific_name": "Pluvialis squatarola",
+  "common_name": "Grey Plover",
+  "other_names": {
+    "sw": "Kitwitwi Kijivu"
+  },
+  "family": "Charadriidae",
+  "summary": "The grey plover or black-bellied plover (Pluvialis squatarola) is a large plover breeding in Arctic regions. It is a long-distance migrant, with a nearly worldwide coastal distribution when not breeding.",
+  "appearance": {
+    "description": "The grey plover is 27–30 cm (11–12 in) long with a wingspan of 71–83 cm (28–33 in) and a weight of 190–280 g (6.7–9.9 oz) (up to 345 g (12.2 oz) in preparation for migration). In spring and summer (late April or May to August), adults are spotted black and white on the back and wings. The face and neck are black with a white border; they have a black breast and belly and a white rump.",
+    "colors": "The grey plover or black-bellied plover (Pluvialis squatarola) is a large plover breeding in Arctic regions. The grey plover is 27–30 cm (11–12 in) long with a wingspan of 71–83 cm (28–33 in) and a weight of 190–280 g (6.7–9.9 oz) (up to 345 g (12.2 oz) in preparation for migration).",
+    "wings": "In spring and summer (late April or May to August), adults are spotted black and white on the back and wings. In all plumages, the inner flanks and axillary feathers at the base of the underwing are black, a feature which readily distinguishes it from the other three Pluvialis species in flight."
+  },
+  "size": {
+    "adult": {
+      "wingspan_cm": [
+        71.0,
+        83.0
+      ],
+      "length_cm": [
+        27.0,
+        30.0
+      ],
+      "mass_g": [
+        190.0,
+        345.0
+      ]
+    },
+    "juvenile": {
+      "notes": "The juvenile and first-winter plumages, held by young birds from fledging until about one year old, are similar to the adult winter plumage but with the back feathers blacker with creamy white edging."
+    },
+    "chick": {
+      "notes": "Four eggs (sometimes only three) are laid in early June, with an incubation period of 26–27 days; the chicks fledge when 35–45 days old."
+    }
+  },
+  "behaviour": "=== Breeding === Young birds do not breed until two years old; they typically remain on the wintering grounds until their second summer. They forage for food on beaches and tidal flats, usually by sight. The food consists of small molluscs, polychaete worms, crustaceans, and insects.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Coast",
+      "Kenya",
+      "Kilifi",
+      "Rift Valley",
+      "Kwale",
+      "Mombasa County"
+    ],
+    "gbif_records_in_kenya": 3631
+  },
+  "look_alikes": [
+    {
+      "label": "Chlidonias_leucopterus",
+      "common_name": "White-winged Tern",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tringa_nebularia",
+      "common_name": "Common Greenshank",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Amadina_fasciata",
+      "common_name": "Cut-throat Finch",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Corythaixoides_leucogaster",
+      "common_name": "White-bellied Go-away-bird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Creatophora_cinerea",
+      "common_name": "Wattled Starling",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Grey plover",
+      "url": "https://en.wikipedia.org/wiki/Grey_plover",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2480327"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

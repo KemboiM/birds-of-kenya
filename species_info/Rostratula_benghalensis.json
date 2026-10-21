@@ -1,0 +1,72 @@
+{
+  "label": "Rostratula_benghalensis",
+  "scientific_name": "Rostratula benghalensis",
+  "common_name": "Greater Painted-snipe",
+  "other_names": {},
+  "family": "Rostratulidae",
+  "summary": "The greater painted-snipe (Rostratula benghalensis) is a species of wader in the small painted-snipe family Rostratulidae. It widely distributed across Africa and southern Asia and is found in a variety of wetland habitats, including swamps and the edges of larger water bodies such as lakes and rivers. This species is sexually dimorphic with the female being larger and more brightly coloured than the male.",
+  "appearance": {
+    "description": "The greater painted-snipe is a medium-sized shorebird with an overall length of 23–28 cm (9.1–11.0 in). The species is sexually dimorphic: females are larger, heavier, and have bolder plumage than males. The female has a black head with a buff stripe and a white eye-patch.",
+    "colors": "This species is sexually dimorphic with the female being larger and more brightly coloured than the male. The species is sexually dimorphic: females are larger, heavier, and have bolder plumage than males.",
+    "wings": "The male is much paler and less uniform with barring on the scapulars and wing-coverts."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        23.0,
+        28.0
+      ]
+    },
+    "juvenile": {
+      "notes": "The juvenile resembles the male but lacks the darker band around the chest."
+    },
+    "chick": {
+      "notes": "The chicks are buff coloured and have black stripes running along their length."
+    }
+  },
+  "behaviour": "Greater painted-snipe usually live solitarily or in pairs, but sometimes are found in large groups. They are rather shy and retiring, skulking close to the vegetation so that they can retreat to cover if disturbed. When flushed, the birds fly like rails, with their legs dangling.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "Greater painted-snipe are very widely distributed; in mainland Africa as well as Madagascar and the Seychelles; in India, and Southeast Asia. Within Africa, they are found in the Nile River Valley and in the non-rainforested areas of Sub-Saharan Africa.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Coast",
+      "Nairobi",
+      "Eastern",
+      "Central"
+    ],
+    "gbif_records_in_kenya": 1238
+  },
+  "look_alikes": [
+    {
+      "label": "Sarkidiornis_melanotos",
+      "common_name": "Knob-billed Duck",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Vanellus_crassirostris",
+      "common_name": "Long-toed Lapwing",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Greater painted-snipe",
+      "url": "https://en.wikipedia.org/wiki/Greater_painted-snipe",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2482029"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

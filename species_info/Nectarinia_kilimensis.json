@@ -1,0 +1,221 @@
+{
+  "label": "Nectarinia_kilimensis",
+  "scientific_name": "Nectarinia kilimensis",
+  "common_name": "Bronze Sunbird",
+  "other_names": {},
+  "family": "Nectariniidae",
+  "summary": "The bronze sunbird (Nectarinia kilimensis) is a species of bird in the family Nectariniidae. It is native to the Bié Plateau (Angola) and eastern Afromontane forests.",
+  "appearance": {
+    "description": "Bronze sunbirds have a long, thin, well-curved bill. Males have bronze-and-green undertones but most often look black in light. While the male has the undertones, the female however has a pale eyebrow and an added yellowish park below the belly with fine streaking.",
+    "colors": "Males have bronze-and-green undertones but most often look black in light. While the male has the undertones, the female however has a pale eyebrow and an added yellowish park below the belly with fine streaking.",
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": {
+      "notes": "They often lay 1 to 2 eggs and after the eggs have hatched the new chicks are fed and brooded mainly by the female for a period of 16 to 21 days. The nests that these chicks live in over this period of time are built by the female only and it takes her anywhere between 5 and 15 days before the chicks are born."
+    }
+  },
+  "behaviour": "=== Diet === The diet of the bronze sunbird is very specific limited to Nectar, Spiders and Insects. The insects that they consume include Ants, Coleoptera (beetles), Hemiptera (bugs), Hymenoptera (wasps, bees and ants), Diptera (flies), and termites.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The bronze sunbird can be found in Africa. While not very common they can be best found near the edges of the Afromontane forest, mountain sides and Zimbabwe's eastern highlands and adjacent next to Mozambique.",
+    "kenya_regions": [
+      "Kenya",
+      "Nairobi",
+      "Rift Valley",
+      "Central",
+      "Western",
+      "Nyanza"
+    ],
+    "gbif_records_in_kenya": 23026
+  },
+  "look_alikes": [
+    {
+      "label": "Drepanorhynchus_reichenowi",
+      "common_name": "Golden-winged Sunbird",
+      "difference": null,
+      "times_confused": 5
+    },
+    {
+      "label": "Cyanomitra_verticalis",
+      "common_name": "Green-headed Sunbird",
+      "difference": null,
+      "times_confused": 4
+    },
+    {
+      "label": "Cinnyris_mariquensis",
+      "common_name": "Marico Sunbird",
+      "difference": null,
+      "times_confused": 4
+    },
+    {
+      "label": "Nectarinia_famosa",
+      "common_name": "Malachite Sunbird",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Nectarinia_tacazze",
+      "common_name": "Tacazze Sunbird",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Cinnyris_pulchellus",
+      "common_name": "Beautiful Sunbird",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Hedydipna_collaris",
+      "common_name": "Collared Sunbird",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Cinnyris_venustus",
+      "common_name": "Variable Sunbird",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Notopholia_corrusca",
+      "common_name": "Black-bellied Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Odontospiza_caniceps",
+      "common_name": "Grey-headed Silverbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Vidua_fischeri",
+      "common_name": "Straw-tailed Whydah",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Saxicola_torquatus",
+      "common_name": "African Stonechat",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_vitellinus",
+      "common_name": "Vitelline Masked Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Apalis_flavida",
+      "common_name": "Yellow-breasted Apalis",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Chalcomitra_amethystina",
+      "common_name": "Amethyst Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ptyonoprogne_fuligula",
+      "common_name": "Large Rock Martin",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Estrilda_astrild",
+      "common_name": "Common Waxbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Anaplectes_rubriceps",
+      "common_name": "Red-headed Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Terpsiphone_viridis",
+      "common_name": "African Paradise Flycatcher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lophaetus_occipitalis",
+      "common_name": "Long-crested Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Microcarbo_africanus",
+      "common_name": "Reed Cormorant",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Camaroptera_brachyura",
+      "common_name": "Green-backed Camaroptera",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Chrysococcyx_klaas",
+      "common_name": "Klaas's Cuckoo",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Merops_superciliosus",
+      "common_name": "Olive Bee-eater",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Onychognathus_morio",
+      "common_name": "Red-winged Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Streptopelia_lugens",
+      "common_name": "Dusky Turtle Dove",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Dicrurus_adsimilis",
+      "common_name": "Fork-tailed Drongo",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lamprotornis_purpuroptera",
+      "common_name": "Rüppell's Starling",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Bronze sunbird",
+      "url": "https://en.wikipedia.org/wiki/Bronze_sunbird",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/5229993"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "label": "Lybius_leucocephalus",
+  "scientific_name": "Lybius leucocephalus",
+  "common_name": "White-headed Barbet",
+  "other_names": {},
+  "family": "Lybiidae",
+  "summary": "The white-headed barbet (Lybius leucocephalus) is a species of bird in the family Lybiidae. It is found in Angola, Cameroon, Central African Republic, Chad, Democratic Republic of the Congo, Kenya, Nigeria, South Sudan, Tanzania, and Uganda.",
+  "appearance": {
+    "description": "This species is one of the largest in this genus at 18–19.5 cm (7.1–7.7 in) in length. It is a black and white type of barbet that has a stubby neck and a heavy-toothed bill. It is found in open woodland areas that are close to water and cultivation.",
+    "colors": "The white-headed barbet (Lybius leucocephalus) is a species of bird in the family Lybiidae. It is a black and white type of barbet that has a stubby neck and a heavy-toothed bill.",
+    "wings": null
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        18.0,
+        19.5
+      ]
+    },
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": "This species of African barbet comprises several races distinguished by different duetting song patters but all have a raucous greeting ceremony. It is the only barbet species to use simultaneous singing during a duet.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Nairobi",
+      "Rift Valley",
+      "Kenya",
+      "Central",
+      "Eastern",
+      "Nyanza"
+    ],
+    "gbif_records_in_kenya": 6669
+  },
+  "look_alikes": [
+    {
+      "label": "Eurocephalus_ruppelli",
+      "common_name": "Northern White-crowned Shrike",
+      "difference": null,
+      "times_confused": 3
+    },
+    {
+      "label": "Actitis_hypoleucos",
+      "common_name": "Common Sandpiper",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bradornis_microrhynchus",
+      "common_name": "African Grey Flycatcher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Phoenicopterus_roseus",
+      "common_name": "Greater Flamingo",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tricholaema_lacrymosa",
+      "common_name": "Spot-flanked Barbet",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Passer_rufocinctus",
+      "common_name": "Kenya Sparrow",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "White-headed barbet",
+      "url": "https://en.wikipedia.org/wiki/White-headed_barbet",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2479018"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

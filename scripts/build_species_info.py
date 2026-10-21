@@ -54,10 +54,12 @@ COLOR_WORDS = ("black", "white", "grey", "gray", "brown", "chestnut", "rufous", 
 
 # ---------------------------------------------------------------- HTTP
 
-def get_json(url, params=None, retries=3):
+def get_json(url, params=None, retries=6):
+    """GET JSON; waits and retries when the server says too many requests (429)."""
     if params:
         url = f"{url}?{urllib.parse.urlencode(params)}"
     for attempt in range(retries):
+        wait = min(5 * 2 ** attempt, 120)
         try:
             req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
             with urllib.request.urlopen(req, timeout=30) as r:
@@ -67,10 +69,16 @@ def get_json(url, params=None, retries=3):
                 return None
             if attempt == retries - 1:
                 raise
+            if e.code == 429:
+                try:
+                    wait = max(wait, int(e.headers.get("Retry-After", 0)))
+                except (TypeError, ValueError):
+                    pass
+                print(f"    server busy, waiting {wait}s ...")
         except (urllib.error.URLError, TimeoutError, json.JSONDecodeError):
             if attempt == retries - 1:
                 raise
-        time.sleep(2 ** attempt)
+        time.sleep(wait)
 
 
 # ---------------------------------------------------------------- text helpers
@@ -166,8 +174,9 @@ def gbif_facts(scientific):
     names = get_json(f"{GBIF}/species/{key}/vernacularNames", {"limit": 300}) or {}
     for row in names.get("results", []):
         lang = row.get("language")
-        if lang in ("eng", "swa") and lang not in facts["names"]:
-            facts["names"][lang] = row.get("vernacularName")
+        name = (row.get("vernacularName") or "").strip()
+        if lang in ("eng", "swa") and lang not in facts["names"] and good_name(name):
+            facts["names"][lang] = name
     occ = get_json(f"{GBIF}/occurrence/search", {
         "country": "KE", "taxonKey": key, "limit": 0,
         "facet": "stateProvince", "facetLimit": 6}) or {}
@@ -203,12 +212,25 @@ def load_confusions(path):
     return pairs
 
 
+def good_name(name):
+    """Reject bird-banding codes (WATK, BCAL), sentences and empty names."""
+    return bool(name) and not re.fullmatch(r"[A-Z]{3,6}", name) and not name.endswith(".") \
+        and len(name.split()) <= 5
+
+
+def title_case(name):
+    """'Red-billed oxpecker' -> 'Red-billed Oxpecker' (bird-name style)."""
+    return " ".join(w[:1].upper() + w[1:] for w in name.split())
+
+
 def common_name(facts, wiki, scientific):
-    """GBIF English name; else the Wikipedia title when it isn't just the Latin name."""
-    if facts["names"].get("eng"):
-        return facts["names"]["eng"]
-    title = (wiki or {}).get("title") or ""
-    return title if title and title.lower() != scientific.lower() else None
+    """English common name: the Wikipedia page title (e.g. 'Common ostrich'), which
+    is the standard name, else GBIF's English name."""
+    title = re.sub(r"\s*\(.*\)$", "", (wiki or {}).get("title") or "")
+    if title and title.lower() != scientific.lower() and good_name(title):
+        return title_case(title)
+    eng = facts["names"].get("eng")
+    return title_case(eng) if eng else None
 
 
 def build_entry(label, facts, wiki):
@@ -278,7 +300,7 @@ def main():
     p.add_argument("--confusion", help="most_confused_pairs.csv from a training run")
     p.add_argument("--species", nargs="*", help="only these labels")
     p.add_argument("--force", action="store_true", help="rebuild existing files that are not yet verified")
-    p.add_argument("--delay", type=float, default=0.3, help="seconds between species (be polite)")
+    p.add_argument("--delay", type=float, default=1.0, help="seconds between species (be polite)")
     args = p.parse_args()
 
     if args.species:
@@ -310,6 +332,8 @@ def main():
             if existing:
                 entry["look_alikes"] = existing.get("look_alikes", [])
             entries[label] = entry
+            with open(path, "w") as f:          # saved now, so a stopped run keeps its progress
+                json.dump(entry, f, indent=2, ensure_ascii=False)
             made += 1
             status = "ok" if wiki else "no Wikipedia page"
             print(f"[{i}/{len(labels)}] {label}: {entry.get('common_name') or '-'} ({status})")

@@ -1,0 +1,224 @@
+{
+  "label": "Buteo_augur",
+  "scientific_name": "Buteo augur",
+  "common_name": "Augur Buzzard",
+  "other_names": {},
+  "family": "Accipitridae",
+  "summary": "The augur buzzard (Buteo augur) is a fairly large African bird of prey. This species is distinct in typical adult plumage for its blackish back, whitish underside and orange-red tail, while juvenile augur buzzards are generally rather brown in colour; however a dark morph is known, which causes the bird's entire body to become darker. This member of the Buteo genus is distributed in several parts of the central and southern Africa, normally being found from Ethiopia to southern Angola and central Namibia.",
+  "appearance": {
+    "description": "Augur buzzards are one of two larger Buteo species native to Africa, alongside their cousins, the similarly sized jackal buzzard. Adults measure about 48 to 60 cm (19 to 24 in) with a large wingspan of 120 to 150 cm (3 ft 11 in to 4 ft 11 in). Males weigh from 880 to 1,160 g (1.94 to 2.56 lb), while females weigh from 1,100 to 1,330 g (2.43 to 2.93 lb).",
+    "colors": "It is a typical buteonine raptor, being a generalist predator which tends to prefer small mammals supplemented by reptiles and birds among various prey items. The adult augur buzzard is strikingly plumaged and essentially unmistakable if seen well.",
+    "wings": "Below the chin and around the throat is mainly white, and the rest of the underparts and the underwing coverts are rich rufous. The flight feathers from below are white, tipped with black to form a dark trailing edge to the wing."
+  },
+  "size": {
+    "adult": {
+      "wingspan_cm": [
+        120.0,
+        150.0
+      ],
+      "mass_g": [
+        880.0,
+        1330.0
+      ]
+    },
+    "juvenile": {
+      "notes": "The juvenile augur buzzard is mainly brown above and rufous brown below and on the tail. Although not as dark as the adult on the back and upperwing coverts, it is usually noticeably darker than a juvenile steppe buzzard."
+    },
+    "chick": null
+  },
+  "behaviour": "Pairs have noisy aerial displays, including outside the breeding season. Their call is quite different from their cousin, the jackal buzzard, and most other birds of prey, being a harsh, resonant crow-like a-kow a-kow a-kow or a-ung a-ung a-ung, drawn out as aerial display escalates into a longer, higher-pitched a-waaa a-waaa a-waaa. The large (up to 1 m [3 ft 3 in] wide) stick nest is built in a tree or on a crag, and is often reused and enlarged in subsequent seasons.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The augur buzzard is found in eastern and southwestern Africa. Despite its erratic-seeming distribution, it is often common in its range.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Central",
+      "Nairobi",
+      "Eastern",
+      "Coast"
+    ],
+    "gbif_records_in_kenya": 23405
+  },
+  "look_alikes": [
+    {
+      "label": "Aquila_spilogaster",
+      "common_name": "African Hawk-eagle",
+      "difference": null,
+      "times_confused": 5
+    },
+    {
+      "label": "Circaetus_pectoralis",
+      "common_name": "Black-chested Snake Eagle",
+      "difference": null,
+      "times_confused": 3
+    },
+    {
+      "label": "Terathopius_ecaudatus",
+      "common_name": "Bateleur",
+      "difference": null,
+      "times_confused": 3
+    },
+    {
+      "label": "Polemaetus_bellicosus",
+      "common_name": "Martial Eagle",
+      "difference": null,
+      "times_confused": 3
+    },
+    {
+      "label": "Corvus_albus",
+      "common_name": "Pied Crow",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Elanus_caeruleus",
+      "common_name": "Black-winged Kite",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Clamator_glandarius",
+      "common_name": "Great Spotted Cuckoo",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pogoniulus_bilineatus",
+      "common_name": "Yellow-rumped Tinkerbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bycanistes_subcylindricus",
+      "common_name": "Black-and-white-casqued Hornbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cuculus_solitarius",
+      "common_name": "Red-chested Cuckoo",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Nycticorax_nycticorax",
+      "common_name": "Black-crowned Night Heron",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Vidua_paradisaea",
+      "common_name": "Long-tailed Paradise Whydah",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Hieraaetus_wahlbergi",
+      "common_name": "Wahlberg's Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Micronisus_gabar",
+      "common_name": "Gabar Goshawk",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bubo_lacteus",
+      "common_name": "Verreaux's Eagle-owl",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Megaceryle_maxima",
+      "common_name": "Giant Kingfisher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Polyboroides_typus",
+      "common_name": "African Harrier-hawk",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Circaetus_cinereus",
+      "common_name": "Brown Snake Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Aquila_rapax",
+      "common_name": "Tawny Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lanius_humeralis",
+      "common_name": "Northern Fiscal",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lophaetus_occipitalis",
+      "common_name": "Long-crested Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pandion_haliaetus",
+      "common_name": "Osprey",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pseudonigrita_cabanisi",
+      "common_name": "Black-capped Social Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Stephanoaetus_coronatus",
+      "common_name": "Crowned Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tockus_deckeni",
+      "common_name": "Von Der Decken's Hornbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Melierax_poliopterus",
+      "common_name": "Eastern Chanting Goshawk",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Haliaeetus_vocifer",
+      "common_name": "African Fish Eagle",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Augur buzzard",
+      "url": "https://en.wikipedia.org/wiki/Augur_buzzard",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2480540"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

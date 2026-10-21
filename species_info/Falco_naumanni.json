@@ -1,0 +1,108 @@
+{
+  "label": "Falco_naumanni",
+  "scientific_name": "Falco naumanni",
+  "common_name": "Lesser Kestrel",
+  "other_names": {
+    "sw": "Kozi Mdogo"
+  },
+  "family": "Falconidae",
+  "summary": "The lesser kestrel (Falco naumanni) is a small falcon. This species breeds from the Mediterranean across Afghanistan and Central Asia, to China and Mongolia. It is a summer migrant, wintering in Africa and Pakistan and sometimes even to India and Iraq.",
+  "appearance": {
+    "description": "It is a small bird of prey, 27–33 cm (11–13 in) in length with a 63–72 cm (25–28 in) wingspan. It looks very much like the larger common kestrel but has proportionally shorter wings and tail. It shares a brown back and barred grey underparts with the larger species.",
+    "colors": "It shares a brown back and barred grey underparts with the larger species. The male has a grey head and tail like male common kestrels, but lacks the dark spotting on the back, the black malar stripe, and has grey patches in the wings.",
+    "wings": "It looks very much like the larger common kestrel but has proportionally shorter wings and tail. The male has a grey head and tail like male common kestrels, but lacks the dark spotting on the back, the black malar stripe, and has grey patches in the wings."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        27.0,
+        72.0
+      ]
+    },
+    "juvenile": {
+      "notes": "The female and young birds are slightly paler than their relative, but are so similar that call and structure are better guides than plumage."
+    },
+    "chick": null
+  },
+  "behaviour": "The lesser kestrel is, as the name implies, a smaller and more delicate bird than the common kestrel, and it is entirely sympatric in its breeding range with it; they compete to a limited extent. Thus, the possibility that there is some form of adaptive advantage to the similar colour deserves study. Considering that the lesser kestrel would in fact have an advantage if some would-be predators confused it with the larger species and consequently avoided it, it might be a case of Müllerian mimicry.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Nairobi",
+      "Eastern",
+      "Coast",
+      "Central"
+    ],
+    "gbif_records_in_kenya": 2297
+  },
+  "look_alikes": [
+    {
+      "label": "Creatophora_cinerea",
+      "common_name": "Wattled Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cuculus_solitarius",
+      "common_name": "Red-chested Cuckoo",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Erythropygia_leucophrys",
+      "common_name": "White-browed Scrub Robin",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Falco_ardosiaceus",
+      "common_name": "Grey Kestrel",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Spilopelia_senegalensis",
+      "common_name": "Laughing Dove",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Falco_biarmicus",
+      "common_name": "Lanner Falcon",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Circaetus_pectoralis",
+      "common_name": "Black-chested Snake Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Scopus_umbretta",
+      "common_name": "Hamerkop",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Lesser kestrel",
+      "url": "https://en.wikipedia.org/wiki/Lesser_kestrel",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/9584698"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

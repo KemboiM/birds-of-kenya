@@ -1,0 +1,92 @@
+{
+  "label": "Calidris_ferruginea",
+  "scientific_name": "Calidris ferruginea",
+  "common_name": "Curlew Sandpiper",
+  "other_names": {},
+  "family": "Scolopacidae",
+  "summary": "The curlew sandpiper (Calidris ferruginea) is a small wader. It is a long-distance migrant, breeding in the bogs and coastal lowlands of the Siberian Arctic, arriving there in June and staying until August or September. After the breeding season, it migrates south to spend the winter in Africa and along the coasts of Oceania and southern Eurasia, occupying tidal mudflats and saltpans.",
+  "appearance": {
+    "description": "The curlew sandpiper is a small wader 18–23 cm in length and weighing 44–117 g. It has a wingspan of 38–46 cm, a bill length of 32–44 mm, and a tarsus (the bone between the \"knee\" and the \"ankle\") length of 26–34 mm. It has a black bill, dark brown irises, and dark grey to black feet.",
+    "colors": "It has three main plumages that change with maturity and season. The non-breeding plumage shows brown-greyish upperparts and white underparts.",
+    "wings": "The non-breeding juvenile plumage is also like that of an adult, except with creamy-coloured streaking on the breast and pale fringes on some of the wing feathers, leading to a scaly appearance. All plumages have a large white patch on the rump, occasionally barred with red in some adults, and in flight show a distinctive white stripe going across the wing."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        18.0,
+        23.0
+      ],
+      "mass_g": [
+        44.0,
+        117.0
+      ],
+      "wingspan_cm": [
+        38.0,
+        46.0
+      ]
+    },
+    "juvenile": {
+      "notes": "The pre-juvenile moult of the chick occurs at the nest site from late June to July. The juvenile looks similar to the adult non-breeding plumage, but the wear marks and fringing on its feathers are more evenly spread out, resulting in a scaly and more buff-tinged appearance, and the tail feathers are slimmer."
+    },
+    "chick": {
+      "notes": "At birth, the nestlings are relatively mature and mobile, covered with down, and begin to wander from the nest after drying. On average, the nestling weighs 8.2 g, with a bill length of 10.8 mm, a tarsus length of 23.2 mm, and a wingspan of 17 mm."
+    }
+  },
+  "behaviour": "The curlew sandpiper appears to be largely monogamous; however, its breeding habits are not well studied. Its ground movements are similar to those of other waders: walking, running, and wading. Its flight speed during migration has been estimated to be around 70–75 km/h.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The curlew sandpiper can occur throughout large swathes of Afro-Eurasia during migration. It is notably missing east of the Verkhoyansk Range in eastern Siberia during migration, along with southern inland Asia.",
+    "kenya_regions": [
+      "Coast",
+      "Kenya",
+      "Rift Valley",
+      "Eastern",
+      "Kilifi",
+      "Nairobi"
+    ],
+    "gbif_records_in_kenya": 4263
+  },
+  "look_alikes": [
+    {
+      "label": "Calidris_minuta",
+      "common_name": "Little Stint",
+      "difference": null,
+      "times_confused": 3
+    },
+    {
+      "label": "Creatophora_cinerea",
+      "common_name": "Wattled Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tringa_nebularia",
+      "common_name": "Common Greenshank",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Dendrocygna_viduata",
+      "common_name": "White-faced Whistling Duck",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Curlew sandpiper",
+      "url": "https://en.wikipedia.org/wiki/Curlew_sandpiper",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2481741"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

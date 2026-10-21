@@ -1,0 +1,140 @@
+{
+  "label": "Lophaetus_occipitalis",
+  "scientific_name": "Lophaetus occipitalis",
+  "common_name": "Long-crested Eagle",
+  "other_names": {},
+  "family": "Accipitridae",
+  "summary": "The long-crested eagle (Lophaetus occipitalis) is an African bird of prey characterised by its shaggy crest of feathers. In the family Accipitridae which includes all the eagles, it is currently placed in a monotypic genus Lophaetus. It is found throughout mid- and southern Africa, with differing home ranges due to food availability and suitable habitat area, but lives mainly on forest edges and near moist areas.",
+  "appearance": {
+    "description": "The long-crested eagle is a distinctive eagle when perched due to the long, shaggy crest and all dark plumage often called Kamusungu-sungu in Uganda. The adults are blackish-brown with long, thin feathers growing from the rear of the crown which are held erect to form a crest. The secondary feathers are black barred with light grey and with broad black tips, the primary feathers and median underwing coverts are white, forming a noticeable white patch on the upper and lower surfaces of the wing which is visible in flight.",
+    "colors": "The long-crested eagle is a distinctive eagle when perched due to the long, shaggy crest and all dark plumage often called Kamusungu-sungu in Uganda. The adults are blackish-brown with long, thin feathers growing from the rear of the crown which are held erect to form a crest.",
+    "wings": "The adults are blackish-brown with long, thin feathers growing from the rear of the crown which are held erect to form a crest. The secondary feathers are black barred with light grey and with broad black tips, the primary feathers and median underwing coverts are white, forming a noticeable white patch on the upper and lower surfaces of the wing which is visible in flight."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        53.0,
+        58.0
+      ],
+      "mass_g": [
+        912.0,
+        1500.0
+      ]
+    },
+    "juvenile": {
+      "notes": "The juveniles are similar to the adults, but the plumage is lighter in colour and the crest is not developed and their eyes are grey."
+    },
+    "chick": null
+  },
+  "behaviour": "=== Breeding === The long-crested eagle is territorial. The male displays during courtship, in which he performs steep dives and also uses a rocking, level display flight. They call frequently during these displays.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The long-crested eagle occurs in sub-Saharan Africa from Senegal and Gambia eastwards to Ethiopia and south to the Eastern Cape, in South Africa, northern Namibia and northern Botswana. It is generally regarded as sedentary, but in arid areas may be nomadic depending on the rains.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Central",
+      "Nairobi",
+      "Eastern",
+      "Coast"
+    ],
+    "gbif_records_in_kenya": 10273
+  },
+  "look_alikes": [
+    {
+      "label": "Polyboroides_typus",
+      "common_name": "African Harrier-hawk",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Anhinga_rufa",
+      "common_name": "African Darter",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Buteo_augur",
+      "common_name": "Augur Buzzard",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Aquila_nipalensis",
+      "common_name": "Steppe Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Aquila_spilogaster",
+      "common_name": "African Hawk-eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Aquila_verreauxii",
+      "common_name": "Verreaux's Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Creatophora_cinerea",
+      "common_name": "Wattled Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Dendrocygna_viduata",
+      "common_name": "White-faced Whistling Duck",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Haliaeetus_vocifer",
+      "common_name": "African Fish Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Necrosyrtes_monachus",
+      "common_name": "Hooded Vulture",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Nectarinia_kilimensis",
+      "common_name": "Bronze Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Polemaetus_bellicosus",
+      "common_name": "Martial Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Terathopius_ecaudatus",
+      "common_name": "Bateleur",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Long-crested eagle",
+      "url": "https://en.wikipedia.org/wiki/Long-crested_eagle",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2480475"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

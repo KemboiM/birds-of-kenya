@@ -1,0 +1,136 @@
+{
+  "label": "Hieraaetus_wahlbergi",
+  "scientific_name": "Hieraaetus wahlbergi",
+  "common_name": "Wahlberg's Eagle",
+  "other_names": {},
+  "family": "Accipitridae",
+  "summary": "Wahlberg's eagle (Hieraaetus wahlbergi) is a bird of prey that is native to sub-Saharan Africa, where it is a seasonal migrant in the woodlands and savannas. It is named after the Swedish naturalist Johan August Wahlberg. Like all eagles, it belongs to the family Accipitridae.",
+  "appearance": {
+    "description": "Wahlberg's eagle is a medium-sized raptor, and the sexes are similar. It is about 53–61 cm (21–24 in) in length with a wingspan of 130–146 cm (51–57 in) and a body mass of 437–845 g (15.4–29.8 oz) for males and 670–1,400 g (24–49 oz) for females on average. The head has a small crest, and the legs are yellow.",
+    "colors": "The head has a small crest, and the legs are yellow. The plumage tone is variable but may be dark brown except for dark-streaked grey undersides to the flight feathers, and a barred grey undertail.",
+    "wings": null
+  },
+  "size": {
+    "adult": {
+      "wingspan_cm": [
+        130.0,
+        146.0
+      ],
+      "length_cm": [
+        53.0,
+        61.0
+      ],
+      "mass_g": [
+        437.0,
+        1400.0
+      ]
+    },
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": "Wahlberg's eagle mainly hunts birds (including other raptors such as the Gabar goshawk and Barn owl), although it also feeds on reptiles (various lizards and snakes) and a few small mammals (Tree squirrels, Mongooses, Hares). It has also been recorded eating various Invertebrates such as termites, grasshoppers and beetles. Wahlberg's eagle breeds mainly in southern Africa during the October to February period.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "Wahlberg's eagle is distributed from central Chad to the north-east coast of South Africa. Its western boundary is thought to be Cameroon, although it most commonly occurs further east across the continent.",
+    "kenya_regions": [
+      "Kenya",
+      "Coast",
+      "Rift Valley",
+      "Eastern",
+      "Central",
+      "Western"
+    ],
+    "gbif_records_in_kenya": 4855
+  },
+  "look_alikes": [
+    {
+      "label": "Aquila_rapax",
+      "common_name": "Tawny Eagle",
+      "difference": null,
+      "times_confused": 8
+    },
+    {
+      "label": "Aquila_nipalensis",
+      "common_name": "Steppe Eagle",
+      "difference": null,
+      "times_confused": 4
+    },
+    {
+      "label": "Circaetus_cinereus",
+      "common_name": "Brown Snake Eagle",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Circus_pygargus",
+      "common_name": "Montagu's Harrier",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Buteo_augur",
+      "common_name": "Augur Buzzard",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Circaetus_pectoralis",
+      "common_name": "Black-chested Snake Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Turdoides_sharpei",
+      "common_name": "Black-lored Babbler",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Polyboroides_typus",
+      "common_name": "African Harrier-hawk",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Corvus_albus",
+      "common_name": "Pied Crow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Polemaetus_bellicosus",
+      "common_name": "Martial Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Streptopelia_semitorquata",
+      "common_name": "Red-eyed Dove",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Milvus_migrans",
+      "common_name": "Black Kite",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Wahlberg's eagle",
+      "url": "https://en.wikipedia.org/wiki/Wahlberg%27s_eagle",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/5844448"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

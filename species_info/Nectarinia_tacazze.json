@@ -1,0 +1,81 @@
+{
+  "label": "Nectarinia_tacazze",
+  "scientific_name": "Nectarinia tacazze",
+  "common_name": "Tacazze Sunbird",
+  "other_names": {},
+  "family": "Nectariniidae",
+  "summary": "The Tacazze sunbird (Nectarinia tacazze) is a species of bird in the family Nectariniidae. It is native to the eastern Afromontane forests.",
+  "appearance": {
+    "description": null,
+    "colors": null,
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The bird is named after the Tacazze or Tekezé River and may easily be observed in nearby districts such as Degua Tembien in north Ethiopia. The species is found in evergreen forest, mountain woodlands and areas with scattered trees including Ficus sp., Euphorbia abyssinica and Juniperus procera.",
+    "kenya_regions": [
+      "Central",
+      "Rift Valley",
+      "Kenya",
+      "Eastern",
+      "Kirinyaga",
+      "Rift valley prov"
+    ],
+    "gbif_records_in_kenya": 3649
+  },
+  "look_alikes": [
+    {
+      "label": "Nectarinia_kilimensis",
+      "common_name": "Bronze Sunbird",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Apaloderma_narina",
+      "common_name": "Narina Trogon",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cinnyris_pulchellus",
+      "common_name": "Beautiful Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Estrilda_rhodopyga",
+      "common_name": "Crimson-rumped Waxbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Micronisus_gabar",
+      "common_name": "Gabar Goshawk",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Tacazze sunbird",
+      "url": "https://en.wikipedia.org/wiki/Tacazze_sunbird",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/5230037"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

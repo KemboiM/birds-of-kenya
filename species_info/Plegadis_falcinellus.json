@@ -1,0 +1,162 @@
+{
+  "label": "Plegadis_falcinellus",
+  "scientific_name": "Plegadis falcinellus",
+  "common_name": "Glossy Ibis",
+  "other_names": {
+    "sw": "Kwarara Mweusi"
+  },
+  "family": "Threskiornithidae",
+  "summary": "The glossy ibis (Plegadis falcinellus) is a water bird in the order Pelecaniformes and the ibis and spoonbill family Threskiornithidae. The scientific name derives from Ancient Greek plegados and Latin, falcis, both meaning \"sickle\" and referring to the distinctive shape of the bill. The historical name black curlew was used for the glossy ibis in Norfolk at least until the early 19th century, and this name also appears in Anglo-Saxon literature.",
+  "appearance": {
+    "description": "This species is a mid-sized ibis. It is 48–66 cm (19–26 in) long, averaging around 59.4 cm (23.4 in) with an 80–105 cm (31–41 in) wingspan. The culmen measures 9.7 to 14.4 cm (3.8 to 5.7 in) in length, each wing measures 24.8–30.6 cm (9.8–12.0 in), the tail is 9–11.2 cm (3.5–4.4 in) and the tarsus measures 6.8–11.3 cm (2.7–4.4 in).",
+    "colors": "The glossy ibis (Plegadis falcinellus) is a water bird in the order Pelecaniformes and the ibis and spoonbill family Threskiornithidae. The historical name black curlew was used for the glossy ibis in Norfolk at least until the early 19th century, and this name also appears in Anglo-Saxon literature.",
+    "wings": "The culmen measures 9.7 to 14.4 cm (3.8 to 5.7 in) in length, each wing measures 24.8–30.6 cm (9.8–12.0 in), the tail is 9–11.2 cm (3.5–4.4 in) and the tarsus measures 6.8–11.3 cm (2.7–4.4 in). Breeding adults have reddish-brown bodies and strongly iridescent wing feathers, bottle-green to bronzed or purple depending on the light angle."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        48.0,
+        105.0
+      ],
+      "mass_g": [
+        485.0,
+        970.0
+      ]
+    },
+    "juvenile": {
+      "notes": "Non-breeders and juveniles have duller bodies, with the dark brown head and neck finely streaked with white."
+    },
+    "chick": {
+      "notes": "The young fledge in about 28 days."
+    }
+  },
+  "behaviour": "Glossy ibises undertake dispersal movements after breeding and are highly nomadic. The more northerly populations are fully migratory and travel on a broad front, for example across the Sahara Desert. Glossy ibis ringed in the Black Sea seem to prefer the Sahel and West Africa to winter, those ringed in the Caspian Sea have been found to move to East Africa, the Arabian peninsula and as far east as Pakistan and India.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "This is the most widespread ibis species, breeding in scattered sites in warm regions of Europe, Asia, Africa, Australia, and the Atlantic and Caribbean regions of the Americas. It is thought to have originated in the Old World and spread naturally from Africa to northern South America in the 19th century, from where it spread to North America.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Central",
+      "Nairobi",
+      "Coast",
+      "Kajiado"
+    ],
+    "gbif_records_in_kenya": 6786
+  },
+  "look_alikes": [
+    {
+      "label": "Bostrychia_hagedash",
+      "common_name": "Hadada Ibis",
+      "difference": null,
+      "times_confused": 3
+    },
+    {
+      "label": "Anastomus_lamelligerus",
+      "common_name": "African Openbill",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Scopus_umbretta",
+      "common_name": "Hamerkop",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Egretta_dimorpha",
+      "common_name": "Dimorphic Egret",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Egretta_ardesiaca",
+      "common_name": "Black Heron",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Falco_tinnunculus",
+      "common_name": "Common Kestrel",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ciconia_abdimii",
+      "common_name": "Abdim's Stork",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Anhinga_rufa",
+      "common_name": "African Darter",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ardea_goliath",
+      "common_name": "Goliath Heron",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Phoeniconaias_minor",
+      "common_name": "Lesser Flamingo",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tringa_glareola",
+      "common_name": "Wood Sandpiper",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ciconia_microscelis",
+      "common_name": "African Woolly-necked Stork",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Corvus_splendens",
+      "common_name": "House Crow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Microcarbo_africanus",
+      "common_name": "Reed Cormorant",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Myrmecocichla_aethiops",
+      "common_name": "Anteater Chat",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Alopochen_aegyptiaca",
+      "common_name": "Egyptian Goose",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Glossy ibis",
+      "url": "https://en.wikipedia.org/wiki/Glossy_ibis",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2480773"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

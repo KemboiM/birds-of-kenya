@@ -1,0 +1,81 @@
+{
+  "label": "Euplectes_macroura",
+  "scientific_name": "Euplectes macroura",
+  "common_name": "Yellow-mantled Widowbird",
+  "other_names": {},
+  "family": "Ploceidae",
+  "summary": "The yellow-mantled widowbird (Euplectes macroura), also known as the yellow-backed widow, is a species of bird in the family Ploceidae.",
+  "appearance": {
+    "description": "Males are larger than females and acquire longer tails and striking black and golden yellow plumages in the breeding season. The mantle colour is either golden yellow, or in the case of the northeastern race, E. m. macrocercus, black. The yellow shoulders persist in all male plumages, whether breeding or non-breeding.",
+    "colors": "The yellow-mantled widowbird (Euplectes macroura), also known as the yellow-backed widow, is a species of bird in the family Ploceidae. Males are larger than females and acquire longer tails and striking black and golden yellow plumages in the breeding season.",
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": "Its natural habitat is subtropical or tropical seasonally wet or flooded lowland grassland. It has a wide intra-tropical range of presence.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Western",
+      "Kenya",
+      "Narok",
+      "Nyanza",
+      "Western prov"
+    ],
+    "gbif_records_in_kenya": 1963
+  },
+  "look_alikes": [
+    {
+      "label": "Euplectes_capensis",
+      "common_name": "Yellow Bishop",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Hirundo_rustica",
+      "common_name": "Barn Swallow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Oriolus_larvatus",
+      "common_name": "Black-headed Oriole",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Myrmecocichla_aethiops",
+      "common_name": "Anteater Chat",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Creatophora_cinerea",
+      "common_name": "Wattled Starling",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Yellow-mantled widowbird",
+      "url": "https://en.wikipedia.org/wiki/Yellow-mantled_widowbird",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/7340811"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

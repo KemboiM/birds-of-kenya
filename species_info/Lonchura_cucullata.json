@@ -1,0 +1,198 @@
+{
+  "label": "Lonchura_cucullata",
+  "scientific_name": "Lonchura cucullata",
+  "common_name": "Bronze Mannikin",
+  "other_names": {},
+  "family": "Estrildidae",
+  "summary": "The bronze mannikin or bronze munia (Spermestes cucullata) is a small passerine (i.e. perching) bird of the Afrotropics. This very social estrildid finch is an uncommon to locally abundant bird in much of Africa south of the Sahara Desert, where it is resident, nomadic or irruptive in mesic savanna or forest margin habitats. It has an estimated global extent of occurrence of 23,600,000 km2 (9,100,000 sq mi).",
+  "appearance": {
+    "description": "The bronze mannikin is one of the smallest munia species, measuring 9–10 cm in length and weighing 7–12 grams. The adult is a compact bird with a short black tail, and stubby black and pale grey (not distinctly bluish) mandibles. It is black to brownish black on the head, chin, throat and center of the chest, with some purple-green iridescence on the face and sides of the breast.",
+    "colors": "It is the smallest and most widespread of four munia species on the African mainland, the other being black-and-white, red-backed and magpie mannikin. Especially in the West Africa, it is considered a pest in grain and rice fields.",
+    "wings": "Wing coverts and remiges are bordered in a paler or warmer tone."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        9.0,
+        10.0
+      ]
+    },
+    "juvenile": {
+      "notes": "Immature birds are dun brown above with buff head and underpart plumage."
+    },
+    "chick": {
+      "notes": "Incubation takes 12 days, and chicks fledge after three weeks, and are independent in another three weeks. The chicks are reared on soft green seeds and insects."
+    }
+  },
+  "behaviour": "The bronze mannikin is a tiny gregarious bird which feeds mainly on seeds, including wild grass seeds, millet, rice and grain. Alternatively termites, nectar or strands of algae may also be eaten. Before going to roost at nightfall, they usually visit a watering hole where vegetation is hanging into the water.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The bronze mannikin is native to mainland Africa and the Bioko, Pemba, Zanzibar, Mafia and Comoro islands, and has been introduced to Puerto Rico, where it is established. The two accepted races have an extensive region around the upper Nile River which is inhabited by birds with intermediate features.",
+    "kenya_regions": [
+      "Kenya",
+      "Nairobi",
+      "Rift Valley",
+      "Coast",
+      "Central",
+      "Western"
+    ],
+    "gbif_records_in_kenya": 19434
+  },
+  "look_alikes": [
+    {
+      "label": "Pycnonotus_barbatus",
+      "common_name": "Common Bulbul",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Andropadus_importunus",
+      "common_name": "Sombre Greenbul",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_bicolor",
+      "common_name": "Dark-backed Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Psalidoprocne_albiceps",
+      "common_name": "White-headed Saw-wing",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tricholaema_melanocephala",
+      "common_name": "Black-throated Barbet",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Melaenornis_edolioides",
+      "common_name": "Northern Black Flycatcher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_nigricollis",
+      "common_name": "Black-necked Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Poicephalus_meyeri",
+      "common_name": "Meyer's Parrot",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Passer_eminibey",
+      "common_name": "Chestnut Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Crithagra_reichenowi",
+      "common_name": "Reichenow's Seedeater",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Micronisus_gabar",
+      "common_name": "Gabar Goshawk",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Amaurornis_flavirostra",
+      "common_name": "Black Crake",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Actitis_hypoleucos",
+      "common_name": "Common Sandpiper",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cinnyris_venustus",
+      "common_name": "Variable Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Eurocephalus_ruppelli",
+      "common_name": "Northern White-crowned Shrike",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Passer_griseus",
+      "common_name": "Northern Grey-headed Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pelecanus_onocrotalus",
+      "common_name": "Great White Pelican",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Poicephalus_rufiventris",
+      "common_name": "Red-bellied Parrot",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Quelea_quelea",
+      "common_name": "Red-billed Quelea",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pseudonigrita_arnaudi",
+      "common_name": "Grey-capped Social Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lanius_cabanisi",
+      "common_name": "Long-tailed Fiscal",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lanius_humeralis",
+      "common_name": "Northern Fiscal",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Scopus_umbretta",
+      "common_name": "Hamerkop",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Bronze mannikin",
+      "url": "https://en.wikipedia.org/wiki/Bronze_mannikin",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2493624"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

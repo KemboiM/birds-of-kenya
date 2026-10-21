@@ -1,0 +1,93 @@
+{
+  "label": "Melaenornis_pammelaina",
+  "scientific_name": "Melaenornis pammelaina",
+  "common_name": "Southern Black Flycatcher",
+  "other_names": {},
+  "family": "Muscicapidae",
+  "summary": "The southern black flycatcher (Melaenornis pammelaina) is a small passerine bird of the genus Melaenornis in the flycatcher family, Muscicapidae, native to open and lightly wooded areas of eastern and southern Africa. This species has a large range, with an estimated global extent of occurrence of 4,000,000 square kilometres (1,500,000 sq mi). The global population size has not been quantified but the bird is listed by the IUCN as being of \"Least concern\".",
+  "appearance": {
+    "description": "The southern black flycatcher is entirely black, with a black beak and black legs. The iris of the eye is brown and this, along with the square-cut tail, helps distinguish it from the otherwise similar fork-tailed drongo (Dicrurus adsimilis) which has a red iris and long forked tail.",
+    "colors": "The southern black flycatcher (Melaenornis pammelaina) is a small passerine bird of the genus Melaenornis in the flycatcher family, Muscicapidae, native to open and lightly wooded areas of eastern and southern Africa. The southern black flycatcher is entirely black, with a black beak and black legs.",
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": "The southern black flycatcher is a mainly insectivorous bird. Its diet includes beetles, termites, locusts, worms, spiders and centipedes. Its main foraging technique is to perch on a low eminence such as a branch or fence post and pounce on prey in the air or on the ground below.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The southern black flycatcher is native to eastern and southern Africa. It has been recorded from Somalia, Kenya, Uganda, Tanzania, Rwanda, Burundi, Congo, the Democratic Republic of the Congo, Angola, Namibia, Eswatini, Botswana, Malawi, Mozambique, Zambia, Zimbabwe, Lesotho and South Africa.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Eastern",
+      "Nairobi",
+      "Central",
+      "Coast"
+    ],
+    "gbif_records_in_kenya": 5045
+  },
+  "look_alikes": [
+    {
+      "label": "Dicrurus_adsimilis",
+      "common_name": "Fork-tailed Drongo",
+      "difference": null,
+      "times_confused": 3
+    },
+    {
+      "label": "Corvus_albus",
+      "common_name": "Pied Crow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lamprotornis_chalybaeus",
+      "common_name": "Greater Blue-eared Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lamprotornis_purpuroptera",
+      "common_name": "Rüppell's Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Melaenornis_edolioides",
+      "common_name": "Northern Black Flycatcher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Onychognathus_morio",
+      "common_name": "Red-winged Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Myrmecocichla_nigra",
+      "common_name": "Sooty Chat",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Southern black flycatcher",
+      "url": "https://en.wikipedia.org/wiki/Southern_black_flycatcher",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2492656"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

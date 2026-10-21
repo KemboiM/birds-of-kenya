@@ -1,0 +1,108 @@
+{
+  "label": "Neophron_percnopterus",
+  "scientific_name": "Neophron percnopterus",
+  "common_name": "Egyptian Vulture",
+  "other_names": {
+    "sw": "Tumbusi Uso-njano"
+  },
+  "family": "Accipitridae",
+  "summary": "The Egyptian vulture (Neophron percnopterus), also called the white scavenger vulture or pharaoh's chicken, is a small Old World vulture in the monotypic genus Neophron. It is widely distributed from the Iberian Peninsula, North Africa, West Asia and India. The contrasting underwing pattern and wedge-shaped tail make it distinctive in flight as it soars in thermals during the warmer parts of the day.",
+  "appearance": {
+    "description": "The adult's plumage is white, with black flight feathers in the wings. Wild birds usually appear soiled with a rusty or brown shade to the white plumage, derived from mud or iron-rich soil. Captive specimens without access to soil have clean white plumage.",
+    "colors": "The Egyptian vulture (Neophron percnopterus), also called the white scavenger vulture or pharaoh's chicken, is a small Old World vulture in the monotypic genus Neophron. Populations of this species declined in the 20th century and some island populations are endangered by hunting, accidental poisoning, and collision with power lines.",
+    "wings": "The contrasting underwing pattern and wedge-shaped tail make it distinctive in flight as it soars in thermals during the warmer parts of the day. The adult's plumage is white, with black flight feathers in the wings."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        47.0,
+        55.5
+      ],
+      "mass_g": [
+        1900.0,
+        2400.0
+      ]
+    },
+    "juvenile": {
+      "notes": "The legs are pink in adults and grey in juveniles. Young birds are blackish or chocolate brown with black and white patches."
+    },
+    "chick": {
+      "notes": "The parents begin incubating soon after the first egg is laid leading to asynchronous hatching. The first egg hatches after about 42 days."
+    }
+  },
+  "behaviour": "The Egyptian vulture is usually seen singly or in pairs, soaring in thermals along with other scavengers and birds of prey, or perched on the ground or atop a building. On the ground, they walk with a waddling gait. They feed on a range of food, including mammal faeces (including those of humans), insects in dung, carrion, vegetable matter, and sometimes small animals.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "Egyptian vultures are widely distributed across the Old World with their breeding range from southern Europe to northern Africa east to western and southern Asia. They are rare vagrants in Sri Lanka.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Eastern",
+      "Kenya",
+      "Coast",
+      "Nairobi",
+      "Marsabit"
+    ],
+    "gbif_records_in_kenya": 974
+  },
+  "look_alikes": [
+    {
+      "label": "Creatophora_cinerea",
+      "common_name": "Wattled Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pelecanus_onocrotalus",
+      "common_name": "Great White Pelican",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Polyboroides_typus",
+      "common_name": "African Harrier-hawk",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Sagittarius_serpentarius",
+      "common_name": "Secretarybird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Upupa_africana",
+      "common_name": "Eurasian Hoopoe",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Aquila_rapax",
+      "common_name": "Tawny Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pternistis_leucoscepus",
+      "common_name": "Yellow-necked Spurfowl",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Egyptian vulture",
+      "url": "https://en.wikipedia.org/wiki/Egyptian_vulture",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2480696"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "label": "Euplectes_progne",
+  "scientific_name": "Euplectes progne",
+  "common_name": "Long-tailed Widowbird",
+  "other_names": {},
+  "family": "Ploceidae",
+  "summary": "The long-tailed widowbird (Euplectes progne) is a species of bird in the weaver family Ploceidae. The species is found in Angola, Botswana, the Democratic Republic of the Congo, Kenya, Lesotho, South Africa, Eswatini, and Zambia. The long-tailed widowbird is a medium-sized bird and one of the most common in the territories it inhabits.",
+  "appearance": {
+    "description": "Long-tailed widowbirds exhibit distinct sexual dimorphism. Males and females exhibit differences in behaviour and morphological traits. Adult males are entirely black, including under their wing-coverts.",
+    "colors": "Adult breeding males are almost entirely black with orange and white shoulders (\"epaulets\"), long, wide tails, and a bluish white bill. Females are rather inconspicuous, their feathers streaked tawny and black with pale patches on the chest, breast and back, narrow tail feathers, and horn-coloured bills.",
+    "wings": "The tail during flight display is expanded vertically into a deep, long keel below the male as he flies with slow wingbeats 0.5 to 2 metres (20 to 78 inches) above his territory. Adult males are entirely black, including under their wing-coverts."
+  },
+  "size": {
+    "adult": {
+      "wingspan_cm": [
+        12.7,
+        14.7
+      ],
+      "length_cm": [
+        15.0,
+        71.0
+      ],
+      "mass_g": [
+        25.0,
+        46.0
+      ]
+    },
+    "juvenile": {
+      "notes": "Immature males and females are very similar in appearance to the adult female. However, immature males, much like adult non-breeding males, are slightly larger than adult females."
+    },
+    "chick": null
+  },
+  "behaviour": "=== Food and feeding === The long-tailed widowbird's diet generally consists of seeds, supplemented occasionally by arthropods. The birds do most of their foraging in flocks on the ground, though they are occasionally observed hawking insects airily. The long-tailed widowbird feeds on a distinct variety of seeds, including those of Setaria sphacelata (twisted-leaf bristle grass), Paspalum dilatatum (common paspalum), Paspalum distichum (couch paspalum), Pennisetum clandestinum (Kikuyu grass), Triticum (wheat), Themeda triandra (rooigras), and Senecio juniperinus (groundsel).",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "There are three known isolated populations of long-tailed widowbirds. The first is found in the Kenyan highlands, the second in Angola, southern Zaire and Zambia, and the third in southern Africa.",
+    "kenya_regions": [
+      "Central",
+      "Rift Valley",
+      "Kenya",
+      "Eastern",
+      "Nakuru",
+      "Nyandurua"
+    ],
+    "gbif_records_in_kenya": 2251
+  },
+  "look_alikes": [
+    {
+      "label": "Anthus_cinnamomeus",
+      "common_name": "African Pipit",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Macronyx_ameliae",
+      "common_name": "Rosy-throated Longclaw",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Quelea_quelea",
+      "common_name": "Red-billed Quelea",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Phoeniculus_purpureus",
+      "common_name": "Green Wood Hoopoe",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Long-tailed widowbird",
+      "url": "https://en.wikipedia.org/wiki/Long-tailed_widowbird",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2494090"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

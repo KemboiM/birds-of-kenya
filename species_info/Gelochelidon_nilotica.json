@@ -1,0 +1,118 @@
+{
+  "label": "Gelochelidon_nilotica",
+  "scientific_name": "Gelochelidon nilotica",
+  "common_name": "Gull-billed Tern",
+  "other_names": {
+    "sw": "Shakwe Domo-nene"
+  },
+  "family": "Laridae",
+  "summary": "The gull-billed tern (Gelochelidon nilotica) is a tern in the family Laridae. It is widely distributed and breeds in scattered localities in Europe, Asia, northwest Africa, and the Americas. The Australian gull-billed tern was previously considered a subspecies.",
+  "appearance": {
+    "description": "This is a fairly large and powerful tern, similar in size and general appearance to a Sandwich tern, but the short thick gull-like bill, broad wings, long legs and robust body are distinctive. The summer adult has grey upperparts, white underparts, a black cap, strong black bill and black legs. The call is a characteristic ker-wik.",
+    "colors": "It is widely distributed and breeds in scattered localities in Europe, Asia, northwest Africa, and the Americas. The Australian gull-billed tern was previously considered a subspecies.",
+    "wings": "This is a fairly large and powerful tern, similar in size and general appearance to a Sandwich tern, but the short thick gull-like bill, broad wings, long legs and robust body are distinctive."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        33.0,
+        91.0
+      ],
+      "mass_g": [
+        150.0,
+        292.0
+      ]
+    },
+    "juvenile": {
+      "notes": "Juvenile gull-billed terns have a fainter mask, but otherwise look much like winter adults. Juvenile Sandwich terns have a short bill, and are frequently mistaken for gull-billed tern where the latter species is uncommon, such as North Sea coasts."
+    },
+    "chick": null
+  },
+  "behaviour": "=== Breeding === The gull-billed tern breeds in colonies on lakes, marshes and coasts (including bays and earthen levees). It nests in a ground scrape and lays two to five eggs. While widely distributed in freshwater areas in Eurasia, it is associated in North America almost solely with saltwater, coastal areas.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "It breeds in warmer parts of the world in southern Europe, temperate and eastern Asia, both coasts of North America, eastern South America. This bird has a number of geographical races, differing mainly in size and minor plumage details.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Coast",
+      "Nyanza",
+      "Nakuru",
+      "Kilifi"
+    ],
+    "gbif_records_in_kenya": 6971
+  },
+  "look_alikes": [
+    {
+      "label": "Chroicocephalus_cirrocephalus",
+      "common_name": "Grey-headed Gull",
+      "difference": null,
+      "times_confused": 3
+    },
+    {
+      "label": "Glareola_pratincola",
+      "common_name": "Collared Pratincole",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Circus_macrourus",
+      "common_name": "Pallid Harrier",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Circus_pygargus",
+      "common_name": "Montagu's Harrier",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Spatula_hottentota",
+      "common_name": "Blue-billed Teal",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Vanellus_melanopterus",
+      "common_name": "Black-winged Lapwing",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Calidris_pugnax",
+      "common_name": "Ruff",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ardea_melanocephala",
+      "common_name": "Black-headed Heron",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Vanellus_coronatus",
+      "common_name": "Crowned Lapwing",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Gull-billed tern",
+      "url": "https://en.wikipedia.org/wiki/Gull-billed_tern",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2481263"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

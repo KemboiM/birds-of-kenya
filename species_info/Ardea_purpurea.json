@@ -1,0 +1,104 @@
+{
+  "label": "Ardea_purpurea",
+  "scientific_name": "Ardea purpurea",
+  "common_name": "Purple Heron",
+  "other_names": {
+    "sw": "Pondagundi"
+  },
+  "family": "Ardeidae",
+  "summary": "The purple heron (Ardea purpurea) is a wide-ranging heron species. It breeds in Africa, central and southern Europe, and southern and eastern Palearctic. The Western Palearctic populations migrate between breeding and wintering habitats whereas the African and tropical-Asian populations are primarily sedentary, except for occasional dispersive movements.",
+  "appearance": {
+    "description": "The purple heron is a large bird, 78–97 cm (31–38 in) in length with a standing height from 70 to 94 cm (28 to 37 in) and a 120–152 cm (47–60 in) wingspan. However, it is slender for its size, weighing only 0.5 to 1.35 kg (1.1 to 3.0 lb). It is somewhat smaller than the grey heron, from which it can be distinguished by its darker reddish-brown plumage, and, in adults, its darker grey back.",
+    "colors": "The purple heron (Ardea purpurea) is a wide-ranging heron species. It is similar in appearance to the more common grey heron but is slightly smaller, more slender and has darker plumage.",
+    "wings": null
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        70.0,
+        152.0
+      ],
+      "mass_g": [
+        500.0,
+        1350.0
+      ]
+    },
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": "Flight is slow, with the neck retracted and the legs extending a long way behind the tail. This is characteristic of herons and bitterns, and distinguishes them from storks, cranes and spoonbills, which extend their necks in flight. It is a secretive bird, spending less time out in the open than the grey heron and tending to skulk in reed beds.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The purple heron has a mostly palaearctic distribution and breeds in Europe, Asia and Africa. The range of the western race extends from Portugal eastwards across much of central and southern Europe and parts of North Africa as far as Lake Balkhash in Kazakhstan.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Coast",
+      "Nyanza",
+      "Central",
+      "Eastern"
+    ],
+    "gbif_records_in_kenya": 4456
+  },
+  "look_alikes": [
+    {
+      "label": "Ardea_goliath",
+      "common_name": "Goliath Heron",
+      "difference": null,
+      "times_confused": 3
+    },
+    {
+      "label": "Ardea_melanocephala",
+      "common_name": "Black-headed Heron",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Ardeola_ralloides",
+      "common_name": "Squacco Heron",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Anhinga_rufa",
+      "common_name": "African Darter",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ardea_alba",
+      "common_name": "Great Egret",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Anastomus_lamelligerus",
+      "common_name": "African Openbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Leptoptilos_crumenifer",
+      "common_name": "Marabou Stork",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Purple heron",
+      "url": "https://en.wikipedia.org/wiki/Purple_heron",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2480934"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

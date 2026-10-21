@@ -1,0 +1,99 @@
+{
+  "label": "Ploceus_rubiginosus",
+  "scientific_name": "Ploceus rubiginosus",
+  "common_name": "Chestnut Weaver",
+  "other_names": {},
+  "family": "Ploceidae",
+  "summary": "The chestnut weaver (Ploceus rubiginosus) is a species of bird in the family Ploceidae. It is found in eastern and south-western Africa. They can typically be found in Kenya, Botswana, Ethiopia, Somalia, Uganda, Tanzania, Angola, and Namibia.",
+  "appearance": {
+    "description": "Both the male and female look different from one another. The non-breeding male has dull red eyes, a grayish-brown head, with the rest of his body being an ombre of dark orange to a brighter orange; its wings are covered in black and beige colors, and it has a long brown tail. The female is a pale brown, with yellow coloring around their dark eyes, it has black edges around the feathers of its wings, and a brown tail.",
+    "colors": "The chestnut weaver (Ploceus rubiginosus) is a species of bird in the family Ploceidae. Chestnut Weavers are considered locally abundant and of least concern.",
+    "wings": "The non-breeding male has dull red eyes, a grayish-brown head, with the rest of his body being an ombre of dark orange to a brighter orange; its wings are covered in black and beige colors, and it has a long brown tail. The female is a pale brown, with yellow coloring around their dark eyes, it has black edges around the feathers of its wings, and a brown tail."
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": "Their diet consists of seeds, grasses, cultivated grains, insects such as termites, and the nectar of aloes. Young chestnut weavers usually only eat insects such as caterpillars, grasshoppers, and crickets. They also forage in small groups, catching insects through the air or foraging on the ground.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "Its general habitat is dry. It can be found in shrubland and thornveld, typically below 1,500 Meters.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Eastern",
+      "Coast",
+      "Nairobi",
+      "Central"
+    ],
+    "gbif_records_in_kenya": 6847
+  },
+  "look_alikes": [
+    {
+      "label": "Passer_rufocinctus",
+      "common_name": "Kenya Sparrow",
+      "difference": null,
+      "times_confused": 3
+    },
+    {
+      "label": "Tchagra_australis",
+      "common_name": "Brown-crowned Tchagra",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lanius_collurio",
+      "common_name": "Red-backed Shrike",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cisticola_chiniana",
+      "common_name": "Rattling Cisticola",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Passer_gongonensis",
+      "common_name": "Parrot-billed Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Passer_griseus",
+      "common_name": "Northern Grey-headed Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Euplectes_capensis",
+      "common_name": "Yellow Bishop",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Passer_eminibey",
+      "common_name": "Chestnut Sparrow",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Chestnut weaver",
+      "url": "https://en.wikipedia.org/wiki/Chestnut_weaver",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2494071"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

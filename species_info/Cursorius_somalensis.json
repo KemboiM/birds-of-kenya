@@ -1,0 +1,68 @@
+{
+  "label": "Cursorius_somalensis",
+  "scientific_name": "Cursorius somalensis",
+  "common_name": "Somali Courser",
+  "other_names": {},
+  "family": "Glareolidae",
+  "summary": "The Somali courser (Cursorius somalensis) is a wader in the pratincole and courser family Glareolidae, native to eastern Africa in Eritrea, eastern Ethiopia, Somalia, extreme southeast South Sudan, and northern and eastern Kenya. It is unusual among waders in being a bird of open dry country, preferably semi-desert, short grasslands, and burnt grass, where it typically hunts its insect prey by running on the ground.",
+  "appearance": {
+    "description": null,
+    "colors": "It is 19–22 cm long, very similar to cream-coloured courser in most characteristics, but differing from it in having a darker, more greyish-brown body colour, and most obviously when in flight, in having only the outer half of the wing black underneath (the whole underwing is black in cream-coloured courser); the inner underwing being the same sandy-brown as the body. Like cream-coloured courser, it has a black stripe and white eyebrow behind its eyes, which when seen from behind look like a \"V\".",
+    "wings": "It is 19–22 cm long, very similar to cream-coloured courser in most characteristics, but differing from it in having a darker, more greyish-brown body colour, and most obviously when in flight, in having only the outer half of the wing black underneath (the whole underwing is black in cream-coloured courser); the inner underwing being the same sandy-brown as the body."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        19.0,
+        22.0
+      ]
+    },
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Eastern",
+      "Coast",
+      "Kenya",
+      "Rift Valley",
+      "Isiolo",
+      "Taita Taveta"
+    ],
+    "gbif_records_in_kenya": 1309
+  },
+  "look_alikes": [
+    {
+      "label": "Cursorius_temminckii",
+      "common_name": "Temminck's Courser",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Buphagus_erythrorhynchus",
+      "common_name": "Red-billed Oxpecker",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Somali courser",
+      "url": "https://en.wikipedia.org/wiki/Somali_courser",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/4849822"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

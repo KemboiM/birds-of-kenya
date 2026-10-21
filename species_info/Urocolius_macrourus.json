@@ -1,0 +1,176 @@
+{
+  "label": "Urocolius_macrourus",
+  "scientific_name": "Urocolius macrourus",
+  "common_name": "Blue-naped Mousebird",
+  "other_names": {},
+  "family": "Coliidae",
+  "summary": "The blue-naped mousebird (Urocolius macrourus), also formerly called the blue-naped coly (Colius macrourus) is a species of bird belonging to the family Coliidae within the order Coliiformes. They are the sister group to the clade Eucavitaves, which contains the families Leptosomiformes (the cuckoo roller), Trogoniformes (trogons), Bucerotiformes (hornbills and hoopoes), Piciformes (woodpeckers, toucans, and barbets) and Coraciiformes (kingfishers, bee-eaters, rollers, motmots, and todies). The species is found in the wild in the drier regions of West Africa to East Africa, as well as Sahel.",
+  "appearance": {
+    "description": "The blue-naped mousebird is a fairly small to medium-sized bird, measuring 33–38 cm (13–15 in) in length including the elongated tail of 20–28 cm (7.9–11.0 in), weighing 34–65 g (1.2–2.3 oz). Adults have an ash grey plumage which is darker at top and lighter at bottom. Has a bright turquoise-blue patch on nape and hindneck, long crest, slender and steeply graduated tail, females shorter than males.",
+    "colors": "The blue-naped mousebird (Urocolius macrourus), also formerly called the blue-naped coly (Colius macrourus) is a species of bird belonging to the family Coliidae within the order Coliiformes. The blue-naped mousebird is a fairly small to medium-sized bird, measuring 33–38 cm (13–15 in) in length including the elongated tail of 20–28 cm (7.9–11.0 in), weighing 34–65 g (1.2–2.3 oz).",
+    "wings": "Their toes are strong and dextrous, allowing the birds to climb and scurry along branches, to hang by a toenail, or to use one foot to hold food."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        20.0,
+        38.0
+      ],
+      "mass_g": [
+        34.0,
+        65.0
+      ]
+    },
+    "juvenile": {
+      "notes": "Juveniles lack the blue on nape, and have pink facial skin and greenish bills, as well as shorter crest."
+    },
+    "chick": null
+  },
+  "behaviour": "=== Vocalizations === Solitary birds perched atop trees emit a distinct and resonant \"tieee\" whistle every 3–5 seconds. While foraging, it produces a shorter and less robust version of the same call, spaced at longer intervals of 10–15 seconds. In groups, a pre-flight ritual includes a collective \"trie-trie\" before departing the feeding area, or a rhythmic \"tsie-tsie...\" every 0.5 seconds just prior to takeoff.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "In the wild, these birds live in the semi-desert and dry regions of Africa. In East Africa are found in a band between 10°N and 20°N from the western coast to Sudan, Djibouti, Eritrea, Ethiopia and Somalia in the East and south 10°N through East Africa and on to the Eastern Zaire borders.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Coast",
+      "Eastern",
+      "Nairobi",
+      "Nyanza"
+    ],
+    "gbif_records_in_kenya": 15954
+  },
+  "look_alikes": [
+    {
+      "label": "Telophorus_cruentus",
+      "common_name": "Rosy-patched Bushshrike",
+      "difference": null,
+      "times_confused": 3
+    },
+    {
+      "label": "Phyllolais_pulchella",
+      "common_name": "Buff-bellied Warbler",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tchagra_senegalus",
+      "common_name": "Black-crowned Tchagra",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cisticola_hunteri",
+      "common_name": "Hunter's Cisticola",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Trachyphonus_erythrocephalus",
+      "common_name": "Red-and-yellow Barbet",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Colius_leucocephalus",
+      "common_name": "White-headed Mousebird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Colius_striatus",
+      "common_name": "Speckled Mousebird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Halcyon_senegaloides",
+      "common_name": "Mangrove Kingfisher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Indicator_indicator",
+      "common_name": "Greater Honeyguide",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Mycteria_ibis",
+      "common_name": "Yellow-billed Stork",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Passer_rufocinctus",
+      "common_name": "Kenya Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Spilopelia_senegalensis",
+      "common_name": "Laughing Dove",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Streptopelia_decipiens",
+      "common_name": "Mourning Collared Dove",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Uraeginthus_ianthinogaster",
+      "common_name": "Purple Grenadier",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Anas_erythrorhyncha",
+      "common_name": "Red-billed Teal",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Halcyon_leucocephala",
+      "common_name": "Grey-headed Kingfisher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Vanellus_crassirostris",
+      "common_name": "Long-toed Lapwing",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pycnonotus_barbatus",
+      "common_name": "Common Bulbul",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cinnyris_venustus",
+      "common_name": "Variable Sunbird",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Blue-naped mousebird",
+      "url": "https://en.wikipedia.org/wiki/Blue-naped_mousebird",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2482321"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "label": "Circus_pygargus",
+  "scientific_name": "Circus pygargus",
+  "common_name": "Montagu's Harrier",
+  "other_names": {
+    "sw": "Kipondya wa Montagu"
+  },
+  "family": "Accipitridae",
+  "summary": "Montagu's harrier (Circus pygargus) is a species of harrier, a bird of prey in the family Accipitridae. It breeds in large open areas in the Palearctic and is migratory, wintering in Africa, the Indian subcontinent and parts of the Arabian Peninsula. Its common name commemorates the British naturalist George Montagu.",
+  "appearance": {
+    "description": "=== Plumage === Sexual dimorphism is particularly apparent in the plumage of this species. Adult males are characterized by their overall pale grey plumage contrasting with black wingtips. Compared with other harriers this species has characteristic black bands along the secondaries, both above and below the wing and rusty streaks on belly and flanks.",
+    "colors": "Its common name commemorates the British naturalist George Montagu. === Plumage === Sexual dimorphism is particularly apparent in the plumage of this species. Adult males are characterized by their overall pale grey plumage contrasting with black wingtips.",
+    "wings": "Adult males are characterized by their overall pale grey plumage contrasting with black wingtips. Compared with other harriers this species has characteristic black bands along the secondaries, both above and below the wing and rusty streaks on belly and flanks."
+  },
+  "size": {
+    "adult": null,
+    "juvenile": {
+      "notes": "The juvenile plumage resembles that of the female, but differs by the belly and under wing coverts which are not spotted, but uniformly red brown in colour."
+    },
+    "chick": null
+  },
+  "behaviour": "It can be both solitary and gregarious at times, both during the breeding season and in winter quarters. A breeding pair may associate with others to form loose colonies, with as many as 30 nests in the same area, sometimes as close as 10 m (33 ft) apart. Semi-colonial nesting is not due to a shortage of nesting sites, but arises rather from the need to provide a better defense against predators.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "This species can be found in a middle-latitude band of predominantly temperate climates, but also in Mediterranean, and boreal zones. Although it has been found nesting up to 1,500 m (4,900 ft), it is essentially a lowland species, and nests mostly in broad river valleys, plains, and levels bordering lakes and the sea.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Coast",
+      "Eastern",
+      "Nairobi",
+      "Narok"
+    ],
+    "gbif_records_in_kenya": 3405
+  },
+  "look_alikes": [
+    {
+      "label": "Circus_macrourus",
+      "common_name": "Pallid Harrier",
+      "difference": null,
+      "times_confused": 5
+    },
+    {
+      "label": "Melierax_poliopterus",
+      "common_name": "Eastern Chanting Goshawk",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Ichthyaetus_hemprichii",
+      "common_name": "Sooty Gull",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Butastur_rufipennis",
+      "common_name": "Grasshopper Buzzard",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ceryle_rudis",
+      "common_name": "Pied Kingfisher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Gelochelidon_nilotica",
+      "common_name": "Gull-billed Tern",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Hieraaetus_wahlbergi",
+      "common_name": "Wahlberg's Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Phoenicopterus_roseus",
+      "common_name": "Greater Flamingo",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Vanellus_melanopterus",
+      "common_name": "Black-winged Lapwing",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Micronisus_gabar",
+      "common_name": "Gabar Goshawk",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Burhinus_vermiculatus",
+      "common_name": "Water Thick-knee",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Polyboroides_typus",
+      "common_name": "African Harrier-hawk",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Circaetus_pectoralis",
+      "common_name": "Black-chested Snake Eagle",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Montagu's harrier",
+      "url": "https://en.wikipedia.org/wiki/Montagu%27s_harrier",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2480495"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

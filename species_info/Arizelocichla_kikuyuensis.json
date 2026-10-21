@@ -1,0 +1,63 @@
+{
+  "label": "Arizelocichla_kikuyuensis",
+  "scientific_name": "Arizelocichla kikuyuensis",
+  "common_name": "Kikuyu Mountain Greenbul",
+  "other_names": {},
+  "family": "Pycnonotidae",
+  "summary": "The Kikuyu mountain greenbul (Arizelocichla kikuyuensis), also known as the olive-breasted greenbul, is a species of the bulbul family of passerine birds. It is native to the Lake Victoria region.",
+  "appearance": {
+    "description": null,
+    "colors": "The Kikuyu mountain greenbul (Arizelocichla kikuyuensis), also known as the olive-breasted greenbul, is a species of the bulbul family of passerine birds.",
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Central",
+      "Eastern",
+      "Rift Valley",
+      "Kirinyaga",
+      "Kiambu",
+      "Western"
+    ],
+    "gbif_records_in_kenya": 1900
+  },
+  "look_alikes": [
+    {
+      "label": "Apalis_flavida",
+      "common_name": "Yellow-breasted Apalis",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Camaroptera_brachyura",
+      "common_name": "Green-backed Camaroptera",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Kikuyu mountain greenbul",
+      "url": "https://en.wikipedia.org/wiki/Kikuyu_mountain_greenbul",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/6100811"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

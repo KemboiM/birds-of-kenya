@@ -1,0 +1,122 @@
+{
+  "label": "Riparia_paludicola",
+  "scientific_name": "Riparia paludicola",
+  "common_name": "Brown-throated Martin",
+  "other_names": {},
+  "family": "Hirundinidae",
+  "summary": "The brown-throated martin, brown-throated sand martin or plain martin (Riparia paludicola) is a small passerine bird in the swallow family, Hirundinidae, that is widely distributed across Africa. It was formerly regarded as conspecific with the grey-throated martin (Riparia chinensis) and the Madagascar martin (Riparia cowani).",
+  "appearance": {
+    "description": "The 12 cm long brown-throated martin is brown above and white or pale brown below. It lacks the narrow brown band on the breast shown by the sand martin; the bill is black and the legs are brown. Sexes are similar, but the young have pale tips to the feathers on the rump and wings.",
+    "colors": "The brown-throated martin, brown-throated sand martin or plain martin (Riparia paludicola) is a small passerine bird in the swallow family, Hirundinidae, that is widely distributed across Africa. It was formerly regarded as conspecific with the grey-throated martin (Riparia chinensis) and the Madagascar martin (Riparia cowani).",
+    "wings": "Sexes are similar, but the young have pale tips to the feathers on the rump and wings. The twittering song of the brown-throated martin is continuous when the birds are on the wing, and becomes a conversational undertone after they have settled in the roost."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        12.0,
+        12.0
+      ]
+    },
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": "Its brown back, small size and quicker, jerkier flight separate the brown-throated martin at once from most other members of the swallow family. It is most similar to the sand martin, Riparia riparia, which is its northern counterpart. The food of this species consists of small insects, mostly gnats and other flies whose early stages are aquatic.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "It has a wide range in Africa. It is a partially migratory species, with some populations making seasonal movements.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Nairobi",
+      "Central",
+      "Eastern",
+      "Nyanza"
+    ],
+    "gbif_records_in_kenya": 12301
+  },
+  "look_alikes": [
+    {
+      "label": "Hirundo_rustica",
+      "common_name": "Barn Swallow",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Bradornis_pallidus",
+      "common_name": "Pale Flycatcher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Apus_affinis",
+      "common_name": "Little Swift",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Chlidonias_leucopterus",
+      "common_name": "White-winged Tern",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Gallinula_chloropus",
+      "common_name": "Common Moorhen",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Phoenicopterus_roseus",
+      "common_name": "Greater Flamingo",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ptyonoprogne_fuligula",
+      "common_name": "Large Rock Martin",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Turdoides_hypoleuca",
+      "common_name": "Northern Pied Babbler",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cichladusa_guttata",
+      "common_name": "Spotted Palm Thrush",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Actitis_hypoleucos",
+      "common_name": "Common Sandpiper",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lanius_humeralis",
+      "common_name": "Northern Fiscal",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Brown-throated martin",
+      "url": "https://en.wikipedia.org/wiki/Brown-throated_martin",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/5230750"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "label": "Anthus_leucophrys",
+  "scientific_name": "Anthus leucophrys",
+  "common_name": "Plain-backed Pipit",
+  "other_names": {},
+  "family": "Motacillidae",
+  "summary": "The plain-backed pipit or plain pipit (Anthus leucophrys) is a medium-sized passerine bird which is a resident breeder in Africa south of the Sahara Desert. It is found in open habitats, especially short grassland and cultivation. It builds its cup-shaped nest on the ground and usually lays three eggs.",
+  "appearance": {
+    "description": null,
+    "colors": "The plain-backed pipit is a large pipit at 17 cm, but is otherwise an undistinguished looking species, faintly streaked grey-brown above and pale below with light breast streaking. It has a strong white supercilium, and dark moustachial stripes.",
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Western",
+      "Nyanza",
+      "Narok",
+      "Eastern"
+    ],
+    "gbif_records_in_kenya": 5872
+  },
+  "look_alikes": [
+    {
+      "label": "Anthus_cinnamomeus",
+      "common_name": "African Pipit",
+      "difference": null,
+      "times_confused": 6
+    },
+    {
+      "label": "Calandrella_cinerea",
+      "common_name": "Red-capped Lark",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Creatophora_cinerea",
+      "common_name": "Wattled Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Muscicapa_striata",
+      "common_name": "Spotted Flycatcher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Oenanthe_isabellina",
+      "common_name": "Isabelline Wheatear",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Passer_domesticus",
+      "common_name": "House Sparrow",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Plain-backed pipit",
+      "url": "https://en.wikipedia.org/wiki/Plain-backed_pipit",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2490245"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

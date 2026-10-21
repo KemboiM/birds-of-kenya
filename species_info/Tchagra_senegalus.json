@@ -1,0 +1,88 @@
+{
+  "label": "Tchagra_senegalus",
+  "scientific_name": "Tchagra senegalus",
+  "common_name": "Black-crowned Tchagra",
+  "other_names": {},
+  "family": "Malaconotidae",
+  "summary": "The black-crowned tchagra (Tchagra senegalus) is a bushshrike. This family of passerine birds is closely related to the true shrikes in the family Laniidae, and was once included in that group. This species is found in the Arabian Peninsula and most of Africa in scrub, open woodland, semi-desert and cultivation.",
+  "appearance": {
+    "description": "The black-crowned tchagra is a colourful and unmistakable species, 19–22 cm in length. It has a black crown and eye stripes separated by a broad white supercilium. The underparts are pale grey and the upperparts pale brown.",
+    "colors": "The black-crowned tchagra (Tchagra senegalus) is a bushshrike. The black-crowned tchagra is a colourful and unmistakable species, 19–22 cm in length.",
+    "wings": "The folded wings are chestnut and the tail is black, tipped white."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        19.0,
+        22.0
+      ]
+    },
+    "juvenile": {
+      "notes": "Sexes are similar, but young birds have a brown cap and a pale yellow bill."
+    },
+    "chick": null
+  },
+  "behaviour": "Black-crowned tchagra lays two or three heavily marked white eggs in a cup nest in a tree or bush. Both sexes, but mainly the female, incubate for 12–15 days to hatching; the chicks fledge after another 15 days. It is similar in habits to the shrikes, hunting insects and other small prey from a perch in a bush, although it sits less conspicuously than true shrikes.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Kenya",
+      "Coast",
+      "Rift Valley",
+      "Eastern",
+      "Nyanza",
+      "Central"
+    ],
+    "gbif_records_in_kenya": 8718
+  },
+  "look_alikes": [
+    {
+      "label": "Tchagra_australis",
+      "common_name": "Brown-crowned Tchagra",
+      "difference": null,
+      "times_confused": 4
+    },
+    {
+      "label": "Bubo_lacteus",
+      "common_name": "Verreaux's Eagle-owl",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Eminia_lepida",
+      "common_name": "Grey-capped Warbler",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Urocolius_macrourus",
+      "common_name": "Blue-naped Mousebird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Poicephalus_rufiventris",
+      "common_name": "Red-bellied Parrot",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Black-crowned tchagra",
+      "url": "https://en.wikipedia.org/wiki/Black-crowned_tchagra",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/7340799"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "label": "Merops_pusillus",
+  "scientific_name": "Merops pusillus",
+  "common_name": "Little Bee-eater",
+  "other_names": {},
+  "family": "Meropidae",
+  "summary": "The little bee-eater (Merops pusillus) is a bird species in the bee-eater family, Meropidae. They are found in Sub-Saharan Africa. They should not be confused with the little green bee-eater (Merops orientalis).",
+  "appearance": {
+    "description": "Members of this species, like other bee-eaters, are rich and brightly coloured slender birds. They have green upper parts, yellow throats, black gorgets, and rich brown upper breasts fading to buffish ochre on the belly. Their wings are green and brown.",
+    "colors": "They should not be confused with the little green bee-eater (Merops orientalis). Members of this species, like other bee-eaters, are rich and brightly coloured slender birds.",
+    "wings": "Their wings are green and brown. They are often hard to spot since their green backs and wings act as camouflage. == References == Fry, C."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        15.0,
+        17.0
+      ]
+    },
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": "These are abundant and tame birds, familiar throughout their range. There have been estimated to be between 60 and 80 million little bee-eaters. They breed in open country with bushes, preferably near water.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Nairobi",
+      "Eastern",
+      "Coast",
+      "Narok"
+    ],
+    "gbif_records_in_kenya": 20131
+  },
+  "look_alikes": [
+    {
+      "label": "Merops_oreobates",
+      "common_name": "Cinnamon-chested Bee-eater",
+      "difference": null,
+      "times_confused": 4
+    },
+    {
+      "label": "Merops_apiaster",
+      "common_name": "European Bee-eater",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Amblyospiza_albifrons",
+      "common_name": "Thick-billed Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Merops_albicollis",
+      "common_name": "White-throated Bee-eater",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Little bee-eater",
+      "url": "https://en.wikipedia.org/wiki/Little_bee-eater",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2475403"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "label": "Euplectes_afer",
+  "scientific_name": "Euplectes afer",
+  "common_name": "Yellow-crowned Bishop",
+  "other_names": {},
+  "family": "Ploceidae",
+  "summary": "The yellow-crowned bishop (Euplectes afer) is a species of passerine bird in the family Ploceidae native to Africa south of the Sahara. It is highly sexually dimorphic in its breeding season, during which the male adopts a distinctive yellow and black plumage, contrasting with the female's predominantly brown coloration. Four subspecies are recognised.",
+  "appearance": {
+    "description": "The yellow-crowned bishop is 95 to 105 mm (3.7–4.1 in) in length and 15 g (0.53 oz) in weight. During the breeding season it is sexually dimorphic — that is, the observable characteristics of the males become more apparent. During the breeding season, the male has distinctive golden yellow and black plumage.",
+    "colors": "The yellow-crowned bishop (Euplectes afer) is a species of passerine bird in the family Ploceidae native to Africa south of the Sahara. It is highly sexually dimorphic in its breeding season, during which the male adopts a distinctive yellow and black plumage, contrasting with the female's predominantly brown coloration.",
+    "wings": "The wings and tail are brown."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        9.5,
+        10.5
+      ],
+      "mass_g": [
+        15.0,
+        15.0
+      ]
+    },
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": "The yellow-crowned bishop eats insects, grain, and seeds. It lives in flocks with both males and females. In non-breeding seasons the flocks may contain weavers and sparrows.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The yellow-crowned bishop is native to the African countries of: Angola, Benin, Botswana, Burkina Faso, Cameroon, Central African Republic, Chad, RCongo, DRCongo, Ivory Coast, Ethiopia, Gabon, Gambia, Ghana, Guinea, Guinea-Bissau, Kenya, Lesotho, Liberia, Mali, Mauritania, Mozambique, Namibia, Niger, Nigeria, Senegal, Sierra Leone, South Africa, Sudan, Tanzania, Togo, Uganda, Zambia, and Zimbabwe. It has been introduced in the following countries: Jamaica, Japan, Puerto Rico, Portugal, Spain, and Venezuela.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Nairobi",
+      "Kenya",
+      "Central",
+      "Eastern",
+      "Kajiado"
+    ],
+    "gbif_records_in_kenya": 1412
+  },
+  "look_alikes": [
+    {
+      "label": "Euplectes_albonotatus",
+      "common_name": "White-winged Widowbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_xanthops",
+      "common_name": "Holub's Golden Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Crithagra_striolata",
+      "common_name": "Streaky Seedeater",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Yellow-crowned bishop",
+      "url": "https://en.wikipedia.org/wiki/Yellow-crowned_bishop",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2494097"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

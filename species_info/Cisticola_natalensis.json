@@ -1,0 +1,75 @@
+{
+  "label": "Cisticola_natalensis",
+  "scientific_name": "Cisticola natalensis",
+  "common_name": "Croaking Cisticola",
+  "other_names": {},
+  "family": "Cisticolidae",
+  "summary": "The croaking cisticola (Cisticola natalensis) is an Old World warbler in the family Cisticolidae. It is a resident breeder in Africa south of the Sahara. The croaking cisticola is an insectivorous passerine that is found in rank grassland habitats, often near swamps or water.",
+  "appearance": {
+    "description": null,
+    "colors": "This warbler is grey-brown above, heavily streaked with black. It has a chestnut wing-panel and a heavy bill.",
+    "wings": "It has a chestnut wing-panel and a heavy bill."
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Rift Valley",
+      "Nairobi",
+      "Kenya",
+      "Coast",
+      "Nyanza",
+      "Western"
+    ],
+    "gbif_records_in_kenya": 2033
+  },
+  "look_alikes": [
+    {
+      "label": "Anthus_cinnamomeus",
+      "common_name": "African Pipit",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cisticola_marginatus",
+      "common_name": "Winding Cisticola",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Rhinoptilus_africanus",
+      "common_name": "Double-banded Courser",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Turdoides_hypoleuca",
+      "common_name": "Northern Pied Babbler",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Croaking cisticola",
+      "url": "https://en.wikipedia.org/wiki/Croaking_cisticola",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2492810"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

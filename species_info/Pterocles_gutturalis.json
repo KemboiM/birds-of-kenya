@@ -1,0 +1,76 @@
+{
+  "label": "Pterocles_gutturalis",
+  "scientific_name": "Pterocles gutturalis",
+  "common_name": "Yellow-throated Sandgrouse",
+  "other_names": {},
+  "family": "Pteroclididae",
+  "summary": "The yellow-throated sandgrouse (Pterocles gutturalis) is a bird species of the family Pteroclidae. The species common name is derived from the male's distinctive yellow throat. It is found in arid and semi-arid environments and inhabits regions distributed across 10 different African countries.",
+  "appearance": {
+    "description": "The species has long and pointed wings adapted to fly over long distances. Most of its body and legs are feathered, which reduces heat gain through convection. Males and females are of similar size.",
+    "colors": "The yellow-throated sandgrouse (Pterocles gutturalis) is a bird species of the family Pteroclidae. The species common name is derived from the male's distinctive yellow throat.",
+    "wings": "The species has long and pointed wings adapted to fly over long distances. The male is brighter, and its collar, lores, and underwing coverts are black In comparison, the female's plumage has paler and more cryptic coloration."
+  },
+  "size": {
+    "adult": {
+      "mass_g": [
+        350.0,
+        350.0
+      ]
+    },
+    "juvenile": {
+      "notes": "The juvenile plumage is similar to the female, but has a finer mottling pattern."
+    },
+    "chick": null
+  },
+  "behaviour": "=== Diet === The yellow throated sandgrouse is a ground-dwelling bird that primarily feeds on seeds. The south African population forages mainly in fallow fields and recently ploughed lands, and avoids fields with mature crops and close canopy. It feeds on grains of commercial crops such as oats, wheat, barley, sorghum, and soya-bean.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "=== Habitat === The yellow-throated sandgrouse occurs in open grasslands, farmlands and edges of arid areas. It prefers clay-rich soils and avoids the coarser sandy or rocky soils formed from quartzite and granite.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Nairobi",
+      "Narok",
+      "Eastern",
+      "Kajiado"
+    ],
+    "gbif_records_in_kenya": 2395
+  },
+  "look_alikes": [
+    {
+      "label": "Creatophora_cinerea",
+      "common_name": "Wattled Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pterocles_decoratus",
+      "common_name": "Black-faced Sandgrouse",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Hirundo_rustica",
+      "common_name": "Barn Swallow",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Yellow-throated sandgrouse",
+      "url": "https://en.wikipedia.org/wiki/Yellow-throated_sandgrouse",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2480201"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

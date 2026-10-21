@@ -1,0 +1,69 @@
+{
+  "label": "Ploceus_insignis",
+  "scientific_name": "Ploceus insignis",
+  "common_name": "Brown-capped Weaver",
+  "other_names": {},
+  "family": "Ploceidae",
+  "summary": "The brown-capped weaver (Ploceus insignis) is a species of bird in the family Ploceidae. It is found in Angola, Burundi, Cameroon, Republic of the Congo, Democratic Republic of the Congo, Equatorial Guinea, Kenya, Nigeria, Rwanda, South Sudan, Tanzania, and Uganda.",
+  "appearance": {
+    "description": null,
+    "colors": "The brown-capped weaver (Ploceus insignis) is a species of bird in the family Ploceidae.",
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Western",
+      "Central",
+      "Kenya",
+      "Rift Valley",
+      "Eastern",
+      "Kirinyaga"
+    ],
+    "gbif_records_in_kenya": 3715
+  },
+  "look_alikes": [
+    {
+      "label": "Oriolus_larvatus",
+      "common_name": "Black-headed Oriole",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_cucullatus",
+      "common_name": "Village Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Zosterops_kikuyuensis",
+      "common_name": "Kikuyu White-eye",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Brown-capped weaver",
+      "url": "https://en.wikipedia.org/wiki/Brown-capped_weaver",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2494032"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

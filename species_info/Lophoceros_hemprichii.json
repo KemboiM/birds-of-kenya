@@ -1,0 +1,68 @@
+{
+  "label": "Lophoceros_hemprichii",
+  "scientific_name": "Lophoceros hemprichii",
+  "common_name": "Hemprich's Hornbill",
+  "other_names": {},
+  "family": "Bucerotidae",
+  "summary": "Hemprich's hornbill (Lophoceros hemprichii) is a species of hornbill in the family Bucerotidae. It is found in Djibouti, Eritrea, Ethiopia, Kenya, Somalia, South Sudan, and Uganda.",
+  "appearance": {
+    "description": null,
+    "colors": null,
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": "As observed in the Degua Tembien district of north Ethiopia, the bird is found in bushland, scrubland and dense secondary forest, often near cliffs, gorges or water.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Baringo",
+      "Nakuru",
+      "Marsabit"
+    ],
+    "gbif_records_in_kenya": 1218
+  },
+  "look_alikes": [
+    {
+      "label": "Lophoceros_nasutus",
+      "common_name": "African Grey Hornbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tockus_deckeni",
+      "common_name": "Von Der Decken's Hornbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tockus_erythrorhynchus",
+      "common_name": "Northern Red-billed Hornbill",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Hemprich's hornbill",
+      "url": "https://en.wikipedia.org/wiki/Hemprich%27s_hornbill",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/8258263"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

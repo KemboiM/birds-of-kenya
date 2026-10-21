@@ -1,0 +1,202 @@
+{
+  "label": "Hirundo_rustica",
+  "scientific_name": "Hirundo rustica",
+  "common_name": "Barn Swallow",
+  "other_names": {
+    "sw": "Mbayuwayu wa Ulaya"
+  },
+  "family": "Hirundinidae",
+  "summary": "The barn swallow (Hirundo rustica) is the most widespread species of swallow in the world, occurring on all continents, with vagrants reported even in Antarctica. It is a distinctive passerine bird with blue upperparts and a long, deeply forked tail. In Anglophone Europe, it is just called the swallow; in northern Europe, it is the only member of family Hirundinidae called a \"swallow\" rather than a \"martin\".",
+  "appearance": {
+    "description": "The adult male barn swallow of the nominate subspecies H. r. rustica is 17–19 cm (6+1⁄2–7+1⁄2 in) long including 2–7 cm (1–3 in) of elongated outer tail feathers. It has a wingspan of 32–34.5 cm (12+1⁄2–13+1⁄2 in) and weighs 16–22 g (9⁄16–3⁄4 oz). It has steel blue upperparts and a rufous forehead, chin and throat, which are separated from the off-white underparts by a broad dark blue breast band.",
+    "colors": "It is a distinctive passerine bird with blue upperparts and a long, deeply forked tail. It has steel blue upperparts and a rufous forehead, chin and throat, which are separated from the off-white underparts by a broad dark blue breast band.",
+    "wings": null
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        17.0,
+        19.0
+      ],
+      "wingspan_cm": [
+        32.0,
+        34.5
+      ],
+      "mass_g": [
+        16.0,
+        22.0
+      ]
+    },
+    "juvenile": {
+      "notes": "The juvenile is browner and has a paler rufous face and whiter underparts. In Africa the short tail streamers of the juvenile barn swallow invite confusion with juvenile red-chested swallow (Hirundo lucida), but the latter has a narrower breast band and more white in the tail."
+    },
+    "chick": {
+      "notes": "The incubation period is normally 14–19 days, with another 18–23 days before the altricial chicks fledge. The fledged young stay with, and are fed by, the parents for about a week after leaving the nest."
+    }
+  },
+  "behaviour": "=== Habitat and range === The preferred habitat of the barn swallow is open country with low vegetation, such as pasture, meadows and farmland, preferably with nearby water. This swallow avoids heavily wooded or precipitous areas and densely built-up locations. The presence of accessible open structures such as barns, stables, or culverts to provide nesting sites, and exposed locations such as wires, roof ridges or bare branches for perching, are also important in the bird's selection of its breeding range.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Coast",
+      "Nairobi",
+      "Eastern",
+      "Central"
+    ],
+    "gbif_records_in_kenya": 30033
+  },
+  "look_alikes": [
+    {
+      "label": "Polihierax_semitorquatus",
+      "common_name": "Pygmy Falcon",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Apus_affinis",
+      "common_name": "Little Swift",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Vidua_macroura",
+      "common_name": "Pin-tailed Whydah",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Riparia_paludicola",
+      "common_name": "Brown-throated Martin",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Hirundo_smithii",
+      "common_name": "Wire-tailed Swallow",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Euplectes_macroura",
+      "common_name": "Yellow-mantled Widowbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Glareola_pratincola",
+      "common_name": "Collared Pratincole",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Anthreptes_orientalis",
+      "common_name": "Eastern Violet-backed Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ptyonoprogne_fuligula",
+      "common_name": "Large Rock Martin",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Anastomus_lamelligerus",
+      "common_name": "African Openbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cecropis_senegalensis",
+      "common_name": "Mosque Swallow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Chrysococcyx_caprius",
+      "common_name": "Diederik Cuckoo",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cuculus_solitarius",
+      "common_name": "Red-chested Cuckoo",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Indicator_indicator",
+      "common_name": "Greater Honeyguide",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Onychognathus_morio",
+      "common_name": "Red-winged Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pterocles_gutturalis",
+      "common_name": "Yellow-throated Sandgrouse",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Buphagus_africanus",
+      "common_name": "Yellow-billed Oxpecker",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Corvus_splendens",
+      "common_name": "House Crow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Corythaixoides_leucogaster",
+      "common_name": "White-bellied Go-away-bird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Dicrurus_adsimilis",
+      "common_name": "Fork-tailed Drongo",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lamprotornis_superbus",
+      "common_name": "Superb Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lanius_humeralis",
+      "common_name": "Northern Fiscal",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Barn swallow",
+      "url": "https://en.wikipedia.org/wiki/Barn_swallow",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/9515886"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

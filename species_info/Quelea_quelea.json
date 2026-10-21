@@ -1,0 +1,262 @@
+{
+  "label": "Quelea_quelea",
+  "scientific_name": "Quelea quelea",
+  "common_name": "Red-billed Quelea",
+  "other_names": {},
+  "family": "Ploceidae",
+  "summary": "The red-billed quelea (; Quelea quelea), also known as the red-billed weaver or red-billed dioch, is a small, seasonally nomadic, sparrow-like bird of the weaver family, Ploceidae, native to sub-Saharan Africa. It is approximately 12 cm (4.7 in) long and weighs 15 to 26 g (0.53 to 0.92 oz). It was named by Linnaeus in 1758, who considered it a bunting, but Ludwig Reichenbach assigned it in 1850 to the new genus Quelea.",
+  "appearance": {
+    "description": "The red-billed quelea is a small sparrow-like bird, approximately 12 cm (4.7 in) long and weighing 15–26 g (0.53–0.92 oz), with a heavy, cone-shaped bill, which is red (in females outside the breeding season and males) or orange to yellow (females during the breeding season). Over 75% of males have a black facial \"mask\", comprising a black forehead, cheeks, lores and higher parts of the throat. Occasionally males have a white mask.",
+    "colors": "The red-billed quelea (; Quelea quelea), also known as the red-billed weaver or red-billed dioch, is a small, seasonally nomadic, sparrow-like bird of the weaver family, Ploceidae, native to sub-Saharan Africa. It was named by Linnaeus in 1758, who considered it a bunting, but Ludwig Reichenbach assigned it in 1850 to the new genus Quelea.",
+    "wings": "The tail and upper wing are dark brown. Young birds change feathers two to three months after hatching, after which the plumage resembles that of non-breeding adults, although the head is grey, the cheeks whitish, and wing coverts and flight feathers have buff margins."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        12.0,
+        12.0
+      ],
+      "mass_g": [
+        15.0,
+        26.0
+      ]
+    },
+    "juvenile": {
+      "notes": "Older nestlings have a horn-coloured bill with a hint of lavender, though it turns orange-purple before the post-juvenile moult. Young birds change feathers two to three months after hatching, after which the plumage resembles that of non-breeding adults, although the head is grey, the cheeks whitish, and wing coverts and flight feathers have buff margins."
+    },
+    "chick": {
+      "notes": "After the chicks hatch, they are fed for some days with protein-rich insects. Later the nestlings mainly get seeds."
+    }
+  },
+  "behaviour": "The red-billed quelea is regarded as the most numerous undomesticated bird on earth, with the total post-breeding population sometimes peaking at an estimated 1.5 billion individuals. The species is specialised on feeding on seeds of annual grass species, which may be ripe, or still green, but have not germinated yet. Since the availability of these seeds varies with time and space, occurring in particular weeks after the local off-set of rains, queleas move nomadically as a strategy to ensure year-round food availability.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The red-billed quelea is mostly found in tropical and subtropical areas with a seasonal semi-arid climate, resulting in dry thornbush grassland, including the Sahel, and its distribution covers most of sub-Saharan Africa. It avoids forests, however, including miombo woodlands and rainforests such as those in central Africa, and is generally absent from western parts of South Africa and arid coastal regions of Namibia and Angola.",
+    "kenya_regions": [
+      "Kenya",
+      "Rift Valley",
+      "Coast",
+      "Eastern",
+      "Nairobi",
+      "Central"
+    ],
+    "gbif_records_in_kenya": 12302
+  },
+  "look_alikes": [
+    {
+      "label": "Ortygospiza_atricollis",
+      "common_name": "Black-faced Quailfinch",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Otus_senegalensis",
+      "common_name": "African Scops Owl",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cisticola_cantans",
+      "common_name": "Singing Cisticola",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Coccopygia_quartinia",
+      "common_name": "Yellow-bellied Waxbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Rhinopomastus_minor",
+      "common_name": "Abyssinian Scimitarbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Euplectes_progne",
+      "common_name": "Long-tailed Widowbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tchagra_australis",
+      "common_name": "Brown-crowned Tchagra",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cisticola_hunteri",
+      "common_name": "Hunter's Cisticola",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Macronyx_ameliae",
+      "common_name": "Rosy-throated Longclaw",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Chalcomitra_amethystina",
+      "common_name": "Amethyst Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Anaplectes_rubriceps",
+      "common_name": "Red-headed Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Alopochen_aegyptiaca",
+      "common_name": "Egyptian Goose",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bubo_lacteus",
+      "common_name": "Verreaux's Eagle-owl",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cinnyris_venustus",
+      "common_name": "Variable Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Circaetus_cinereus",
+      "common_name": "Brown Snake Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cisticola_chiniana",
+      "common_name": "Rattling Cisticola",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Crithagra_reichenowi",
+      "common_name": "Reichenow's Seedeater",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Dessonornis_caffer",
+      "common_name": "Cape Robin-chat",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Erythropygia_leucophrys",
+      "common_name": "White-browed Scrub Robin",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Hirundo_smithii",
+      "common_name": "Wire-tailed Swallow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ispidina_picta",
+      "common_name": "African Pygmy Kingfisher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Passer_domesticus",
+      "common_name": "House Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Prinia_subflava",
+      "common_name": "Tawny-flanked Prinia",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Sylvietta_whytii",
+      "common_name": "Red-faced Crombec",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Trachyphonus_erythrocephalus",
+      "common_name": "Red-and-yellow Barbet",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tringa_glareola",
+      "common_name": "Wood Sandpiper",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Upupa_epops",
+      "common_name": "Eurasian Hoopoe",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Telophorus_cruentus",
+      "common_name": "Rosy-patched Bushshrike",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Halcyon_leucocephala",
+      "common_name": "Grey-headed Kingfisher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lonchura_cucullata",
+      "common_name": "Bronze Mannikin",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_cucullatus",
+      "common_name": "Village Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Sagittarius_serpentarius",
+      "common_name": "Secretarybird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Creatophora_cinerea",
+      "common_name": "Wattled Starling",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Red-billed quelea",
+      "url": "https://en.wikipedia.org/wiki/Red-billed_quelea",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2493987"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

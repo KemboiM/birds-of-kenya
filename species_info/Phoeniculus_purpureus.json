@@ -1,0 +1,156 @@
+{
+  "label": "Phoeniculus_purpureus",
+  "scientific_name": "Phoeniculus purpureus",
+  "common_name": "Green Wood Hoopoe",
+  "other_names": {},
+  "family": "Phoeniculidae",
+  "summary": "The green wood hoopoe (Phoeniculus purpureus) is a large, up to 44 cm (17 in) long tropical bird native to Africa. It is a member of the family Phoeniculidae, the wood hoopoes, and was formerly known as the red-billed wood hoopoe.",
+  "appearance": {
+    "description": "This abundant species is a metallic dark green, with a purple back and very long diamond-shaped purple tail. Distinctive white markings on the wings and white chevrons on the tail edges make it easily identifiable, as does its long, thin, curved red bill. Sexes are similar, but immatures have a black bill.",
+    "colors": "The green wood hoopoe (Phoeniculus purpureus) is a large, up to 44 cm (17 in) long tropical bird native to Africa. It is a member of the family Phoeniculidae, the wood hoopoes, and was formerly known as the red-billed wood hoopoe.",
+    "wings": "Distinctive white markings on the wings and white chevrons on the tail edges make it easily identifiable, as does its long, thin, curved red bill."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        44.0,
+        44.0
+      ]
+    },
+    "juvenile": {
+      "notes": "Sexes are similar, but immatures have a black bill."
+    },
+    "chick": {
+      "notes": "On hatching, she and the nestlings are fed by the rest of the group, even after they have fledged and left the nest hole. The group is fearless in defence of the nestlings against intruders."
+    }
+  },
+  "behaviour": "=== Food and foraging === The green wood hoopoe is an insect-eating species. It feeds mainly on the ground, at termite mounds, or on tree trunks, and forms flocks outside the breeding season. Its specialised claws enable it to cling easily to the underside of branches while closely inspecting the bark for insects.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Coast",
+      "Eastern",
+      "Nakuru",
+      "Nyanza"
+    ],
+    "gbif_records_in_kenya": 9931
+  },
+  "look_alikes": [
+    {
+      "label": "Chalcomitra_hunteri",
+      "common_name": "Hunter's Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Musophaga_rossae",
+      "common_name": "Ross's Turaco",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Amaurornis_flavirostra",
+      "common_name": "Black Crake",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Buphagus_erythrorhynchus",
+      "common_name": "Red-billed Oxpecker",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bycanistes_brevis",
+      "common_name": "Silvery-cheeked Hornbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cinnyricinclus_leucogaster",
+      "common_name": "Violet-backed Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Corythornis_cristatus",
+      "common_name": "Malachite Kingfisher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Euplectes_progne",
+      "common_name": "Long-tailed Widowbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Gyps_africanus",
+      "common_name": "White-backed Vulture",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Himantopus_himantopus",
+      "common_name": "Black-winged Stilt",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lophoceros_alboterminatus",
+      "common_name": "Crowned Hornbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Notopholia_corrusca",
+      "common_name": "Black-bellied Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Upupa_africana",
+      "common_name": "Eurasian Hoopoe",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bubalornis_niger",
+      "common_name": "Red-billed Buffalo Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Dendropicos_spodocephalus",
+      "common_name": "Eastern Grey Woodpecker",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Alopochen_aegyptiaca",
+      "common_name": "Egyptian Goose",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Green wood hoopoe",
+      "url": "https://en.wikipedia.org/wiki/Green_wood_hoopoe",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2498452"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

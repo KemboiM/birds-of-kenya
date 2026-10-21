@@ -1,0 +1,81 @@
+{
+  "label": "Tockus_jacksoni",
+  "scientific_name": "Tockus jacksoni",
+  "common_name": "Jackson's Hornbill",
+  "other_names": {},
+  "family": "Bucerotidae",
+  "summary": "Jackson's hornbill (Tockus jacksoni) is a species of hornbill in the family Bucerotidae. It is only found in North West Kenya and North East Uganda. Except for the dense white spots on the wing-coverts, it resembles, and is often considered a subspecies of, Von der Decken's hornbill.",
+  "appearance": {
+    "description": null,
+    "colors": "Except for the dense white spots on the wing-coverts, it resembles, and is often considered a subspecies of, Von der Decken's hornbill.",
+    "wings": "Except for the dense white spots on the wing-coverts, it resembles, and is often considered a subspecies of, Von der Decken's hornbill."
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Baringo",
+      "Rift valley prov",
+      "Elgeyo-Marakwet",
+      "Turkana"
+    ],
+    "gbif_records_in_kenya": 2689
+  },
+  "look_alikes": [
+    {
+      "label": "Tockus_deckeni",
+      "common_name": "Von Der Decken's Hornbill",
+      "difference": null,
+      "times_confused": 5
+    },
+    {
+      "label": "Tockus_erythrorhynchus",
+      "common_name": "Northern Red-billed Hornbill",
+      "difference": null,
+      "times_confused": 4
+    },
+    {
+      "label": "Tockus_flavirostris",
+      "common_name": "Eastern Yellow-billed Hornbill",
+      "difference": null,
+      "times_confused": 3
+    },
+    {
+      "label": "Clamator_glandarius",
+      "common_name": "Great Spotted Cuckoo",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Vidua_paradisaea",
+      "common_name": "Long-tailed Paradise Whydah",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Jackson's hornbill",
+      "url": "https://en.wikipedia.org/wiki/Jackson%27s_hornbill",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2475980"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

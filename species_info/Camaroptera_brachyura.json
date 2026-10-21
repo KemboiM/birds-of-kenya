@@ -1,0 +1,176 @@
+{
+  "label": "Camaroptera_brachyura",
+  "scientific_name": "Camaroptera brachyura",
+  "common_name": "Green-backed Camaroptera",
+  "other_names": {},
+  "family": "Cisticolidae",
+  "summary": "The green-backed camaroptera (Camaroptera brachyura), also known as the bleating camaroptera, is a small bird in the family Cisticolidae. This bird is a resident breeder in Africa south of the Sahara Desert. Recent studies suggest this species and the grey-backed camaroptera may be the same species.",
+  "appearance": {
+    "description": null,
+    "colors": "The green-backed camaroptera (Camaroptera brachyura), also known as the bleating camaroptera, is a small bird in the family Cisticolidae. Recent studies suggest this species and the grey-backed camaroptera may be the same species.",
+    "wings": "The wings are olive and the underparts whitish grey."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        11.5,
+        11.5
+      ]
+    },
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Rift Valley",
+      "Nairobi",
+      "Coast",
+      "Kenya",
+      "Central",
+      "Western"
+    ],
+    "gbif_records_in_kenya": 26490
+  },
+  "look_alikes": [
+    {
+      "label": "Corvus_splendens",
+      "common_name": "House Crow",
+      "difference": null,
+      "times_confused": 3
+    },
+    {
+      "label": "Calamonastes_simplex",
+      "common_name": "Grey Wren-warbler",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Dendropicos_spodocephalus",
+      "common_name": "Eastern Grey Woodpecker",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Apalis_flavida",
+      "common_name": "Yellow-breasted Apalis",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Muscicapa_adusta",
+      "common_name": "African Dusky Flycatcher",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Arizelocichla_kikuyuensis",
+      "common_name": "Kikuyu Mountain Greenbul",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Eurillas_latirostris",
+      "common_name": "Yellow-whiskered Greenbul",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Sylvia_boehmi",
+      "common_name": "Banded Parisoma",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cyanomitra_olivacea",
+      "common_name": "Olive Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Phylloscopus_trochilus",
+      "common_name": "Willow Warbler",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pinarochroa_sordida",
+      "common_name": "Moorland Chat",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_ocularis",
+      "common_name": "Spectacled Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bubalornis_niger",
+      "common_name": "Red-billed Buffalo Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Gallinula_chloropus",
+      "common_name": "Common Moorhen",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Hedydipna_collaris",
+      "common_name": "Collared Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Notopholia_corrusca",
+      "common_name": "Black-bellied Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ardea_melanocephala",
+      "common_name": "Black-headed Heron",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lagonosticta_senegala",
+      "common_name": "Red-billed Firefinch",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Nectarinia_kilimensis",
+      "common_name": "Bronze Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Turdus_abyssinicus",
+      "common_name": "Abyssinian Thrush",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Green-backed camaroptera",
+      "url": "https://en.wikipedia.org/wiki/Green-backed_camaroptera",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/5231296"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

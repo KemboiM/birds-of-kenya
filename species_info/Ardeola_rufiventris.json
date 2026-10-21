@@ -1,0 +1,71 @@
+{
+  "label": "Ardeola_rufiventris",
+  "scientific_name": "Ardeola rufiventris",
+  "common_name": "Rufous-bellied Heron",
+  "other_names": {},
+  "family": "Ardeidae",
+  "summary": "The rufous-bellied heron (Ardeola rufiventris) is a species of heron in the genus Ardeola, the pond herons, of the family Ardeidae. It is found in southern Africa.",
+  "appearance": {
+    "description": "This is a small dark species of heron with a dark grey head, back and breast contrasting with a rufous belly, wings and tail. When seen in flight the bright yellow legs and feet contrast with the dark feathers of the underside of the body. Juveniles are paler and browner, darkening as they mature.",
+    "colors": "The rufous-bellied heron (Ardeola rufiventris) is a species of heron in the genus Ardeola, the pond herons, of the family Ardeidae. This is a small dark species of heron with a dark grey head, back and breast contrasting with a rufous belly, wings and tail.",
+    "wings": "This is a small dark species of heron with a dark grey head, back and breast contrasting with a rufous belly, wings and tail."
+  },
+  "size": {
+    "adult": null,
+    "juvenile": {
+      "notes": "Juveniles are paler and browner, darkening as they mature."
+    },
+    "chick": null
+  },
+  "behaviour": "This is a skulking species which when hiding assumes a bittern-like posture but with its bill in a horizontal rather than vertical position. It usually prefers to hunt on the landward side of well vegetated wetlands and in the shallow water. It is a largely sedentary species, which may make partial migratory movements to follow rainy season inundations of flood-plains.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "It is found in eastern, central and southern sub-Saharan Africa widespread although absent from the arid south-west and is found in Angola, Botswana, Burundi, Democratic Republic of the Congo, Eswatini, Kenya, Lesotho, Malawi, Mali, Mozambique, Namibia, Rwanda, South Africa, Tanzania, Uganda, Zambia, and Zimbabwe. It is found in seasonally flooded grasslands, marshes, flood-plains and inland deltas (e.g. the Okavango Delta), shallow water along riverbanks and lake shores, stands of papyrus, reedbeds and paddies.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Narok",
+      "Nyanza",
+      "Western",
+      "Kajiado"
+    ],
+    "gbif_records_in_kenya": 805
+  },
+  "look_alikes": [
+    {
+      "label": "Fulica_cristata",
+      "common_name": "Red-knobbed Coot",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Egretta_ardesiaca",
+      "common_name": "Black Heron",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Onychognathus_morio",
+      "common_name": "Red-winged Starling",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Rufous-bellied heron",
+      "url": "https://en.wikipedia.org/wiki/Rufous-bellied_heron",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2480902"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

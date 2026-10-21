@@ -1,0 +1,150 @@
+{
+  "label": "Cecropis_abyssinica",
+  "scientific_name": "Cecropis abyssinica",
+  "common_name": "Lesser Striped Swallow",
+  "other_names": {},
+  "family": "Hirundinidae",
+  "summary": "The lesser striped swallow (Cecropis abyssinica) is a large swallow. It breeds in Sub-Saharan Africa from Sierra Leone and southern Sudan south into eastern South Africa. It is partially migratory with South African birds wintering further north.",
+  "appearance": {
+    "description": "The lesser striped swallow is 15–19 cm long. It has dark blue upperparts with a red rump and a rufous-chestnut crown, nape and sides of the head. The underparts are white with dark streaking, and the upper wings and underwing flight feathers are blackish-brown.",
+    "colors": "It has dark blue upperparts with a red rump and a rufous-chestnut crown, nape and sides of the head. The underparts are white with dark streaking, and the upper wings and underwing flight feathers are blackish-brown.",
+    "wings": "The underparts are white with dark streaking, and the upper wings and underwing flight feathers are blackish-brown. The underwing coverts are tawny."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        15.0,
+        19.0
+      ]
+    },
+    "juvenile": {
+      "notes": "Juveniles are duller and browner, with less contrast and shorter outer tail feathers."
+    },
+    "chick": {
+      "notes": "Incubation is by the female alone for 14–16 days to hatching. Both parents then feed the chicks."
+    }
+  },
+  "behaviour": "It feeds mainly on flying insects, but has been known to eat small fruits. The flight is erratic, and the call is a nasal zeh zeh zeh zeh zeh.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "This is a bird of wooded, mainly lowland habitats. The lesser striped swallow prefers less open habitats, and is replaced in montane grassland by the greater striped swallow, Hirundo cucullata.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Nairobi",
+      "Coast",
+      "Eastern",
+      "Central"
+    ],
+    "gbif_records_in_kenya": 19215
+  },
+  "look_alikes": [
+    {
+      "label": "Indicator_indicator",
+      "common_name": "Greater Honeyguide",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cisticola_robustus",
+      "common_name": "Stout Cisticola",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Buteo_buteo",
+      "common_name": "Common Buzzard",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Euplectes_albonotatus",
+      "common_name": "White-winged Widowbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Vidua_paradisaea",
+      "common_name": "Long-tailed Paradise Whydah",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Dessonornis_caffer",
+      "common_name": "Cape Robin-chat",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Microcarbo_africanus",
+      "common_name": "Reed Cormorant",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Apus_affinis",
+      "common_name": "Little Swift",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Buphagus_erythrorhynchus",
+      "common_name": "Red-billed Oxpecker",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ceryle_rudis",
+      "common_name": "Pied Kingfisher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cichladusa_guttata",
+      "common_name": "Spotted Palm Thrush",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Leptoptilos_crumenifer",
+      "common_name": "Marabou Stork",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Merops_oreobates",
+      "common_name": "Cinnamon-chested Bee-eater",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ptyonoprogne_fuligula",
+      "common_name": "Large Rock Martin",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Elanus_caeruleus",
+      "common_name": "Black-winged Kite",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Lesser striped swallow",
+      "url": "https://en.wikipedia.org/wiki/Lesser_striped_swallow",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/6095032"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

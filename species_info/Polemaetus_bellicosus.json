@@ -1,0 +1,164 @@
+{
+  "label": "Polemaetus_bellicosus",
+  "scientific_name": "Polemaetus bellicosus",
+  "common_name": "Martial Eagle",
+  "other_names": {},
+  "family": "Accipitridae",
+  "summary": "The martial eagle (Polemaetus bellicosus) is a large eagle native to sub-Saharan Africa. It is the only member of the genus Polemaetus. A species of the booted eagle subfamily (Aquilinae), it has feathers over its tarsus.",
+  "appearance": {
+    "description": "The martial eagle is a very large eagle. In total length, it can range from 78 to 96 cm (31 to 38 in), with an average of approximately 85.5 cm (33.7 in). Its total length – in comparison to its wingspan – is restricted by its relatively short tail.",
+    "colors": "One of the largest and most powerful species of booted eagle, it is a fairly opportunistic predator that varies its prey selection between mammals, birds and reptiles. Currently, the martial eagle is classified with the status of Endangered by the IUCN.",
+    "wings": "The underwing coverts are dark brown, with the remiges being pale streaked with black, overall imparting the wings of adults a dark look. The underside of the tail has similar barring as the remiges while the upperside is the same uniform brown as the back and upperwing coverts."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        78.0,
+        96.0
+      ],
+      "wingspan_cm": [
+        188.0,
+        240.0
+      ],
+      "mass_g": [
+        3930.0,
+        4710.0
+      ]
+    },
+    "juvenile": {
+      "notes": "Juvenile martial eagles are conspicuously distinct in plumage with a pearly gray colour above with considerable white edging, as well as a speckled grey effect on crown and hind neck. The wing coverts of juveniles are mottled grey-brown and white, with patterns of bars on primaries and tail that are similar to adult but lighter and greyer."
+    },
+    "chick": {
+      "notes": "Clutches of two have only been reported only in South Africa and once in Zambia, and the younger sibling probably never survives or possibly ever even hatches unless the first egg or hatchling dies. Once the eggs hatch, the male of a pair may rarely brood the young but has never been seen to the feed the chick and, for the most part, the male just brings prey for the female to distribute between herself and the nestling."
+    }
+  },
+  "behaviour": "The martial eagle is a weak and infrequent vocaliser. Little vocal activity has been reported even during the breeding season. The recorded contact call between pair-members consists of the birds, usually when perched, letting out a low mellow whistle, ko-wee-oh.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The martial eagle can be found in most of sub-Saharan Africa, wherever food is abundant and the environment favourable. With a total estimated distribution of about 26,000 km2 (10,000 sq mi), it has a substantial distribution across Africa, giving it a somewhat broader range than other species there like the crowned eagle (Stephanoaetus coronatus) and the Verreaux's eagle (Aquila verreauxii).",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Nairobi",
+      "Eastern",
+      "Coast",
+      "Central"
+    ],
+    "gbif_records_in_kenya": 9959
+  },
+  "look_alikes": [
+    {
+      "label": "Buteo_augur",
+      "common_name": "Augur Buzzard",
+      "difference": null,
+      "times_confused": 3
+    },
+    {
+      "label": "Gyps_africanus",
+      "common_name": "White-backed Vulture",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Torgos_tracheliotos",
+      "common_name": "Lappet-faced Vulture",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Corvus_albus",
+      "common_name": "Pied Crow",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Necrosyrtes_monachus",
+      "common_name": "Hooded Vulture",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Pandion_haliaetus",
+      "common_name": "Osprey",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Falco_biarmicus",
+      "common_name": "Lanner Falcon",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Stephanoaetus_coronatus",
+      "common_name": "Crowned Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lophaetus_occipitalis",
+      "common_name": "Long-crested Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Buteo_buteo",
+      "common_name": "Common Buzzard",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Circaetus_cinereus",
+      "common_name": "Brown Snake Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Circaetus_pectoralis",
+      "common_name": "Black-chested Snake Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Circus_macrourus",
+      "common_name": "Pallid Harrier",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Colius_striatus",
+      "common_name": "Speckled Mousebird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Hieraaetus_wahlbergi",
+      "common_name": "Wahlberg's Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Milvus_migrans",
+      "common_name": "Black Kite",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Martial eagle",
+      "url": "https://en.wikipedia.org/wiki/Martial_eagle",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2480426"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

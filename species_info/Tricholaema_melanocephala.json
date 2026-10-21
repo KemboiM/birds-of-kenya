@@ -1,0 +1,69 @@
+{
+  "label": "Tricholaema_melanocephala",
+  "scientific_name": "Tricholaema melanocephala",
+  "common_name": "Black-throated Barbet",
+  "other_names": {},
+  "family": "Lybiidae",
+  "summary": "The black-throated barbet (Tricholaema melanocephala) is a species of bird in the Lybiidae family. It is found in Djibouti, Eritrea, Ethiopia, Kenya, Somalia, South Sudan, Tanzania, and Uganda. Its distribution has moved northward.",
+  "appearance": {
+    "description": null,
+    "colors": "The black-throated barbet (Tricholaema melanocephala) is a species of bird in the Lybiidae family.",
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Coast",
+      "Eastern",
+      "North-Eastern",
+      "Baringo"
+    ],
+    "gbif_records_in_kenya": 4774
+  },
+  "look_alikes": [
+    {
+      "label": "Batis_molitor",
+      "common_name": "Chinspot Batis",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lonchura_cucullata",
+      "common_name": "Bronze Mannikin",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tricholaema_diademata",
+      "common_name": "Red-fronted Barbet",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Black-throated barbet",
+      "url": "https://en.wikipedia.org/wiki/Black-throated_barbet",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2478883"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

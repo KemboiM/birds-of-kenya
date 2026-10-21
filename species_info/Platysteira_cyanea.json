@@ -1,0 +1,104 @@
+{
+  "label": "Platysteira_cyanea",
+  "scientific_name": "Platysteira cyanea",
+  "common_name": "Brown-throated Wattle-eye",
+  "other_names": {},
+  "family": "Platysteiridae",
+  "summary": "The brown-throated wattle-eye (Platysteira cyanea), also known as the common wattle-eye or scarlet-spectacled wattle-eye, is a small, insectivorous passerine bird. The wattle-eyes were previously classed as a subfamily of the Old World flycatcher family Muscicapidae, but are now usually separated from that group. This species breeds in west, central and northeast tropical Africa.",
+  "appearance": {
+    "description": null,
+    "colors": "The brown-throated wattle-eye (Platysteira cyanea), also known as the common wattle-eye or scarlet-spectacled wattle-eye, is a small, insectivorous passerine bird. The adult brown-throated wattle-eye is a stout bird about 14 cm (5.5 in) long.",
+    "wings": "There is a strong white wingbar, and fleshy red wattles above the eye. The females are grey-black above, and also have the white wing bar and red wattles."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        14.0,
+        14.0
+      ]
+    },
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Western",
+      "Rift Valley",
+      "Kenya",
+      "Nyanza",
+      "Narok",
+      "Kakamega"
+    ],
+    "gbif_records_in_kenya": 3718
+  },
+  "look_alikes": [
+    {
+      "label": "Dryoscopus_cubla",
+      "common_name": "Black-backed Puffback",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Platysteira_peltata",
+      "common_name": "Black-throated Wattle-eye",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Batis_perkeo",
+      "common_name": "Pygmy Batis",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Anthreptes_orientalis",
+      "common_name": "Eastern Violet-backed Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Poicephalus_gulielmi",
+      "common_name": "Red-fronted Parrot",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cinnyricinclus_leucogaster",
+      "common_name": "Violet-backed Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Trachyphonus_darnaudii",
+      "common_name": "D'Arnaud's Barbet",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lanius_humeralis",
+      "common_name": "Northern Fiscal",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Brown-throated wattle-eye",
+      "url": "https://en.wikipedia.org/wiki/Brown-throated_wattle-eye",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2492313"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

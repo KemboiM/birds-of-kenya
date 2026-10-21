@@ -1,0 +1,166 @@
+{
+  "label": "Torgos_tracheliotos",
+  "scientific_name": "Torgos tracheliotos",
+  "common_name": "Lappet-faced Vulture",
+  "other_names": {},
+  "family": "Accipitridae",
+  "summary": "The lappet-faced vulture or Nubian vulture (Torgos tracheliotos) is an Old World vulture belonging to the bird order Accipitriformes, which also includes eagles, kites, buzzards and hawks. It is the only extant member of the genus Torgos. It is not closely related to the superficially similar New World vultures, and does not share the good sense of smell of some members of that family of birds.",
+  "appearance": {
+    "description": "The lappet-faced vulture is a very large species, ranking as the longest and largest winged vulture in its range, behind the closely related cinereous vulture, although some co-occurring Gyps vultures tend to be heavier on average, especially the Cape vulture and Eurasian griffon. This species measures around 95–115 cm (37–45 in) in body length, with a wingspan of 2.5–2.9 m (8.2–9.5 ft). Among the standard measurements, the wing chord is 71.5–82.5 cm (28.1–32.5 in), the tail is 33–36 cm (13–14 in) and the tarsus is 12.2–15 cm (4.8–5.9 in).",
+    "colors": "The lappet-faced vulture was formerly considered monotypical, but now is separated into two subspecies. Overall, the lappet-faced vulture is blackish above with a strongly contrasting white thigh feathers.",
+    "wings": "The lappet-faced vulture is a very large species, ranking as the longest and largest winged vulture in its range, behind the closely related cinereous vulture, although some co-occurring Gyps vultures tend to be heavier on average, especially the Cape vulture and Eurasian griffon. Among the standard measurements, the wing chord is 71.5–82.5 cm (28.1–32.5 in), the tail is 33–36 cm (13–14 in) and the tarsus is 12.2–15 cm (4.8–5.9 in)."
+  },
+  "size": {
+    "adult": {
+      "wingspan_cm": [
+        250.0,
+        290.0
+      ],
+      "length_cm": [
+        95.0,
+        115.0
+      ],
+      "mass_g": [
+        6500.0,
+        13600.0
+      ]
+    },
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": "=== Feeding === The lappet-faced vulture is a scavenging bird, feeding mostly from animal carcasses, which it finds by sight or by watching other vultures. More so than many African vultures, they often find carrion on their own and start tearing through the skin. They are the most powerful and aggressive of the African vultures, and other vultures will usually cede a carcass to the lappet-faced vulture if it decides to assert itself.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "This species is patchily distributed through much of Africa and the Arabian Peninsula, though it is absent from much of the central and western parts of the continent and declining elsewhere in its range. The lappet-faced vulture breeds in Senegal, Mali, Mauritania, Burkina Faso, Niger, Chad, Sudan, Egypt, Ethiopia, Somalia, Kenya, Tanzania, Uganda, Rwanda, the Democratic Republic of the Congo, Zambia, Malawi, Mozambique, Eswatini, South Africa, Zimbabwe, Botswana and Namibia.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Narok",
+      "Eastern",
+      "Coast",
+      "Nairobi",
+      "Kajiado"
+    ],
+    "gbif_records_in_kenya": 6914
+  },
+  "look_alikes": [
+    {
+      "label": "Necrosyrtes_monachus",
+      "common_name": "Hooded Vulture",
+      "difference": null,
+      "times_confused": 7
+    },
+    {
+      "label": "Gyps_rueppellii",
+      "common_name": "Rüppell's Vulture",
+      "difference": null,
+      "times_confused": 3
+    },
+    {
+      "label": "Gyps_africanus",
+      "common_name": "White-backed Vulture",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Polemaetus_bellicosus",
+      "common_name": "Martial Eagle",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Trigonoceps_occipitalis",
+      "common_name": "White-headed Vulture",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Aquila_rapax",
+      "common_name": "Tawny Eagle",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Eurystomus_glaucurus",
+      "common_name": "Broad-billed Roller",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Psalidoprocne_pristoptera",
+      "common_name": "Black Saw-wing",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Corvus_albicollis",
+      "common_name": "White-necked Raven",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Anas_sparsa",
+      "common_name": "African Black Duck",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Gypohierax_angolensis",
+      "common_name": "Palm-nut Vulture",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Buphagus_erythrorhynchus",
+      "common_name": "Red-billed Oxpecker",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Haliaeetus_vocifer",
+      "common_name": "African Fish Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bubo_lacteus",
+      "common_name": "Verreaux's Eagle-owl",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ciconia_abdimii",
+      "common_name": "Abdim's Stork",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Corvus_rhipidurus",
+      "common_name": "Fan-tailed Raven",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Struthio_camelus",
+      "common_name": "Common Ostrich",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Lappet-faced vulture",
+      "url": "https://en.wikipedia.org/wiki/Lappet-faced_vulture",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/5788496"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

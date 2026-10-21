@@ -1,0 +1,136 @@
+{
+  "label": "Anas_erythrorhyncha",
+  "scientific_name": "Anas erythrorhyncha",
+  "common_name": "Red-billed Teal",
+  "other_names": {},
+  "family": "Anatidae",
+  "summary": "The red-billed teal or red-billed duck (Anas erythrorhyncha) is a dabbling duck which is an abundant resident breeder in southern and eastern Africa. typically south of 10° S. This duck is not migratory, but flies great distances to find suitable waters. It is highly gregarious outside the breeding season and forms large flocks.",
+  "appearance": {
+    "description": "The red-billed teal is 43–48 cm (17–19 in) long and has a blackish cap and nape, contrasting pale face, and bright red bill. The body plumage is a dull dark brown scalloped with white. Flight reveals that the secondary flight feathers are buff with a black stripe across them.",
+    "colors": "The red-billed teal or red-billed duck (Anas erythrorhyncha) is a dabbling duck which is an abundant resident breeder in southern and eastern Africa. typically south of 10° S. The red-billed teal is 43–48 cm (17–19 in) long and has a blackish cap and nape, contrasting pale face, and bright red bill.",
+    "wings": null
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        43.0,
+        48.0
+      ]
+    },
+    "juvenile": {
+      "notes": "The sexes are similar, but juveniles are duller than adults."
+    },
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Nairobi",
+      "Central",
+      "Eastern",
+      "Coast"
+    ],
+    "gbif_records_in_kenya": 7156
+  },
+  "look_alikes": [
+    {
+      "label": "Anas_capensis",
+      "common_name": "Cape Teal",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Anas_undulata",
+      "common_name": "Yellow-billed Duck",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Glareola_pratincola",
+      "common_name": "Collared Pratincole",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Alopochen_aegyptiaca",
+      "common_name": "Egyptian Goose",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ardea_melanocephala",
+      "common_name": "Black-headed Heron",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Calidris_pugnax",
+      "common_name": "Ruff",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Dendrocygna_bicolor",
+      "common_name": "Fulvous Whistling Duck",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ichthyaetus_hemprichii",
+      "common_name": "Sooty Gull",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Recurvirostra_avosetta",
+      "common_name": "Pied Avocet",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Spatula_hottentota",
+      "common_name": "Blue-billed Teal",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Urocolius_macrourus",
+      "common_name": "Blue-naped Mousebird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ardeotis_kori",
+      "common_name": "Kori Bustard",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Vanellus_coronatus",
+      "common_name": "Crowned Lapwing",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Red-billed teal",
+      "url": "https://en.wikipedia.org/wiki/Red-billed_teal",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2498064"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

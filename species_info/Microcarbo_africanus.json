@@ -1,0 +1,142 @@
+{
+  "label": "Microcarbo_africanus",
+  "scientific_name": "Microcarbo africanus",
+  "common_name": "Reed Cormorant",
+  "other_names": {
+    "sw": "Mnandi Mkia-mrefu"
+  },
+  "family": "Phalacrocoracidae",
+  "summary": "The reed cormorant (Microcarbo africanus), also known as the long-tailed cormorant, is a bird in the cormorant family Phalacrocoracidae. It breeds in much of Africa south of the Sahara, and Madagascar. It is resident but undertakes some seasonal movements.",
+  "appearance": {
+    "description": "This is a small cormorant, 50–55 cm (20–22 in) in overall length with a wingspan of 80–90 cm (31–35 in). It is mainly black, glossed green, in the breeding season. The wing coverts are silvery.",
+    "colors": "It is mainly black, glossed green, in the breeding season. It has a longish tail, a short head crest and a red or yellow face patch.",
+    "wings": "The wing coverts are silvery."
+  },
+  "size": {
+    "adult": {
+      "wingspan_cm": [
+        80.0,
+        90.0
+      ],
+      "length_cm": [
+        50.0,
+        55.0
+      ]
+    },
+    "juvenile": {
+      "notes": "The sexes are similar, but non-breeding adults and juveniles are browner, with a white belly."
+    },
+    "chick": null
+  },
+  "behaviour": "The reed cormorant can dive to considerable depths, but usually feeds in shallow water. It frequently brings prey to the surface. It takes a wide variety of fish.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "This is a common and widespread species, and is not considered to be threatened. It breeds on freshwater wetlands or quiet coasts.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Nairobi",
+      "Coast",
+      "Central",
+      "Nyanza"
+    ],
+    "gbif_records_in_kenya": 18822
+  },
+  "look_alikes": [
+    {
+      "label": "Phalacrocorax_carbo",
+      "common_name": "Great Cormorant",
+      "difference": null,
+      "times_confused": 4
+    },
+    {
+      "label": "Anhinga_rufa",
+      "common_name": "African Darter",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Corvus_rhipidurus",
+      "common_name": "Fan-tailed Raven",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Megaceryle_maxima",
+      "common_name": "Giant Kingfisher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lamprotornis_hildebrandti",
+      "common_name": "Hildebrandt's Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Alopochen_aegyptiaca",
+      "common_name": "Egyptian Goose",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bubalornis_niger",
+      "common_name": "Red-billed Buffalo Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cecropis_abyssinica",
+      "common_name": "Lesser Striped Swallow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Corythaixoides_leucogaster",
+      "common_name": "White-bellied Go-away-bird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Fulica_cristata",
+      "common_name": "Red-knobbed Coot",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Nectarinia_kilimensis",
+      "common_name": "Bronze Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Plegadis_falcinellus",
+      "common_name": "Glossy Ibis",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pycnonotus_barbatus",
+      "common_name": "Common Bulbul",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Reed cormorant",
+      "url": "https://en.wikipedia.org/wiki/Reed_cormorant",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/6066519"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

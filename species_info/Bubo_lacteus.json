@@ -1,0 +1,156 @@
+{
+  "label": "Bubo_lacteus",
+  "scientific_name": "Bubo lacteus",
+  "common_name": "Verreaux's Eagle-owl",
+  "other_names": {},
+  "family": "Strigidae",
+  "summary": "Verreaux's eagle-owl (Ketupa lactea), also commonly known as the milky eagle owl or giant eagle owl, is a large owl of the genus Ketupa in the family Strigidae. It is the largest African owl, measuring up to 66 cm (26 in) in total length. Widespread in sub-Saharan Africa, this eagle-owl is a resident primarily of dry, wooded savanna.",
+  "appearance": {
+    "description": "Despite the alternative common name of giant eagle-owl, Verreaux's eagle-owl is not the largest owl or eagle-owl in the world. It is, however, a very large and powerful owl species. This species is both the largest owl found in Africa and the world's largest owl to occur in the tropics.",
+    "colors": "The species is mainly grey in colour and is distinguishable by its bright pink eyelids, a unique feature not shared with any other owl species. Verreaux's eagle-owl is a highly opportunistic predator equipped with powerful talons.",
+    "wings": "Based on body mass and wing chord length, Verreaux's eagle-owl is about the same size as \"medium-sized\" races of Eurasian eagle-owl, such as those from Central Asian steppe (B. b. turcomanus) and the Himalayas (B. b. hemachalana), slightly smaller than most northern Eurasian races, considerably smaller than Siberian and Russian eagle-owls, and somewhat larger than the smallest Eurasian eagle-owl subspecies, such as those from the Iberian Peninsula (B. b. hispanus) and the Middle East (B. b. omissus or nikolskii). While female owls are almost always larger than males, Verreaux's eagle-owl stands out as one of the most sexually dimorphic living owl species, some studies showing the female can average 35% heavier than the male."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        66.0,
+        66.0
+      ],
+      "wingspan_cm": [
+        140.0,
+        140.0
+      ],
+      "mass_g": [
+        1615.0,
+        3150.0
+      ]
+    },
+    "juvenile": null,
+    "chick": {
+      "notes": "The eggs are reportedly laid at up to 7 day intervals and may take up nearly seven days as well between hatching. On average at hatching, the young weigh about 60 to 70 g (2.1 to 2.5 oz)."
+    }
+  },
+  "behaviour": "The call of the Verreaux's eagle-owl is the deepest of any extant owl species and one of the deepest bird calls in the world, averaging slightly deeper than the calls of the Blakiston's and brown fish owls (Ketupu zeylonensis). The calls of Eurasian eagle-owls are less deep but are possibly louder and farther carrying. The male's song is an exceptionally deep gwok, gwok, gwonk-gwokwokwok gwokwokwok gwonk.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "Verreaux's eagle-owl is found through most of sub-Saharan Africa, though it is absent from most of the deep rainforests. The species is found at the highest densities in eastern and southern Africa.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Coast",
+      "Eastern",
+      "Central",
+      "Nairobi"
+    ],
+    "gbif_records_in_kenya": 5227
+  },
+  "look_alikes": [
+    {
+      "label": "Bubo_africanus",
+      "common_name": "Spotted Eagle-owl",
+      "difference": null,
+      "times_confused": 3
+    },
+    {
+      "label": "Strix_woodfordii",
+      "common_name": "African Wood Owl",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Bubo_cinerascens",
+      "common_name": "Greyish Eagle-owl",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tchagra_senegalus",
+      "common_name": "Black-crowned Tchagra",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Campephaga_flava",
+      "common_name": "Black Cuckooshrike",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Stephanoaetus_coronatus",
+      "common_name": "Crowned Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Quelea_quelea",
+      "common_name": "Red-billed Quelea",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Buteo_augur",
+      "common_name": "Augur Buzzard",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Corythaixoides_leucogaster",
+      "common_name": "White-bellied Go-away-bird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Gymnoris_pyrgita",
+      "common_name": "Yellow-spotted Bush Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Passer_domesticus",
+      "common_name": "House Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Circaetus_cinereus",
+      "common_name": "Brown Snake Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Melierax_poliopterus",
+      "common_name": "Eastern Chanting Goshawk",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pycnonotus_barbatus",
+      "common_name": "Common Bulbul",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Torgos_tracheliotos",
+      "common_name": "Lappet-faced Vulture",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Verreaux's eagle-owl",
+      "url": "https://en.wikipedia.org/wiki/Verreaux%27s_eagle-owl",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/5959139"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

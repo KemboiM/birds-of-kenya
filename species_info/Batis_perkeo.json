@@ -1,0 +1,96 @@
+{
+  "label": "Batis_perkeo",
+  "scientific_name": "Batis perkeo",
+  "common_name": "Pygmy Batis",
+  "other_names": {},
+  "family": "Platysteiridae",
+  "summary": "The pygmy batis (Batis perkeo) is a very small insectivorous bird which finds its food foraging among leaves, it is a member of the wattle-eyes family, the Platysteiridae. It occurs in the dry savannahs of north-eastern Africa.",
+  "appearance": {
+    "description": "The pygmy batis, as its name suggests, is a tiny, rather dumpy but dapper black, white and grey bird with similarities to the flycatchers. The male has a bluish-grey head and back with a contrasting black face mask and short white supercilium above the yellow eye. The rump and lower back are spotted with white and the rump feathers are relatively long giving a fluffy appearance.",
+    "colors": "The pygmy batis, as its name suggests, is a tiny, rather dumpy but dapper black, white and grey bird with similarities to the flycatchers. The male has a bluish-grey head and back with a contrasting black face mask and short white supercilium above the yellow eye.",
+    "wings": "It has black wings which have a broad white strip formed by the broad white edges to feathers of the median and greater coverts, and the inner secondaries and tertials. The females are similar to the males but have a pale rufous-buff breast band and chin and the face mask, supercilium and wing stripe are buffy brown."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        8.0,
+        9.0
+      ],
+      "mass_g": [
+        5.0,
+        9.0
+      ]
+    },
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": "The main call of the pygmy batis is a ling series of repeated sharp high pitched whistles.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The pygmy batis occurs in southern Ethiopia, extreme south eastern South Sudan, southern Somalia, eastern Uganda, inland Kenya and north eastern Tanzania. The preferred habitat is scrub made up of Senegalia spp, Commiphora spp and other \"thorn\" species in arid and semi-arid lowlands with rainfall falling between 250 and 500 mm (9.8 and 19.7 in) per year.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Coast",
+      "Eastern",
+      "North-Eastern",
+      "Baringo"
+    ],
+    "gbif_records_in_kenya": 3374
+  },
+  "look_alikes": [
+    {
+      "label": "Batis_molitor",
+      "common_name": "Chinspot Batis",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Nilaus_afer",
+      "common_name": "Brubru",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Platysteira_cyanea",
+      "common_name": "Brown-throated Wattle-eye",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Telophorus_cruentus",
+      "common_name": "Rosy-patched Bushshrike",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Saxicola_torquatus",
+      "common_name": "African Stonechat",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ceryle_rudis",
+      "common_name": "Pied Kingfisher",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Pygmy batis",
+      "url": "https://en.wikipedia.org/wiki/Pygmy_batis",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/5231187"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

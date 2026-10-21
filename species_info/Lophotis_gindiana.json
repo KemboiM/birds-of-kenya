@@ -1,0 +1,101 @@
+{
+  "label": "Lophotis_gindiana",
+  "scientific_name": "Lophotis gindiana",
+  "common_name": "Buff-crested Bustard",
+  "other_names": {},
+  "family": "Otididae",
+  "summary": "The buff-crested bustard (Lophotis gindiana) is a medium-sized bird of East Africa; Somalia, Ethiopia, Kenya belonging to the family Otididae. The populations are stable and the species is of least concern.",
+  "appearance": {
+    "description": "The buff-crested bustard is a medium-sized East African bird that can reach up to 60 cm (24 in) in height. Compared to other African bustards, this species is relatively small. Male buff-crested bustards weigh between 675 and 900 grams (24 and 32 oz).",
+    "colors": "The buff-crested bustard (Lophotis gindiana) is a medium-sized bird of East Africa; Somalia, Ethiopia, Kenya belonging to the family Otididae. The buff-crested bustard is a medium-sized East African bird that can reach up to 60 cm (24 in) in height.",
+    "wings": "When the bird's wings are extended, a large white patch is visible under each wing."
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": {
+      "notes": "A captive female buff-crested bustards has been observed carrying her newborn chicks in attempts to deliberately displace them. The hen carried one chick at a time under her wing to relocate it, then dropped it at a desired location."
+    }
+  },
+  "behaviour": "=== Vocalizations === The bird is more often heard than seen. The vocalizations are described as powerful short whistles. During display, the males produce a series of accelerating loud whistles, or 'kri-kri-kri' calls, that slow down towards the end.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "Although they exist throughout East Africa, buff-crested bustards are most common in Ethiopia. There, they can be seen throughout the southern regions, east of the Rift Valley.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Coast",
+      "Kenya",
+      "Eastern",
+      "North-Eastern",
+      "Taita Taveta"
+    ],
+    "gbif_records_in_kenya": 5452
+  },
+  "look_alikes": [
+    {
+      "label": "Lissotis_melanogaster",
+      "common_name": "Black-bellied Bustard",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Rhinopomastus_minor",
+      "common_name": "Abyssinian Scimitarbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ciconia_abdimii",
+      "common_name": "Abdim's Stork",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Rhinoptilus_africanus",
+      "common_name": "Double-banded Courser",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Struthio_molybdophanes",
+      "common_name": "Somali Ostrich",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ardeotis_kori",
+      "common_name": "Kori Bustard",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Eupodotis_senegalensis",
+      "common_name": "White-bellied Bustard",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ardea_goliath",
+      "common_name": "Goliath Heron",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Buff-crested bustard",
+      "url": "https://en.wikipedia.org/wiki/Buff-crested_bustard",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2474880"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

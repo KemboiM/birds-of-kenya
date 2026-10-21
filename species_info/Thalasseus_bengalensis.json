@@ -1,0 +1,80 @@
+{
+  "label": "Thalasseus_bengalensis",
+  "scientific_name": "Thalasseus bengalensis",
+  "common_name": "Lesser Crested Tern",
+  "other_names": {},
+  "family": "Laridae",
+  "summary": "The lesser crested tern (Thalasseus bengalensis) is a tern in the family Laridae.",
+  "appearance": {
+    "description": "This is a medium-large tern, 35–43 cm long and with a 88–105 cm wingspan; its weight ranges from 185–242 g. It is very similar in size and general appearance to its three very close relatives Sandwich tern, Elegant tern and Chinese crested tern. The summer adult has a black cap, black legs and a long sharp orange bill.",
+    "colors": "The summer adult has a black cap, black legs and a long sharp orange bill. The upperwings, rump and central tail feathers are grey and the underparts white.",
+    "wings": "The upperwings, rump and central tail feathers are grey and the underparts white."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        35.0,
+        105.0
+      ],
+      "mass_g": [
+        185.0,
+        242.0
+      ]
+    },
+    "juvenile": {
+      "notes": "Juvenile lesser crested terns resemble same-age Sandwich terns, but with a yellow-orange bill, and paler overall, with only faint dark crescents on the mantle feathers."
+    },
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": "It breeds in subtropical coastal parts of the world mainly from the Red Sea across the Indian Ocean to the western Pacific, and Australia, with a significant population on the southern coast of the Mediterranean on two islands off the Libyan coast. It is an occasional vagrant to Europe, where it has been known to breed in pure and mixed (with Sandwich tern) pairs.",
+    "kenya_regions": [
+      "Coast",
+      "Kenya",
+      "Kilifi",
+      "Kwale",
+      "Rift Valley",
+      "Coast prov"
+    ],
+    "gbif_records_in_kenya": 2503
+  },
+  "look_alikes": [
+    {
+      "label": "Ardea_cinerea",
+      "common_name": "Grey Heron",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ichthyaetus_hemprichii",
+      "common_name": "Sooty Gull",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pelecanus_rufescens",
+      "common_name": "Pink-backed Pelican",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Lesser crested tern",
+      "url": "https://en.wikipedia.org/wiki/Lesser_crested_tern",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/6065833"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

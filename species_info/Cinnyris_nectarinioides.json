@@ -1,0 +1,69 @@
+{
+  "label": "Cinnyris_nectarinioides",
+  "scientific_name": "Cinnyris nectarinioides",
+  "common_name": "Black-bellied Sunbird",
+  "other_names": {},
+  "family": "Nectariniidae",
+  "summary": "The black-bellied sunbird (Cinnyris nectarinioides) is a small sunbird located primarily in Africa. Two subspecies are recognized: the Cinnyris nectarinioides erlangeri, which is smaller and found in Ethiopia, Somalia, and Kenya; and the Cinnyris nectarinioides nectarinioides, which is larger and found in Kenya and Tanzania. This bird inhabits savannah, wetlands, and terrestrial freshwater areas.",
+  "appearance": {
+    "description": "The black-bellied sunbird can be characterized by a curved bill used for nectar feeding and a small frame. These birds often weigh just 4–6 grams and as grown males tend to be around 13 cm large, while females remain around 10 cm. This sunbird is sexually dimorphic with differences in plumage between males and females and slight differences between breeding and non-breeding males.",
+    "colors": "The black-bellied sunbird (Cinnyris nectarinioides) is a small sunbird located primarily in Africa. The black-bellied sunbird feeds on nectar, insects and spiders, the latter having gained it the nickname \"spiderhunter\".",
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": "The primary food source for the black-bellied sunbird is nectar, though they also feed on insects and spiders. In order to find the latter two, this bird will often forage in the high levels of trees. When feeding on nectar, they prefer acacias, baobab, and mistletoes.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The black-bellied sunbird is predominantly located in Kenya. Its main habitats are savannah, terrestrial areas, and inland wetlands and freshwater.",
+    "kenya_regions": [
+      "Eastern",
+      "Kenya",
+      "Coast",
+      "Rift Valley",
+      "Central",
+      "Coast Province"
+    ],
+    "gbif_records_in_kenya": 2373
+  },
+  "look_alikes": [
+    {
+      "label": "Cinnyris_mariquensis",
+      "common_name": "Marico Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cinnyris_mediocris",
+      "common_name": "Eastern Double-collared Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cinnyris_reichenowi",
+      "common_name": "Northern Double-collared Sunbird",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Black-bellied sunbird",
+      "url": "https://en.wikipedia.org/wiki/Black-bellied_sunbird",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/7340688"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

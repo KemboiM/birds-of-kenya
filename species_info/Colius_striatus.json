@@ -1,0 +1,206 @@
+{
+  "label": "Colius_striatus",
+  "scientific_name": "Colius striatus",
+  "common_name": "Speckled Mousebird",
+  "other_names": {},
+  "family": "Coliidae",
+  "summary": "The speckled mousebird (Colius striatus) is the largest species of mousebird, as well as one of the most common. It is found throughout most of Central, Eastern and Southern Africa.",
+  "appearance": {
+    "description": "The speckled mousebird is about 35 cm (14 in) long, with the tail comprising approximately half the length, and weighs about 57 g (2.0 oz). It is well-named, because it is dull-mousy brown in overall color on the back and on the head (including a prominent crest). The bill is black on the upper part and is a pinkish color on the lower part.",
+    "colors": "It is well-named, because it is dull-mousy brown in overall color on the back and on the head (including a prominent crest). The bill is black on the upper part and is a pinkish color on the lower part.",
+    "wings": null
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        35.0,
+        35.0
+      ],
+      "mass_g": [
+        57.0,
+        57.0
+      ]
+    },
+    "juvenile": null,
+    "chick": {
+      "notes": "Nestlings are fed by both parents and also by helpers, which usually are juveniles from previous clutches. After a little over a month, the nestlings will begin foraging for themselves."
+    }
+  },
+  "behaviour": "These are conspicuously social birds, feeding together and engaging in mutual preening. They also accompany each other when they go to ground to dust bathe (also to occasionally to swallow pebbles to assist in grinding up vegetation as they digest it). Upon nightfall, they roost in very tight groups of 20 or so birds and on cold nights they can become torpid.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "It is distributed from Cameroon east to Eritrea and Ethiopia, south through eastern Africa to southern South Africa and it is overspread whole part of Tanzania . Most habitats are suitable for this species, except the rainforests and more arid areas.",
+    "kenya_regions": [
+      "Kenya",
+      "Rift Valley",
+      "Nairobi",
+      "Central",
+      "Coast",
+      "Eastern"
+    ],
+    "gbif_records_in_kenya": 53116
+  },
+  "look_alikes": [
+    {
+      "label": "Psalidoprocne_albiceps",
+      "common_name": "White-headed Saw-wing",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Eminia_lepida",
+      "common_name": "Grey-capped Warbler",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Colius_leucocephalus",
+      "common_name": "White-headed Mousebird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Vidua_paradisaea",
+      "common_name": "Long-tailed Paradise Whydah",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Apus_affinis",
+      "common_name": "Little Swift",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Passer_griseus",
+      "common_name": "Northern Grey-headed Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cichladusa_guttata",
+      "common_name": "Spotted Palm Thrush",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Gymnoris_pyrgita",
+      "common_name": "Yellow-spotted Bush Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Sporopipes_frontalis",
+      "common_name": "Speckle-fronted Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Urocolius_macrourus",
+      "common_name": "Blue-naped Mousebird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Passer_gongonensis",
+      "common_name": "Parrot-billed Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Megaceryle_maxima",
+      "common_name": "Giant Kingfisher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Polemaetus_bellicosus",
+      "common_name": "Martial Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bycanistes_brevis",
+      "common_name": "Silvery-cheeked Hornbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Corvus_capensis",
+      "common_name": "Cape Crow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Dessonornis_caffer",
+      "common_name": "Cape Robin-chat",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Dioptrornis_fischeri",
+      "common_name": "White-eyed Slaty Flycatcher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lissotis_hartlaubii",
+      "common_name": "Hartlaub's Bustard",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Melaenornis_edolioides",
+      "common_name": "Northern Black Flycatcher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Merops_revoilii",
+      "common_name": "Somali Bee-eater",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Phoenicopterus_roseus",
+      "common_name": "Greater Flamingo",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_baglafecht",
+      "common_name": "Baglafecht Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pycnonotus_barbatus",
+      "common_name": "Common Bulbul",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Telophorus_cruentus",
+      "common_name": "Rosy-patched Bushshrike",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Speckled mousebird",
+      "url": "https://en.wikipedia.org/wiki/Speckled_mousebird",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/5229467"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "label": "Ardeotis_kori",
+  "scientific_name": "Ardeotis kori",
+  "common_name": "Kori Bustard",
+  "other_names": {},
+  "family": "Otididae",
+  "summary": "The kori bustard (Ardeotis kori) is the largest flying bird native to Africa. It is a member of the bustard family, which all belong to the order Otidiformes and are restricted in distribution to the Old World. It is one of the four species (ranging from Africa to India to Australia) in the large-bodied genus Ardeotis.",
+  "appearance": {
+    "description": "The kori bustard is cryptically coloured, being mostly grey and brown, finely patterned with black and white coloring. The upper parts and neck are a vermiculated black and greyish-buff colour. The ventral plumage is more boldly colored, with white, black and buff.",
+    "colors": "The kori bustard is cryptically coloured, being mostly grey and brown, finely patterned with black and white coloring. The upper parts and neck are a vermiculated black and greyish-buff colour.",
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": {
+      "notes": "The juvenile is similar in appearance to the female, but is browner with more spotting on the mantle, with shorter crest and neck plumes. Male juveniles are larger than females and can be the same overall size as the adult male but tends to be less bulky with a thinner neck, shorter head crest, paler eyes and a darker mantle."
+    },
+    "chick": {
+      "notes": "When the chicks hatch, the mother brings them a steady stream of food, most of it soft so the chicks can eat it easily. Captive hatchlings weigh 78 to 116 g (2.8 to 4.1 oz) on their first day but grow quickly."
+    }
+  },
+  "behaviour": "Kori bustards spend most of their time on the ground, with up to 70% of their time being on foot, although they do occasionally forage in low bushes and trees. This bustard is a watchful and wary bird. Their behavior varies however, and they are usually very shy, running or crouching at the first sign of danger; at other times they can be completely fearless of humans.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The kori bustard is found throughout southern Africa, except in densely wooded areas. They are common in Botswana and Namibia, extending into southern Angola and marginally into southwestern Zambia.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Eastern",
+      "Coast",
+      "Nairobi",
+      "Kajiado"
+    ],
+    "gbif_records_in_kenya": 8927
+  },
+  "look_alikes": [
+    {
+      "label": "Columba_livia",
+      "common_name": "Rock Dove",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Numenius_phaeopus",
+      "common_name": "Eurasian Whimbrel",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cursorius_temminckii",
+      "common_name": "Temminck's Courser",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tockus_deckeni",
+      "common_name": "Von Der Decken's Hornbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Anas_erythrorhyncha",
+      "common_name": "Red-billed Teal",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lophotis_gindiana",
+      "common_name": "Buff-crested Bustard",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Eupodotis_senegalensis",
+      "common_name": "White-bellied Bustard",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bostrychia_hagedash",
+      "common_name": "Hadada Ibis",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Struthio_camelus",
+      "common_name": "Common Ostrich",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Kori bustard",
+      "url": "https://en.wikipedia.org/wiki/Kori_bustard",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2474909"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

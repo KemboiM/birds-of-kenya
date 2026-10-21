@@ -1,0 +1,94 @@
+{
+  "label": "Calandrella_cinerea",
+  "scientific_name": "Calandrella cinerea",
+  "common_name": "Red-capped Lark",
+  "other_names": {},
+  "family": "Alaudidae",
+  "summary": "The red-capped lark (Calandrella cinerea) is a small passerine bird that breeds in the highlands of eastern Africa southwards from Ethiopia and Somaliland. In the south, its range stretches across the continent to Angola and south to the Cape in South Africa.",
+  "appearance": {
+    "description": "The red-capped lark is 14–15 cm (5.5–5.9 in) in length, with a typically upright stance. The colour of the streaked grey to brown upperparts is variable, with subspecies differing in hue and brightness, but this species is easily identified by its rufous cap, white underparts, and red shoulders. The short head crest is normally not noticeable except when it is raised during courtship displays.The sexes are similar in appearance.",
+    "colors": "The red-capped lark (Calandrella cinerea) is a small passerine bird that breeds in the highlands of eastern Africa southwards from Ethiopia and Somaliland. The red-capped lark is 14–15 cm (5.5–5.9 in) in length, with a typically upright stance.",
+    "wings": null
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        14.0,
+        15.0
+      ]
+    },
+    "juvenile": {
+      "notes": "Juveniles lack the red cap and shoulders of the adults, have dark spotting on the breast, and white spots on the dark brown upperparts."
+    },
+    "chick": null
+  },
+  "behaviour": "=== Breeding === The red-capped lark breeds all year round, but mainly from September to December. The nest is built primarily by the female in 4 to 5 days. It is an open cup which is set into the ground and usually situated close to a grass tuft, stone or mound.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "This is a species of short grassland including fallow agricultural areas. In eastern Africa, it is found in the highlands, normally above 1000 m, but it occurs down to sea level in suitable habitat in the cooler south of its extensive range.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Nairobi",
+      "Central",
+      "Eastern",
+      "Narok"
+    ],
+    "gbif_records_in_kenya": 6208
+  },
+  "look_alikes": [
+    {
+      "label": "Anthus_leucophrys",
+      "common_name": "Plain-backed Pipit",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Anthus_cinnamomeus",
+      "common_name": "African Pipit",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cisticola_chiniana",
+      "common_name": "Rattling Cisticola",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Eremopterix_leucopareia",
+      "common_name": "Fischer's Sparrow-lark",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Erythropygia_leucophrys",
+      "common_name": "White-browed Scrub Robin",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Turdus_abyssinicus",
+      "common_name": "Abyssinian Thrush",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Red-capped lark",
+      "url": "https://en.wikipedia.org/wiki/Red-capped_lark",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/5230989"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

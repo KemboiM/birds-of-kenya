@@ -1,0 +1,89 @@
+{
+  "label": "Rhinopomastus_minor",
+  "scientific_name": "Rhinopomastus minor",
+  "common_name": "Abyssinian Scimitarbill",
+  "other_names": {},
+  "family": "Phoeniculidae",
+  "summary": "The Abyssinian scimitarbill (Rhinopomastus minor) is a species of bird in the family Phoeniculidae. The term Abyssinia, is an old name for the region of Ethiopia, and scimitar refers to a curved sword, which its bill resembles. It is found in Djibouti, Ethiopia, Kenya, Somalia, South Sudan, Tanzania, and Uganda.",
+  "appearance": {
+    "description": "The bird is all black with a blue-purple iridescence which covers their whole body and especially the back of the head. The bird's beak is bright orange to red and is characteristically curved and pointed. It is slightly longer than the length of its head and is built to probe into cracks and crevices for insects.",
+    "colors": "Their nests are sometimes parasitized by the greater honeyguide (Indicator indicator) which are favored by some because they can guide to beehives. The bird is all black with a blue-purple iridescence which covers their whole body and especially the back of the head.",
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": {
+      "notes": "During the three year period, no scimitarbills hatched, while 7 out of a total of 12 of the parasitic honeyguide eggs successfully fledged. Later from August 2012-September 2014, four clutches (12 eggs total) were laid without any honeyguides, and all but one individual was successfully fledged."
+    }
+  },
+  "behaviour": "=== Vocalizations === The Abyssian Scimitarbill and the Common Scimitarbill (Rhinopomastus cyanomelas) both emit sharp cries and an unpleasant odor to deter predators (Hedley & Caro, 2022). Their warning calls sound like a series of rising notes \"dok\". Other calls sound like shrill elongated chirps which rise and then fall minutely in pitch over the course of around eight to twelve chirps.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The bird is found commonly in open bushed, and dry savanna habitats and is an uncommon resident in thorn scrubs in low altitudes below 1400m (an intermediate biome between a desert and tropical forest). There are two subspecies which occupy different ranges of Africa.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Eastern",
+      "Coast",
+      "Nairobi",
+      "Nyanza"
+    ],
+    "gbif_records_in_kenya": 5533
+  },
+  "look_alikes": [
+    {
+      "label": "Amblyospiza_albifrons",
+      "common_name": "Thick-billed Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Laniarius_funebris",
+      "common_name": "Slate-colored Boubou",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lophoceros_alboterminatus",
+      "common_name": "Crowned Hornbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lophotis_gindiana",
+      "common_name": "Buff-crested Bustard",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Quelea_quelea",
+      "common_name": "Red-billed Quelea",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Vidua_paradisaea",
+      "common_name": "Long-tailed Paradise Whydah",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Abyssinian scimitarbill",
+      "url": "https://en.wikipedia.org/wiki/Abyssinian_scimitarbill",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2498429"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

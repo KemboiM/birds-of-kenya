@@ -1,0 +1,134 @@
+{
+  "label": "Lanius_cabanisi",
+  "scientific_name": "Lanius cabanisi",
+  "common_name": "Long-tailed Fiscal",
+  "other_names": {},
+  "family": "Laniidae",
+  "summary": "The long-tailed fiscal (Lanius cabanisi) is a species of bird in the shrike family Laniidae. The species is closely related to the more widespread grey-backed fiscal and is sometimes placed in a separate subgenus, Neolanius, with that species. It is found in southern Somalia, southern and south-eastern Kenya, from the shores of Lake Victoria to the coast; and northern and eastern Tanzania south to Dar es Salaam, with a separate population at Usanga Flats.",
+  "appearance": {
+    "description": "Like many shrike species the appearance of the adults is similar between the sexes but strikingly different in juvenile birds. Adult birds are between 26 and 30 cm (10–12 in) in length and weigh between 69 and 80 g (2.4–2.8 oz) (with males averaging slightly heavier). They are large and robust with, as the name suggests, very long graduated tails and typical strong heavy bills.",
+    "colors": "The species is closely related to the more widespread grey-backed fiscal and is sometimes placed in a separate subgenus, Neolanius, with that species. It can be distinguished from the common fiscal, Lanius collaris, by its gray back and more robust shape.",
+    "wings": null
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        30.0,
+        30.0
+      ],
+      "mass_g": [
+        80.0,
+        80.0
+      ]
+    },
+    "juvenile": {
+      "notes": "Like many shrike species the appearance of the adults is similar between the sexes but strikingly different in juvenile birds."
+    },
+    "chick": null
+  },
+  "behaviour": "The long-tailed fiscal feeds on insects, particularly beetles and grasshoppers, as well as small vertebrates such as lizards, snakes and bird chicks. It occurs as single birds or in small groups and hunts in the typical fashion for a shrike, perched about two metres off the ground where it watches for and then dives onto prey. Prey is usually taken from the ground and sometimes from foliage, but only rarely from the air.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Nairobi",
+      "Kenya",
+      "Coast",
+      "Rift Valley",
+      "Eastern",
+      "Central"
+    ],
+    "gbif_records_in_kenya": 12575
+  },
+  "look_alikes": [
+    {
+      "label": "Lanius_excubitoroides",
+      "common_name": "Grey-backed Fiscal",
+      "difference": null,
+      "times_confused": 10
+    },
+    {
+      "label": "Lanius_humeralis",
+      "common_name": "Northern Fiscal",
+      "difference": null,
+      "times_confused": 5
+    },
+    {
+      "label": "Lanius_dorsalis",
+      "common_name": "Taita Fiscal",
+      "difference": null,
+      "times_confused": 4
+    },
+    {
+      "label": "Clamator_jacobinus",
+      "common_name": "Jacobin Cuckoo",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Anthreptes_orientalis",
+      "common_name": "Eastern Violet-backed Sunbird",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Hirundo_smithii",
+      "common_name": "Wire-tailed Swallow",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Circaetus_pectoralis",
+      "common_name": "Black-chested Snake Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Eurocephalus_ruppelli",
+      "common_name": "Northern White-crowned Shrike",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lanius_collurio",
+      "common_name": "Red-backed Shrike",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lonchura_cucullata",
+      "common_name": "Bronze Mannikin",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Psalidoprocne_albiceps",
+      "common_name": "White-headed Saw-wing",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Threskiornis_aethiopicus",
+      "common_name": "African Sacred Ibis",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Long-tailed fiscal",
+      "url": "https://en.wikipedia.org/wiki/Long-tailed_fiscal",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2492869"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

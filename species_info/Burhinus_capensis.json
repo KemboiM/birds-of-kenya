@@ -1,0 +1,88 @@
+{
+  "label": "Burhinus_capensis",
+  "scientific_name": "Burhinus capensis",
+  "common_name": "Spotted Thick-knee",
+  "other_names": {
+    "sw": "Chekehukwa"
+  },
+  "family": "Burhinidae",
+  "summary": "The spotted thick-knee (Burhinus capensis), also known as the spotted dikkop or Cape thick-knee, is a wader in the family Burhinidae. It is native to tropical regions of central and southern Africa.",
+  "appearance": {
+    "description": "The spotted thick-knee, which can reach up to 45.5 cm (17.9 in) in height, has long legs and brown-and-white speckled plumage which provides camouflage, making it difficult to spot the bird in the grasslands and savannas where it roams. Its head is large and round with a prominent yellow eye and a short, stout beak. When in flight or standing in a characteristic position with its wings raised, it shows a striking contrasting pattern.",
+    "colors": "The spotted thick-knee, which can reach up to 45.5 cm (17.9 in) in height, has long legs and brown-and-white speckled plumage which provides camouflage, making it difficult to spot the bird in the grasslands and savannas where it roams. Its head is large and round with a prominent yellow eye and a short, stout beak.",
+    "wings": "When in flight or standing in a characteristic position with its wings raised, it shows a striking contrasting pattern."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        45.5,
+        45.5
+      ]
+    },
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": "The spotted thick-knee is nocturnal and squats on the ground during the daytime, making it difficult to spot. It hunts exclusively on the ground, feeding on insects, small mammals and lizards.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The spotted thick-knee is native to the grasslands and savannas of sub-Saharan Africa. Its range extends from Senegal, Mali and Mauritania in the west to Ethiopia, Kenya, Tanzania and South Africa in the east and south respectively, as well as in south Yemen in West Asia.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Nairobi",
+      "Kenya",
+      "Eastern",
+      "Coast",
+      "Central"
+    ],
+    "gbif_records_in_kenya": 4570
+  },
+  "look_alikes": [
+    {
+      "label": "Stephanoaetus_coronatus",
+      "common_name": "Crowned Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cursorius_temminckii",
+      "common_name": "Temminck's Courser",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tringa_stagnatilis",
+      "common_name": "Marsh Sandpiper",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Numida_meleagris",
+      "common_name": "Helmeted Guinea Fowl",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lissotis_melanogaster",
+      "common_name": "Black-bellied Bustard",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Spotted thick-knee",
+      "url": "https://en.wikipedia.org/wiki/Spotted_thick-knee",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2482097"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

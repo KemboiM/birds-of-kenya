@@ -1,0 +1,95 @@
+{
+  "label": "Vanellus_melanopterus",
+  "scientific_name": "Vanellus melanopterus",
+  "common_name": "Black-winged Lapwing",
+  "other_names": {},
+  "family": "Charadriidae",
+  "summary": "The black-winged lapwing. black-winged plover or greater black-winged lapwing (Vanellus melanopterus) is an east African species that is found from the Ethiopian highlands in the north to central Kenya (race V. m. melanopterus), and again at middle to coastal elevations in eastern South Africa (race V. m. minor). It is a habitat specialist of short grass in well-watered temperate grasslands. They may move about locally to find ideal situations, often at night.",
+  "appearance": {
+    "description": "A black breast band separates the lapwing's grey head and neck from the white underside. The wing coverts are brown. It has a variable but prominent white forehead patch similar to its near relative, the Senegal lapwing, but in contrast shows a prominent white wingbar in flight, bordered by black remiges.",
+    "colors": "The black-winged lapwing. black-winged plover or greater black-winged lapwing (Vanellus melanopterus) is an east African species that is found from the Ethiopian highlands in the north to central Kenya (race V. m. melanopterus), and again at middle to coastal elevations in eastern South Africa (race V. m. minor). It is a habitat specialist of short grass in well-watered temperate grasslands.",
+    "wings": "The black-winged lapwing. black-winged plover or greater black-winged lapwing (Vanellus melanopterus) is an east African species that is found from the Ethiopian highlands in the north to central Kenya (race V. m. melanopterus), and again at middle to coastal elevations in eastern South Africa (race V. m. minor). A black breast band separates the lapwing's grey head and neck from the white underside."
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": {
+      "notes": "The young hatch in just under a month and require about another month to become self-sufficient."
+    }
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Central",
+      "Nairobi",
+      "Narok",
+      "Eastern"
+    ],
+    "gbif_records_in_kenya": 3662
+  },
+  "look_alikes": [
+    {
+      "label": "Vanellus_lugubris",
+      "common_name": "Senegal Lapwing",
+      "difference": null,
+      "times_confused": 4
+    },
+    {
+      "label": "Glareola_pratincola",
+      "common_name": "Collared Pratincole",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Charadrius_hiaticula",
+      "common_name": "Common Ringed Plover",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Circus_pygargus",
+      "common_name": "Montagu's Harrier",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Gelochelidon_nilotica",
+      "common_name": "Gull-billed Tern",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Streptopelia_capicola",
+      "common_name": "Ring-necked Dove",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Vanellus_coronatus",
+      "common_name": "Crowned Lapwing",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Black-winged lapwing",
+      "url": "https://en.wikipedia.org/wiki/Black-winged_lapwing",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/5229140"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

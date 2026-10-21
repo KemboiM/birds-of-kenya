@@ -1,0 +1,88 @@
+{
+  "label": "Drepanorhynchus_reichenowi",
+  "scientific_name": "Drepanorhynchus reichenowi",
+  "common_name": "Golden-winged Sunbird",
+  "other_names": {},
+  "family": "Nectariniidae",
+  "summary": "The golden-winged sunbird (Drepanorhynchus reichenowi) is a species of bird in the family Nectariniidae. Three subspecies are recognised. It is native to the Albertine Rift montane forests and East African montane forests.",
+  "appearance": {
+    "description": "The male golden-winged sunbird is about 9 in (23 cm) long and the female is about 6 in (15 cm) long, the male having long central tail feathers. Yellow-edged feathers in the wings and tail are key identification pointers in all plumages of both the male and female. Body feathers of the male in breeding condition are a conspicuous metallic reddish-copper colour, which are mostly replaced by dull-black feathers in the non-breeding condition.",
+    "colors": "Yellow-edged feathers in the wings and tail are key identification pointers in all plumages of both the male and female. Body feathers of the male in breeding condition are a conspicuous metallic reddish-copper colour, which are mostly replaced by dull-black feathers in the non-breeding condition.",
+    "wings": "The golden-winged sunbird (Drepanorhynchus reichenowi) is a species of bird in the family Nectariniidae. The male golden-winged sunbird is about 9 in (23 cm) long and the female is about 6 in (15 cm) long, the male having long central tail feathers."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        15.0,
+        23.0
+      ]
+    },
+    "juvenile": {
+      "notes": "Immature are similar to females, except their underparts are darker."
+    },
+    "chick": null
+  },
+  "behaviour": "=== Feeding === Golden-winged sunbirds consume the nectar from flowers of the mint Leonotis nepetifolia flowers as their main food source, but they also feed infrequently on other flower species: Aloe graminicola and Leonotis mollissima during the breeding season, and also Crotalaria species including C. agatiflora, Erythrina abyssinica, Fuchsia species, Ipomoea batatas, Jacaranda mimosifolia, Phragmanthera dschallensis and other pea species. The golden-winged sunbird also eats insects such as beetles, flies, ants, bees and wasps and various larvae.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The golden-winged sunbird is native to the Albertine Rift montane forests and East African montane forests, between altitudes of 1170 and 2300 m. It is found in forest verges and clearings, in cultivated areas, bamboo forest and tall grassland.",
+    "kenya_regions": [
+      "Central",
+      "Kenya",
+      "Rift Valley",
+      "Eastern",
+      "Nairobi",
+      "Rift valley prov"
+    ],
+    "gbif_records_in_kenya": 4839
+  },
+  "look_alikes": [
+    {
+      "label": "Nectarinia_kilimensis",
+      "common_name": "Bronze Sunbird",
+      "difference": null,
+      "times_confused": 5
+    },
+    {
+      "label": "Cinnyris_venustus",
+      "common_name": "Variable Sunbird",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Eminia_lepida",
+      "common_name": "Grey-capped Warbler",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Campephaga_flava",
+      "common_name": "Black Cuckooshrike",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Chalcomitra_senegalensis",
+      "common_name": "Scarlet-chested Sunbird",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Golden-winged sunbird",
+      "url": "https://en.wikipedia.org/wiki/Golden-winged_sunbird",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/7340778"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

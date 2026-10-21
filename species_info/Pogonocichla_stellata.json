@@ -1,0 +1,82 @@
+{
+  "label": "Pogonocichla_stellata",
+  "scientific_name": "Pogonocichla stellata",
+  "common_name": "White-starred Robin",
+  "other_names": {},
+  "family": "Muscicapidae",
+  "summary": "The white-starred robin (Pogonocichla stellata) is a species of bird in the Old World flycatcher and chat family Muscicapidae. It is also sometimes more simply called the starred robin. It is monotypic within the genus Pogonocichla.",
+  "appearance": {
+    "description": "The white-starred robin is a small robin, 15 to 16 cm (5.9–6.3 in) in length and weighing between 18 and 25 g (0.63–0.88 oz), with the females being slightly smaller than the males. The plumage of the nominate race is slate-grey on the head, with a white spot in front of each eye and another small one on the throat. The mantle and part of the wings are green (moss-green in the mantle, olive-green on the wings), the rest of the wings are bluish grey, and the tail is black with yellow lateral stripes.",
+    "colors": "The white-starred robin (Pogonocichla stellata) is a species of bird in the Old World flycatcher and chat family Muscicapidae. It is also sometimes more simply called the starred robin.",
+    "wings": "It is a brightly coloured robin with a bright yellow breast and belly, a slate coloured head with spots on the eyes and throat and blueish wings. The mantle and part of the wings are green (moss-green in the mantle, olive-green on the wings), the rest of the wings are bluish grey, and the tail is black with yellow lateral stripes."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        15.0,
+        16.0
+      ],
+      "mass_g": [
+        25.0,
+        25.0
+      ]
+    },
+    "juvenile": {
+      "notes": "Juvenile birds are blackish-brown above with golden flecks, and yellow with brown scaling below."
+    },
+    "chick": {
+      "notes": "Incubation lasts between 16 and 18 days, after which chicks fledge around 13 to 15 days after hatching. The chicks remain dependent upon the parents for up to 42 days after hatching."
+    }
+  },
+  "behaviour": "=== Voice === The calls and songs of the white-starred robin are geographically variable. Both sexes sing the territorial advertising song, which is a quiet song sung from near the ground. The courtship call is sung during a display flight, and is rendered as a sustained \"wiii wii wiii\".",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The white-starred robin is a principally found in primary or secondary moist evergreen forest. It needs forest with a good understory of shrubs and vines.",
+    "kenya_regions": [
+      "Central",
+      "Kenya",
+      "Nairobi",
+      "Coast",
+      "Rift Valley",
+      "Eastern"
+    ],
+    "gbif_records_in_kenya": 9876
+  },
+  "look_alikes": [
+    {
+      "label": "Cinnyris_venustus",
+      "common_name": "Variable Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Crithagra_dorsostriata",
+      "common_name": "White-bellied Canary",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_intermedius",
+      "common_name": "Lesser Masked Weaver",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "White-starred robin",
+      "url": "https://en.wikipedia.org/wiki/White-starred_robin",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2492637"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

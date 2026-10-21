@@ -1,0 +1,83 @@
+{
+  "label": "Turdoides_plebejus",
+  "scientific_name": "Turdoides plebejus",
+  "common_name": "Brown Babbler",
+  "other_names": {},
+  "family": "Leiothrichidae",
+  "summary": "The brown babbler (Turdoides plebejus) is a species of bird in the family Leiothrichidae. It is predominantly found in West Africa, but ranging from the Gambia to Kenya. The species is common across its range.",
+  "appearance": {
+    "description": "The brown babbler is a medium-sized Turdoides babbler, measuring 22–25 centimetres (8.7–9.8 in) in length and weighs around 52–80 grams (1.8–2.8 oz). The plumage is grey-brown with a white-streaked throat and breast and a scaled head. The wings are bronze-brown, the bill black and the legs dusky or slaty black.",
+    "colors": "The brown babbler (Turdoides plebejus) is a species of bird in the family Leiothrichidae. It is predominantly found in West Africa, but ranging from the Gambia to Kenya.",
+    "wings": "The wings are bronze-brown, the bill black and the legs dusky or slaty black."
+  },
+  "size": {
+    "adult": null,
+    "juvenile": {
+      "notes": "The sexes are alike, and juvenile birds are like the adults but with plainer and browner plumage and brown irises."
+    },
+    "chick": null
+  },
+  "behaviour": "The brown babbler consumes a variety of insects including ants, beetles, termites, and praying mantises, as well as other invertebrates, berries, and fruit. It will also opportunistically take carrion. They generally forage on the ground and in family parties of up to 14 individuals.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The brown babbler inhabits the broad band of the Sahel between the Sahara Desert and the tropical forests of Western Africa, from southern Mauritania, Senegal and the Gambia to southern Sudan, Uganda and western Kenya. The species lives in open savanna, wooded grasslands, riparian habitat in drier areas, degraded cultivation, farmlands, parks and gardens.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Nyanza",
+      "Western",
+      "Eastern",
+      "Baringo"
+    ],
+    "gbif_records_in_kenya": 1865
+  },
+  "look_alikes": [
+    {
+      "label": "Cinnyricinclus_leucogaster",
+      "common_name": "Violet-backed Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Gymnoris_pyrgita",
+      "common_name": "Yellow-spotted Bush Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Turdoides_jardineii",
+      "common_name": "Arrow-marked Babbler",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Passer_gongonensis",
+      "common_name": "Parrot-billed Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Circaetus_pectoralis",
+      "common_name": "Black-chested Snake Eagle",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Brown babbler",
+      "url": "https://en.wikipedia.org/wiki/Brown_babbler",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2493315"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

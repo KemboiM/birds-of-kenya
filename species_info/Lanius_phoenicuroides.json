@@ -1,0 +1,99 @@
+{
+  "label": "Lanius_phoenicuroides",
+  "scientific_name": "Lanius phoenicuroides",
+  "common_name": "Red-tailed Shrike",
+  "other_names": {},
+  "family": "Laniidae",
+  "summary": "The red-tailed shrike or Turkestan shrike (Lanius phoenicuroides) is a member of the shrike family (Laniidae). It was formerly considered conspecific with the isabelline shrike and the red-backed shrike.",
+  "appearance": {
+    "description": "The plumage is a sandy colour. It has a red tail.",
+    "colors": "The red-tailed shrike or Turkestan shrike (Lanius phoenicuroides) is a member of the shrike family (Laniidae). It was formerly considered conspecific with the isabelline shrike and the red-backed shrike.",
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The red-tailed shrike breeds in south Siberia and Central Asia.",
+    "kenya_regions": [
+      "Coast",
+      "Rift Valley",
+      "Eastern",
+      "Nairobi",
+      "Central",
+      "Taita Taveta"
+    ],
+    "gbif_records_in_kenya": 1907
+  },
+  "look_alikes": [
+    {
+      "label": "Plocepasser_mahali",
+      "common_name": "White-browed Sparrow-weaver",
+      "difference": null,
+      "times_confused": 3
+    },
+    {
+      "label": "Lanius_collurio",
+      "common_name": "Red-backed Shrike",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Cisticola_chiniana",
+      "common_name": "Rattling Cisticola",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lanius_humeralis",
+      "common_name": "Northern Fiscal",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Merops_albicollis",
+      "common_name": "White-throated Bee-eater",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Sporopipes_frontalis",
+      "common_name": "Speckle-fronted Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Prinia_subflava",
+      "common_name": "Tawny-flanked Prinia",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Streptopelia_capicola",
+      "common_name": "Ring-necked Dove",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Red-tailed shrike",
+      "url": "https://en.wikipedia.org/wiki/Red-tailed_shrike",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/4408670"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

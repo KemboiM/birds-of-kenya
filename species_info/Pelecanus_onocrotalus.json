@@ -1,0 +1,154 @@
+{
+  "label": "Pelecanus_onocrotalus",
+  "scientific_name": "Pelecanus onocrotalus",
+  "common_name": "Great White Pelican",
+  "other_names": {
+    "sw": "Mwari Mweupe"
+  },
+  "family": "Pelecanidae",
+  "summary": "The great white pelican (Pelecanus onocrotalus), also known as the eastern white pelican (in contrast to the western pelican of the Americas), rosy pelican or simply white pelican, is a bird in the pelican family. It breeds from southeastern Europe through Asia and Africa, in swamps and shallow lakes. The great white pelican has been rated as a species of least concern on the IUCN Red List of Endangered Species (IUCN).",
+  "appearance": {
+    "description": "The great white pelican is a huge bird—only the Dalmatian pelican is, on average, larger among pelicans. It measures 140 to 180 cm (55 to 71 in) in length with a 28.9 to 47.1 cm (11.4 to 18.5 in) enormous pink and yellow bill, and a dull pale-yellow gular pouch. The wingspan measures 226 to 360 cm (7 ft 5 in to 11 ft 10 in), the latter measurement being the highest among extant flying animals outside of the great albatross.",
+    "colors": "The great white pelican (Pelecanus onocrotalus), also known as the eastern white pelican (in contrast to the western pelican of the Americas), rosy pelican or simply white pelican, is a bird in the pelican family. The great white pelican has been rated as a species of least concern on the IUCN Red List of Endangered Species (IUCN).",
+    "wings": "Among standard measurements, the wing chord is 60 to 73 cm (24 to 29 in), the tail 16 to 21 cm (6.3 to 8.3 in), and the tarsus 13 to 14.9 cm (5.1 to 5.9 in) long. The upperwing coverts, underwing coverts, and tertials are white."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        28.9,
+        180.0
+      ],
+      "wingspan_cm": [
+        226.0,
+        360.0
+      ],
+      "mass_g": [
+        9000.0,
+        15000.0
+      ]
+    },
+    "juvenile": {
+      "notes": "The juvenile has darker, brownish underparts that are palest at the rump, center of the belly, and uppertail coverts. Its underparts and back are initially browner and darker than those of the Dalmatian pelican, and the underwing is strongly patterned, similar to the juvenile brown pelican."
+    },
+    "chick": {
+      "notes": "The chicks are naked when they hatch but quickly sprout blackish-brown down. The colony gathers in \"pods\" around 20 to 25 days after the eggs hatch."
+    }
+  },
+  "behaviour": "The great white pelican is highly sociable and often forms large flocks. It is well adapted for aquatic life. The short strong legs and webbed feet propel it in water and aid a rather awkward takeoff from the water surface.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The breeding range of the great white pelican extends to Ethiopia, Tanzania, Chad, northern Cameroons, and Nigeria in Africa, and has been observed or reported breeding in Zambia, Botswana, and South Africa. In the 1990s, 6,700 to 11,000 breeding pairs in 23 to 25 breeding sites, were found in the Palearctic region.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Nakuru",
+      "Nairobi",
+      "Kajiado",
+      "Central"
+    ],
+    "gbif_records_in_kenya": 10128
+  },
+  "look_alikes": [
+    {
+      "label": "Pelecanus_rufescens",
+      "common_name": "Pink-backed Pelican",
+      "difference": null,
+      "times_confused": 4
+    },
+    {
+      "label": "Neophron_percnopterus",
+      "common_name": "Egyptian Vulture",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Egretta_ardesiaca",
+      "common_name": "Black Heron",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Sarkidiornis_melanotos",
+      "common_name": "Knob-billed Duck",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Chlidonias_leucopterus",
+      "common_name": "White-winged Tern",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_vitellinus",
+      "common_name": "Vitelline Masked Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lonchura_cucullata",
+      "common_name": "Bronze Mannikin",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ceryle_rudis",
+      "common_name": "Pied Kingfisher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Necrosyrtes_monachus",
+      "common_name": "Hooded Vulture",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Phoenicopterus_roseus",
+      "common_name": "Greater Flamingo",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Balearica_regulorum",
+      "common_name": "Grey Crowned Crane",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ephippiorhynchus_senegalensis",
+      "common_name": "Saddle-billed Stork",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Leptoptilos_crumenifer",
+      "common_name": "Marabou Stork",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Phalacrocorax_carbo",
+      "common_name": "Great Cormorant",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Great white pelican",
+      "url": "https://en.wikipedia.org/wiki/Great_white_pelican",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2480350"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

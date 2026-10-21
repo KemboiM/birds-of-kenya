@@ -1,0 +1,117 @@
+{
+  "label": "Dioptrornis_fischeri",
+  "scientific_name": "Dioptrornis fischeri",
+  "common_name": "White-eyed Slaty Flycatcher",
+  "other_names": {},
+  "family": "Muscicapidae",
+  "summary": "The white-eyed slaty flycatcher (Melaenornis fischeri) is a small passerine bird of the genus Melaenornis in the Old World flycatcher family Muscicapidae. It is native to the African highlands from Ethiopia and Kenya through Rwanda to eastern Zaire and Malawi. The sub-species M. f. toruensis occurs in Rwanda and Burundi and has an inconspicuous eye-ring.",
+  "appearance": {
+    "description": null,
+    "colors": "The white-eyed slaty flycatcher (Melaenornis fischeri) is a small passerine bird of the genus Melaenornis in the Old World flycatcher family Muscicapidae.",
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Kenya",
+      "Rift Valley",
+      "Nairobi",
+      "Central",
+      "Western",
+      "Eastern"
+    ],
+    "gbif_records_in_kenya": 22647
+  },
+  "look_alikes": [
+    {
+      "label": "Treron_calvus",
+      "common_name": "African Green Pigeon",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Turdoides_rubiginosa",
+      "common_name": "Rufous Chatterer",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Anthreptes_orientalis",
+      "common_name": "Eastern Violet-backed Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cisticola_chiniana",
+      "common_name": "Rattling Cisticola",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Spilopelia_senegalensis",
+      "common_name": "Laughing Dove",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Colius_striatus",
+      "common_name": "Speckled Mousebird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Corvus_splendens",
+      "common_name": "House Crow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Eremomela_icteropygialis",
+      "common_name": "Yellow-bellied Eremomela",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Glaucidium_perlatum",
+      "common_name": "Pearl-spotted Owlet",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Megaceryle_maxima",
+      "common_name": "Giant Kingfisher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Turdoides_jardineii",
+      "common_name": "Arrow-marked Babbler",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "White-eyed slaty flycatcher",
+      "url": "https://en.wikipedia.org/wiki/White-eyed_slaty_flycatcher",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2492414"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

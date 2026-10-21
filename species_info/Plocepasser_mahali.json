@@ -1,0 +1,148 @@
+{
+  "label": "Plocepasser_mahali",
+  "scientific_name": "Plocepasser mahali",
+  "common_name": "White-browed Sparrow-weaver",
+  "other_names": {},
+  "family": "Passeridae",
+  "summary": "The white-browed sparrow-weaver (Plocepasser mahali) is a predominantly brown, sparrow-sized bird found throughout central and north-central southern Africa. It is found in groups of two to eleven individuals consisting of one breeding pair and other non-reproductive individuals.",
+  "appearance": {
+    "description": "It ranges from 17 to 19 cm (6.7 to 7.5 in) in length and is characterized by a broad, white eyebrow stripe and white rump visible in flight. While the male white-browed sparrow-weaver sports a black bill, the female's bill is horn-colored (light gray); that of the juvenile is pinkish-brown. In Zimbabwe, the white-browed sparrow-weaver shows faint brown spotting across its white breast.",
+    "colors": "The white-browed sparrow-weaver (Plocepasser mahali) is a predominantly brown, sparrow-sized bird found throughout central and north-central southern Africa. It ranges from 17 to 19 cm (6.7 to 7.5 in) in length and is characterized by a broad, white eyebrow stripe and white rump visible in flight.",
+    "wings": null
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        17.0,
+        19.0
+      ]
+    },
+    "juvenile": {
+      "notes": "While the male white-browed sparrow-weaver sports a black bill, the female's bill is horn-colored (light gray); that of the juvenile is pinkish-brown."
+    },
+    "chick": null
+  },
+  "behaviour": "The white-browed sparrow-weaver may emit either a brief chik-chick or a loud, fluid, cheoop-preeoo-chop whistle. === Breeding === Breeding has been observed year round, but occurs mainly in warmer months. Year round, groups of the white-browed sparrow-weaver are active and nest-building. Groups of ten to sixty inverted-U-shaped nests of dry grass appear in the outside limbs of trees, although only several are used for breeding or roosting.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The white-browed sparrow-weaver is found in greatest numbers in north-central southern Africa. While this species most densely populates dry regions with woodland or wooded grassland at northern South Africa, its range includes Botswana, northern and central Namibia, and western Zimbabwe.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Eastern",
+      "Nairobi",
+      "Coast",
+      "Central"
+    ],
+    "gbif_records_in_kenya": 35578
+  },
+  "look_alikes": [
+    {
+      "label": "Lanius_phoenicuroides",
+      "common_name": "Red-tailed Shrike",
+      "difference": null,
+      "times_confused": 3
+    },
+    {
+      "label": "Nilaus_afer",
+      "common_name": "Brubru",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Apalis_flavida",
+      "common_name": "Yellow-breasted Apalis",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Prinia_subflava",
+      "common_name": "Tawny-flanked Prinia",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Passer_domesticus",
+      "common_name": "House Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Streptopelia_decipiens",
+      "common_name": "Mourning Collared Dove",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bradornis_microrhynchus",
+      "common_name": "African Grey Flycatcher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Eurocephalus_ruppelli",
+      "common_name": "Northern White-crowned Shrike",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Motacilla_aguimp",
+      "common_name": "African Pied Wagtail",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Erythropygia_leucophrys",
+      "common_name": "White-browed Scrub Robin",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lanius_humeralis",
+      "common_name": "Northern Fiscal",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Oena_capensis",
+      "common_name": "Namaqua Dove",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Passer_griseus",
+      "common_name": "Northern Grey-headed Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Polihierax_semitorquatus",
+      "common_name": "Pygmy Falcon",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Upupa_epops",
+      "common_name": "Eurasian Hoopoe",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "White-browed sparrow-weaver",
+      "url": "https://en.wikipedia.org/wiki/White-browed_sparrow-weaver",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2492362"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

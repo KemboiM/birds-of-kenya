@@ -1,0 +1,168 @@
+{
+  "label": "Gyps_rueppellii",
+  "scientific_name": "Gyps rueppellii",
+  "common_name": "Rüppell's Vulture",
+  "other_names": {},
+  "family": "Accipitridae",
+  "summary": "Rüppell's vulture (Gyps rueppelli), also called Rüppell's griffon vulture or Rüppell's griffon, a species of vulture named after Eduard Rüppell, is a large, resident bird of prey, mainly native to the Sahel region and East Africa. It is considered to be the highest-flying bird, with confirmed evidence of a flight at an altitude of 11,300 m (37,000 ft), where the average temperature is about −56 °C (−69 °F). The former population of 22,000 individuals has been decreasing due to loss of habitat, incidental poisoning, and other factors.",
+  "appearance": {
+    "description": "The Rüppell's vulture is a very large vulture, noticeably outsizing the closely related white-backed vulture, with which they often occur in the wild. Adults are 85 to 103 cm (33 to 41 in) long, with a wingspan of 2.26 to 2.6 m (7 ft 5 in to 8 ft 6 in), and a weight that ranges from 6.4 to 9 kg (14 to 20 lb). Both sexes look alike: mottled brown or black overall with a whitish-brown underbelly and thin, dirty-white fluff covering the head and neck.",
+    "colors": "It is considered to be the highest-flying bird, with confirmed evidence of a flight at an altitude of 11,300 m (37,000 ft), where the average temperature is about −56 °C (−69 °F). It is therefore listed as Critically Endangered on the IUCN Red List.",
+    "wings": null
+  },
+  "size": {
+    "adult": {
+      "wingspan_cm": [
+        226.0,
+        260.0
+      ],
+      "length_cm": [
+        85.0,
+        103.0
+      ],
+      "mass_g": [
+        6400.0,
+        9000.0
+      ]
+    },
+    "juvenile": null,
+    "chick": {
+      "notes": "Once the chick hatches, both parents will feed and tend to it for about 150 days when it fledges. Young remain dependent on their parents after fledging, not reaching independence until the next breeding season."
+    }
+  },
+  "behaviour": "=== Flight === Ruppell's vulture cruises at a speed of 35 km/h (22 mph), but flies for 6–7 hours every day. In optimal soaring conditions, these birds can reach up to 45 km/h during cross-country flight and between 70 and 85 km/h during straight glides. They can travel well over 100 km (62 mi) from a nest site to find food, even reaching 200 km (120 mi) when using updrafts.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "Since 1992, Rüppell's vulture has been occurring as a vagrant in Spain and Portugal, with annual records since 1997, mainly in the Cádiz and Strait of Gibraltar area, but also further north. In Morocco, it is a resident species, where some tagged populations have been seen to overwinter.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Nairobi",
+      "Eastern",
+      "Coast",
+      "Narok"
+    ],
+    "gbif_records_in_kenya": 7727
+  },
+  "look_alikes": [
+    {
+      "label": "Gyps_africanus",
+      "common_name": "White-backed Vulture",
+      "difference": null,
+      "times_confused": 7
+    },
+    {
+      "label": "Torgos_tracheliotos",
+      "common_name": "Lappet-faced Vulture",
+      "difference": null,
+      "times_confused": 3
+    },
+    {
+      "label": "Aquila_rapax",
+      "common_name": "Tawny Eagle",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Haliaeetus_vocifer",
+      "common_name": "African Fish Eagle",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Necrosyrtes_monachus",
+      "common_name": "Hooded Vulture",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Circus_aeruginosus",
+      "common_name": "Western Marsh Harrier",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Aquila_nipalensis",
+      "common_name": "Steppe Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Eremopterix_leucopareia",
+      "common_name": "Fischer's Sparrow-lark",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Anas_undulata",
+      "common_name": "Yellow-billed Duck",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Burhinus_vermiculatus",
+      "common_name": "Water Thick-knee",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Centropus_superciliosus",
+      "common_name": "White-browed Coucal",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Circaetus_cinereus",
+      "common_name": "Brown Snake Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Leptoptilos_crumenifer",
+      "common_name": "Marabou Stork",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Milvus_migrans",
+      "common_name": "Black Kite",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Threskiornis_aethiopicus",
+      "common_name": "African Sacred Ibis",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Numida_meleagris",
+      "common_name": "Helmeted Guinea Fowl",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Scopus_umbretta",
+      "common_name": "Hamerkop",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Rüppell's vulture",
+      "url": "https://en.wikipedia.org/wiki/R%C3%BCppell%27s_vulture",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2480384"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

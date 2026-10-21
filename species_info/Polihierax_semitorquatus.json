@@ -1,0 +1,118 @@
+{
+  "label": "Polihierax_semitorquatus",
+  "scientific_name": "Polihierax semitorquatus",
+  "common_name": "Pygmy Falcon",
+  "other_names": {},
+  "family": "Falconidae",
+  "summary": "The African pygmy falcon (Polihierax semitorquatus)—or simply pygmy falcon—is a diminutive raptor native to eastern and southern Africa. It is the sole species in its monotypic genus, Polihierax. The pygmy falcon is the smallest bird of prey on the African continent, and among the smallest raptors on earth; only the Asian falconets (of the genus Microhierax) are smaller, weighing roughly 30-40 grams less and measuring about 5 cm shorter from head to tail.",
+  "appearance": {
+    "description": "Adult pygmy falcons are 20 cm (7.9 in) in length and 54 to 76 g (1.9–2.7 oz) in weight. These birds are white-bellied, extending up to the face, with males having grey on their backsides, and females having a chestnut back. There are white \"eye spots\" on the nape.",
+    "colors": "These birds are white-bellied, extending up to the face, with males having grey on their backsides, and females having a chestnut back. There are white \"eye spots\" on the nape.",
+    "wings": "The flight feathers of the wings are spotted black and white (more black above, more white below); the tail is barred black and white."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        20.0,
+        20.0
+      ],
+      "mass_g": [
+        54.0,
+        76.0
+      ]
+    },
+    "juvenile": {
+      "notes": "Juveniles have a brown back, duller than adult females, with a rufous wash on the breast."
+    },
+    "chick": {
+      "notes": "Despite being bird-eaters and bigger than sociable weavers, the pygmy falcons largely leave the latter alone, though they do occasionally catch and eat nestlings and even adults. Faecal matter is also thought to boost the immune system of chicks as well as signal to conspecifics."
+    }
+  },
+  "behaviour": "Pygmy falcons show physiological traits that have adaptive value in a region affected by environmental variability associated with the El Niño–Southern Oscillation cycle, as well as varying food sources. They regulate their body temperature by thermal buffering provided by sociable weaver colonies and communal roosting by the falcons. This is important because it reduces the energy requirements for rest-phase thermoregulation by occupants.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The pygmy falcon inhabits dry bush. The subspecies P. s. castanonotus occurs from South Sudan to Somalia and south to Uganda and Tanzania; P. s. semitorquatus occurs from Angola to northern South Africa.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Eastern",
+      "Kenya",
+      "Coast",
+      "Samburu",
+      "Isiolo"
+    ],
+    "gbif_records_in_kenya": 5413
+  },
+  "look_alikes": [
+    {
+      "label": "Hirundo_rustica",
+      "common_name": "Barn Swallow",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Elanus_caeruleus",
+      "common_name": "Black-winged Kite",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Chrysococcyx_caprius",
+      "common_name": "Diederik Cuckoo",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Corythaixoides_leucogaster",
+      "common_name": "White-bellied Go-away-bird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Hirundo_smithii",
+      "common_name": "Wire-tailed Swallow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Phalacrocorax_carbo",
+      "common_name": "Great Cormorant",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Prinia_subflava",
+      "common_name": "Tawny-flanked Prinia",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Telophorus_cruentus",
+      "common_name": "Rosy-patched Bushshrike",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Plocepasser_mahali",
+      "common_name": "White-browed Sparrow-weaver",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Pygmy falcon",
+      "url": "https://en.wikipedia.org/wiki/Pygmy_falcon",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2481096"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

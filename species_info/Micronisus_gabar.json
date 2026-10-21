@@ -1,0 +1,150 @@
+{
+  "label": "Micronisus_gabar",
+  "scientific_name": "Micronisus gabar",
+  "common_name": "Gabar Goshawk",
+  "other_names": {},
+  "family": "Accipitridae",
+  "summary": "The gabar goshawk (Micronisus gabar) is a small species of African and Arabian bird of prey in the family Accipitridae.",
+  "appearance": {
+    "description": "The gabar goshawk is polymorphic and occurs in two distinct forms which fluctuate in relative abundance across the geographic range of the species. The more frequent, paler form has mostly grey upperparts with a conspicuous, white rump and white and grey barring on the chest, thighs and underwings, and a dark grey, barred tail. In contrast, the less frequent form, which accounts on average for approximately 25 percent of the overall population, is almost completely black.",
+    "colors": "The more frequent, paler form has mostly grey upperparts with a conspicuous, white rump and white and grey barring on the chest, thighs and underwings, and a dark grey, barred tail. In contrast, the less frequent form, which accounts on average for approximately 25 percent of the overall population, is almost completely black.",
+    "wings": "The more frequent, paler form has mostly grey upperparts with a conspicuous, white rump and white and grey barring on the chest, thighs and underwings, and a dark grey, barred tail."
+  },
+  "size": {
+    "adult": {
+      "mass_g": [
+        90.0,
+        240.0
+      ],
+      "wingspan_cm": [
+        63.0,
+        63.0
+      ],
+      "length_cm": [
+        28.0,
+        36.0
+      ]
+    },
+    "juvenile": {
+      "notes": "The cere and the legs are yellow in immatures and the plumage is generally browner, with the pale birds having untidier barring on the chest than the adult."
+    },
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The gabar goshawk is found in sub-Saharan Africa, extending to Arabian Peninsula. These subspecies are currently recognised: M. g. aequatorius: highlands of Ethiopia to the Democratic Republic of the Congo, Zambia, and northern Mozambique M. g. gabar: southern Angola to Zambia, Mozambique, and South Africa M. g. niger: Senegambia to Sudan, northern Ethiopia and southwestern Arabia The gabar goshawk occurs in open woodland, especially dry Acacia savanna and broad-leaved woodland, with miombo (Brachystegia), cluster-leaf Terminalia, and mopane (Colosphermum mopane).",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Eastern",
+      "Nairobi",
+      "Coast",
+      "Central"
+    ],
+    "gbif_records_in_kenya": 6829
+  },
+  "look_alikes": [
+    {
+      "label": "Turdus_tephronotus",
+      "common_name": "Bare-eyed Thrush",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Nectarinia_tacazze",
+      "common_name": "Tacazze Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Estrilda_astrild",
+      "common_name": "Common Waxbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Buteo_augur",
+      "common_name": "Augur Buzzard",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Circaetus_cinereus",
+      "common_name": "Brown Snake Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Circus_macrourus",
+      "common_name": "Pallid Harrier",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Circus_pygargus",
+      "common_name": "Montagu's Harrier",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Columba_guinea",
+      "common_name": "Speckled Pigeon",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Gymnoris_pyrgita",
+      "common_name": "Yellow-spotted Bush Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lonchura_cucullata",
+      "common_name": "Bronze Mannikin",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Melierax_metabates",
+      "common_name": "Dark Chanting Goshawk",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Melierax_poliopterus",
+      "common_name": "Eastern Chanting Goshawk",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Passer_rufocinctus",
+      "common_name": "Kenya Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Turdoides_jardineii",
+      "common_name": "Arrow-marked Babbler",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Gabar goshawk",
+      "url": "https://en.wikipedia.org/wiki/Gabar_goshawk",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/5788495"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

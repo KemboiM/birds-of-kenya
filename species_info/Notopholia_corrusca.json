@@ -1,0 +1,105 @@
+{
+  "label": "Notopholia_corrusca",
+  "scientific_name": "Notopholia corrusca",
+  "common_name": "Black-bellied Starling",
+  "other_names": {},
+  "family": "Sturnidae",
+  "summary": "The black-bellied starling (Notopholia corusca) is a species of starling in the family Sturnidae, originally described by zoologist Alexander von Nordmann in 1835. It is found in Eswatini, Kenya, Mozambique, Somalia, South Africa, Tanzania, and Zimbabwe. Their iris color changes by mood or behavior due to fluctuations in blood flow rates.",
+  "appearance": {
+    "description": null,
+    "colors": "The black-bellied starling (Notopholia corusca) is a species of starling in the family Sturnidae, originally described by zoologist Alexander von Nordmann in 1835. Their iris color changes by mood or behavior due to fluctuations in blood flow rates.",
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Coast",
+      "Kenya",
+      "Kilifi",
+      "Coast prov",
+      "Coast Province",
+      "Kwale"
+    ],
+    "gbif_records_in_kenya": 5893
+  },
+  "look_alikes": [
+    {
+      "label": "Lamprotornis_chalybaeus",
+      "common_name": "Greater Blue-eared Starling",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Myrmecocichla_nigra",
+      "common_name": "Sooty Chat",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Nectarinia_kilimensis",
+      "common_name": "Bronze Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Onychognathus_salvadorii",
+      "common_name": "Bristle-crowned Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Vidua_chalybeata",
+      "common_name": "Village Indigobird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pseudonigrita_cabanisi",
+      "common_name": "Black-capped Social Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Phoeniculus_purpureus",
+      "common_name": "Green Wood Hoopoe",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Camaroptera_brachyura",
+      "common_name": "Green-backed Camaroptera",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lamprotornis_purpuroptera",
+      "common_name": "Rüppell's Starling",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Black-bellied starling",
+      "url": "https://en.wikipedia.org/wiki/Black-bellied_starling",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/6100936"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

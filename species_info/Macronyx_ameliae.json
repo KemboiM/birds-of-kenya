@@ -1,0 +1,89 @@
+{
+  "label": "Macronyx_ameliae",
+  "scientific_name": "Macronyx ameliae",
+  "common_name": "Rosy-throated Longclaw",
+  "other_names": {},
+  "family": "Motacillidae",
+  "summary": "The rosy-throated longclaw, also known as the rosy-breasted longclaw (Macronyx ameliae) is a species of bird in the family Motacillidae. It is found in Angola, Botswana, Democratic Republic of the Congo, Kenya, Malawi, Mozambique, Namibia, South Africa, Tanzania, Zambia, and Zimbabwe. Its natural habitat is subtropical or tropical seasonally wet or flooded lowland grassland.",
+  "appearance": {
+    "description": "Adult birds are 19–20 centimetres (7.5–7.9 in) long with greyish-brown scalloped upper parts. The male has a pink throat and breast crossed with a broad black band across the chest, which is not evident outside of breeding season. Female birds have pink underparts, but lack the black band.",
+    "colors": "Common names include rosy-throated longclaw, pink-throated longclaw and rosy-breasted longclaw. Adult birds are 19–20 centimetres (7.5–7.9 in) long with greyish-brown scalloped upper parts.",
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": {
+      "notes": "Immature birds have mainly black-streaked pale brown underparts with some pink-red colour centrally."
+    },
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Rift Valley",
+      "Nairobi",
+      "Kenya",
+      "Narok",
+      "Eastern",
+      "Nyanza"
+    ],
+    "gbif_records_in_kenya": 3011
+  },
+  "look_alikes": [
+    {
+      "label": "Anthus_cinnamomeus",
+      "common_name": "African Pipit",
+      "difference": null,
+      "times_confused": 3
+    },
+    {
+      "label": "Euplectes_progne",
+      "common_name": "Long-tailed Widowbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Empidornis_semipartitus",
+      "common_name": "Silverbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Dinemellia_dinemelli",
+      "common_name": "White-headed Buffalo Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Quelea_quelea",
+      "common_name": "Red-billed Quelea",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Erythropygia_leucophrys",
+      "common_name": "White-browed Scrub Robin",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Rosy-throated longclaw",
+      "url": "https://en.wikipedia.org/wiki/Rosy-throated_longclaw",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/5230847"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

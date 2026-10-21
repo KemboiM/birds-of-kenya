@@ -1,0 +1,94 @@
+{
+  "label": "Numenius_phaeopus",
+  "scientific_name": "Numenius phaeopus",
+  "common_name": "Eurasian Whimbrel",
+  "other_names": {
+    "sw": "Membe Sautisaba"
+  },
+  "family": "Scolopacidae",
+  "summary": "The Eurasian whimbrel (Numenius phaeopus), historically known as the white-rumped whimbrel in North America, is a wader in the large family Scolopacidae. It is one of the most widespread of the curlews, breeding across much of subarctic Palearctic region and Europe as far south as Scotland. This species and the Hudsonian whimbrel were split in 2019, although some taxonomic authorities still consider them to be conspecific.",
+  "appearance": {
+    "description": "The Eurasian whimbrel is a fairly large wader, though mid-sized as a member of the curlew genus. It is 37–47 cm (15–19 in) in length, 75–90 cm (30–35 in) in wingspan, and 270–493 g (9.5–17.4 oz; 0.595–1.087 lb) in weight. It is mainly greyish brown, with a white back and rump (subspecies N. p. phaeopus and N. p. alboaxillaris only), and a long curved beak with a kink rather than a smooth curve.",
+    "colors": "The Eurasian whimbrel (Numenius phaeopus), historically known as the white-rumped whimbrel in North America, is a wader in the large family Scolopacidae. It is mainly greyish brown, with a white back and rump (subspecies N. p. phaeopus and N. p. alboaxillaris only), and a long curved beak with a kink rather than a smooth curve.",
+    "wings": null
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        37.0,
+        90.0
+      ],
+      "mass_g": [
+        270.0,
+        493.0
+      ]
+    },
+    "juvenile": null,
+    "chick": {
+      "notes": "The chicks are fluffy, yellow and black, with a short beak (unlike the adults) and strong scaly grey legs. Within a couple weeks of hatching they become quite mobile on the ground, and soon thereafter, the nest is abandoned."
+    }
+  },
+  "behaviour": "=== Food and feeding === This Eurasian whimbrel feeds by probing soft mud for small invertebrates and by picking small crabs and similar prey off the surface. Before migration, berries become an important part of its diet. It has also been observed taking insects, specifically blue tiger butterflies.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The whimbrel occurs in Ireland and the United Kingdom, and it breeds in Scotland, particularly around Shetland, Orkney, the Outer Hebrides as well as the mainland at Sutherland and Caithness. lt is a migratory bird wintering on coasts in Africa, South Asia and Australasia. It is also a coastal bird during bird migration and fairly gregarious outside the breeding season.",
+    "kenya_regions": [
+      "Coast",
+      "Kenya",
+      "Kilifi",
+      "Kwale",
+      "Coast prov",
+      "Rift Valley"
+    ],
+    "gbif_records_in_kenya": 3771
+  },
+  "look_alikes": [
+    {
+      "label": "Tringa_glareola",
+      "common_name": "Wood Sandpiper",
+      "difference": null,
+      "times_confused": 3
+    },
+    {
+      "label": "Ardeotis_kori",
+      "common_name": "Kori Bustard",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ichthyaetus_hemprichii",
+      "common_name": "Sooty Gull",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Calidris_pugnax",
+      "common_name": "Ruff",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Mycteria_ibis",
+      "common_name": "Yellow-billed Stork",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Eurasian whimbrel",
+      "url": "https://en.wikipedia.org/wiki/Eurasian_whimbrel",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2481784"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "label": "Ploceus_baglafecht",
+  "scientific_name": "Ploceus baglafecht",
+  "common_name": "Baglafecht Weaver",
+  "other_names": {},
+  "family": "Ploceidae",
+  "summary": "The baglafecht weaver (Ploceus baglafecht) is a species of weaver bird from the family Ploceidae which is found in eastern and central Africa. There are several disjunct populations with distinguishable plumage patterns. Only some races display a discrete non-breeding plumage.",
+  "appearance": {
+    "description": "The baglafecht weaver has a Total Body Length of 15 cm (5.9 in). The adult male baglafecht weaver has a distinctive black mask which extends from the bill through the eye and onto the ear coverts contrasting with the bright yellow forehead, forecrown and throat. The upperparts are yellowish green with dark centres to the feathers creating a faint streaking.",
+    "colors": "There are several disjunct populations with distinguishable plumage patterns. Only some races display a discrete non-breeding plumage.",
+    "wings": null
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        15.0,
+        15.0
+      ]
+    },
+    "juvenile": {
+      "notes": "Juveniles and immature birds do not have a mask on the dark-yellowish green head."
+    },
+    "chick": null
+  },
+  "behaviour": "The baglafecht weaver normally breeds singly rather than in colonies. The nests are loosely woven and usually placed in the foliage of trees or bushes. It is often aggressive to other birds and not shy of people.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "It is found in central, eastern, and south-eastern Africa. It is found in forest edge, woodlands, gardens and towns.",
+    "kenya_regions": [
+      "Kenya",
+      "Nairobi",
+      "Rift Valley",
+      "Central",
+      "Western",
+      "Eastern"
+    ],
+    "gbif_records_in_kenya": 34440
+  },
+  "look_alikes": [
+    {
+      "label": "Ploceus_spekei",
+      "common_name": "Speke's Weaver",
+      "difference": null,
+      "times_confused": 5
+    },
+    {
+      "label": "Oriolus_larvatus",
+      "common_name": "Black-headed Oriole",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Vidua_fischeri",
+      "common_name": "Straw-tailed Whydah",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Treron_calvus",
+      "common_name": "African Green Pigeon",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_intermedius",
+      "common_name": "Lesser Masked Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_xanthops",
+      "common_name": "Holub's Golden Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Colius_striatus",
+      "common_name": "Speckled Mousebird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cinnyris_venustus",
+      "common_name": "Variable Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Crithagra_citrinelloides",
+      "common_name": "African Citril",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Macronyx_croceus",
+      "common_name": "Yellow-throated Longclaw",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tachybaptus_ruficollis",
+      "common_name": "Little Grebe",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tricholaema_lacrymosa",
+      "common_name": "Spot-flanked Barbet",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Zosterops_kikuyuensis",
+      "common_name": "Kikuyu White-eye",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Baglafecht weaver",
+      "url": "https://en.wikipedia.org/wiki/Baglafecht_weaver",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2494061"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

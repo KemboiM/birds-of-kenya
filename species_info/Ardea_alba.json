@@ -1,0 +1,122 @@
+{
+  "label": "Ardea_alba",
+  "scientific_name": "Ardea alba",
+  "common_name": "Great Egret",
+  "other_names": {
+    "sw": "Msuka"
+  },
+  "family": "Ardeidae",
+  "summary": "The great egret (Ardea alba), also known as the common egret, large egret, great white egret, or great white heron, is a large, widely distributed egret. The four subspecies are found in Asia, Africa, the Americas, and southern Europe. Recently, it has also been spreading to more northern areas of Europe.",
+  "appearance": {
+    "description": "The great egret is a large heron with all-white plumage. Standing up to 1 m (3 ft 3 in) tall, this species can measure 80 to 104 cm (31 to 41 in) in length with a wingspan of 131 to 170 cm (52 to 67 in). Body mass can range from 700 to 1,500 g (25 to 53 oz), with an average around 1,000 g (35 oz).",
+    "colors": "The great egret (Ardea alba), also known as the common egret, large egret, great white egret, or great white heron, is a large, widely distributed egret. The great egret is a large heron with all-white plumage.",
+    "wings": "The great egret walks with its neck extended and wings held close. Owing to its wide distribution across so much of the Americas, as well as Africa, Europe and Asia, the great egret shares its habitat with many other similar species."
+  },
+  "size": {
+    "adult": {
+      "wingspan_cm": [
+        131.0,
+        170.0
+      ],
+      "length_cm": [
+        80.0,
+        104.0
+      ],
+      "mass_g": [
+        700.0,
+        1500.0
+      ]
+    },
+    "juvenile": {
+      "notes": "Males and females are identical in appearance; juveniles look like nonbreeding adults."
+    },
+    "chick": null
+  },
+  "behaviour": "The great egret breeds in colonies in trees close to large lakes with reed beds or other extensive wetlands, preferably at height of 3.0–12.2 m (10–40 ft). It begins to breed at 2–3 years of age by forming monogamous pairs each season. Whether the pairing carries over to the next season is not known.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The great egret is generally a very successful species with a large and expanding range, occurring worldwide in temperate and tropical habitats. It is ubiquitous across the Sun Belt of the United States and in the Neotropics.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Coast",
+      "Nairobi",
+      "Central",
+      "Nyanza"
+    ],
+    "gbif_records_in_kenya": 17570
+  },
+  "look_alikes": [
+    {
+      "label": "Egretta_intermedia",
+      "common_name": "Medium Egret",
+      "difference": null,
+      "times_confused": 9
+    },
+    {
+      "label": "Egretta_garzetta",
+      "common_name": "Little Egret",
+      "difference": null,
+      "times_confused": 4
+    },
+    {
+      "label": "Bubulcus_ibis",
+      "common_name": "Western Cattle Egret",
+      "difference": null,
+      "times_confused": 3
+    },
+    {
+      "label": "Ardea_cinerea",
+      "common_name": "Grey Heron",
+      "difference": null,
+      "times_confused": 3
+    },
+    {
+      "label": "Ardea_purpurea",
+      "common_name": "Purple Heron",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ispidina_picta",
+      "common_name": "African Pygmy Kingfisher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Egretta_dimorpha",
+      "common_name": "Dimorphic Egret",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Platalea_alba",
+      "common_name": "African Spoonbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Balearica_regulorum",
+      "common_name": "Grey Crowned Crane",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Great egret",
+      "url": "https://en.wikipedia.org/wiki/Great_egret",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/9752617"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

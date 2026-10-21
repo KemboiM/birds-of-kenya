@@ -1,0 +1,122 @@
+{
+  "label": "Stephanoaetus_coronatus",
+  "scientific_name": "Stephanoaetus coronatus",
+  "common_name": "Crowned Eagle",
+  "other_names": {},
+  "family": "Accipitridae",
+  "summary": "The crowned eagle, also known as the African crowned eagle or the crowned hawk-eagle (Stephanoaetus coronatus), is a large bird of prey found in sub-Saharan Africa; in Southern Africa, it is restricted to more easterly areas. Its preferred habitats are principally riparian woodlands and various forests. The crowned eagle is the only extant member of the genus Stephanoaetus.",
+  "appearance": {
+    "description": "The crowned eagle is a very large eagle. Measuring from 80 to 99 cm (31 to 39 in) in length, it is the fifth longest extant eagle in the world. The female, at a weight of 3.2–4.7 kg (7.1–10.4 lb), is around 10–15% larger than the male, at a weight of 2.55–4.12 kg (5.6–9.1 lb).",
+    "colors": "Its preferred habitats are principally riparian woodlands and various forests. There is at least one credible report of an attack, presumably a case of attempted predation, on a 19.6 kg human child.",
+    "wings": "However, the somewhat boxy and rounded wings are quite broad, being broader than, for example, the much longer-winged golden eagle (Aquila chrysaetos). The wing morphology of the species gives it maneuverability in its densely wooded environment."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        90.0,
+        90.0
+      ],
+      "mass_g": [
+        30000.0,
+        30000.0
+      ],
+      "wingspan_cm": [
+        151.0,
+        181.0
+      ]
+    },
+    "juvenile": {
+      "notes": "As seen in about half of the \"booted eagle\" group, the juvenile crowned eagle has strikingly different looking plumage compared to the adults. A great majority of juveniles have a white head and underside, which contrast with the thighs and legs, which are heavily spotted with black."
+    },
+    "chick": {
+      "notes": "While the incubation and nestling stages are about average for a tropical eagle (for example the black-breasted snake-eagle (Circaetus pectoralis), about half the weight of this species, has an incubation/nestling cycle of a similar length), it is the extraordinary post-fledging period of 9–11 months that makes the crowned eagles' breeding cycle so long. When they initially hatch, the young tend to be quite quiet."
+    }
+  },
+  "behaviour": "Typical of most raptors that breed in Africa, the crowned eagle is non-migratory and is largely sedentary. This species usually inhabits a fixed territory throughout the year during its adult life. There is evidence that the birds move about to some degree when circumstances require it, for example when they need to change mates in isolated breeding areas.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The crowned eagle is found only on the continent of Africa. In East Africa, the crowned eagle's range extends from central Ethiopia, to Uganda, forested parts of Kenya and Tanzania to as far south as eastern South Africa, with a southern distribution limit around Knysna.",
+    "kenya_regions": [
+      "Kenya",
+      "Western",
+      "Central",
+      "Nairobi",
+      "Rift Valley",
+      "Coast"
+    ],
+    "gbif_records_in_kenya": 4402
+  },
+  "look_alikes": [
+    {
+      "label": "Kaupifalco_monogrammicus",
+      "common_name": "Lizard Buzzard",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bostrychia_hagedash",
+      "common_name": "Hadada Ibis",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bubo_lacteus",
+      "common_name": "Verreaux's Eagle-owl",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Burhinus_capensis",
+      "common_name": "Spotted Thick-knee",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Polemaetus_bellicosus",
+      "common_name": "Martial Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Polyboroides_typus",
+      "common_name": "African Harrier-hawk",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Buphagus_erythrorhynchus",
+      "common_name": "Red-billed Oxpecker",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Buteo_augur",
+      "common_name": "Augur Buzzard",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Melierax_poliopterus",
+      "common_name": "Eastern Chanting Goshawk",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Crowned eagle",
+      "url": "https://en.wikipedia.org/wiki/Crowned_eagle",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2480391"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

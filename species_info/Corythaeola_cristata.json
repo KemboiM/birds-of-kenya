@@ -1,0 +1,72 @@
+{
+  "label": "Corythaeola_cristata",
+  "scientific_name": "Corythaeola cristata",
+  "common_name": "Great Blue Turaco",
+  "other_names": {},
+  "family": "Musophagidae",
+  "summary": "The great blue turaco (Corythaeola cristata) is a bird species of the family Musophagidae. At 70–76 cm (28–30 in) in length, it is the largest species of turaco. It has predominantly grey-blue plumage with an upright blue-black crest around 10 cm (3.9 in) high.",
+  "appearance": {
+    "description": "Generally, the great blue turaco is 70–76 cm (28–30 in) in length with a mass of 800–1,231 g (1.764–2.714 lb). The adult great blue turaco has predominantly grey-blue upperparts with an upright blue-black crest, white chin, yellow-green lower breast and yellow belly darkening to chestnut brown posteriorly. The undertail coverts are chestnut, and the undertail is black and yellowish.",
+    "colors": "The great blue turaco (Corythaeola cristata) is a bird species of the family Musophagidae. It has predominantly grey-blue plumage with an upright blue-black crest around 10 cm (3.9 in) high.",
+    "wings": null
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        70.0,
+        76.0
+      ],
+      "mass_g": [
+        800.0,
+        1231.0
+      ]
+    },
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": "The great blue turaco is gregarious, with birds forming small troops of some six or seven individuals. The great blue turaco eats leaves, flowers, as well as fruit of many plant species, including those of the genera Musanga, Cissus, Ficus (such as Ficus capensis) Polyalthia, Heisteria, Dacryodes, Pachypodanthium, Uapaca, Strombosia, Trichilia, Drypetes, Viscum, Beilschmiedia, Coelocaryon, Croton, and Pycnanthus.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The species ranges from Guinea in the west, and east across the sub-Saharan nations to the Imatong Mountains in South Sudan; it also occurs in Uganda, Rwanda, Tanzania and western Kenya, south to the Democratic Republic of Congo and Angola. It inhabits rainforests and gallery forests.",
+    "kenya_regions": [
+      "Western",
+      "Kenya",
+      "Kakamega",
+      "Rift Valley",
+      "Nyanza Province",
+      "Vihiga"
+    ],
+    "gbif_records_in_kenya": 1897
+  },
+  "look_alikes": [
+    {
+      "label": "Lamprotornis_regius",
+      "common_name": "Golden-breasted Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cuculus_solitarius",
+      "common_name": "Red-chested Cuckoo",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Great blue turaco",
+      "url": "https://en.wikipedia.org/wiki/Great_blue_turaco",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2475223"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "label": "Chalcomitra_amethystina",
+  "scientific_name": "Chalcomitra amethystina",
+  "common_name": "Amethyst Sunbird",
+  "other_names": {},
+  "family": "Nectariniidae",
+  "summary": "The amethyst sunbird, also called the black sunbird (Chalcomitra amethystina), is a species of passerine bird in the family Nectariniidae. It is native to the Afrotropics, mostly south of the equator. They are commonly found in well-watered habitats, and undertake seasonal movements to visit flowering woodlands.",
+  "appearance": {
+    "description": null,
+    "colors": "The amethyst sunbird, also called the black sunbird (Chalcomitra amethystina), is a species of passerine bird in the family Nectariniidae. They are commonly found in well-watered habitats, and undertake seasonal movements to visit flowering woodlands.",
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": "Amethyst sunbirds are widespread residents of woodland, mesic savanna, forest edge and suburban gardens. They occur only sparsely in dry savanna or low dry regions, where they keep to riparian woods or concentrations of nectar-bearing plants, and are decidedly scarce in the Limpopo valley and mopane regions.",
+    "kenya_regions": [
+      "Kenya",
+      "Nairobi",
+      "Rift Valley",
+      "Coast",
+      "Central",
+      "Eastern"
+    ],
+    "gbif_records_in_kenya": 14044
+  },
+  "look_alikes": [
+    {
+      "label": "Chalcomitra_senegalensis",
+      "common_name": "Scarlet-chested Sunbird",
+      "difference": null,
+      "times_confused": 3
+    },
+    {
+      "label": "Amaurornis_flavirostra",
+      "common_name": "Black Crake",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Nectarinia_famosa",
+      "common_name": "Malachite Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Chalcomitra_hunteri",
+      "common_name": "Hunter's Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cinnyris_reichenowi",
+      "common_name": "Northern Double-collared Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Chrysococcyx_klaas",
+      "common_name": "Klaas's Cuckoo",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cinnyris_pulchellus",
+      "common_name": "Beautiful Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Gymnobucco_bonapartei",
+      "common_name": "Grey-throated Barbet",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lamprotornis_chalybaeus",
+      "common_name": "Greater Blue-eared Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Myrmecocichla_aethiops",
+      "common_name": "Anteater Chat",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Nectarinia_kilimensis",
+      "common_name": "Bronze Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Phylloscopus_trochilus",
+      "common_name": "Willow Warbler",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Quelea_quelea",
+      "common_name": "Red-billed Quelea",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Amethyst sunbird",
+      "url": "https://en.wikipedia.org/wiki/Amethyst_sunbird",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/7340881"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

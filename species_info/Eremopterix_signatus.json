@@ -1,0 +1,69 @@
+{
+  "label": "Eremopterix_signatus",
+  "scientific_name": "Eremopterix signatus",
+  "common_name": "Chestnut-headed Sparrow-lark",
+  "other_names": {},
+  "family": "Alaudidae",
+  "summary": "The chestnut-headed sparrow-lark (Eremopterix signatus) or chestnut-headed finch-lark is a species of passerine bird in the family Alaudidae. It is found in eastern and north-eastern Africa. Its natural habitats are subtropical or tropical dry shrubland, subtropical or tropical dry lowland grassland, and hot deserts.",
+  "appearance": {
+    "description": "The male chestnut-headed sparrow-lark has a black collar and bib, white cheeks and a white circular area on the nape of the crown, surrounded by a chestnut border. This distinguishes it from Fischer's sparrow-lark which lacks the white spot. The female has duller plumage.",
+    "colors": "The chestnut-headed sparrow-lark (Eremopterix signatus) or chestnut-headed finch-lark is a species of passerine bird in the family Alaudidae. The male chestnut-headed sparrow-lark has a black collar and bib, white cheeks and a white circular area on the nape of the crown, surrounded by a chestnut border.",
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": "This bird is usually found in pairs or small flocks of up to forty birds, often around water holes. It flies low to the ground and may sing in flight or when standing on bare ground.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Coast",
+      "Eastern",
+      "Kenya",
+      "Rift Valley",
+      "Coast prov",
+      "Marsabit"
+    ],
+    "gbif_records_in_kenya": 1739
+  },
+  "look_alikes": [
+    {
+      "label": "Eremopterix_leucopareia",
+      "common_name": "Fischer's Sparrow-lark",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Alopochen_aegyptiaca",
+      "common_name": "Egyptian Goose",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Eurocephalus_ruppelli",
+      "common_name": "Northern White-crowned Shrike",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Chestnut-headed sparrow-lark",
+      "url": "https://en.wikipedia.org/wiki/Chestnut-headed_sparrow-lark",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/7340819"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

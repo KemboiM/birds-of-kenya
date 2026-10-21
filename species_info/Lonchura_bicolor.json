@@ -1,0 +1,87 @@
+{
+  "label": "Lonchura_bicolor",
+  "scientific_name": "Lonchura bicolor",
+  "common_name": "Black-and-white Mannikin",
+  "other_names": {},
+  "family": "Estrildidae",
+  "summary": "The black-and-white mannikin (Spermestes bicolor) also black-and-white munia or red-backed mannikin, is a species of estrildid finch, widely present throughout sub-Saharan Africa. It has an estimated global extent of occurrence of 4,200,000 km2 (1,600,000 sq mi). It is found in moist savanna and subtropical or tropical moist lowland forest habitat.",
+  "appearance": {
+    "description": null,
+    "colors": "The black-and-white mannikin (Spermestes bicolor) also black-and-white munia or red-backed mannikin, is a species of estrildid finch, widely present throughout sub-Saharan Africa. The black-and-white mannikin was formally described in 1843 by the British zoologist and collector Louis Fraser from a specimen collected near Cape Palmas in Liberia.",
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Central",
+      "Kenya",
+      "Nairobi",
+      "Coast",
+      "Western",
+      "Rift Valley"
+    ],
+    "gbif_records_in_kenya": 5658
+  },
+  "look_alikes": [
+    {
+      "label": "Creatophora_cinerea",
+      "common_name": "Wattled Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Euplectes_capensis",
+      "common_name": "Yellow Bishop",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tricholaema_lacrymosa",
+      "common_name": "Spot-flanked Barbet",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Uraeginthus_ianthinogaster",
+      "common_name": "Purple Grenadier",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Gypohierax_angolensis",
+      "common_name": "Palm-nut Vulture",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Estrilda_astrild",
+      "common_name": "Common Waxbill",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Black-and-white mannikin",
+      "url": "https://en.wikipedia.org/wiki/Black-and-white_mannikin",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2493613"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

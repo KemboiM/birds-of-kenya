@@ -1,0 +1,124 @@
+{
+  "label": "Motacilla_aguimp",
+  "scientific_name": "Motacilla aguimp",
+  "common_name": "African Pied Wagtail",
+  "other_names": {},
+  "family": "Motacillidae",
+  "summary": "The African pied wagtail, or African wagtail, (Motacilla aguimp) is a species of bird in the family Motacillidae.",
+  "appearance": {
+    "description": "A striking black and white wagtail with black upperparts contrasting with white underparts, it has a white supercilium and a white patch in the folded wing. Juvenile birds are greyer, while birds of the nominate subspecies show grey flanks. They are 20 cm (7.9 in) long.",
+    "colors": "A striking black and white wagtail with black upperparts contrasting with white underparts, it has a white supercilium and a white patch in the folded wing.",
+    "wings": "A striking black and white wagtail with black upperparts contrasting with white underparts, it has a white supercilium and a white patch in the folded wing."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        20.0,
+        20.0
+      ]
+    },
+    "juvenile": {
+      "notes": "Juvenile birds are greyer, while birds of the nominate subspecies show grey flanks."
+    },
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The African pied wagtail is found in sub-Saharan Africa from the Eastern Cape north to extreme southern Egypt and from Guinea to western Eritrea and Somalia. It is a vagrant to Burkina Faso, Gambia, Mauritania,Uganda and the Western Cape.",
+    "kenya_regions": [
+      "Kenya",
+      "Rift Valley",
+      "Nairobi",
+      "Coast",
+      "Central",
+      "Western"
+    ],
+    "gbif_records_in_kenya": 43809
+  },
+  "look_alikes": [
+    {
+      "label": "Anas_sparsa",
+      "common_name": "African Black Duck",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Oenanthe_oenanthe",
+      "common_name": "Northern Wheatear",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Batis_molitor",
+      "common_name": "Chinspot Batis",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Laniarius_major",
+      "common_name": "Tropical Boubou",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ceryle_rudis",
+      "common_name": "Pied Kingfisher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Corvus_albus",
+      "common_name": "Pied Crow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lanius_excubitoroides",
+      "common_name": "Grey-backed Fiscal",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Nilaus_afer",
+      "common_name": "Brubru",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Plocepasser_mahali",
+      "common_name": "White-browed Sparrow-weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tockus_flavirostris",
+      "common_name": "Eastern Yellow-billed Hornbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lanius_humeralis",
+      "common_name": "Northern Fiscal",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "African pied wagtail",
+      "url": "https://en.wikipedia.org/wiki/African_pied_wagtail",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/7405711"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

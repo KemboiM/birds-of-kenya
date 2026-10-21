@@ -1,0 +1,130 @@
+{
+  "label": "Chroicocephalus_cirrocephalus",
+  "scientific_name": "Chroicocephalus cirrocephalus",
+  "common_name": "Grey-headed Gull",
+  "other_names": {},
+  "family": "Laridae",
+  "summary": "The grey-headed gull (Chroicocephalus cirrocephalus), also known as the grey-hooded gull, is a small species of gull which breeds patchily in South America and Africa south of the Sahara. It is not truly migratory, but is dispersive, becoming more widespread in winter. This species has occurred as a rare vagrant to the United States, Italy, and Spain.",
+  "appearance": {
+    "description": "The grey-headed gull is slightly larger than the black-headed gull at 42 cm length. The summer adult has a pale grey head, a grey body, slightly darker in tone than in black-headed gull, and red bill and legs. The black tips to the primary wing feathers have conspicuous white \"mirrors\".",
+    "colors": "The grey-headed gull (Chroicocephalus cirrocephalus), also known as the grey-hooded gull, is a small species of gull which breeds patchily in South America and Africa south of the Sahara. This species has occurred as a rare vagrant to the United States, Italy, and Spain.",
+    "wings": "The black tips to the primary wing feathers have conspicuous white \"mirrors\". The underwing is dark grey with black wingtips."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        42.0,
+        42.0
+      ]
+    },
+    "juvenile": {
+      "notes": "The eye is dark in immatures, but has a white iris in adults."
+    },
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Nakuru",
+      "Nyanza",
+      "Eastern",
+      "Nairobi"
+    ],
+    "gbif_records_in_kenya": 5934
+  },
+  "look_alikes": [
+    {
+      "label": "Bubulcus_ibis",
+      "common_name": "Western Cattle Egret",
+      "difference": null,
+      "times_confused": 3
+    },
+    {
+      "label": "Gelochelidon_nilotica",
+      "common_name": "Gull-billed Tern",
+      "difference": null,
+      "times_confused": 3
+    },
+    {
+      "label": "Pogoniulus_bilineatus",
+      "common_name": "Yellow-rumped Tinkerbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Chlidonias_hybrida",
+      "common_name": "Whiskered Tern",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ichthyaetus_hemprichii",
+      "common_name": "Sooty Gull",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Corvus_splendens",
+      "common_name": "House Crow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Streptopelia_decipiens",
+      "common_name": "Mourning Collared Dove",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Creatophora_cinerea",
+      "common_name": "Wattled Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Oena_capensis",
+      "common_name": "Namaqua Dove",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tringa_glareola",
+      "common_name": "Wood Sandpiper",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Alopochen_aegyptiaca",
+      "common_name": "Egyptian Goose",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Himantopus_himantopus",
+      "common_name": "Black-winged Stilt",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Grey-headed gull",
+      "url": "https://en.wikipedia.org/wiki/Grey-headed_gull",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/6065820"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "label": "Egretta_dimorpha",
+  "scientific_name": "Egretta dimorpha",
+  "common_name": "Dimorphic Egret",
+  "other_names": {},
+  "family": "Ardeidae",
+  "summary": "The dimorphic egret (Egretta dimorpha) is a species of heron in the family Ardeidae. It is found in Comoros, Kenya, Madagascar, Mayotte, Seychelles, and Tanzania. The dimorphic egret is sometimes considered as a subspecies of the western reef egret (Egretta gularis) or as a subspecies of the little egret (Egretta garzetta).",
+  "appearance": {
+    "description": null,
+    "colors": "The dimorphic egret is sometimes considered as a subspecies of the western reef egret (Egretta gularis) or as a subspecies of the little egret (Egretta garzetta).",
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Kenya",
+      "Kwale",
+      "Kilifi",
+      "Lamu",
+      "Mombasa",
+      "Marsabit"
+    ],
+    "gbif_records_in_kenya": 1165
+  },
+  "look_alikes": [
+    {
+      "label": "Ardea_cinerea",
+      "common_name": "Grey Heron",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bostrychia_hagedash",
+      "common_name": "Hadada Ibis",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Plegadis_falcinellus",
+      "common_name": "Glossy Ibis",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ardea_alba",
+      "common_name": "Great Egret",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Egretta_garzetta",
+      "common_name": "Little Egret",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Dimorphic egret",
+      "url": "https://en.wikipedia.org/wiki/Dimorphic_egret",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2480879"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

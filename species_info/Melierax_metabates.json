@@ -1,0 +1,88 @@
+{
+  "label": "Melierax_metabates",
+  "scientific_name": "Melierax metabates",
+  "common_name": "Dark Chanting Goshawk",
+  "other_names": {},
+  "family": "Accipitridae",
+  "summary": "The dark chanting goshawk (Melierax metabates) is a bird of prey in the family Accipitridae which is found across much of sub-Saharan Africa and southern Arabia, with an isolated and declining population in southern Morocco.",
+  "appearance": {
+    "description": "The dark chanting goshawk is a medium-sized, bulky hawk with an upright stance. The head, breast and upperparts are essentially dark grey, while the underparts, other than the breast, are white, finely barred with black. The wing primaries are black, and the tail has broad black and white bars.",
+    "colors": "The head, breast and upperparts are essentially dark grey, while the underparts, other than the breast, are white, finely barred with black. The wing primaries are black, and the tail has broad black and white bars.",
+    "wings": "The wing primaries are black, and the tail has broad black and white bars. Juveniles tend to have browner plumage reminiscent in colour and pattern to a buzzard Buteo spp but with the broad winged, long tailed silhouette of an accipiter."
+  },
+  "size": {
+    "adult": {
+      "mass_g": [
+        700.0,
+        840.0
+      ]
+    },
+    "juvenile": {
+      "notes": "Juveniles tend to have browner plumage reminiscent in colour and pattern to a buzzard Buteo spp but with the broad winged, long tailed silhouette of an accipiter."
+    },
+    "chick": null
+  },
+  "behaviour": "As its common name suggests, the dark chanting goshawk is a vocal bird, although less so than its two congeners. It often calls from a perch or in flight, making an accelerating series of piping notes and fluty whistles, which has been described as a song or chant and there are up to a dozen notes in a series peeu-peeu-pu-pu-pu. It also gives a high-pitched peee-u.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The dark chanting goshawk breeds in sub-Saharan Africa, but avoids the rainforests of the Congo Basin and the far south, where it is replaced by the pale chanting goshawk and east Africa where the eastern chanting goshawk seems to replace it. There are five currently recognised subspecies, Melierax metabates metabates: Senegal and the Gambia east to Ethiopia, south to the Democratic Republic of the Congo and northern Tanzania.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Narok",
+      "Eastern",
+      "Nyanza",
+      "Rift valley prov"
+    ],
+    "gbif_records_in_kenya": 2377
+  },
+  "look_alikes": [
+    {
+      "label": "Melierax_poliopterus",
+      "common_name": "Eastern Chanting Goshawk",
+      "difference": null,
+      "times_confused": 4
+    },
+    {
+      "label": "Kaupifalco_monogrammicus",
+      "common_name": "Lizard Buzzard",
+      "difference": null,
+      "times_confused": 3
+    },
+    {
+      "label": "Colius_leucocephalus",
+      "common_name": "White-headed Mousebird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Polyboroides_typus",
+      "common_name": "African Harrier-hawk",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Micronisus_gabar",
+      "common_name": "Gabar Goshawk",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Dark chanting goshawk",
+      "url": "https://en.wikipedia.org/wiki/Dark_chanting_goshawk",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2480733"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

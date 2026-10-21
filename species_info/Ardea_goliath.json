@@ -1,0 +1,116 @@
+{
+  "label": "Ardea_goliath",
+  "scientific_name": "Ardea goliath",
+  "common_name": "Goliath Heron",
+  "other_names": {},
+  "family": "Ardeidae",
+  "summary": "The Goliath heron (Ardea goliath), also known as the giant heron, is a very large wading bird in the heron family, Ardeidae. It is primarily found in sub-Saharan Africa, with smaller, declining numbers in Southwest and South Asia. Asian records are now very rare, but it is still known as an occasional vagrant.",
+  "appearance": {
+    "description": "It is the world's largest living heron, though the extinct Bennu heron may have been larger. The height of the goliath heron is 120–152 cm (3 ft 11 in – 5 ft 0 in), the wingspan is 185–230 cm (6 ft 1 in – 7 ft 7 in), and the weight is 4–5 kg (8.8–11.0 lb). The tarsus measures from 21.2 to 25.5 cm (8.3 to 10.0 in) and the wing chord averages around 60.7 cm (23.9 in) in length.",
+    "colors": "Males and females look similar, with an overall covering of slate-grey and chestnut feathers. The head and its bushy crest, face, back, and sides of the neck are chestnut.",
+    "wings": "The tarsus measures from 21.2 to 25.5 cm (8.3 to 10.0 in) and the wing chord averages around 60.7 cm (23.9 in) in length. The back and upper wings are slate-grey, with a chestnut shoulder patch at the bend of the wings when they are closed."
+  },
+  "size": {
+    "adult": {
+      "wingspan_cm": [
+        185.0,
+        230.0
+      ],
+      "mass_g": [
+        4000.0,
+        5000.0
+      ],
+      "length_cm": [
+        21.2,
+        60.7
+      ]
+    },
+    "juvenile": {
+      "notes": "Juveniles look similar to adults, but are paler."
+    },
+    "chick": {
+      "notes": "Although they can sometimes replace clutches, often only around 25% of eggs succeed in hatching due to various environmental conditions or predation. Around 62% of fledglings who successfully leave the nest survive to adulthood."
+    }
+  },
+  "behaviour": "Goliath herons are solitary foragers and are highly territorial towards other herons entering their feeding territories. On occasions, two may be seen together but these are most likely to be a breeding pair or immatures. A diurnal and often rather inactive feeder, this heron often hunts by standing in the shallows, intently watching the water at its feet.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The Goliath heron is very aquatic, even by heron standards, rarely venturing far from a water source and preferring to fly along waterways rather than move over land. Important habitats can include lakes, swamps, mangrove wetlands, reefs with cool water, sometimes river deltas.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Eastern",
+      "Coast",
+      "Kajiado",
+      "Nakuru"
+    ],
+    "gbif_records_in_kenya": 6437
+  },
+  "look_alikes": [
+    {
+      "label": "Ardea_purpurea",
+      "common_name": "Purple Heron",
+      "difference": null,
+      "times_confused": 3
+    },
+    {
+      "label": "Egretta_ardesiaca",
+      "common_name": "Black Heron",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Plegadis_falcinellus",
+      "common_name": "Glossy Ibis",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Anhinga_rufa",
+      "common_name": "African Darter",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ardea_cinerea",
+      "common_name": "Grey Heron",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ardea_melanocephala",
+      "common_name": "Black-headed Heron",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Leptoptilos_crumenifer",
+      "common_name": "Marabou Stork",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lophotis_gindiana",
+      "common_name": "Buff-crested Bustard",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Goliath heron",
+      "url": "https://en.wikipedia.org/wiki/Goliath_heron",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2480927"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

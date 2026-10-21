@@ -1,0 +1,71 @@
+{
+  "label": "Musophaga_rossae",
+  "scientific_name": "Musophaga rossae",
+  "common_name": "Ross's Turaco",
+  "other_names": {},
+  "family": "Musophagidae",
+  "summary": "Ross's turaco or Lady Ross's turaco (Tauraco rossae) is a mainly bluish-purple African bird of the turaco family, Musophagidae.",
+  "appearance": {
+    "description": null,
+    "colors": "Ross's turaco or Lady Ross's turaco (Tauraco rossae) is a mainly bluish-purple African bird of the turaco family, Musophagidae.",
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": {
+      "notes": "They lay 2 to 3 eggs which hatch after roughly 25 days. They then spend another 4 to 7 weeks nesting with their parents before they fledge."
+    }
+  },
+  "behaviour": "These birds are largely frugivorous, consuming mostly the fruits, flowers, and seeds of both wild and cultivated plants. They are known for being one of the biggest seed spreaders in the region. They will also eat small insects like termites and snails; especially around brooding season.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "This bird is mostly found in woodlands, open forest and riparian habitats in Angola, Botswana, Burundi, Cameroon, Central African Republic, Democratic Republic of the Congo, Gabon, Kenya, Rwanda, South Sudan, Tanzania, Uganda, and Zambia. They generally avoid heavily forested areas and their numbers remain strong despite the threat of habitat destruction due to agriculture expansion.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Western",
+      "Kenya",
+      "Nyanza",
+      "Kakamega",
+      "Narok"
+    ],
+    "gbif_records_in_kenya": 2338
+  },
+  "look_alikes": [
+    {
+      "label": "Corvus_splendens",
+      "common_name": "House Crow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Phoeniculus_purpureus",
+      "common_name": "Green Wood Hoopoe",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Zosterops_kikuyuensis",
+      "common_name": "Kikuyu White-eye",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Ross's turaco",
+      "url": "https://en.wikipedia.org/wiki/Ross%27s_turaco",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2475214"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

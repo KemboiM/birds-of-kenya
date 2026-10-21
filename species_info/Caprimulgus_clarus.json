@@ -1,0 +1,74 @@
+{
+  "label": "Caprimulgus_clarus",
+  "scientific_name": "Caprimulgus clarus",
+  "common_name": "Slender-tailed Nightjar",
+  "other_names": {},
+  "family": "Caprimulgidae",
+  "summary": "The slender-tailed nightjar (Caprimulgus clarus) is a species of nightjar in the family Caprimulgidae. It is found in parts of eastern and central Africa, including the Democratic Republic of the Congo, Ethiopia, Kenya, Somalia, South Sudan, Tanzania, and Uganda.",
+  "appearance": {
+    "description": "The slender-tailed nightjar is a medium-sized nightjar, measuring approximately 25–28 cm in length. It has cryptically patterned brown, grey, and black plumage, providing effective camouflage against dry ground and leaf litter. The head is relatively large and flattened, with a small bill and a very wide gape adapted for catching insects in flight.",
+    "colors": "It has cryptically patterned brown, grey, and black plumage, providing effective camouflage against dry ground and leaf litter. The tail is long and tapered, with the central feathers extending beyond the others, giving rise to the species’ common name.",
+    "wings": "Sexes are similar in appearance, though males may show slightly more prominent pale patches on the wings."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        25.0,
+        28.0
+      ]
+    },
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": "The slender-tailed nightjar is nocturnal and insectivorous. It forages mainly at dusk and during the night, capturing flying insects such as moths and beetles on the wing. During the day, it roosts on the ground or low branches, relying on its cryptic plumage for concealment.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The species is distributed across eastern and parts of central Africa. It inhabits dry, open environments including savanna, dry woodland, bushland, open scrub, rocky areas, and sparsely vegetated grassland.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Coast",
+      "Eastern",
+      "Baringo",
+      "Nyanza"
+    ],
+    "gbif_records_in_kenya": 3299
+  },
+  "look_alikes": [
+    {
+      "label": "Otus_senegalensis",
+      "common_name": "African Scops Owl",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Passer_domesticus",
+      "common_name": "House Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pseudonigrita_arnaudi",
+      "common_name": "Grey-capped Social Weaver",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Slender-tailed nightjar",
+      "url": "https://en.wikipedia.org/wiki/Slender-tailed_nightjar",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2496937"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

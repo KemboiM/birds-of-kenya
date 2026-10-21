@@ -1,0 +1,160 @@
+{
+  "label": "Gyps_africanus",
+  "scientific_name": "Gyps africanus",
+  "common_name": "White-backed Vulture",
+  "other_names": {},
+  "family": "Accipitridae",
+  "summary": "The white-backed vulture (Gyps africanus) is an Old World vulture in the family Accipitridae, which also includes eagles, kites, buzzards and hawks. It is the most common vulture species in the continent of Africa.",
+  "appearance": {
+    "description": "The white-backed vulture is a typical vulture, with only down feathers on the head and neck, very broad wings and short tail feathers. It has a white neck ruff. The adult's whitish back contrasts with the otherwise dark plumage.",
+    "colors": "The white-backed vulture (Gyps africanus) is an Old World vulture in the family Accipitridae, which also includes eagles, kites, buzzards and hawks. The white-backed vulture is a typical vulture, with only down feathers on the head and neck, very broad wings and short tail feathers.",
+    "wings": "The white-backed vulture is a typical vulture, with only down feathers on the head and neck, very broad wings and short tail feathers."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        78.0,
+        225.0
+      ],
+      "mass_g": [
+        4200.0,
+        7200.0
+      ]
+    },
+    "juvenile": {
+      "notes": "Juveniles are largely dark."
+    },
+    "chick": {
+      "notes": "The incubation period is around 8 weeks and the nestling period is about 4–5 months."
+    }
+  },
+  "behaviour": "=== Diet and feeding === White-backed vultures are obligate scavengers with a high level of specialization on carrion and bone fragments. Their primary food sources are the carcasses of large, grazing animals found in the wooded savannahs where it lives. This includes warthogs, zebras, gazelles, rhinoceroses, buffalos especially African buffalos, ostriches and even livestock.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The white-backed vulture occurs from Senegal, Gambia and Mali in the west, throughout the Sahel region to Ethiopia and Somalia in the east, through East Africa into Mozambique, Zimbabwe, Botswana, Namibia and South Africa in the south. It is the most widespread and common vulture in Africa with an estimated range of 24,300,000 km2 (9,400,000 sq mi), but has undergone rapid population declines in recent years.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Nairobi",
+      "Kenya",
+      "Eastern",
+      "Coast",
+      "Narok"
+    ],
+    "gbif_records_in_kenya": 16998
+  },
+  "look_alikes": [
+    {
+      "label": "Gyps_rueppellii",
+      "common_name": "Rüppell's Vulture",
+      "difference": null,
+      "times_confused": 7
+    },
+    {
+      "label": "Polemaetus_bellicosus",
+      "common_name": "Martial Eagle",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Torgos_tracheliotos",
+      "common_name": "Lappet-faced Vulture",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Emberiza_tahapisi",
+      "common_name": "Cinnamon-breasted Bunting",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Trigonoceps_occipitalis",
+      "common_name": "White-headed Vulture",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tricholaema_lacrymosa",
+      "common_name": "Spot-flanked Barbet",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lophoceros_nasutus",
+      "common_name": "African Grey Hornbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Phoeniculus_purpureus",
+      "common_name": "Green Wood Hoopoe",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Fulica_cristata",
+      "common_name": "Red-knobbed Coot",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Passer_rufocinctus",
+      "common_name": "Kenya Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Streptopelia_semitorquata",
+      "common_name": "Red-eyed Dove",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Alopochen_aegyptiaca",
+      "common_name": "Egyptian Goose",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Anhinga_rufa",
+      "common_name": "African Darter",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Corvus_rhipidurus",
+      "common_name": "Fan-tailed Raven",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Leptoptilos_crumenifer",
+      "common_name": "Marabou Stork",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Milvus_migrans",
+      "common_name": "Black Kite",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "White-backed vulture",
+      "url": "https://en.wikipedia.org/wiki/White-backed_vulture",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/9487001"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

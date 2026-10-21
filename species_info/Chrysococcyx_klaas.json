@@ -1,0 +1,110 @@
+{
+  "label": "Chrysococcyx_klaas",
+  "scientific_name": "Chrysococcyx klaas",
+  "common_name": "Klaas's Cuckoo",
+  "other_names": {},
+  "family": "Cuculidae",
+  "summary": "Klaas's cuckoo (Chrysococcyx klaas) is a species of cuckoo in the family Cuculidae which is native to the wooded regions of sub-Saharan Africa. The specific name honours Klaas, the Khoikhoi man who collected the type specimen.",
+  "appearance": {
+    "description": "Klaas's cuckoo is 16–18 cm (6.3–7.1 inches) in length. The species exhibits sexual dimorphism. Males have a glossy green body with few markings and plain white underparts.",
+    "colors": "Males have a glossy green body with few markings and plain white underparts. Females have a bronze-brown body, greenish wing coverts and faintly barred white underparts.",
+    "wings": "Females have a bronze-brown body, greenish wing coverts and faintly barred white underparts."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        16.0,
+        18.0
+      ]
+    },
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The species occurs throughout sub-Saharan Africa with the exception of very arid areas in the south-west.",
+    "kenya_regions": [
+      "Kenya",
+      "Rift Valley",
+      "Nairobi",
+      "Coast",
+      "Western",
+      "Central"
+    ],
+    "gbif_records_in_kenya": 12535
+  },
+  "look_alikes": [
+    {
+      "label": "Bycanistes_bucinator",
+      "common_name": "Trumpeter Hornbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Chalcomitra_amethystina",
+      "common_name": "Amethyst Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Dendropicos_spodocephalus",
+      "common_name": "Eastern Grey Woodpecker",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Dryoscopus_cubla",
+      "common_name": "Black-backed Puffback",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tockus_deckeni",
+      "common_name": "Von Der Decken's Hornbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Trachyphonus_darnaudii",
+      "common_name": "D'Arnaud's Barbet",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Vidua_macroura",
+      "common_name": "Pin-tailed Whydah",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Nectarinia_kilimensis",
+      "common_name": "Bronze Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Streptopelia_semitorquata",
+      "common_name": "Red-eyed Dove",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Klaas's cuckoo",
+      "url": "https://en.wikipedia.org/wiki/Klaas%27s_cuckoo",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2496316"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

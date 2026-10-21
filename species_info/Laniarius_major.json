@@ -1,0 +1,142 @@
+{
+  "label": "Laniarius_major",
+  "scientific_name": "Laniarius major",
+  "common_name": "Tropical Boubou",
+  "other_names": {},
+  "family": "Malaconotidae",
+  "summary": "The tropical boubou or bell shrike (Laniarius aethiopicus) is a medium-sized passerine bird of sub-Saharan Africa. This very diverse \"species\" with its numerous subspecies and morphs has since long posed a taxonomic problem, and recent research suggests it is a cryptic species complex that has now been split into several species.",
+  "appearance": {
+    "description": "The tropical boubou is fairly large for its family (bushshrikes), measuring 23–25 cm in length. Its weight can vary between about 38-70 g, but typically adults weigh between 50 and 60 g. Females are on average a bit smaller than males, but individual variation is so large that for most practical purposes the sexes seem to be of identical size.",
+    "colors": "Not only are males and females the same size, they have identical plumage too. The adults' upper parts and tail are glossy blue-black except for concealed white spots on the rump, visible only when the wings are spread and the rump feathers are erected.",
+    "wings": "The wing measures about 98 mm on average (between 85 and 110), the tail is a mere two millimetres longer both on average and as regards variation. The adults' upper parts and tail are glossy blue-black except for concealed white spots on the rump, visible only when the wings are spread and the rump feathers are erected."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        23.0,
+        25.0
+      ],
+      "mass_g": [
+        38.0,
+        70.0
+      ]
+    },
+    "juvenile": {
+      "notes": "Immature birds independent from their parents have lost most of the mottling (except on the wing coverts) and barring, but their wing stripe and underside are still dull white, shading to brown on the flanks; any white tail feather tips appear at this stage."
+    },
+    "chick": {
+      "notes": "The eggs hatch after 14–16 days, and nestlings take again as long to fledge."
+    }
+  },
+  "behaviour": "This species is heard more often than seen, but its calls often help to locate it visually. To vocalize they move higher off the ground than during their usual activities, and may perch on an exposed site. They also nod their head and bow their body when calling, making them even conspicuous sometimes.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The tropical boubou occurs from about 10° northern latitude south to the Limpopo River in South Africa. In the western part of its range, it is found as a regular breeder from Côte d'Ivoire eastwards to about 5° N; it is not found further south along the Atlantic coast and in the inner Congo Basin, but occurs on the Scarp of Angola.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Nairobi",
+      "Central",
+      "Eastern",
+      "Western",
+      "Nyanza"
+    ],
+    "gbif_records_in_kenya": 16518
+  },
+  "look_alikes": [
+    {
+      "label": "Lanius_humeralis",
+      "common_name": "Northern Fiscal",
+      "difference": null,
+      "times_confused": 4
+    },
+    {
+      "label": "Dryoscopus_cubla",
+      "common_name": "Black-backed Puffback",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Batis_molitor",
+      "common_name": "Chinspot Batis",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Lanius_collurio",
+      "common_name": "Red-backed Shrike",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Turdoides_jardineii",
+      "common_name": "Arrow-marked Babbler",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Actophilornis_africanus",
+      "common_name": "African Jacana",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Creatophora_cinerea",
+      "common_name": "Wattled Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Laniarius_funebris",
+      "common_name": "Slate-colored Boubou",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Motacilla_aguimp",
+      "common_name": "African Pied Wagtail",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tauraco_hartlaubi",
+      "common_name": "Hartlaub's Turaco",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Prinia_subflava",
+      "common_name": "Tawny-flanked Prinia",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ceryle_rudis",
+      "common_name": "Pied Kingfisher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Corythaixoides_leucogaster",
+      "common_name": "White-bellied Go-away-bird",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Tropical boubou",
+      "url": "https://en.wikipedia.org/wiki/Tropical_boubou",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/5845151"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "label": "Corvus_albicollis",
+  "scientific_name": "Corvus albicollis",
+  "common_name": "White-necked Raven",
+  "other_names": {},
+  "family": "Corvidae",
+  "summary": "The white-necked raven (Corvus albicollis), also known as the collared raven, is a species of raven native to eastern and southern Africa. It is somewhat smaller (50–54 cm in length) than the common raven or its nearest relative, the thick-billed raven C. crassirostris.",
+  "appearance": {
+    "description": "The white-necked raven has a much shorter tail than the common raven, as well as a deeper bill with a white tip that is almost as strongly arched as that of the thick-billed raven. Though predominantly black, the throat, breast and neck show a faint purple gloss. There is a large patch of white feathers on the nape of the neck.",
+    "colors": "The white-necked raven (Corvus albicollis), also known as the collared raven, is a species of raven native to eastern and southern Africa. The white-necked raven has a much shorter tail than the common raven, as well as a deeper bill with a white tip that is almost as strongly arched as that of the thick-billed raven.",
+    "wings": "It soars well, with shallower wingbeats than other Corvidae."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        50.0,
+        54.0
+      ]
+    },
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": "The species is omnivorous, feeding on both vegetable and animal matter. Most of this bird's food is obtained from the ground, but it will take food from trees as well. It has been seen to drop a tortoise from a height on to hard ground, preferably on rocks, and then swoop down to eat it, or even pick it up again if not sufficiently broken.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "It occurs in eastern and southern Africa in open, mountainous country. It is quite commonly found in small towns and villages as long as there are mountains or hills for roosting and nesting relatively nearby.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Coast",
+      "Kenya",
+      "Eastern",
+      "Central",
+      "Western"
+    ],
+    "gbif_records_in_kenya": 1330
+  },
+  "look_alikes": [
+    {
+      "label": "Corvus_splendens",
+      "common_name": "House Crow",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Corvus_albus",
+      "common_name": "Pied Crow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Corvus_capensis",
+      "common_name": "Cape Crow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Torgos_tracheliotos",
+      "common_name": "Lappet-faced Vulture",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Anastomus_lamelligerus",
+      "common_name": "African Openbill",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "White-necked raven",
+      "url": "https://en.wikipedia.org/wiki/White-necked_raven",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2482478"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

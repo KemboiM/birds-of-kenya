@@ -1,0 +1,164 @@
+{
+  "label": "Leptoptilos_crumenifer",
+  "scientific_name": "Leptoptilos crumenifer",
+  "common_name": "Marabou Stork",
+  "other_names": {},
+  "family": "Ciconiidae",
+  "summary": "The marabou stork (Leptoptilos crumenifer) is a large wading bird in the stork family Ciconiidae native to sub-Saharan Africa. It breeds in both wet and arid habitats, often near human habitation, especially landfill sites. It is sometimes called the \"undertaker bird\" due to its shape from behind: cloak-like wings and back, skinny white legs, and sometimes a large white mass of \"hair\".",
+  "appearance": {
+    "description": "The marabou stork is a massive bird: large specimens are thought to reach a height of 152 centimetres (5 feet) and a weight of 9 kg (20 lb). A wingspan of 3.7 m (12 ft) was accepted by Fisher and Peterson, who ranked the species as having the largest wing-spread of any living bird. Even higher measurements of up to 4.06 m (13.3 ft) have been reported, although no measurement over 3.20 m (10.5 ft) has been verified.",
+    "colors": "It is sometimes called the \"undertaker bird\" due to its shape from behind: cloak-like wings and back, skinny white legs, and sometimes a large white mass of \"hair\". It has often been credited with the largest wingspan of any land bird, with an average of 2.6 metres (8.5 ft) and some recorded examples of up to 3.2 metres (10 ft).",
+    "wings": "It is sometimes called the \"undertaker bird\" due to its shape from behind: cloak-like wings and back, skinny white legs, and sometimes a large white mass of \"hair\". It has a huge bill, a pink gular sac at its throat (crumenifer(us) means \"carrier of a pouch for money\"), a neck ruff, and white legs and black wings."
+  },
+  "size": {
+    "adult": {
+      "mass_g": [
+        9000.0,
+        9000.0
+      ],
+      "wingspan_cm": [
+        370.0,
+        370.0
+      ],
+      "length_cm": [
+        120.0,
+        130.0
+      ]
+    },
+    "juvenile": {
+      "notes": "The sexes are alike, but the young bird is browner and has a smaller bill."
+    },
+    "chick": {
+      "notes": "The female lays two to three eggs in a small nest made of sticks; eggs hatch after an incubation period of 30 days."
+    }
+  },
+  "behaviour": "Like most storks, the marabou is gregarious and a colonial breeder. In the African dry season (when food is more readily available as the pools shrink), it builds a tree nest in which two or three eggs are laid. It is known to be quite ill-tempered.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Rift Valley",
+      "Nairobi",
+      "Eastern",
+      "Coast",
+      "Nakuru",
+      "Narok"
+    ],
+    "gbif_records_in_kenya": 21857
+  },
+  "look_alikes": [
+    {
+      "label": "Ciconia_abdimii",
+      "common_name": "Abdim's Stork",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Balearica_regulorum",
+      "common_name": "Grey Crowned Crane",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Struthio_camelus",
+      "common_name": "Common Ostrich",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Ciconia_nigra",
+      "common_name": "Black Stork",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lanius_dorsalis",
+      "common_name": "Taita Fiscal",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ciconia_microscelis",
+      "common_name": "African Woolly-necked Stork",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Streptopelia_decipiens",
+      "common_name": "Mourning Collared Dove",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Gyps_rueppellii",
+      "common_name": "Rüppell's Vulture",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ardea_goliath",
+      "common_name": "Goliath Heron",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cecropis_abyssinica",
+      "common_name": "Lesser Striped Swallow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Gyps_africanus",
+      "common_name": "White-backed Vulture",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ardea_purpurea",
+      "common_name": "Purple Heron",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pelecanus_rufescens",
+      "common_name": "Pink-backed Pelican",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Turtur_chalcospilos",
+      "common_name": "Emerald-spotted Wood Dove",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Mycteria_ibis",
+      "common_name": "Yellow-billed Stork",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pelecanus_onocrotalus",
+      "common_name": "Great White Pelican",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Marabou stork",
+      "url": "https://en.wikipedia.org/wiki/Marabou_stork",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/9772663"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

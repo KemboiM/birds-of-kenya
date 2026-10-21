@@ -1,0 +1,69 @@
+{
+  "label": "Ptilopsis_leucotis",
+  "scientific_name": "Ptilopsis leucotis",
+  "common_name": "Northern White-faced Owl",
+  "other_names": {},
+  "family": "Strigidae",
+  "summary": "The northern white-faced owl (Ptilopsis leucotis) is a species of owl in the family Strigidae. The southern white-faced owl (P. granti) was formerly included in this species and the two were known as the white-faced scops-owl. It is found in a band across Africa between the Sahara and the Equator.",
+  "appearance": {
+    "description": null,
+    "colors": "The northern white-faced owl (Ptilopsis leucotis) is a species of owl in the family Strigidae. The southern white-faced owl (P. granti) was formerly included in this species and the two were known as the white-faced scops-owl.",
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Baringo",
+      "Eastern",
+      "Nyanza",
+      "Rift Valley Province"
+    ],
+    "gbif_records_in_kenya": 1049
+  },
+  "look_alikes": [
+    {
+      "label": "Bubo_cinerascens",
+      "common_name": "Greyish Eagle-owl",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Corythaixoides_leucogaster",
+      "common_name": "White-bellied Go-away-bird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Terpsiphone_viridis",
+      "common_name": "African Paradise Flycatcher",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Northern white-faced owl",
+      "url": "https://en.wikipedia.org/wiki/Northern_white-faced_owl",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/5232239"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

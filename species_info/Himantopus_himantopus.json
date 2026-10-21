@@ -1,0 +1,126 @@
+{
+  "label": "Himantopus_himantopus",
+  "scientific_name": "Himantopus himantopus",
+  "common_name": "Black-winged Stilt",
+  "other_names": {
+    "sw": "Msese Milonjo"
+  },
+  "family": "Recurvirostridae",
+  "summary": "The black-winged stilt (Himantopus himantopus) is a widely distributed, very long-legged wader in the avocet and stilt family Recurvirostridae. Its scientific name, Himantopus himantopus, is sometimes used to generalize a single, almost cosmopolitan species. Alternatively, it is restricted to the form that is widespread in Europe, Asia and Africa, which equals the nominate group of H. himantopus sensu lato.",
+  "appearance": {
+    "description": "Adults are 33–36 cm (13–14 in) long, with long, pink legs, and a long, rather thin black bill. The birds are generally black above and white below, with a white head and neck (with a varying amount of black, species-dependent). Males have a black back, often with a greenish gloss or sheen.",
+    "colors": "Meanwhile, the black-necked (H. mexicanus) and white-backed stilts (H. melanurus) both inhabit the Americas; the pied stilt (H. leucocephalus) ranges from Australia and New Zealand. Adults are 33–36 cm (13–14 in) long, with long, pink legs, and a long, rather thin black bill.",
+    "wings": "The black-winged stilt (Himantopus himantopus) is a widely distributed, very long-legged wader in the avocet and stilt family Recurvirostridae. Immature black-winged stilt are grey and have a markedly sandy hue on their wings, with light feather fringes appearing as a whitish line in flight."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        33.0,
+        36.0
+      ]
+    },
+    "juvenile": {
+      "notes": "Immature black-winged stilt are grey and have a markedly sandy hue on their wings, with light feather fringes appearing as a whitish line in flight."
+    },
+    "chick": null
+  },
+  "behaviour": "The breeding habitat of all these stilts is marshes, shallow lakes and ponds. Some populations are migratory and move to the ocean coasts in winter; those in warmer regions are generally resident or short-range vagrants. In Europe, the black-winged stilt is a regular spring overshoot vagrant north of its normal range, occasionally remaining to breed in northern European countries.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Nairobi",
+      "Coast",
+      "Central",
+      "Eastern"
+    ],
+    "gbif_records_in_kenya": 12217
+  },
+  "look_alikes": [
+    {
+      "label": "Tringa_stagnatilis",
+      "common_name": "Marsh Sandpiper",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Anas_capensis",
+      "common_name": "Cape Teal",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Motacilla_flava",
+      "common_name": "Western Yellow Wagtail",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Phoeniculus_purpureus",
+      "common_name": "Green Wood Hoopoe",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Vanellus_crassirostris",
+      "common_name": "Long-toed Lapwing",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Actitis_hypoleucos",
+      "common_name": "Common Sandpiper",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Calidris_minuta",
+      "common_name": "Little Stint",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Chroicocephalus_cirrocephalus",
+      "common_name": "Grey-headed Gull",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ciconia_microscelis",
+      "common_name": "African Woolly-necked Stork",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Platalea_alba",
+      "common_name": "African Spoonbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tringa_nebularia",
+      "common_name": "Common Greenshank",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Black-winged stilt",
+      "url": "https://en.wikipedia.org/wiki/Black-winged_stilt",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/5229126"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

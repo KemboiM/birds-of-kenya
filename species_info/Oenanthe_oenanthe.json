@@ -1,0 +1,126 @@
+{
+  "label": "Oenanthe_oenanthe",
+  "scientific_name": "Oenanthe oenanthe",
+  "common_name": "Northern Wheatear",
+  "other_names": {},
+  "family": "Muscicapidae",
+  "summary": "The northern wheatear or wheatear (Oenanthe oenanthe) is a small passerine bird in the Old World flycatcher family. It is the most widespread member of the wheatear genus Oenanthe in Europe and North and Central Asia. The northern wheatear is a migratory insectivorous species breeding in open stony country in Europe and east across the Palearctic with footholds in northeastern Canada and Greenland as well as in northwestern Canada and Alaska.",
+  "appearance": {
+    "description": "The northern wheatear is larger than the European robin at 14.5–16 cm (5.7–6.3 in) in length. The northern wheatear also has a wingspan of 26–32 cm and weighs 17–30 g. Both sexes have a white rump and tail, with a black inverted T-pattern at the end of the tail.",
+    "colors": "The northern wheatear is a migratory insectivorous species breeding in open stony country in Europe and east across the Palearctic with footholds in northeastern Canada and Greenland as well as in northwestern Canada and Alaska. Both sexes have a white rump and tail, with a black inverted T-pattern at the end of the tail.",
+    "wings": "The plumage of the summer male has grey upperparts, buff throat and black wings and face mask. In autumn it resembles the female apart from the black wings."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        14.5,
+        16.0
+      ],
+      "wingspan_cm": [
+        26.0,
+        32.0
+      ],
+      "mass_g": [
+        17.0,
+        30.0
+      ]
+    },
+    "juvenile": null,
+    "chick": {
+      "notes": "The eggs hatch after approximately 13 days. The chicks are fed by both parents and are brooded by the female for the first five or six days."
+    }
+  },
+  "behaviour": "=== Migration === The northern wheatear makes one of the longest journeys of any small bird, crossing ocean, ice, and desert. It migrates from Sub-Saharan Africa in the spring over a vast area of the Northern Hemisphere that includes northern and central Asia, Europe, Greenland, Alaska, and parts of Canada. In autumn all return to Africa, where their ancestors had wintered.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Eastern",
+      "Coast",
+      "Nairobi",
+      "Central"
+    ],
+    "gbif_records_in_kenya": 8845
+  },
+  "look_alikes": [
+    {
+      "label": "Oenanthe_isabellina",
+      "common_name": "Isabelline Wheatear",
+      "difference": null,
+      "times_confused": 9
+    },
+    {
+      "label": "Motacilla_capensis",
+      "common_name": "Cape Wagtail",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Saxicola_rubetra",
+      "common_name": "Whinchat",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pseudonigrita_cabanisi",
+      "common_name": "Black-capped Social Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lanius_humeralis",
+      "common_name": "Northern Fiscal",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Motacilla_aguimp",
+      "common_name": "African Pied Wagtail",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Motacilla_flava",
+      "common_name": "Western Yellow Wagtail",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Passer_rufocinctus",
+      "common_name": "Kenya Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pseudonigrita_arnaudi",
+      "common_name": "Grey-capped Social Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Turtur_chalcospilos",
+      "common_name": "Emerald-spotted Wood Dove",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Northern wheatear",
+      "url": "https://en.wikipedia.org/wiki/Northern_wheatear",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/5231240"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

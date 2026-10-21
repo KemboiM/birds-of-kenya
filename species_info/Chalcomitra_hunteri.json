@@ -1,0 +1,75 @@
+{
+  "label": "Chalcomitra_hunteri",
+  "scientific_name": "Chalcomitra hunteri",
+  "common_name": "Hunter's Sunbird",
+  "other_names": {},
+  "family": "Nectariniidae",
+  "summary": "Hunter's sunbird (Chalcomitra hunteri) is a species of bird in the family Nectariniidae. It is found in Ethiopia, Kenya, Somalia, South Sudan, Tanzania, and Uganda.",
+  "appearance": {
+    "description": null,
+    "colors": null,
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Rift Valley",
+      "Coast",
+      "Kenya",
+      "Eastern",
+      "North-Eastern",
+      "Coast Province"
+    ],
+    "gbif_records_in_kenya": 4749
+  },
+  "look_alikes": [
+    {
+      "label": "Chalcomitra_senegalensis",
+      "common_name": "Scarlet-chested Sunbird",
+      "difference": null,
+      "times_confused": 3
+    },
+    {
+      "label": "Chalcomitra_amethystina",
+      "common_name": "Amethyst Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Phoeniculus_purpureus",
+      "common_name": "Green Wood Hoopoe",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_spekei",
+      "common_name": "Speke's Weaver",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Hunter's sunbird",
+      "url": "https://en.wikipedia.org/wiki/Hunter%27s_sunbird",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/7340862"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

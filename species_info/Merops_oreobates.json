@@ -1,0 +1,141 @@
+{
+  "label": "Merops_oreobates",
+  "scientific_name": "Merops oreobates",
+  "common_name": "Cinnamon-chested Bee-eater",
+  "other_names": {},
+  "family": "Meropidae",
+  "summary": "The cinnamon-chested bee-eater (Merops oreobates) is a species of bird in the family Meropidae. It is mainly native to the Albertine Rift montane forests and the East African montane forests of East Africa, in the regions surrounding Lake Victoria.",
+  "appearance": {
+    "description": "The species measures 22 centimetres (8.7 in) in length and weighs 17–38 grams (0.60–1.34 oz). The sexes are alike. They have bright green heads, upper parts, and tails; their chins and throats are yellow and outlined in black, with a white extension to the side; their breasts are cinnamon-brown, darkening towards the belly.",
+    "colors": "They have bright green heads, upper parts, and tails; their chins and throats are yellow and outlined in black, with a white extension to the side; their breasts are cinnamon-brown, darkening towards the belly. The tail is blackish with an orange base and white tip when seen from the front, while from the back it is mainly green, with black edges visible when it is flared.",
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": "This bird lives in upland regions, usually between 1,800 and 2,300 metres (5,900 and 7,500 ft), and can be found associated with wooded hillsides and forest edges, clearings, plantations, and gardens. Its diet consists mainly of honeybees although it also eats moths, butterflies, dragonflies, beetles, and other flying insects. It seems to be an adaptable species and able to withstand loss of its forest habitat.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Kenya",
+      "Nairobi",
+      "Central",
+      "Rift Valley",
+      "Western",
+      "Eastern"
+    ],
+    "gbif_records_in_kenya": 18313
+  },
+  "look_alikes": [
+    {
+      "label": "Merops_pusillus",
+      "common_name": "Little Bee-eater",
+      "difference": null,
+      "times_confused": 4
+    },
+    {
+      "label": "Eurystomus_glaucurus",
+      "common_name": "Broad-billed Roller",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Chlorophoneus_sulfureopectus",
+      "common_name": "Orange-breasted Bushshrike",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Malaconotus_blanchoti",
+      "common_name": "Grey-headed Bushshrike",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Merops_superciliosus",
+      "common_name": "Olive Bee-eater",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Apaloderma_narina",
+      "common_name": "Narina Trogon",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Merops_apiaster",
+      "common_name": "European Bee-eater",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Turdoides_jardineii",
+      "common_name": "Arrow-marked Babbler",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Anaplectes_rubriceps",
+      "common_name": "Red-headed Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Chalcomitra_senegalensis",
+      "common_name": "Scarlet-chested Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cossypha_heuglini",
+      "common_name": "White-browed Robin-chat",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Saxicola_torquatus",
+      "common_name": "African Stonechat",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tockus_erythrorhynchus",
+      "common_name": "Northern Red-billed Hornbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cecropis_abyssinica",
+      "common_name": "Lesser Striped Swallow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Uraeginthus_ianthinogaster",
+      "common_name": "Purple Grenadier",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Cinnamon-chested bee-eater",
+      "url": "https://en.wikipedia.org/wiki/Cinnamon-chested_bee-eater",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2475446"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

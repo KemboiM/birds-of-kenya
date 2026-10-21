@@ -1,0 +1,86 @@
+{
+  "label": "Struthio_molybdophanes",
+  "scientific_name": "Struthio molybdophanes",
+  "common_name": "Somali Ostrich",
+  "other_names": {},
+  "family": "Struthionidae",
+  "summary": "The Somali ostrich (Struthio molybdophanes), also known as the blue-necked ostrich, is a large flightless bird native to the Horn of Africa. It is one of two living species of ostriches, the other being the common ostrich. It was also previously considered a subspecies of the common ostrich, but was identified as a distinct species in 2014.",
+  "appearance": {
+    "description": "Though generally similar to other ostriches, the skin of the neck and thighs of the Somali ostrich is blue-tinged grey (rather than pinkish), becoming brighter blue on the male during the mating season. The neck lacks any broad white ring. The wing primary and tail feathers are white in males, and brown in females.",
+    "colors": "The Somali ostrich (Struthio molybdophanes), also known as the blue-necked ostrich, is a large flightless bird native to the Horn of Africa. It was also previously considered a subspecies of the common ostrich, but was identified as a distinct species in 2014.",
+    "wings": "The wing primary and tail feathers are white in males, and brown in females."
+  },
+  "size": {
+    "adult": {
+      "mass_g": [
+        105000.0,
+        105000.0
+      ]
+    },
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": "The Somali ostrich is differentiated ecologically from the common ostrich, with which there is some range overlap, by preferring bushier, more thickly vegetated areas, where it feeds largely by browsing, whereas the common ostrich is mainly a grazer on open savanna. There are also reports of interbreeding difficulties between the two taxa.",
+  "can_fly": false,
+  "where_found": {
+    "habitat": "The Somali ostrich is mostly found in the Horn of Africa, especially in north-eastern Ethiopia, southern Djibouti, most of Kenya, and across most of Somalia.",
+    "kenya_regions": [
+      "Eastern",
+      "Rift Valley",
+      "Kenya",
+      "Coast",
+      "Samburu",
+      "Isiolo"
+    ],
+    "gbif_records_in_kenya": 4265
+  },
+  "look_alikes": [
+    {
+      "label": "Struthio_camelus",
+      "common_name": "Common Ostrich",
+      "difference": null,
+      "times_confused": 10
+    },
+    {
+      "label": "Oenanthe_lugubris",
+      "common_name": "Abyssinian Wheatear",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lissotis_melanogaster",
+      "common_name": "Black-bellied Bustard",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Eupodotis_senegalensis",
+      "common_name": "White-bellied Bustard",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lophotis_gindiana",
+      "common_name": "Buff-crested Bustard",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Somali ostrich",
+      "url": "https://en.wikipedia.org/wiki/Somali_ostrich",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2495149"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "label": "Sylvietta_brachyura",
+  "scientific_name": "Sylvietta brachyura",
+  "common_name": "Northern Crombec",
+  "other_names": {},
+  "family": "Macrosphenidae",
+  "summary": "The northern crombec (Sylvietta brachyura) is a species of African warbler, formerly placed in the family Sylviidae. It is found in Benin, Burkina Faso, Cameroon, Central African Republic, Chad, Democratic Republic of the Congo, Ivory Coast, Djibouti, Eritrea, Ethiopia, Gambia, Ghana, Guinea, Guinea-Bissau, Kenya, Mali, Mauritania, Niger, Nigeria, Senegal, Sierra Leone, Somalia, Sudan, Tanzania, Togo, and Uganda. Its natural habitat is dry savanna.",
+  "appearance": {
+    "description": null,
+    "colors": null,
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Rift Valley",
+      "Eastern",
+      "Kenya",
+      "Coast",
+      "Baringo",
+      "North-Eastern"
+    ],
+    "gbif_records_in_kenya": 4195
+  },
+  "look_alikes": [
+    {
+      "label": "Sylvietta_whytii",
+      "common_name": "Red-faced Crombec",
+      "difference": null,
+      "times_confused": 2
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Northern crombec",
+      "url": "https://en.wikipedia.org/wiki/Northern_crombec",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2493538"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

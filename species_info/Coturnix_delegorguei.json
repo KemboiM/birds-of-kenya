@@ -1,0 +1,63 @@
+{
+  "label": "Coturnix_delegorguei",
+  "scientific_name": "Coturnix delegorguei",
+  "common_name": "Harlequin Quail",
+  "other_names": {},
+  "family": "Phasianidae",
+  "summary": "The harlequin quail (Coturnix delegorguei) is a species of bird in the family Phasianidae. It occurs in sub-Saharan Africa and in the Arabian Peninsula. The species is named after the collector, Adulphe Delegorgue.",
+  "appearance": {
+    "description": null,
+    "colors": null,
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Rift Valley",
+      "Coast",
+      "Kenya",
+      "Eastern",
+      "Nairobi",
+      "Central"
+    ],
+    "gbif_records_in_kenya": 2793
+  },
+  "look_alikes": [
+    {
+      "label": "Ortygornis_sephaena",
+      "common_name": "Crested Francolin",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tricholaema_diademata",
+      "common_name": "Red-fronted Barbet",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Harlequin quail",
+      "url": "https://en.wikipedia.org/wiki/Harlequin_quail",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2474141"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

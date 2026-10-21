@@ -1,0 +1,69 @@
+{
+  "label": "Eurillas_latirostris",
+  "scientific_name": "Eurillas latirostris",
+  "common_name": "Yellow-whiskered Greenbul",
+  "other_names": {},
+  "family": "Pycnonotidae",
+  "summary": "The yellow-whiskered greenbul or yellow-whiskered bulbul (Eurillas latirostris) is a species of the bulbul family of passerine birds. It is found in western and central Africa. Its natural habitats are subtropical or tropical dry forest, subtropical or tropical moist lowland forest, subtropical or tropical moist montane forest, and subtropical or tropical moist shrubland.",
+  "appearance": {
+    "description": null,
+    "colors": "The yellow-whiskered greenbul or yellow-whiskered bulbul (Eurillas latirostris) is a species of the bulbul family of passerine birds.",
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Kenya",
+      "Western",
+      "Central",
+      "Nairobi",
+      "Rift Valley",
+      "Eastern"
+    ],
+    "gbif_records_in_kenya": 9710
+  },
+  "look_alikes": [
+    {
+      "label": "Camaroptera_brachyura",
+      "common_name": "Green-backed Camaroptera",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Chlorocichla_laetissima",
+      "common_name": "Joyful Greenbul",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Turdus_pelios",
+      "common_name": "African Thrush",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Yellow-whiskered greenbul",
+      "url": "https://en.wikipedia.org/wiki/Yellow-whiskered_greenbul",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/7340356"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

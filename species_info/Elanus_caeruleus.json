@@ -1,0 +1,179 @@
+{
+  "label": "Elanus_caeruleus",
+  "scientific_name": "Elanus caeruleus",
+  "common_name": "Black-winged Kite",
+  "other_names": {
+    "sw": "Mwewe-kipupwe"
+  },
+  "family": "Accipitridae",
+  "summary": "The black-winged kite (Elanus caeruleus), also known as the black-shouldered kite (not to be confused with the closely related Australian species of the same name), is a small diurnal bird of prey in the family Accipitridae best known for its habit of hovering over open grasslands in the manner of the much smaller kestrels. This Palearctic and Afrotropical species was sometimes combined with the Australian black-shouldered kite (Elanus axillaris) and the white-tailed kite (Elanus leucurus) of North and South America which together form a superspecies.",
+  "appearance": {
+    "description": "This long-winged raptor is predominantly grey or white with black shoulder patches, wing tips and eye stripe. The long falcon-like wings extend beyond the tail when the bird is perched. In flight, the short and square tail is visible and it is not forked as in the typical kites of the genus Milvus.",
+    "colors": "The black-winged kite (Elanus caeruleus), also known as the black-shouldered kite (not to be confused with the closely related Australian species of the same name), is a small diurnal bird of prey in the family Accipitridae best known for its habit of hovering over open grasslands in the manner of the much smaller kestrels. This Palearctic and Afrotropical species was sometimes combined with the Australian black-shouldered kite (Elanus axillaris) and the white-tailed kite (Elanus leucurus) of North and South America which together form a superspecies.",
+    "wings": "The black-winged kite (Elanus caeruleus), also known as the black-shouldered kite (not to be confused with the closely related Australian species of the same name), is a small diurnal bird of prey in the family Accipitridae best known for its habit of hovering over open grasslands in the manner of the much smaller kestrels. This kite is distinctive, with long wings; white, grey and black plumage; and owl-like forward-facing eyes with red irises."
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": "The black-winged kite breeds at different times of the year across its range. Although nesting has been noted throughout the year in India, they appear not to breed in April and May. Males establish territories and defend them from competition.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The black-winged kite is a species primarily of open land and semi-deserts in sub-Saharan Africa and tropical Asia, but it has a foothold within Europe in Spain and Portugal. The species range appears to be expanding in southern Europe and, more recently, also to West Asia.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Nairobi",
+      "Eastern",
+      "Coast",
+      "Central"
+    ],
+    "gbif_records_in_kenya": 14926
+  },
+  "look_alikes": [
+    {
+      "label": "Coracias_garrulus",
+      "common_name": "European Roller",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Circaetus_pectoralis",
+      "common_name": "Black-chested Snake Eagle",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Milvus_migrans",
+      "common_name": "Black Kite",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Chlidonias_hybrida",
+      "common_name": "Whiskered Tern",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Chlidonias_leucopterus",
+      "common_name": "White-winged Tern",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Polihierax_semitorquatus",
+      "common_name": "Pygmy Falcon",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Buteo_augur",
+      "common_name": "Augur Buzzard",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Bycanistes_subcylindricus",
+      "common_name": "Black-and-white-casqued Hornbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Charadrius_hiaticula",
+      "common_name": "Common Ringed Plover",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Polyboroides_typus",
+      "common_name": "African Harrier-hawk",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Aquila_rapax",
+      "common_name": "Tawny Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Melierax_poliopterus",
+      "common_name": "Eastern Chanting Goshawk",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Threskiornis_aethiopicus",
+      "common_name": "African Sacred Ibis",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cecropis_abyssinica",
+      "common_name": "Lesser Striped Swallow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Circus_macrourus",
+      "common_name": "Pallid Harrier",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Corvus_splendens",
+      "common_name": "House Crow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Hirundo_smithii",
+      "common_name": "Wire-tailed Swallow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lamprotornis_purpuroptera",
+      "common_name": "Rüppell's Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lanius_dorsalis",
+      "common_name": "Taita Fiscal",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Streptopelia_decipiens",
+      "common_name": "Mourning Collared Dove",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Vidua_macroura",
+      "common_name": "Pin-tailed Whydah",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Black-winged kite",
+      "url": "https://en.wikipedia.org/wiki/Black-winged_kite",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2480372"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

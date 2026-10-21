@@ -1,0 +1,161 @@
+{
+  "label": "Turdus_abyssinicus",
+  "scientific_name": "Turdus abyssinicus",
+  "common_name": "Abyssinian Thrush",
+  "other_names": {
+    "sw": "Mkesha"
+  },
+  "family": "Turdidae",
+  "summary": "The Abyssinian thrush (Turdus abyssinicus) is a passerine bird in the family Turdidae. It is also known as the African mountain thrush, or northern olive thrush The species was formerly treated as conspecific with the olive thrush (Turdus olivaceus) but the species were split based on the genetic differences. The ranges do not overlap.",
+  "appearance": {
+    "description": "It is 22 centimetres (8.7 in) long. This variable forest thrush is generally darker than the African thrush and has an orange (not yellow) bill. It is also darker than the Kurrichane thrush and has no malar stripes.",
+    "colors": "It is also known as the African mountain thrush, or northern olive thrush The species was formerly treated as conspecific with the olive thrush (Turdus olivaceus) but the species were split based on the genetic differences. This variable forest thrush is generally darker than the African thrush and has an orange (not yellow) bill.",
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The Abyssinian thrush occurs in the highlands of eastern Africa from South Sudan south to northern Mozambique. Its habitat includes forests woodlands, exotic plantations, parks and gardens.",
+    "kenya_regions": [
+      "Nairobi",
+      "Kenya",
+      "Central",
+      "Rift Valley",
+      "Eastern",
+      "Nyeri"
+    ],
+    "gbif_records_in_kenya": 21040
+  },
+  "look_alikes": [
+    {
+      "label": "Turdus_pelios",
+      "common_name": "African Thrush",
+      "difference": null,
+      "times_confused": 3
+    },
+    {
+      "label": "Coccopygia_quartinia",
+      "common_name": "Yellow-bellied Waxbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cecropis_senegalensis",
+      "common_name": "Mosque Swallow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Falco_ardosiaceus",
+      "common_name": "Grey Kestrel",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Streptopelia_lugens",
+      "common_name": "Dusky Turtle Dove",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Crithagra_sulphurata",
+      "common_name": "Brimstone Canary",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Calandrella_cinerea",
+      "common_name": "Red-capped Lark",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Dendropicos_spodocephalus",
+      "common_name": "Eastern Grey Woodpecker",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Chalcomitra_senegalensis",
+      "common_name": "Scarlet-chested Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Halcyon_leucocephala",
+      "common_name": "Grey-headed Kingfisher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Terpsiphone_viridis",
+      "common_name": "African Paradise Flycatcher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Buphagus_erythrorhynchus",
+      "common_name": "Red-billed Oxpecker",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Calidris_minuta",
+      "common_name": "Little Stint",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Camaroptera_brachyura",
+      "common_name": "Green-backed Camaroptera",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Melaenornis_edolioides",
+      "common_name": "Northern Black Flycatcher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Oenanthe_lugubris",
+      "common_name": "Abyssinian Wheatear",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tringa_glareola",
+      "common_name": "Wood Sandpiper",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Vidua_chalybeata",
+      "common_name": "Village Indigobird",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Abyssinian thrush",
+      "url": "https://en.wikipedia.org/wiki/Abyssinian_thrush",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/7340241"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

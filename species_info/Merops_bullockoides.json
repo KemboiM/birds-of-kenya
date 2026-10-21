@@ -1,0 +1,105 @@
+{
+  "label": "Merops_bullockoides",
+  "scientific_name": "Merops bullockoides",
+  "common_name": "White-fronted Bee-eater",
+  "other_names": {},
+  "family": "Meropidae",
+  "summary": "The white-fronted bee-eater (Merops bullockoides) is a species of bee-eater widely distributed in sub-equatorial Africa. The species has a distinctive white forehead, a square tail, and a bright red patch on its throat. It nests in small colonies, digging holes in cliffs or earthen banks, and can usually be seen in low trees, waiting to hunt passing insects by making quick hawking flights or gliding down before hovering briefly to catch the prey.",
+  "appearance": {
+    "description": "This species, like other bee-eaters, is a richly coloured, slender bird, but with a distinctive black mask, white forehead, square tail and a bright red throat. The size is 23 cm (9 in.). The upperparts are green, with cinnamon underparts.",
+    "colors": "The white-fronted bee-eater (Merops bullockoides) is a species of bee-eater widely distributed in sub-equatorial Africa. The species has a distinctive white forehead, a square tail, and a bright red patch on its throat.",
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": "=== Nesting and reproduction === White-fronted bee-eaters nest in colonies averaging 200 individuals, digging, roosting, and nesting holes in cliffs or banks of earth. A population of bee-eaters may range across many square kilometres of savannah, but will come to the same colony to roost, socialize, and to breed. White-fronted bee-eaters have one of the most complex family-based social systems found in birds.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "White-fronted bee-eaters are found in the vast savannah regions of sub-equatorial Africa. The habitat commonly consists of open country, often near gullies, where bees, their prey, live.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Nakuru",
+      "Central",
+      "Narok",
+      "Coast"
+    ],
+    "gbif_records_in_kenya": 6002
+  },
+  "look_alikes": [
+    {
+      "label": "Merops_persicus",
+      "common_name": "Blue-cheeked Bee-eater",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tchagra_australis",
+      "common_name": "Brown-crowned Tchagra",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bubalornis_niger",
+      "common_name": "Red-billed Buffalo Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Calidris_minuta",
+      "common_name": "Little Stint",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Chalcomitra_senegalensis",
+      "common_name": "Scarlet-chested Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Coracias_caudatus",
+      "common_name": "Lilac-breasted Roller",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Merops_albicollis",
+      "common_name": "White-throated Bee-eater",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Merops_nubicus",
+      "common_name": "Northern Carmine Bee-eater",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lagonosticta_senegala",
+      "common_name": "Red-billed Firefinch",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "White-fronted bee-eater",
+      "url": "https://en.wikipedia.org/wiki/White-fronted_bee-eater",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2475445"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

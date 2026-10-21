@@ -1,0 +1,80 @@
+{
+  "label": "Cyanomitra_olivacea",
+  "scientific_name": "Cyanomitra olivacea",
+  "common_name": "Olive Sunbird",
+  "other_names": {},
+  "family": "Nectariniidae",
+  "summary": "The olive sunbird (Cyanomitra olivacea) is a large African species of sunbird belonging to the family Nectariniidae which encompasses species of sunbirds, spiderhunters, and flowerpeckers, and sugarbirds. It has a large distribution that spans across central Africa from western countries including Senegal, Guinea, and Angola towards eastern countries including Ethiopia, Kenya, and Mozambique. This range also extends to southern African countries including South Africa and Zimbabwe.",
+  "appearance": {
+    "description": "The olive sunbird is a large sunbird that ranges from 6.2-15 g in mass, 50–73 mm in wing length, 20–29 mm in bill length, 35–66 mm in tail length, and 12–15 cm in overall body size depending on the subspecies and sex. Its body colouration can vary from fully dark-olive to dull-olive with a paler olive-yellow or olive-grey underside. It has a long beak that curves downward and varies in colour from solid black to mottled grey, beige, and yellow-orange depending on the subspecies.",
+    "colors": "The olive sunbird (Cyanomitra olivacea) is a large African species of sunbird belonging to the family Nectariniidae which encompasses species of sunbirds, spiderhunters, and flowerpeckers, and sugarbirds. The olive sunbird is a large sunbird that ranges from 6.2-15 g in mass, 50–73 mm in wing length, 20–29 mm in bill length, 35–66 mm in tail length, and 12–15 cm in overall body size depending on the subspecies and sex.",
+    "wings": "The olive sunbird is a large sunbird that ranges from 6.2-15 g in mass, 50–73 mm in wing length, 20–29 mm in bill length, 35–66 mm in tail length, and 12–15 cm in overall body size depending on the subspecies and sex. Adult males from forest-savanna boundary habitats had longer wings, legs, and bills than adult males found in forest habitats."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        5.0,
+        15.0
+      ],
+      "mass_g": [
+        6.2,
+        15.0
+      ]
+    },
+    "juvenile": null,
+    "chick": {
+      "notes": "Incubation occurs for 12–15 days by the female but both parents feed the nestlings. The fledgling period spans 13–17 days but the nestlings can remain dependent on the female for some time after this period."
+    }
+  },
+  "behaviour": "=== Diet === Olive sunbirds feed on nectar, insects, spiders, fruits, berries, seeds, pollen, and banana pulp. They extract nectar by hovering in front of flowers and catch arthropods through gleaning, hawking, poking, and hovering in front of vegetation. They often pursue flowers that contain high volumes of nectar.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "Olive sunbirds occur in a variety of habitats including coastal and montane scrublands, woodlands, bushy and coastal thickets, and western mangroves. They are found throughout primary and secondary forests at all heights but especially prefer the understories.",
+    "kenya_regions": [
+      "Kenya",
+      "Coast",
+      "Western",
+      "Central",
+      "Rift Valley",
+      "Coast prov"
+    ],
+    "gbif_records_in_kenya": 14210
+  },
+  "look_alikes": [
+    {
+      "label": "Apalis_flavida",
+      "common_name": "Yellow-breasted Apalis",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Camaroptera_brachyura",
+      "common_name": "Green-backed Camaroptera",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Passer_griseus",
+      "common_name": "Northern Grey-headed Sparrow",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Olive sunbird",
+      "url": "https://en.wikipedia.org/wiki/Olive_sunbird",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/6088979"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

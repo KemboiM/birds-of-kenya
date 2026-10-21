@@ -1,0 +1,89 @@
+{
+  "label": "Euplectes_capensis",
+  "scientific_name": "Euplectes capensis",
+  "common_name": "Yellow Bishop",
+  "other_names": {},
+  "family": "Ploceidae",
+  "summary": "The yellow bishop (Euplectes capensis), also known as Cape bishop, Cape widow or yellow-rumped widow, is a resident breeding Afromontane bird species. This common weaver occurs in less arid vegetated areas, such as fynbos, moist grassland and bracken-covered valleys at altitudes from sea level to the Ethiopian Highlands.",
+  "appearance": {
+    "description": "The yellow bishop is a stocky 15 centimetres (5.9 in) long bird. The breeding male is black apart from his bright yellow lower back, rump, and shoulder patches, and brown edging to the wing feathers. He has a short crest, thick conical black bill, and a relatively short tail.",
+    "colors": "The yellow bishop (Euplectes capensis), also known as Cape bishop, Cape widow or yellow-rumped widow, is a resident breeding Afromontane bird species. This common weaver occurs in less arid vegetated areas, such as fynbos, moist grassland and bracken-covered valleys at altitudes from sea level to the Ethiopian Highlands.",
+    "wings": "The breeding male is black apart from his bright yellow lower back, rump, and shoulder patches, and brown edging to the wing feathers."
+  },
+  "size": {
+    "adult": null,
+    "juvenile": {
+      "notes": "The juveniles and females are notoriously difficult to identify in the field, appearing identical to the juveniles and females of several other bishops and widowbirds as well as some seedeaters."
+    },
+    "chick": null
+  },
+  "behaviour": "Calls include zeet zeet zeet, and a harsh zzzzzzt given by the male in flight. The song of the isolated SW Cameroon phoenicomerus is quite different: a dry rattle followed by swit-err, swit-err.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Rift Valley",
+      "Central",
+      "Nairobi",
+      "Eastern",
+      "Coast",
+      "Narok"
+    ],
+    "gbif_records_in_kenya": 5924
+  },
+  "look_alikes": [
+    {
+      "label": "Euplectes_macroura",
+      "common_name": "Yellow-mantled Widowbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lonchura_bicolor",
+      "common_name": "Black-and-white Mannikin",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Amblyospiza_albifrons",
+      "common_name": "Thick-billed Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_rubiginosus",
+      "common_name": "Chestnut Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tockus_flavirostris",
+      "common_name": "Eastern Yellow-billed Hornbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lamprotornis_regius",
+      "common_name": "Golden-breasted Starling",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Yellow bishop",
+      "url": "https://en.wikipedia.org/wiki/Yellow_bishop",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2494099"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "label": "Cisticola_marginatus",
+  "scientific_name": "Cisticola marginatus",
+  "common_name": "Winding Cisticola",
+  "other_names": {},
+  "family": "Cisticolidae",
+  "summary": "The winding cisticola (Cisticola marginatus) is a species of bird in the family Cisticolidae. It has a scattered distribution across Africa south of the Sahara, and north of 11°S.",
+  "appearance": {
+    "description": null,
+    "colors": "It has a scattered distribution across Africa south of the Sahara, and north of 11°S.",
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": "Its natural habitats are tropical seasonally wet or flooded lowland grassland and swamps.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Nairobi",
+      "Kenya",
+      "Central",
+      "Nyanza",
+      "Eastern"
+    ],
+    "gbif_records_in_kenya": 9713
+  },
+  "look_alikes": [
+    {
+      "label": "Cisticola_chiniana",
+      "common_name": "Rattling Cisticola",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Cisticola_robustus",
+      "common_name": "Stout Cisticola",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Cisticola_cantans",
+      "common_name": "Singing Cisticola",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Cisticola_natalensis",
+      "common_name": "Croaking Cisticola",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Passer_domesticus",
+      "common_name": "House Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Turtur_tympanistria",
+      "common_name": "Tambourine Dove",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Winding cisticola",
+      "url": "https://en.wikipedia.org/wiki/Winding_cisticola",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/6100910"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

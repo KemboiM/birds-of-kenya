@@ -1,0 +1,63 @@
+{
+  "label": "Nigrita_canicapillus",
+  "scientific_name": "Nigrita canicapillus",
+  "common_name": "Grey-headed Nigrita",
+  "other_names": {},
+  "family": "Estrildidae",
+  "summary": "The grey-headed nigrita (Nigrita canicapillus) is a common species of estrildid finch found in Africa. It has an estimated global extent of occurrence of 3,700,000 km2. It is widespread throughout the African tropical rainforest.",
+  "appearance": {
+    "description": null,
+    "colors": "The grey-headed nigrita (Nigrita canicapillus) is a common species of estrildid finch found in Africa.",
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Western",
+      "Central",
+      "Kenya",
+      "Rift Valley",
+      "Eastern",
+      "Kirinyaga"
+    ],
+    "gbif_records_in_kenya": 3062
+  },
+  "look_alikes": [
+    {
+      "label": "Bostrychia_hagedash",
+      "common_name": "Hadada Ibis",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Oriolus_larvatus",
+      "common_name": "Black-headed Oriole",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Grey-headed nigrita",
+      "url": "https://en.wikipedia.org/wiki/Grey-headed_nigrita",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/7340751"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

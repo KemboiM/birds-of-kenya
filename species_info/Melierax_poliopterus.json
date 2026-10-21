@@ -1,0 +1,152 @@
+{
+  "label": "Melierax_poliopterus",
+  "scientific_name": "Melierax poliopterus",
+  "common_name": "Eastern Chanting Goshawk",
+  "other_names": {},
+  "family": "Accipitridae",
+  "summary": "The eastern (pale) chanting goshawk (Melierax poliopterus), or Somali chanting goshawk, is a bird of prey of East Africa.",
+  "appearance": {
+    "description": "This species averages 49 to 55 cm (19 to 22 in) long, with a wingspan of 96 to 110 cm (38 to 43 in) and a tail length of 20 to 25 cm (7.9 to 9.8 in). Males average 85 percent the size of females. Like the other chanting goshawks, it resembles an accipiter but the tail is shorter and graduated (the feathers increase in length from the edges to the center), and the wings are broader.",
+    "colors": "Adults have grey head, neck, breast, and upperparts, except for the white or lightly barred uppertail coverts. The belly has narrow grey and white bars and the undertail coverts are white.",
+    "wings": "Like the other chanting goshawks, it resembles an accipiter but the tail is shorter and graduated (the feathers increase in length from the edges to the center), and the wings are broader. The belly and wing linings are white, the secondaries are light grey, and the primaries are dark, giving an impression from below of a white bird with grey head and dark wingtips."
+  },
+  "size": {
+    "adult": {
+      "wingspan_cm": [
+        96.0,
+        110.0
+      ],
+      "length_cm": [
+        49.0,
+        55.0
+      ]
+    },
+    "juvenile": {
+      "notes": "Juveniles are dull brown above with a pale stripe over the eye. They are indistinguishable from some juvenile dark chanting goshawks except for the less barred undertail coverts and rump."
+    },
+    "chick": null
+  },
+  "behaviour": "The eastern chanting goshawk is usually seen in large groups of up to 16, they will always hunt in a pack and ration their finds amongst each other. It often perches on the tops of mountains and other rocky environments. Its wingbeats are shallow and \"straight-arm\".",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "It is often found in semidesert, dry bush, and wooded grassland up to 2000 m in southern Ethiopia, Djibouti, western Somalia, eastern Kenya, northeastern Tanzania, and adjacent Uganda.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Coast",
+      "Eastern",
+      "Taita Taveta",
+      "Samburu"
+    ],
+    "gbif_records_in_kenya": 10472
+  },
+  "look_alikes": [
+    {
+      "label": "Melierax_metabates",
+      "common_name": "Dark Chanting Goshawk",
+      "difference": null,
+      "times_confused": 4
+    },
+    {
+      "label": "Circus_pygargus",
+      "common_name": "Montagu's Harrier",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Falco_tinnunculus",
+      "common_name": "Common Kestrel",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Micronisus_gabar",
+      "common_name": "Gabar Goshawk",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Dessonornis_caffer",
+      "common_name": "Cape Robin-chat",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bubo_lacteus",
+      "common_name": "Verreaux's Eagle-owl",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Buteo_augur",
+      "common_name": "Augur Buzzard",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Circaetus_pectoralis",
+      "common_name": "Black-chested Snake Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Elanus_caeruleus",
+      "common_name": "Black-winged Kite",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Numida_meleagris",
+      "common_name": "Helmeted Guinea Fowl",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Polyboroides_typus",
+      "common_name": "African Harrier-hawk",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Stephanoaetus_coronatus",
+      "common_name": "Crowned Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Streptopelia_decipiens",
+      "common_name": "Mourning Collared Dove",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Vanellus_senegallus",
+      "common_name": "African Wattled Lapwing",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Vanellus_spinosus",
+      "common_name": "Spur-winged Lapwing",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Eastern chanting goshawk",
+      "url": "https://en.wikipedia.org/wiki/Eastern_chanting_goshawk",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2480731"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "label": "Chloropicus_namaquus",
+  "scientific_name": "Chloropicus namaquus",
+  "common_name": "Bearded Woodpecker",
+  "other_names": {},
+  "family": "Picidae",
+  "summary": "The bearded woodpecker (Chloropicus namaquus) is a species of bird in the family Picidae. It has a distinctive black and white head and brownish barred body. It is native to tropical central Africa.",
+  "appearance": {
+    "description": "The bearded woodpecker is one of the largest woodpeckers in Africa growing to a length of about 25 cm (10 in). The head is distinctive with a black moustache, a broad black eye-stripe and black crown contrasting with a white supercilium, face, chin and throat. The male has a red hind crown which the female lacks.",
+    "colors": "It has a distinctive black and white head and brownish barred body. The head is distinctive with a black moustache, a broad black eye-stripe and black crown contrasting with a white supercilium, face, chin and throat.",
+    "wings": "The bearded woodpecker is one of the largest woodpeckers in Africa growing to a length of about 25 cm (10 in)."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        25.0,
+        25.0
+      ]
+    },
+    "juvenile": {
+      "notes": "Juveniles are similar to adults but the upper parts have a greenish tinge and more diffuse barring, and both sexes have some red colouring on the crown and nape."
+    },
+    "chick": null
+  },
+  "behaviour": "The bearded woodpecker often forages in pairs which communicate with each other vocally, flicking their wings as they call. Each bird will spend a long time on a single tree, hammering, probing and pecking with its beak and gleaning any stray insects it encounters, before flying off to another, often distant, tree. The diet consists of insects and their larvae, spiders, caterpillars and ants.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "It is found in Angola, Botswana, Central African Republic, Chad, Democratic Republic of the Congo, Eswatini, Ethiopia, Kenya, Malawi, Mozambique, Namibia, Rwanda, Somalia, South Africa, Sudan, Tanzania, Uganda, Zambia, and Zimbabwe. It has a wide range of habitat types including woodland with sizeable trees, Brachystegia woodland, Euphorbia and Acacia woodland, the fringes of gallery forests and brushland.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Eastern",
+      "Coast",
+      "Central",
+      "Nakuru"
+    ],
+    "gbif_records_in_kenya": 3117
+  },
+  "look_alikes": [
+    {
+      "label": "Campethera_nubica",
+      "common_name": "Nubian Woodpecker",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Dendropicos_fuscescens",
+      "common_name": "Cardinal Woodpecker",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Bearded woodpecker",
+      "url": "https://en.wikipedia.org/wiki/Bearded_woodpecker",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/8818908"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

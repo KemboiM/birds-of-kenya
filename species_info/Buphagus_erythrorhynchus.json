@@ -1,0 +1,149 @@
+{
+  "label": "Buphagus_erythrorhynchus",
+  "scientific_name": "Buphagus erythrorhynchus",
+  "common_name": "Red-billed Oxpecker",
+  "other_names": {},
+  "family": "Buphagidae",
+  "summary": "The red-billed oxpecker (Buphagus erythrorynchus) is a passerine bird in the oxpecker family, Buphagidae. It is native to the eastern savannah of sub-Saharan Africa, from the Central African Republic east to South Sudan and south to northern and eastern South Africa. It is more widespread than the yellow-billed oxpecker in Southern Africa, where their ranges overlap.",
+  "appearance": {
+    "description": "A juvenile oxpecker is darker brown than its parents. Its bill is dark olive at first, but gradually takes on adult colouration after four months. Its flight is strong and direct, and their call is a hissy crackling trik-quisss.",
+    "colors": "The red-billed oxpecker (Buphagus erythrorynchus) is a passerine bird in the oxpecker family, Buphagidae. It is more widespread than the yellow-billed oxpecker in Southern Africa, where their ranges overlap.",
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": {
+      "notes": "A juvenile oxpecker is darker brown than its parents."
+    },
+    "chick": null
+  },
+  "behaviour": "The red-billed oxpecker nests in tree holes lined with hair plucked from livestock. It lays two to five eggs, with three being the average. Outside the breeding season it forms large, chattering flocks.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The red-billed oxpecker is a native of the savanna of sub-Saharan Africa. It ranges across Ethiopia and Somalia through Kenya, Tanzania, Malawi, and Zambia to southern Africa, Botswana, Zimbabwe, southern Mozambique, and north-eastern South Africa.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Nairobi",
+      "Eastern",
+      "Coast",
+      "Central"
+    ],
+    "gbif_records_in_kenya": 19904
+  },
+  "look_alikes": [
+    {
+      "label": "Buphagus_africanus",
+      "common_name": "Yellow-billed Oxpecker",
+      "difference": null,
+      "times_confused": 7
+    },
+    {
+      "label": "Speculipastor_bicolor",
+      "common_name": "Magpie Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cursorius_somalensis",
+      "common_name": "Somali Courser",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Colius_leucocephalus",
+      "common_name": "White-headed Mousebird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Calendulauda_africanoides",
+      "common_name": "Fawn-coloured Lark",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Phoeniculus_purpureus",
+      "common_name": "Green Wood Hoopoe",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Trachyphonus_erythrocephalus",
+      "common_name": "Red-and-yellow Barbet",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Merops_albicollis",
+      "common_name": "White-throated Bee-eater",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Balearica_regulorum",
+      "common_name": "Grey Crowned Crane",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Creatophora_cinerea",
+      "common_name": "Wattled Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Stephanoaetus_coronatus",
+      "common_name": "Crowned Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Streptopelia_semitorquata",
+      "common_name": "Red-eyed Dove",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Torgos_tracheliotos",
+      "common_name": "Lappet-faced Vulture",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Dinemellia_dinemelli",
+      "common_name": "White-headed Buffalo Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cecropis_abyssinica",
+      "common_name": "Lesser Striped Swallow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Turdus_abyssinicus",
+      "common_name": "Abyssinian Thrush",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Red-billed oxpecker",
+      "url": "https://en.wikipedia.org/wiki/Red-billed_oxpecker",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2489052"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

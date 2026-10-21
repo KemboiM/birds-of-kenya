@@ -1,0 +1,204 @@
+{
+  "label": "Passer_domesticus",
+  "scientific_name": "Passer domesticus",
+  "common_name": "House Sparrow",
+  "other_names": {
+    "sw": "Shomoro-kaya"
+  },
+  "family": "Passeridae",
+  "summary": "The house sparrow (Passer domesticus) is a bird of the sparrow family Passeridae, found in most parts of the world. It is a small bird that has a typical length of 16 cm (6.3 in) and a mass of 24–39.5 g (0.85–1.39 oz). Females and young birds are coloured pale brown and grey, and males have brighter black, white, and brown markings.",
+  "appearance": {
+    "description": "=== Measurements and shape === The house sparrow is typically about 16 cm (6.3 in) long, ranging from 14 to 18 cm (5.5 to 7.1 in). The house sparrow is a compact bird with a full chest and a large, rounded head. Its bill is stout and conical with a culmen length of 1.1–1.5 cm (0.43–0.59 in), strongly built as an adaptation for eating seeds.",
+    "colors": "Females and young birds are coloured pale brown and grey, and males have brighter black, white, and brown markings. The bird's conservation status is listed as least concern on the IUCN Red List. === Measurements and shape === The house sparrow is typically about 16 cm (6.3 in) long, ranging from 14 to 18 cm (5.5 to 7.1 in).",
+    "wings": "The wing chord is 6.7–8.9 cm (2.6–3.5 in), and the tarsus is 1.6–2.5 cm (0.63–0.98 in)."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        16.0,
+        16.0
+      ],
+      "mass_g": [
+        24.0,
+        39.5
+      ]
+    },
+    "juvenile": {
+      "notes": "Juveniles are similar to the adult female, but deeper brown below and paler above, with paler and less defined supercilia. Juveniles have broader buff feather edges, and tend to have looser, scruffier plumage, like moulting adults."
+    },
+    "chick": {
+      "notes": "House sparrows can breed in the breeding season immediately following their hatching, and sometimes attempt to do so. Birds breeding for the first time are rarely successful in raising young, and reproductive success increases with age, as older birds breed earlier in the breeding season, and fledge more young."
+    }
+  },
+  "behaviour": "Most house sparrow vocalisations are variations on its short and frequent chirping call. Transcribed as chirrup, tschilp, or philip, this note is made as a contact call by flocking or resting birds; or by males to proclaim nest ownership and invite pairing. In the breeding season, the male gives this call repetitively, with emphasis and speed, but not much rhythm, forming what is described either as a song or an \"ecstatic call\" similar to a song.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The house sparrow originated in the Middle East and spread, along with agriculture, to most of Eurasia and parts of North Africa. Since the mid-19th century, it has reached most of the world, chiefly due to deliberate introductions, but also through natural and shipborne dispersal.",
+    "kenya_regions": [
+      "Kenya",
+      "Rift Valley",
+      "Coast",
+      "Nairobi",
+      "Central",
+      "Eastern"
+    ],
+    "gbif_records_in_kenya": 16594
+  },
+  "look_alikes": [
+    {
+      "label": "Erythropygia_leucophrys",
+      "common_name": "White-browed Scrub Robin",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Passer_rufocinctus",
+      "common_name": "Kenya Sparrow",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Hirundo_smithii",
+      "common_name": "Wire-tailed Swallow",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Muscicapa_aquatica",
+      "common_name": "Swamp Flycatcher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Caprimulgus_clarus",
+      "common_name": "Slender-tailed Nightjar",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lanius_collurio",
+      "common_name": "Red-backed Shrike",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Plocepasser_donaldsoni",
+      "common_name": "Donaldson Smith's Sparrow-weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cisticola_marginatus",
+      "common_name": "Winding Cisticola",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Passer_griseus",
+      "common_name": "Northern Grey-headed Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ptyonoprogne_fuligula",
+      "common_name": "Large Rock Martin",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Sporopipes_frontalis",
+      "common_name": "Speckle-fronted Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Quelea_quelea",
+      "common_name": "Red-billed Quelea",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Actophilornis_africanus",
+      "common_name": "African Jacana",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Alopochen_aegyptiaca",
+      "common_name": "Egyptian Goose",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Anthus_leucophrys",
+      "common_name": "Plain-backed Pipit",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bubo_lacteus",
+      "common_name": "Verreaux's Eagle-owl",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Burhinus_vermiculatus",
+      "common_name": "Water Thick-knee",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Centropus_superciliosus",
+      "common_name": "White-browed Coucal",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Corvus_splendens",
+      "common_name": "House Crow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Muscicapa_adusta",
+      "common_name": "African Dusky Flycatcher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Plocepasser_mahali",
+      "common_name": "White-browed Sparrow-weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Turdoides_hypoleuca",
+      "common_name": "Northern Pied Babbler",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Vidua_macroura",
+      "common_name": "Pin-tailed Whydah",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "House sparrow",
+      "url": "https://en.wikipedia.org/wiki/House_sparrow",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/5231190"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

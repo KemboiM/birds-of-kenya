@@ -1,0 +1,92 @@
+{
+  "label": "Merops_apiaster",
+  "scientific_name": "Merops apiaster",
+  "common_name": "European Bee-eater",
+  "other_names": {},
+  "family": "Meropidae",
+  "summary": "The European bee-eater (Merops apiaster) is a bird species in the bee-eater family, Meropidae. It has the largest range of any bee-eater species, breeding in southern and central Europe, northern and southern Africa, and western Asia. Except for the resident southern African population, the species is strongly migratory, wintering in tropical Africa.",
+  "appearance": {
+    "description": "This species, like other bee-eaters, is a richly coloured, slender bird. It has brown and yellow upper parts, whilst the wings are green and the beak is black. It can reach a length of 27–29 cm (10.6–11.4 in), including the two elongated central tail feathers, and weigh 44–78 g (52 g on average).",
+    "colors": "This species, like other bee-eaters, is a richly coloured, slender bird. It has brown and yellow upper parts, whilst the wings are green and the beak is black.",
+    "wings": "It has brown and yellow upper parts, whilst the wings are green and the beak is black."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        27.0,
+        29.0
+      ],
+      "mass_g": [
+        44.0,
+        78.0
+      ]
+    },
+    "juvenile": {
+      "notes": "Juvenile resembles a non-breeding adult, but with less variation in the feather colours."
+    },
+    "chick": null
+  },
+  "behaviour": "=== Breeding === These bee-eaters are gregarious, nesting colonially in sandy banks, preferably near river shores, usually at the beginning of May. They make a relatively long tunnel, in which they lay five to eight spherical white eggs around the beginning of June. Both male and female care for the eggs, which they brood for about three weeks.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Kenya",
+      "Rift Valley",
+      "Nairobi",
+      "Coast",
+      "Central",
+      "Eastern"
+    ],
+    "gbif_records_in_kenya": 9400
+  },
+  "look_alikes": [
+    {
+      "label": "Merops_albicollis",
+      "common_name": "White-throated Bee-eater",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Merops_pusillus",
+      "common_name": "Little Bee-eater",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Merops_superciliosus",
+      "common_name": "Olive Bee-eater",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Merops_oreobates",
+      "common_name": "Cinnamon-chested Bee-eater",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Passer_gongonensis",
+      "common_name": "Parrot-billed Sparrow",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "European bee-eater",
+      "url": "https://en.wikipedia.org/wiki/European_bee-eater",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2475443"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

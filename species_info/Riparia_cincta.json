@@ -1,0 +1,80 @@
+{
+  "label": "Riparia_cincta",
+  "scientific_name": "Riparia cincta",
+  "common_name": "Banded Martin",
+  "other_names": {},
+  "family": "Hirundinidae",
+  "summary": "The banded martin or banded sand martin (Neophedina cincta) is a small passerine bird in the swallow family Hirundinidae that is endemic to Africa. It is the only species placed in the genus Neophedina.",
+  "appearance": {
+    "description": "The 15–17 cm (5.9–6.7 in) long banded martin has earth-brown upper parts, except for a white stripe above the eye. Its underparts are white, as are the underwing coverts, and it has a dark brown breast band, and sometimes a thin dark line across the vent. Sexes are similar, but the young have a paler breast band and golden tips to the upper part feathers.",
+    "colors": "The 15–17 cm (5.9–6.7 in) long banded martin has earth-brown upper parts, except for a white stripe above the eye. Its underparts are white, as are the underwing coverts, and it has a dark brown breast band, and sometimes a thin dark line across the vent.",
+    "wings": "Its underparts are white, as are the underwing coverts, and it has a dark brown breast band, and sometimes a thin dark line across the vent. It is easily distinguished from the smaller sand martin by its square tail and white on the underwings, and from the brown-throated sand martin by its white throat."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        15.0,
+        17.0
+      ]
+    },
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": "This species has a slow erratic flight and frequently perches. Its diet consists of insects, usually taken in flight over grassland. The flight call is che-che-che, and the song is a twittering jumble of chip choop sounds.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The banded martin is found in open habitats such as farmland, grassland and savannah, usually near water. It breeds across Africa from Cameroon and Zaire to Ethiopia south to the Cape in South Africa, although it is absent from the driest regions of western South Africa and southern Namibia.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Nairobi",
+      "Kenya",
+      "Coast",
+      "Eastern",
+      "Nyanza"
+    ],
+    "gbif_records_in_kenya": 3440
+  },
+  "look_alikes": [
+    {
+      "label": "Cecropis_senegalensis",
+      "common_name": "Mosque Swallow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cypsiurus_parvus",
+      "common_name": "African Palm Swift",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pandion_haliaetus",
+      "common_name": "Osprey",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ceryle_rudis",
+      "common_name": "Pied Kingfisher",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Banded martin",
+      "url": "https://en.wikipedia.org/wiki/Banded_martin",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/5230747"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "label": "Dryoscopus_cubla",
+  "scientific_name": "Dryoscopus cubla",
+  "common_name": "Black-backed Puffback",
+  "other_names": {},
+  "family": "Malaconotidae",
+  "summary": "The black-backed puffback (Dryoscopus cubla) is a species of passerine bird in the family Malaconotidae. They are common to fairly common sedentary bushshrikes in various wooded habitats in Africa south of the equator. They restlessly move about singly, in pairs or family groups, and generally frequent tree canopies.",
+  "appearance": {
+    "description": "They measure about 17 cm in length, and the sexes are similar though easily distinguishable. Adult males have the upperparts deep blue-black with a slight luster. The black cap subtends the red eye, the upperpart plumage is black-and-white, and the underparts pure white.",
+    "colors": "The black-backed puffback (Dryoscopus cubla) is a species of passerine bird in the family Malaconotidae. Adult males have the upperparts deep blue-black with a slight luster.",
+    "wings": "Immature birds resemble females, but have brownish bills and brown irides, while the upperparts and flanks are still greyer, and the underparts and edges of the wing feathers are yet more buffy. Range, iris colour, wing markings and the female plumage assist in separating it from other puffback species."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        17.0,
+        17.0
+      ]
+    },
+    "juvenile": {
+      "notes": "Immature birds resemble females, but have brownish bills and brown irides, while the upperparts and flanks are still greyer, and the underparts and edges of the wing feathers are yet more buffy."
+    },
+    "chick": {
+      "notes": "Both parents rear the chicks, which leave the nest after some 18 days."
+    }
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": "They occur mainly south of the equator in sub-Saharan Africa, from southern Somalia to coastal South Africa. From the vicinity of the equator and northwards it is replaced by the somewhat larger northern puffback, with which it forms a superspecies.",
+    "kenya_regions": [
+      "Kenya",
+      "Nairobi",
+      "Coast",
+      "Rift Valley",
+      "Central",
+      "Eastern"
+    ],
+    "gbif_records_in_kenya": 19031
+  },
+  "look_alikes": [
+    {
+      "label": "Platysteira_cyanea",
+      "common_name": "Brown-throated Wattle-eye",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Laniarius_major",
+      "common_name": "Tropical Boubou",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Platysteira_peltata",
+      "common_name": "Black-throated Wattle-eye",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Clamator_glandarius",
+      "common_name": "Great Spotted Cuckoo",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pogoniulus_bilineatus",
+      "common_name": "Yellow-rumped Tinkerbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Chrysococcyx_klaas",
+      "common_name": "Klaas's Cuckoo",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Chrysococcyx_caprius",
+      "common_name": "Diederik Cuckoo",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Batis_molitor",
+      "common_name": "Chinspot Batis",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cinnyricinclus_leucogaster",
+      "common_name": "Violet-backed Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Eminia_lepida",
+      "common_name": "Grey-capped Warbler",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Parus_albiventris",
+      "common_name": "White-bellied Tit",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tricholaema_lacrymosa",
+      "common_name": "Spot-flanked Barbet",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pseudonigrita_cabanisi",
+      "common_name": "Black-capped Social Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Gymnoris_pyrgita",
+      "common_name": "Yellow-spotted Bush Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lanius_humeralis",
+      "common_name": "Northern Fiscal",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Black-backed puffback",
+      "url": "https://en.wikipedia.org/wiki/Black-backed_puffback",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2484832"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

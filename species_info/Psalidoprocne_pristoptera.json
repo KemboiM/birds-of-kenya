@@ -1,0 +1,90 @@
+{
+  "label": "Psalidoprocne_pristoptera",
+  "scientific_name": "Psalidoprocne pristoptera",
+  "common_name": "Black Saw-wing",
+  "other_names": {},
+  "family": "Hirundinidae",
+  "summary": "The black saw-wing (Psalidoprocne pristoptera), also known as the blue saw-wing or black rough-winged swallow, is a small passerine bird in the swallow family.",
+  "appearance": {
+    "description": "The black rough-winged swallow is a small swallow at 13–15 cm length with a forked tail. Its plumage is blue-glossed black. Sexes are similar, but the female has shorter outer tail feathers, and less obvious wing serrations.",
+    "colors": "The black saw-wing (Psalidoprocne pristoptera), also known as the blue saw-wing or black rough-winged swallow, is a small passerine bird in the swallow family. The black rough-winged swallow is a small swallow at 13–15 cm length with a forked tail.",
+    "wings": "The black saw-wing (Psalidoprocne pristoptera), also known as the blue saw-wing or black rough-winged swallow, is a small passerine bird in the swallow family. The black rough-winged swallow is a small swallow at 13–15 cm length with a forked tail."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        13.0,
+        15.0
+      ]
+    },
+    "juvenile": {
+      "notes": "Juveniles are brown with little gloss, and have short tails."
+    },
+    "chick": {
+      "notes": "Only one parent, probably the female, incubates for 14–19 days to hatching, with a further 24–27 days until the young fledge."
+    }
+  },
+  "behaviour": "Black rough-winged swallows are usually seen in pairs or small groups hunting for flying insects in woodland clearings and edges, above forest, or over water. Their flight is weak and fluttering. It is a quiet species, but it gives a soft chrrp alarm call.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The black rough-winged swallow breeds in open wooded habitats, and has a preference for wetter areas, although some races occur in mountain grassland habitat. It breeds across Africa from eastern Nigeria and Ethiopia south to Angola, northern Zimbabwe and northern Mozambique.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Central",
+      "Nairobi",
+      "Western",
+      "Eastern",
+      "Coast"
+    ],
+    "gbif_records_in_kenya": 11441
+  },
+  "look_alikes": [
+    {
+      "label": "Apus_affinis",
+      "common_name": "Little Swift",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Psalidoprocne_albiceps",
+      "common_name": "White-headed Saw-wing",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Amblyospiza_albifrons",
+      "common_name": "Thick-billed Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Corvus_albus",
+      "common_name": "Pied Crow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Torgos_tracheliotos",
+      "common_name": "Lappet-faced Vulture",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Black saw-wing",
+      "url": "https://en.wikipedia.org/wiki/Black_saw-wing",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2489145"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

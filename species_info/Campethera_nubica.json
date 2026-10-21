@@ -1,0 +1,122 @@
+{
+  "label": "Campethera_nubica",
+  "scientific_name": "Campethera nubica",
+  "common_name": "Nubian Woodpecker",
+  "other_names": {},
+  "family": "Picidae",
+  "summary": "The Nubian woodpecker (Campethera nubica) is a species of bird in the family Picidae. It is distributed widely in Central and Eastern Africa, from Chad in west to Somalia in east and Tanzania in south. It is a fairly common species with a wide range, the population seems stable, and the International Union for Conservation of Nature has rated its conservation status as being of \"least concern\".",
+  "appearance": {
+    "description": "The Nubian woodpecker Is a medium-sized species growing to a length of about 21 cm (8.3 in). The male has a red crown and nape and a reddish streak on the cheek, while the female has a black crown speckled with white, a red nape, and a dark cheek stripe with white speckling. In other respects, the sexes are similar.",
+    "colors": "The male has a red crown and nape and a reddish streak on the cheek, while the female has a black crown speckled with white, a red nape, and a dark cheek stripe with white speckling. The upper parts are olive-brown with much cream speckling and barring.",
+    "wings": "The Nubian woodpecker Is a medium-sized species growing to a length of about 21 cm (8.3 in). The wings are greenish-brown barred with white and the tail greenish-yellow barred with brown, the shafts of the feathers being gold."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        21.0,
+        21.0
+      ]
+    },
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": "The Nubian woodpecker often feeds alone, keeping in touch with its mate vocally. It forages mostly in trees, but also on the ground, for ants and termites, also consuming spiders and beetles.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The Nubian woodpecker is endemic to eastern Africa. Its range includes Chad, Democratic Republic of the Congo, Djibouti, Eritrea, Ethiopia, Kenya, Somalia, South Sudan, Sudan, Tanzania and Uganda.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Coast",
+      "Eastern",
+      "Nairobi",
+      "Nyanza"
+    ],
+    "gbif_records_in_kenya": 16209
+  },
+  "look_alikes": [
+    {
+      "label": "Chloropicus_namaquus",
+      "common_name": "Bearded Woodpecker",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Dendropicos_fuscescens",
+      "common_name": "Cardinal Woodpecker",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Monticola_saxatilis",
+      "common_name": "Common Rock Thrush",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bycanistes_brevis",
+      "common_name": "Silvery-cheeked Hornbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Falco_tinnunculus",
+      "common_name": "Common Kestrel",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Trachyphonus_darnaudii",
+      "common_name": "D'Arnaud's Barbet",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Trachyphonus_erythrocephalus",
+      "common_name": "Red-and-yellow Barbet",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Turdoides_sharpei",
+      "common_name": "Black-lored Babbler",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Megaceryle_maxima",
+      "common_name": "Giant Kingfisher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cossypha_heuglini",
+      "common_name": "White-browed Robin-chat",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tockus_erythrorhynchus",
+      "common_name": "Northern Red-billed Hornbill",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Nubian woodpecker",
+      "url": "https://en.wikipedia.org/wiki/Nubian_woodpecker",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2478195"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

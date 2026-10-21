@@ -1,0 +1,63 @@
+{
+  "label": "Rhinoptilus_cinctus",
+  "scientific_name": "Rhinoptilus cinctus",
+  "common_name": "Three-banded Courser",
+  "other_names": {},
+  "family": "Glareolidae",
+  "summary": "The three-banded courser or Heuglin's courser (Rhinoptilus cinctus) is a species of bird in the family Glareolidae. It is found in Angola, Botswana, Ethiopia, Kenya, Namibia, Rwanda, Somalia, Somaliland, South Africa, South Sudan, Tanzania, Uganda, Zambia, and Zimbabwe.",
+  "appearance": {
+    "description": null,
+    "colors": null,
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Eastern",
+      "Coast",
+      "Baringo",
+      "Laikipia"
+    ],
+    "gbif_records_in_kenya": 1980
+  },
+  "look_alikes": [
+    {
+      "label": "Eremopterix_leucopareia",
+      "common_name": "Fischer's Sparrow-lark",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Rhinoptilus_africanus",
+      "common_name": "Double-banded Courser",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Three-banded courser",
+      "url": "https://en.wikipedia.org/wiki/Three-banded_courser",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2480737"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

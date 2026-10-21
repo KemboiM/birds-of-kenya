@@ -1,0 +1,110 @@
+{
+  "label": "Halcyon_leucocephala",
+  "scientific_name": "Halcyon leucocephala",
+  "common_name": "Grey-headed Kingfisher",
+  "other_names": {},
+  "family": "Alcedinidae",
+  "summary": "The grey-headed kingfisher (Halcyon leucocephala) is a species of bird in the kingfisher family, Alcedinidae. It is found across large parts of Africa and southern Arabia, from Mauritania through Senegal and the Gambia, east to Ethiopia, Somalia, Yemen, Oman and Saudi Arabia, and south all the way through to South Africa. It is also found in islands off the African coast such as the Cape Verde islands and Zanzibar.",
+  "appearance": {
+    "description": "The sexes are similar. The adult of the nominate race H. l. leucocephala has a pale grey head, black mantle and back, bright blue rump, wings and tail, and chestnut underparts. Subspecies H. l. pallidiventris has a darker grey head and paler chestnut underparts but is otherwise similar.",
+    "colors": "The grey-headed kingfisher (Halcyon leucocephala) is a species of bird in the kingfisher family, Alcedinidae. The adult of the nominate race H. l. leucocephala has a pale grey head, black mantle and back, bright blue rump, wings and tail, and chestnut underparts.",
+    "wings": "The adult of the nominate race H. l. leucocephala has a pale grey head, black mantle and back, bright blue rump, wings and tail, and chestnut underparts."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        21.0,
+        21.0
+      ]
+    },
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": "A dry-country kingfisher of scrub and woodland, solitary or in pairs, often found near water, but unlike most kingfishers is not aquatic. Perches on a branch, unmoving for long periods while watching the ground for signs of insects or small lizards, bobbing head before diving on prey. In appearance very like the brown-hooded kingfisher but with a red rather than red and black bill and similar to the woodland kingfisher, but the woodland kingfisher lacks the chestnut belly and has greater coverage of cyan feathers on the back.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The grey-headed kingfisher is found in tropical and semi-tropical Africa and the Arabian Peninsula. Its range includes Angola, Benin, Botswana, Burkina Faso, Burundi, Cameroon, Cape Verde, Central African Republic, Chad, Congo, Democratic Republic of Congo, Djibouti, Eritrea, Eswatini, Ethiopia, Gabon, Gambia, Ghana, Guinea, Guinea-Bissau, Iran, Ivory Coast, Kenya, Liberia, Malawi, Mali, Mauritania, Mozambique, Namibia, Niger, Nigeria, Oman, Rwanda, Saudi Arabia, Senegal, Sierra Leone, Somalia, South Africa, South Sudan, Sudan, Tanzania, Togo, Uganda, Yemen, Zambia and Zimbabwe.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Coast",
+      "Eastern",
+      "Nairobi",
+      "Central"
+    ],
+    "gbif_records_in_kenya": 18832
+  },
+  "look_alikes": [
+    {
+      "label": "Halcyon_senegalensis",
+      "common_name": "Woodland Kingfisher",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Halcyon_senegaloides",
+      "common_name": "Mangrove Kingfisher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Anhinga_rufa",
+      "common_name": "African Darter",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Quelea_quelea",
+      "common_name": "Red-billed Quelea",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Sylvietta_whytii",
+      "common_name": "Red-faced Crombec",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Terpsiphone_viridis",
+      "common_name": "African Paradise Flycatcher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Turdus_abyssinicus",
+      "common_name": "Abyssinian Thrush",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Uraeginthus_bengalus",
+      "common_name": "Red-cheeked Cordon-bleu",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Urocolius_macrourus",
+      "common_name": "Blue-naped Mousebird",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Grey-headed kingfisher",
+      "url": "https://en.wikipedia.org/wiki/Grey-headed_kingfisher",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/5228304"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

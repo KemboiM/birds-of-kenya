@@ -1,0 +1,122 @@
+{
+  "label": "Balearica_regulorum",
+  "scientific_name": "Balearica regulorum",
+  "common_name": "Grey Crowned Crane",
+  "other_names": {},
+  "family": "Gruidae",
+  "summary": "The grey crowned crane or gray crowned crane (Balearica regulorum) is a large crane species native to Sub-Saharan Africa. It occurs mainly in dry savannah, although it nests in somewhat wetter habitats, and can also be found in marshes, cultivated lands and grassy flatlands near rivers and lakes. Its body plumage is mainly grey and it has white cheeks, a red throat patch, and a stiff golden crown.",
+  "appearance": {
+    "description": "The grey crowned crane is approximately 1 m (3 ft 3 in) tall, weighs 3.5 kg (7.7 lb), and has a wingspan of 2 m (6 ft 7 in). Its body plumage is mainly grey. The wings are predominantly white, dark grey and dark red with a golden yellow patch.",
+    "colors": "The grey crowned crane or gray crowned crane (Balearica regulorum) is a large crane species native to Sub-Saharan Africa. Its body plumage is mainly grey and it has white cheeks, a red throat patch, and a stiff golden crown.",
+    "wings": "The wings are predominantly white, dark grey and dark red with a golden yellow patch."
+  },
+  "size": {
+    "adult": {
+      "wingspan_cm": [
+        200.0,
+        200.0
+      ],
+      "mass_g": [
+        3500.0,
+        3500.0
+      ]
+    },
+    "juvenile": null,
+    "chick": {
+      "notes": "Chicks are precocial, can run as soon as they hatch, and fledge in 56–100 days. Once they are fully grown and independent, chicks of different sexes will separate from their parents to start their own family."
+    }
+  },
+  "behaviour": "The grey crowned crane has a breeding display involving dancing, bowing, and jumping. It has a booming call which involves inflation of the red gular sac. It also makes a honking sound quite different from the trumpeting of other crane species.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The grey crowned crane occurs in dry savannah in Sub-Saharan Africa, although it nests in somewhat wetter habitats. They can also be found in marshes, cultivated lands and grassy flatlands near rivers and lakes in Uganda and Kenya and as far south as South Africa.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Nairobi",
+      "Central",
+      "Eastern",
+      "Kajiado"
+    ],
+    "gbif_records_in_kenya": 21088
+  },
+  "look_alikes": [
+    {
+      "label": "Leptoptilos_crumenifer",
+      "common_name": "Marabou Stork",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Ciconia_ciconia",
+      "common_name": "White Stork",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Oena_capensis",
+      "common_name": "Namaqua Dove",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Buphagus_erythrorhynchus",
+      "common_name": "Red-billed Oxpecker",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_spekei",
+      "common_name": "Speke's Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ardea_melanocephala",
+      "common_name": "Black-headed Heron",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Alopochen_aegyptiaca",
+      "common_name": "Egyptian Goose",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ardea_alba",
+      "common_name": "Great Egret",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Mycteria_ibis",
+      "common_name": "Yellow-billed Stork",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pelecanus_onocrotalus",
+      "common_name": "Great White Pelican",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Grey crowned crane",
+      "url": "https://en.wikipedia.org/wiki/Grey_crowned_crane",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/5228229"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

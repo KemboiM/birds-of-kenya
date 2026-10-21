@@ -1,0 +1,104 @@
+{
+  "label": "Bucorvus_leadbeateri",
+  "scientific_name": "Bucorvus leadbeateri",
+  "common_name": "Southern Ground Hornbill",
+  "other_names": {},
+  "family": "Bucorvidae",
+  "summary": "The southern ground hornbill (Bucorvus leadbeateri) is one of two species of ground hornbill, both of which are found solely within Africa, and is the largest species in the hornbill order worldwide. It can be found in the southern regions of Africa, ranging from Kenya to South Africa. Within these regions, they inhabit both woodlands and savannas.",
+  "appearance": {
+    "description": "This is a large bird, at 90 to 129 cm (2 ft 11 in to 4 ft 3 in) long. Females weigh 2.2 to 4.6 kilograms (4.9 to 10.1 lb), while the larger males weigh 3.5 to 6.2 kilograms (7.7 to 13.7 lb). The average weight of eight females was 3.34 kg (7.4 lb) whilst that of eight males was 4.2 kg (9.3 lb); thus they average around 35% percent heavier than any Asian hornbill species.",
+    "colors": "Their sex can be identified by the colour of their throats: the male's is pure red and the female's is a deep violet-blue. They are listed globally as 'Vulnerable' by the IUCN as of 2018, and as 'Endangered' in South Africa, Lesotho, Namibia and Eswatini.",
+    "wings": "The wing chord is 49.5 to 61.8 cm (19.5 to 24.3 in), the tail from 29 to 36 cm (11 to 14 in), the tarsus from 13 to 15.5 cm (5.1 to 6.1 in) and the culmen from 16.8 to 22.1 cm (6.6 to 8.7 in). The white tips of the wings (primary feathers) seen in flight are another diagnostic characteristic."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        90.0,
+        129.0
+      ],
+      "mass_g": [
+        3340.0,
+        4200.0
+      ],
+      "wingspan_cm": [
+        120.0,
+        180.0
+      ]
+    },
+    "juvenile": {
+      "notes": "The southern ground hornbill is black with vivid red patches of bare skin on the face and throat (yellow in juvenile birds)—as well as being one of few birds with eyelashes—which are believed to keep dust out of the birds' eyes while they forage during the dry season. Juveniles to six years old lack the prominent red pouch, having a duller patch of grey in its place."
+    },
+    "chick": {
+      "notes": "In captivity, a maximum lifespan of 70 years is recorded, and it is generally believed that the life expectancy of a bird that survives long enough to fledge is as high as thirty years or more, which is comparable to that of more famously long-lived birds like the wandering albatross. One to three eggs are laid at the beginning of the wet season, but siblicide ensures that only one nestling is ever fledged."
+    }
+  },
+  "behaviour": "Southern ground hornbills can be found from northern Namibia and Angola to northern South Africa and southern Zimbabwe to Burundi and Kenya. They require a savanna habitat with large trees for nesting and dense but short grass for foraging. The southern ground hornbill is a vulnerable species, mainly confined to national reserves and national parks.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "Southern ground hornbills can be found from northern Namibia and Angola to northern South Africa and southern Zimbabwe to Burundi and Kenya. They require a savanna habitat with large trees for nesting and dense but short grass for foraging.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Coast",
+      "Narok",
+      "Taita Taveta",
+      "Nakuru"
+    ],
+    "gbif_records_in_kenya": 4773
+  },
+  "look_alikes": [
+    {
+      "label": "Anastomus_lamelligerus",
+      "common_name": "African Openbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bubalornis_niger",
+      "common_name": "Red-billed Buffalo Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Anhinga_rufa",
+      "common_name": "African Darter",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bostrychia_hagedash",
+      "common_name": "Hadada Ibis",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ciconia_microscelis",
+      "common_name": "African Woolly-necked Stork",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Vanellus_armatus",
+      "common_name": "Blacksmith Lapwing",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Southern ground hornbill",
+      "url": "https://en.wikipedia.org/wiki/Southern_ground_hornbill",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2476041"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

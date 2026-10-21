@@ -1,0 +1,92 @@
+{
+  "label": "Cinnyris_pulchellus",
+  "scientific_name": "Cinnyris pulchellus",
+  "common_name": "Beautiful Sunbird",
+  "other_names": {},
+  "family": "Nectariniidae",
+  "summary": "The beautiful sunbird (Cinnyris pulchellus), formerly placed in the genus Nectarinia, is a small passerine bird in the sunbird family Nectariniidae. It is native to tropical Africa, its range extending from Senegal and Guinea in the west to Sudan, South Sudan, Ethiopia, Tanzania and Kenya in the east. It was formerly considered to be conspecific with the gorgeous sunbird (Cinnyris melanogastrus).",
+  "appearance": {
+    "description": "Beautiful sunbirds are tiny, only 10 cm (4 in) long, although the breeding male's long tail adds another 5 cm (2 in). They have medium-length thin down-curved bills and brush-tipped tubular tongues, both of which are adaptations to their nectar feeding. The male has a black head, bright metallic green upper parts, scarlet breast bordered with yellow and black belly.",
+    "colors": "It was formerly considered to be conspecific with the gorgeous sunbird (Cinnyris melanogastrus). The male has a black head, bright metallic green upper parts, scarlet breast bordered with yellow and black belly.",
+    "wings": null
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        5.0,
+        10.0
+      ]
+    },
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": "The sunbirds are a group of very small Old World passerine birds which feed largely on nectar, although they will also take insects, especially when feeding young. Flight is fast and direct on their short wings. Most species can take nectar by hovering like a hummingbird, but usually perch to feed most of the time.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The beautiful sunbird occurs in Benin, Burkina Faso, Cameroon, Central African Republic, Chad, Democratic Republic of the Congo, Côte d'Ivoire, Eritrea, Ethiopia, Gambia, Ghana, Guinea, Guinea-Bissau, Kenya, Mali, Mauritania, Niger, Nigeria, Senegal, Sierra Leone, South Sudan, Sudan, Tanzania, Togo and Uganda. This species is found in a variety of open habitats with some trees, including savannah, riverside thickets, mangroves, beachsides and gardens.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Nyanza",
+      "Nairobi",
+      "Baringo",
+      "Coast"
+    ],
+    "gbif_records_in_kenya": 6684
+  },
+  "look_alikes": [
+    {
+      "label": "Cinnyris_mariquensis",
+      "common_name": "Marico Sunbird",
+      "difference": null,
+      "times_confused": 4
+    },
+    {
+      "label": "Cinnyris_reichenowi",
+      "common_name": "Northern Double-collared Sunbird",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Nectarinia_kilimensis",
+      "common_name": "Bronze Sunbird",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Nectarinia_tacazze",
+      "common_name": "Tacazze Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cinnyris_mediocris",
+      "common_name": "Eastern Double-collared Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Chalcomitra_amethystina",
+      "common_name": "Amethyst Sunbird",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Beautiful sunbird",
+      "url": "https://en.wikipedia.org/wiki/Beautiful_sunbird",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/7340702"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

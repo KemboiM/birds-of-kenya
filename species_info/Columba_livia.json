@@ -1,0 +1,126 @@
+{
+  "label": "Columba_livia",
+  "scientific_name": "Columba livia",
+  "common_name": "Rock Dove",
+  "other_names": {},
+  "family": "Columbidae",
+  "summary": "The rock dove (Columba livia), also known as the common pigeon or rock pigeon (but see also Petrophassa), is a member of the bird family Columbidae (doves and pigeons). In common usage, it is often simply referred to as the \"pigeon\", although the rock dove is the wild form of the bird; the pigeons familiar to most people are the domesticated forms of the wild rock dove. Wild rock doves are uniformly pale grey with two black bars on each wing, with few differences being seen between males and females; i.e. they are not strongly sexually dimorphic.",
+  "appearance": {
+    "description": "Millennia of domestication have greatly altered the rock dove in many regions. Domestic and Feral pigeons, which arose through selective breeding, not originating naturally, have significant variation in plumage from the natural wild birds. This wild type is endangered in many areas; the nominate subspecies C. l. livia persists most notably in the far north and west of Scotland, most strongly so in the Outer Hebrides.",
+    "colors": "In common usage, it is often simply referred to as the \"pigeon\", although the rock dove is the wild form of the bird; the pigeons familiar to most people are the domesticated forms of the wild rock dove. Wild rock doves are uniformly pale grey with two black bars on each wing, with few differences being seen between males and females; i.e. they are not strongly sexually dimorphic.",
+    "wings": "Wild rock doves are uniformly pale grey with two black bars on each wing, with few differences being seen between males and females; i.e. they are not strongly sexually dimorphic. For standard measurements, the wing chord is typically around 22.3 cm (8.8 in), the tail is 9.5 to 11 cm (3.7 to 4.3 in), the bill is around 1.8 cm (0.71 in), and the tarsus is 2.6 to 3.5 cm (1.0 to 1.4 in)."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        30.0,
+        68.0
+      ],
+      "mass_g": [
+        238.0,
+        380.0
+      ]
+    },
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": "Pigeons are often found in pairs in the breeding season, but are often gregarious, living in flocks of 50 to 500 birds (dependent on the food supply). As prey birds, they must keep their vigilance, and when disturbed a pigeon within a flock will take off with a noisy clapping sound that cues for other pigeons to take to flight. The noise of the take-off increases the faster a pigeon beats its wings, thus advertising the magnitude of a perceived threat to its flockmates.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The natural distribution of the rock dove is restricted to a resident range in western and southern Europe, North Africa, and extending into South Asia. They were introduced into most of the rest of the world aboard European ships from 1603 onwards.",
+    "kenya_regions": [
+      "Kenya",
+      "Nairobi",
+      "Rift Valley",
+      "Coast",
+      "Nyanza",
+      "Central"
+    ],
+    "gbif_records_in_kenya": 3258
+  },
+  "look_alikes": [
+    {
+      "label": "Actophilornis_africanus",
+      "common_name": "African Jacana",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ardea_melanocephala",
+      "common_name": "Black-headed Heron",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ardeotis_kori",
+      "common_name": "Kori Bustard",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Monticola_saxatilis",
+      "common_name": "Common Rock Thrush",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Terathopius_ecaudatus",
+      "common_name": "Bateleur",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lophoceros_alboterminatus",
+      "common_name": "Crowned Hornbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Gymnoris_pyrgita",
+      "common_name": "Yellow-spotted Bush Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Columba_guinea",
+      "common_name": "Speckled Pigeon",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Corvus_splendens",
+      "common_name": "House Crow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pternistis_afer",
+      "common_name": "Red-necked Spurfowl",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Corythaixoides_leucogaster",
+      "common_name": "White-bellied Go-away-bird",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Rock dove",
+      "url": "https://en.wikipedia.org/wiki/Rock_dove",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2495414"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

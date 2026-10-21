@@ -1,0 +1,128 @@
+{
+  "label": "Turdoides_jardineii",
+  "scientific_name": "Turdoides jardineii",
+  "common_name": "Arrow-marked Babbler",
+  "other_names": {},
+  "family": "Leiothrichidae",
+  "summary": "The arrow-marked babbler (Turdoides jardineii) is a species of bird in the family Leiothrichidae. It is native to woodlands in the southern Afrotropics.",
+  "appearance": {
+    "description": "The arrow-marked babbler is a medium-sized babbler, 22 to 25 cm (8.7–9.8 in) in length and weighing 56 to 85 g (2.0–3.0 oz). The common name for the species is derived from its plumage, which is brownish-grey above and lighter below, with white tips to the feathers on the throat, neck and head. The outer iris is bright red and the inner bright yellow or orange.",
+    "colors": "The common name for the species is derived from its plumage, which is brownish-grey above and lighter below, with white tips to the feathers on the throat, neck and head. The outer iris is bright red and the inner bright yellow or orange.",
+    "wings": null
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        22.0,
+        25.0
+      ],
+      "mass_g": [
+        56.0,
+        85.0
+      ]
+    },
+    "juvenile": {
+      "notes": "Juveniles have brown eyes and less arrow-shaped streaking on the breast."
+    },
+    "chick": null
+  },
+  "behaviour": "The arrow-marked babbler lives in social groups of between 3 and 15 birds (six being the average) that defend large territories, with the size of the territory being dependent upon the number of individuals in the group. They feed on insects, spiders and sometimes snails and lizards, as well as fruits. Foraging occurs near the ground, sometimes in association with other babblers or bulbuls.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "It is found in Angola, Botswana, Burundi, Republic of the Congo, DRC, Eswatini, Gabon, Kenya, Malawi, Mozambique, Namibia, Rwanda, South Africa, Tanzania, Uganda, Zambia, and Zimbabwe. Its natural habitats are subtropical or tropical dry forest, dry savanna, and subtropical or tropical moist shrubland.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Nyanza",
+      "Nakuru",
+      "Narok",
+      "Rift Valley Province"
+    ],
+    "gbif_records_in_kenya": 5510
+  },
+  "look_alikes": [
+    {
+      "label": "Turdoides_sharpei",
+      "common_name": "Black-lored Babbler",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Otus_senegalensis",
+      "common_name": "African Scops Owl",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Crithagra_striolata",
+      "common_name": "Streaky Seedeater",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Laniarius_major",
+      "common_name": "Tropical Boubou",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Merops_oreobates",
+      "common_name": "Cinnamon-chested Bee-eater",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Thamnolaea_cinnamomeiventris",
+      "common_name": "Mocking Cliff Chat",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Turdoides_plebejus",
+      "common_name": "Brown Babbler",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Micronisus_gabar",
+      "common_name": "Gabar Goshawk",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Circaetus_cinereus",
+      "common_name": "Brown Snake Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Creatophora_cinerea",
+      "common_name": "Wattled Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Dioptrornis_fischeri",
+      "common_name": "White-eyed Slaty Flycatcher",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Arrow-marked babbler",
+      "url": "https://en.wikipedia.org/wiki/Arrow-marked_babbler",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2493313"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

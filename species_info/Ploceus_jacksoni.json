@@ -1,0 +1,57 @@
+{
+  "label": "Ploceus_jacksoni",
+  "scientific_name": "Ploceus jacksoni",
+  "common_name": "Golden-backed Weaver",
+  "other_names": {},
+  "family": "Ploceidae",
+  "summary": "The Golden-Backed Weaver (Ploceus jacksoni), also known as Jackson's weaver, is a species of bird in the family Ploceidae. This family of birds are called weavers, because they commonly weave their nests from grasses, stems, and other plant materials. Their nests are hung off of trees, or other tall places.",
+  "appearance": {
+    "description": "Male Golden-backed Weaver body's are bright yellow, while their heads are black, their stomachs are orange-brown, and they have a hint of dark green on their wing feather. The male Golden-Backed Weavers have a similar appearance to the Weyns's Weaver but the Golden-Backed Weavers have a completely yellow back, and the Weyns's Weaver has a black back. The female Golden-backed Weavers are not as colorful, as they are completely covered in dull yellow feathers, and have a bit of green on their wings similar to the males.",
+    "colors": "These birds have bright coloring, but are often confused with other birds, and are found in various parts of Africa and Asia. Male Golden-backed Weaver body's are bright yellow, while their heads are black, their stomachs are orange-brown, and they have a hint of dark green on their wing feather.",
+    "wings": "Male Golden-backed Weaver body's are bright yellow, while their heads are black, their stomachs are orange-brown, and they have a hint of dark green on their wing feather. The female Golden-backed Weavers are not as colorful, as they are completely covered in dull yellow feathers, and have a bit of green on their wings similar to the males."
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": "Golden-backed Weavers are found throughout East Africa, Singapore, and the United Arab Emirates. They most commonly live in marshes, swamps, and in general areas of wet-land.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Nyanza",
+      "Western",
+      "Coast",
+      "Baringo"
+    ],
+    "gbif_records_in_kenya": 2959
+  },
+  "look_alikes": [
+    {
+      "label": "Ploceus_cucullatus",
+      "common_name": "Village Weaver",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Golden-backed weaver",
+      "url": "https://en.wikipedia.org/wiki/Golden-backed_weaver",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2494066"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

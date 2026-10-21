@@ -1,0 +1,72 @@
+{
+  "label": "Pterocles_lichtensteinii",
+  "scientific_name": "Pterocles lichtensteinii",
+  "common_name": "Lichtenstein's Sandgrouse",
+  "other_names": {},
+  "family": "Pteroclididae",
+  "summary": "Lichtenstein's sandgrouse (Pterocles lichtensteinii) is a species of sandgrouse in the family Pteroclidae. It is named after the German naturalist Martin Lichtenstein. A small, closely barred bird of stony deserts and arid hills, it ranges across northern and eastern Africa, the Middle East and south-western Asia to Pakistan.",
+  "appearance": {
+    "description": "Lichtenstein's sandgrouse is a small, stocky sandgrouse about 25 cm (9.8 in) long and weighing 175–250 g (6.2–8.8 oz). It lacks the elongated central tail feathers of some other sandgrouse, and both sexes are closely barred blackish on a buff ground, above and below.",
+    "colors": "A small, closely barred bird of stony deserts and arid hills, it ranges across northern and eastern Africa, the Middle East and south-western Asia to Pakistan. It lacks the elongated central tail feathers of some other sandgrouse, and both sexes are closely barred blackish on a buff ground, above and below.",
+    "wings": null
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        25.0,
+        25.0
+      ],
+      "mass_g": [
+        175.0,
+        250.0
+      ]
+    },
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": "Lichtenstein's sandgrouse feeds on small, hard seeds, especially those of acacia and other legumes. It is usually seen in pairs or small groups by day, gathering into larger flocks at dusk to fly to water; like other sandgrouse it is well adapted to conserving water, and the male can carry water to its young in its belly feathers. Breeding is mainly from May to July, the nest being a shallow scrape among scattered rocks and vegetation, with a clutch of usually two or three camouflaged eggs.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "Lichtenstein's sandgrouse has a very large range, covering some 18,200,000 square kilometres (7,000,000 sq mi) across Africa and south-western Asia. It is found from near the equator in Kenya north and east through the Middle East to Afghanistan and Pakistan.",
+    "kenya_regions": [
+      "Eastern",
+      "Rift Valley",
+      "Kenya",
+      "Eastern prov",
+      "Isiolo",
+      "Samburu"
+    ],
+    "gbif_records_in_kenya": 1127
+  },
+  "look_alikes": [
+    {
+      "label": "Pterocles_decoratus",
+      "common_name": "Black-faced Sandgrouse",
+      "difference": null,
+      "times_confused": 3
+    },
+    {
+      "label": "Pternistis_leucoscepus",
+      "common_name": "Yellow-necked Spurfowl",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Lichtenstein's sandgrouse",
+      "url": "https://en.wikipedia.org/wiki/Lichtenstein%27s_sandgrouse",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2480198"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

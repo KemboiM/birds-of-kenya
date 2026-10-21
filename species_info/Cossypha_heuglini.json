@@ -1,0 +1,116 @@
+{
+  "label": "Cossypha_heuglini",
+  "scientific_name": "Cossypha heuglini",
+  "common_name": "White-browed Robin-chat",
+  "other_names": {},
+  "family": "Muscicapidae",
+  "summary": "The white-browed robin-chat (Cossypha heuglini), also known as Heuglin's robin, is a species of bird in the family Muscicapidae. Found in east, central and southern Africa, its natural habitats include riverine forest and thickets, and it is also found near humans. The IUCN classifies it as a least-concern species.",
+  "appearance": {
+    "description": "The white-browed robin-chat is 19–20 cm (7.5–7.9 in) long and weighs 29–51 g (1.0–1.8 oz). The crown and face are black, and there is a white supercilium over the dark brown eye. The back is olive grey-brown, and the rump is rufous.",
+    "colors": "The white-browed robin-chat (Cossypha heuglini), also known as Heuglin's robin, is a species of bird in the family Muscicapidae. The white-browed robin-chat is 19–20 cm (7.5–7.9 in) long and weighs 29–51 g (1.0–1.8 oz).",
+    "wings": "The flight feathers and wing coverts are grey-brown, and the underwing coverts are rufous."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        19.0,
+        20.0
+      ],
+      "mass_g": [
+        29.0,
+        51.0
+      ]
+    },
+    "juvenile": {
+      "notes": "The juvenile bird has a brown head and rufous-brown marks on its back."
+    },
+    "chick": null
+  },
+  "behaviour": "The diet consists of ants, termites, beetles, some other insects and arthropods, frogs, and fruits. It bathes in water.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The range includes Angola, Botswana, Burundi, Cameroon, Central African Republic, Chad, Republic of the Congo, Democratic Republic of the Congo, Eswatini, Ethiopia, Gabon, Kenya, Malawi, Mozambique, Namibia, Rwanda, Somalia, South Africa, South Sudan, Sudan, Tanzania, Uganda, Zambia, and Zimbabwe. Its habitats include riverine forests, thickets, and also gardens.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Coast",
+      "Western",
+      "Nyanza",
+      "Eastern"
+    ],
+    "gbif_records_in_kenya": 19491
+  },
+  "look_alikes": [
+    {
+      "label": "Cossypha_semirufa",
+      "common_name": "Rüppell's Robin-chat",
+      "difference": null,
+      "times_confused": 5
+    },
+    {
+      "label": "Dessonornis_caffer",
+      "common_name": "Cape Robin-chat",
+      "difference": null,
+      "times_confused": 4
+    },
+    {
+      "label": "Pogoniulus_bilineatus",
+      "common_name": "Yellow-rumped Tinkerbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Emberiza_flaviventris",
+      "common_name": "Golden-breasted Bunting",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Turdoides_rubiginosa",
+      "common_name": "Rufous Chatterer",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Merops_oreobates",
+      "common_name": "Cinnamon-chested Bee-eater",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Campethera_nubica",
+      "common_name": "Nubian Woodpecker",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Empidornis_semipartitus",
+      "common_name": "Silverbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_ocularis",
+      "common_name": "Spectacled Weaver",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "White-browed robin-chat",
+      "url": "https://en.wikipedia.org/wiki/White-browed_robin-chat",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2492592"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

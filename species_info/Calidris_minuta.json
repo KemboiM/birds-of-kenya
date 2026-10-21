@@ -1,0 +1,139 @@
+{
+  "label": "Calidris_minuta",
+  "scientific_name": "Calidris minuta",
+  "common_name": "Little Stint",
+  "other_names": {
+    "sw": "Chokowe Mdogo"
+  },
+  "family": "Scolopacidae",
+  "summary": "The little stint (Calidris minuta) is a very small wader. It breeds in arctic Europe and Asia, and is a long-distance migrant, wintering south to Africa and south Asia. It occasionally is a vagrant to North America and to Australia.",
+  "appearance": {
+    "description": "Its small size, fine dark bill, dark legs and quicker movements distinguish this species from all waders except the other dark-legged stints. It can be distinguished from these in all plumages by its combination of a fine bill tip, unwebbed toes and long primary projection. The call is a sharp \"stit\".",
+    "colors": "The genus name is from Ancient Greek kalidris or skalidris, a term used by Aristotle for some grey-coloured waterside birds. It can be distinguished from these in all plumages by its combination of a fine bill tip, unwebbed toes and long primary projection.",
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": {
+      "notes": "Juveniles have pale crown stripes and a pinkish breast."
+    },
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Coast",
+      "Nairobi",
+      "Eastern",
+      "Central"
+    ],
+    "gbif_records_in_kenya": 8654
+  },
+  "look_alikes": [
+    {
+      "label": "Tringa_nebularia",
+      "common_name": "Common Greenshank",
+      "difference": null,
+      "times_confused": 4
+    },
+    {
+      "label": "Calidris_ferruginea",
+      "common_name": "Curlew Sandpiper",
+      "difference": null,
+      "times_confused": 3
+    },
+    {
+      "label": "Actitis_hypoleucos",
+      "common_name": "Common Sandpiper",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bubo_africanus",
+      "common_name": "Spotted Eagle-owl",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Calidris_pugnax",
+      "common_name": "Ruff",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Charadrius_hiaticula",
+      "common_name": "Common Ringed Plover",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Crithagra_reichenowi",
+      "common_name": "Reichenow's Seedeater",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Spilopelia_senegalensis",
+      "common_name": "Laughing Dove",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Struthio_camelus",
+      "common_name": "Common Ostrich",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tringa_glareola",
+      "common_name": "Wood Sandpiper",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Merops_bullockoides",
+      "common_name": "White-fronted Bee-eater",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Dendrocygna_viduata",
+      "common_name": "White-faced Whistling Duck",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Himantopus_himantopus",
+      "common_name": "Black-winged Stilt",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Turdus_abyssinicus",
+      "common_name": "Abyssinian Thrush",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Little stint",
+      "url": "https://en.wikipedia.org/wiki/Little_stint",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2481749"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

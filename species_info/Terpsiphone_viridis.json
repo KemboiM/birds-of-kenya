@@ -1,0 +1,142 @@
+{
+  "label": "Terpsiphone_viridis",
+  "scientific_name": "Terpsiphone viridis",
+  "common_name": "African Paradise Flycatcher",
+  "other_names": {},
+  "family": "Monarchidae",
+  "summary": "The African paradise flycatcher (Terpsiphone viridis) is a medium-sized passerine bird. The two central tail feathers of the male are extended into streamers that commonly are more than twice as long as the body. The female tail feathers are of moderate length and without streamers.",
+  "appearance": {
+    "description": "The adult male African paradise flycatcher is about 17 cm (6.7 in) long, but the very long tail streamers double this. It has a black head, neck and underparts, and chestnut wings and tail. There is a prominent white wingbar.",
+    "colors": "The upper parts of the male body, wings, and tail are boldly coloured in chestnut or rusty shades, but the underparts and the head are variably grey to blue-gray, with the head of the mature male being darker, commonly glossy black with greenish highlights. The beak and other bare areas, including a wattle ring round the eye, match the colour of the surrounding feathers.",
+    "wings": "The upper parts of the male body, wings, and tail are boldly coloured in chestnut or rusty shades, but the underparts and the head are variably grey to blue-gray, with the head of the mature male being darker, commonly glossy black with greenish highlights. It has a black head, neck and underparts, and chestnut wings and tail."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        17.0,
+        17.0
+      ]
+    },
+    "juvenile": {
+      "notes": "Young birds are similar to the female but duller."
+    },
+    "chick": null
+  },
+  "behaviour": "The African paradise flycatcher is a noisy bird with a harsh scolding call. It has short legs and sits very upright whilst perched prominently, like a shrike. It is insectivorous, often hunting by catching flies on the wing, and eating eggs, larvae and adults.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The African paradise flycatcher is found in most parts of Africa south of the Sahara Desert and also the Arabian Peninsula. Its typical habitat is savannah woodland, open grassland with isolated trees, plantations, open woodland and scrubland.",
+    "kenya_regions": [
+      "Kenya",
+      "Rift Valley",
+      "Nairobi",
+      "Coast",
+      "Central",
+      "Western"
+    ],
+    "gbif_records_in_kenya": 32208
+  },
+  "look_alikes": [
+    {
+      "label": "Dicrurus_adsimilis",
+      "common_name": "Fork-tailed Drongo",
+      "difference": null,
+      "times_confused": 3
+    },
+    {
+      "label": "Dessonornis_caffer",
+      "common_name": "Cape Robin-chat",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Halcyon_leucocephala",
+      "common_name": "Grey-headed Kingfisher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lamprotornis_hildebrandti",
+      "common_name": "Hildebrandt's Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Apalis_flavida",
+      "common_name": "Yellow-breasted Apalis",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bycanistes_brevis",
+      "common_name": "Silvery-cheeked Hornbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Centropus_superciliosus",
+      "common_name": "White-browed Coucal",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Melaenornis_edolioides",
+      "common_name": "Northern Black Flycatcher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Nectarinia_kilimensis",
+      "common_name": "Bronze Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Parus_albiventris",
+      "common_name": "White-bellied Tit",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ptilopsis_leucotis",
+      "common_name": "Northern White-faced Owl",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Turdus_abyssinicus",
+      "common_name": "Abyssinian Thrush",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tockus_erythrorhynchus",
+      "common_name": "Northern Red-billed Hornbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Uraeginthus_bengalus",
+      "common_name": "Red-cheeked Cordon-bleu",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "African paradise flycatcher",
+      "url": "https://en.wikipedia.org/wiki/African_paradise_flycatcher",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2486688"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

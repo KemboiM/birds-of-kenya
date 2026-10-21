@@ -1,0 +1,137 @@
+{
+  "label": "Eurocephalus_ruppelli",
+  "scientific_name": "Eurocephalus ruppelli",
+  "common_name": "Northern White-crowned Shrike",
+  "other_names": {},
+  "family": "Laniidae",
+  "summary": "The northern white-crowned shrike or white-rumped shrike (Eurocephalus ruppelli), is a shrike found in dry thornbush, semi-desert, and open acacia woodland in east Africa from south eastern South Sudan and southern Ethiopia to Tanzania. Its binomial name commemorates the German naturalist and explorer Eduard Rüppell.",
+  "appearance": {
+    "description": "The northern white-crowned shrike is a large and fluffy passerine, measuring 19–23-cm long and weigh 42–58 gram. The adult has a white crown and rump, black eyestripe, brown back and wings and black tail. The throat, breast and belly are white, and the flanks are brown.",
+    "colors": "The northern white-crowned shrike or white-rumped shrike (Eurocephalus ruppelli), is a shrike found in dry thornbush, semi-desert, and open acacia woodland in east Africa from south eastern South Sudan and southern Ethiopia to Tanzania. The northern white-crowned shrike is a large and fluffy passerine, measuring 19–23-cm long and weigh 42–58 gram.",
+    "wings": "The adult has a white crown and rump, black eyestripe, brown back and wings and black tail."
+  },
+  "size": {
+    "adult": null,
+    "juvenile": {
+      "notes": "The sexes are similar, but juveniles have a brown crown, white head sides, and grey breast."
+    },
+    "chick": null
+  },
+  "behaviour": "The northern white-crowned shrike is gregarious, occurring in groups of up 12 birds. It hunts from an exposed perch, feeding mainly on large insects, usually taken from the ground. It also will feed from the backs of large mammals, like an oxpecker, and occasionally will eat fruit which has fallen to the ground.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Coast",
+      "Eastern",
+      "Narok",
+      "Taita Taveta"
+    ],
+    "gbif_records_in_kenya": 16035
+  },
+  "look_alikes": [
+    {
+      "label": "Lybius_leucocephalus",
+      "common_name": "White-headed Barbet",
+      "difference": null,
+      "times_confused": 3
+    },
+    {
+      "label": "Psalidoprocne_albiceps",
+      "common_name": "White-headed Saw-wing",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Eremopterix_signatus",
+      "common_name": "Chestnut-headed Sparrow-lark",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Turtur_tympanistria",
+      "common_name": "Tambourine Dove",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tricholaema_lacrymosa",
+      "common_name": "Spot-flanked Barbet",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lonchura_cucullata",
+      "common_name": "Bronze Mannikin",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Vidua_macroura",
+      "common_name": "Pin-tailed Whydah",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lanius_cabanisi",
+      "common_name": "Long-tailed Fiscal",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bycanistes_brevis",
+      "common_name": "Silvery-cheeked Hornbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lanius_humeralis",
+      "common_name": "Northern Fiscal",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Parus_albiventris",
+      "common_name": "White-bellied Tit",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Plocepasser_mahali",
+      "common_name": "White-browed Sparrow-weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Sporopipes_frontalis",
+      "common_name": "Speckle-fronted Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lanius_excubitoroides",
+      "common_name": "Grey-backed Fiscal",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Northern white-crowned shrike",
+      "url": "https://en.wikipedia.org/wiki/Northern_white-crowned_shrike",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/6100756"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

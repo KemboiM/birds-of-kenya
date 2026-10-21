@@ -1,0 +1,80 @@
+{
+  "label": "Merops_revoilii",
+  "scientific_name": "Merops revoilii",
+  "common_name": "Somali Bee-eater",
+  "other_names": {},
+  "family": "Meropidae",
+  "summary": "The Somali bee-eater (Merops revoilii) is a species of bird in the family Meropidae. It is found in Ethiopia, Kenya, Saudi Arabia, Somalia and Tanzania. This is a small bee-eater that prefers arid country and desert areas where it may be locally common.",
+  "appearance": {
+    "description": "The Somali bee-eater grows to a length of 16 to 18 cm (6.3 to 7.1 in) and is the smallest member of the genus. The sexes are similar in appearance and are slender birds with spiky plumage on the head. The crown is glossy green and the eyebrow blue.",
+    "colors": "The sexes are similar in appearance and are slender birds with spiky plumage on the head. The crown is glossy green and the eyebrow blue.",
+    "wings": "This species lacks the dark trailing edges to the wings that many other members of the genus have."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        16.0,
+        18.0
+      ]
+    },
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": "The Somali bee-eater feeds on small flying insects which it catches in short dashes from a low perch. It is either solitary or found in pairs. It nests in the banks of road cuttings and in the sides of deep wells.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The Somali bee-eater is found in the Horn of Africa, its range extending from the southern part of Ethiopia, through Somalia to northern and eastern Kenya. Its typical habitat is open scrub of Acacia and Commiphora, arid grassland with scattered bushes and steppe.",
+    "kenya_regions": [
+      "Eastern",
+      "Rift Valley",
+      "Coast",
+      "Kenya",
+      "Samburu",
+      "North-Eastern"
+    ],
+    "gbif_records_in_kenya": 1875
+  },
+  "look_alikes": [
+    {
+      "label": "Coracias_caudatus",
+      "common_name": "Lilac-breasted Roller",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Nectarinia_famosa",
+      "common_name": "Malachite Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Anthreptes_orientalis",
+      "common_name": "Eastern Violet-backed Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Colius_striatus",
+      "common_name": "Speckled Mousebird",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Somali bee-eater",
+      "url": "https://en.wikipedia.org/wiki/Somali_bee-eater",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2475409"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

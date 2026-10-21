@@ -1,0 +1,115 @@
+{
+  "label": "Amadina_fasciata",
+  "scientific_name": "Amadina fasciata",
+  "common_name": "Cut-throat Finch",
+  "other_names": {},
+  "family": "Estrildidae",
+  "summary": "The cut-throat finch (Amadina fasciata) is a common species of estrildid finch found throughout Africa; it is also known as the bearded finch, the ribbon finch, the cut throat, and the weaver finch.",
+  "appearance": {
+    "description": "The cut-throat finch has plumage that is pale, sandy brown with flecks of black all over. It has a black-brown tail, a thick white chin and cheeks, and a chestnut brown patch on the belly. The legs are a pink fleshy colour.",
+    "colors": "The cut-throat finch has plumage that is pale, sandy brown with flecks of black all over. It has a black-brown tail, a thick white chin and cheeks, and a chestnut brown patch on the belly.",
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": {
+      "notes": "The adult male has a bright red band across its throat (thus the name \"cut throat\"), while the male juveniles have a slightly duller red band."
+    },
+    "chick": {
+      "notes": "A clutch usually consists of 3 to 6 white eggs, which hatch after an incubation period of 12–13 days. The chicks leave the nest after 21–27 days but continue to be fed by their parents for a further three weeks."
+    }
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Rift Valley",
+      "Eastern",
+      "Coast",
+      "Kenya",
+      "Nairobi",
+      "Samburu"
+    ],
+    "gbif_records_in_kenya": 3742
+  },
+  "look_alikes": [
+    {
+      "label": "Cinnyricinclus_leucogaster",
+      "common_name": "Violet-backed Starling",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Bubalornis_niger",
+      "common_name": "Red-billed Buffalo Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Falco_biarmicus",
+      "common_name": "Lanner Falcon",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Merops_nubicus",
+      "common_name": "Northern Carmine Bee-eater",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Passer_gongonensis",
+      "common_name": "Parrot-billed Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pluvialis_squatarola",
+      "common_name": "Grey Plover",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pternistis_hildebrandti",
+      "common_name": "Hildebrandt's Spurfowl",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Trachyphonus_darnaudii",
+      "common_name": "D'Arnaud's Barbet",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Dendropicos_fuscescens",
+      "common_name": "Cardinal Woodpecker",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Sagittarius_serpentarius",
+      "common_name": "Secretarybird",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Cut-throat finch",
+      "url": "https://en.wikipedia.org/wiki/Cut-throat_finch",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2493707"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

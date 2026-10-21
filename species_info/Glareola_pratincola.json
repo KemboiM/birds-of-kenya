@@ -1,0 +1,114 @@
+{
+  "label": "Glareola_pratincola",
+  "scientific_name": "Glareola pratincola",
+  "common_name": "Collared Pratincole",
+  "other_names": {
+    "sw": "Bwabwaja"
+  },
+  "family": "Glareolidae",
+  "summary": "The collared pratincole (Glareola pratincola), also known as the common pratincole or red-winged pratincole, is a wader in the pratincole family, Glareolidae. As with other pratincoles, it is native to the Old World.",
+  "appearance": {
+    "description": "This pratincole is 24–28 cm (9.4–11.0 in) long with a 60–70 cm (24–28 in) wingspan. It has short legs, long pointed wings, a long forked tail, and a short bill, which is an adaptation to aerial feeding. The back and head are brown, and the wings are brown with darker flight feathers.",
+    "colors": "The collared pratincole (Glareola pratincola), also known as the common pratincole or red-winged pratincole, is a wader in the pratincole family, Glareolidae. The back and head are brown, and the wings are brown with darker flight feathers.",
+    "wings": "The collared pratincole (Glareola pratincola), also known as the common pratincole or red-winged pratincole, is a wader in the pratincole family, Glareolidae. It has short legs, long pointed wings, a long forked tail, and a short bill, which is an adaptation to aerial feeding."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        24.0,
+        70.0
+      ]
+    },
+    "juvenile": null,
+    "chick": {
+      "notes": "Beginning after the last egg is laid, they are incubated by both parents and hatch synchronously after 17-19 days. The young fledge when they are 25–30 days of age."
+    }
+  },
+  "behaviour": "=== Feeding === Pratincoles are unusual among waders in that they typically hunt their insect prey on the wing like swallows, although they can also feed on the ground.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The collared pratincole is a bird of open country, and is often seen near water in the evening, hawking for insects. It is found in the warmer parts of Europe, southwest Asia and Africa.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Coast",
+      "Kajiado",
+      "Eastern",
+      "Nyanza"
+    ],
+    "gbif_records_in_kenya": 2379
+  },
+  "look_alikes": [
+    {
+      "label": "Circus_aeruginosus",
+      "common_name": "Western Marsh Harrier",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Anas_erythrorhyncha",
+      "common_name": "Red-billed Teal",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Anthus_cinnamomeus",
+      "common_name": "African Pipit",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Corvus_splendens",
+      "common_name": "House Crow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Gelochelidon_nilotica",
+      "common_name": "Gull-billed Tern",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Hirundo_rustica",
+      "common_name": "Barn Swallow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Vanellus_melanopterus",
+      "common_name": "Black-winged Lapwing",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_castaneiceps",
+      "common_name": "Taveta Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Aquila_rapax",
+      "common_name": "Tawny Eagle",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Collared pratincole",
+      "url": "https://en.wikipedia.org/wiki/Collared_pratincole",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2480757"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

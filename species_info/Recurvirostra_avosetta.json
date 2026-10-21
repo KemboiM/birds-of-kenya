@@ -1,0 +1,102 @@
+{
+  "label": "Recurvirostra_avosetta",
+  "scientific_name": "Recurvirostra avosetta",
+  "common_name": "Pied Avocet",
+  "other_names": {
+    "sw": "Msese domojuu"
+  },
+  "family": "Recurvirostridae",
+  "summary": "The pied avocet (Recurvirostra avosetta) is a species of wader in the Recurvirostridae family, the only member of the avocet genus Recurvirostra found in Europe, Africa, and Asia. This characteristic wader of coastal lagoons and marshes is easily recognisable by its long, upturned bill, long legs, and striking black-and-white plumage. Measuring approximately 40 cm (16 in) in length with a wingspan of about 70 cm (28 in), it is a relatively large species that feeds on various invertebrates in water and mudflats, captured using its distinctive bill.",
+  "appearance": {
+    "description": "Adults have a striking black-and-white plumage, with a black cap extending to the back of the neck. The primaries are black, with the base of the inner primaries white, while the secondary coverts are dark grey. The rectrices are pale grey-brown in the middle and white elsewhere.",
+    "colors": "This characteristic wader of coastal lagoons and marshes is easily recognisable by its long, upturned bill, long legs, and striking black-and-white plumage. Measuring approximately 40 cm (16 in) in length with a wingspan of about 70 cm (28 in), it is a relatively large species that feeds on various invertebrates in water and mudflats, captured using its distinctive bill.",
+    "wings": "In flight, the wingtips and shoulders are black, and the legs extend beyond the tail. Juveniles have dingy grey wing coverts, with back and scapular feathers vermiculated with reddish-brown."
+  },
+  "size": {
+    "adult": {
+      "wingspan_cm": [
+        70.0,
+        70.0
+      ],
+      "length_cm": [
+        40.0,
+        40.0
+      ]
+    },
+    "juvenile": {
+      "notes": "Juveniles have dingy grey wing coverts, with back and scapular feathers vermiculated with reddish-brown. By their first summer, the primaries of juveniles appear very worn and brownish."
+    },
+    "chick": {
+      "notes": "Islets improve hatching success by reducing predation. Hatching success varies by site and year, ranging from 54–78% in the Olonne Marsh and 8–59% in the Séné Marshes."
+    }
+  },
+  "behaviour": "Like all avocets, it forages in shallow brackish water or on mud flats, often scything its bill from side to side in water; a feeding technique unique to avocets. It mainly eats crustaceans and insects. Its breeding habitat is shallow lakes with brackish water and exposed bare mud.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The species frequents coastal habitats. In winter, it gathers in groups on soft substrates like brackish or saline bays, sandbanks, estuaries, lagoons, deltas, or intertidal mudflats, used for resting and feeding.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Coast",
+      "Nakuru",
+      "Kajiado",
+      "Eastern"
+    ],
+    "gbif_records_in_kenya": 3963
+  },
+  "look_alikes": [
+    {
+      "label": "Tringa_nebularia",
+      "common_name": "Common Greenshank",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Bycanistes_subcylindricus",
+      "common_name": "Black-and-white-casqued Hornbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ceryle_rudis",
+      "common_name": "Pied Kingfisher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Vanellus_armatus",
+      "common_name": "Blacksmith Lapwing",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Anas_erythrorhyncha",
+      "common_name": "Red-billed Teal",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Phoeniconaias_minor",
+      "common_name": "Lesser Flamingo",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Pied avocet",
+      "url": "https://en.wikipedia.org/wiki/Pied_avocet",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2480259"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

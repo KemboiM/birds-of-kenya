@@ -1,0 +1,92 @@
+{
+  "label": "Merops_superciliosus",
+  "scientific_name": "Merops superciliosus",
+  "common_name": "Olive Bee-eater",
+  "other_names": {},
+  "family": "Meropidae",
+  "summary": "The olive bee-eater or Madagascar bee-eater (Merops superciliosus) is a bee-eater species in the genus Merops. It is native to the southern half of Africa where it is present in Angola; Botswana; Burundi; Comoros; Democratic Republic of the Congo; Djibouti; Eritrea; Ethiopia; Kenya; Madagascar; Malawi; Mayotte; Mozambique; Namibia; Rwanda; Somalia; South Sudan; Sudan; Tanzania; Uganda; Zambia; Zimbabwe. It is a common species with a wide range so the International Union for Conservation of Nature has rated their conservation status as \"least concern\".",
+  "appearance": {
+    "description": "The olive bee-eater grows to a length of 23 to 26 cm (9.1 to 10.2 in) with its tail streamers adding up to 7 cm (2.8 in). The sexes are similar, and adults have bronzy-green plumage with an olive cap and white forehead, eyebrows, chin and cheeks. The rump and tail are blue, apart from the streamers, which are black.",
+    "colors": "The olive bee-eater or Madagascar bee-eater (Merops superciliosus) is a bee-eater species in the genus Merops. The olive bee-eater grows to a length of 23 to 26 cm (9.1 to 10.2 in) with its tail streamers adding up to 7 cm (2.8 in).",
+    "wings": null
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        7.0,
+        26.0
+      ]
+    },
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": "They are partially migratory, and usually breed only in the southern portion of their range, moving north for the dry season in southern Africa. It lays four eggs in a burrow nest at the beginning of the southern African wet season, and the chicks usually hatch at the beginning of December. Unlike most bee-eaters, the species does not practice cooperative breeding and post-fledging dependence is only around 19 days, which is typical of temperate zone passerines and about half that of most Meropidae species.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The olive bee-eater is found in the grassland and coastal mountain forests of East Africa and Madagascar, and an isolated population can be found in coastal Angola. There are two subspecies; M. s. superciliosus occurs in eastern Ethiopia, Somalia and Kenya, and southwards through East Africa to southern Mozambique and the Zambezi Valley, as well as the Comoro Islands and Madagascar; M. s. alternans occurs in western Angola and northwestern Namibia.",
+    "kenya_regions": [
+      "Coast",
+      "Kenya",
+      "Rift Valley",
+      "Nyanza",
+      "Eastern",
+      "Baringo"
+    ],
+    "gbif_records_in_kenya": 2554
+  },
+  "look_alikes": [
+    {
+      "label": "Merops_albicollis",
+      "common_name": "White-throated Bee-eater",
+      "difference": null,
+      "times_confused": 3
+    },
+    {
+      "label": "Merops_apiaster",
+      "common_name": "European Bee-eater",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Merops_persicus",
+      "common_name": "Blue-cheeked Bee-eater",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Merops_oreobates",
+      "common_name": "Cinnamon-chested Bee-eater",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Nectarinia_kilimensis",
+      "common_name": "Bronze Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Creatophora_cinerea",
+      "common_name": "Wattled Starling",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Olive bee-eater",
+      "url": "https://en.wikipedia.org/wiki/Olive_bee-eater",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2475440"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

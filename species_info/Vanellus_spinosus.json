@@ -1,0 +1,83 @@
+{
+  "label": "Vanellus_spinosus",
+  "scientific_name": "Vanellus spinosus",
+  "common_name": "Spur-winged Lapwing",
+  "other_names": {
+    "sw": "Kiluwiluwi Kizibao-cheusi"
+  },
+  "family": "Charadriidae",
+  "summary": "The spur-winged lapwing or spur-winged plover (Vanellus spinosus) is a lapwing species, one of a group of largish waders in the family Charadriidae.",
+  "appearance": {
+    "description": "The spur-winged lapwing is a medium-large wader with a black crown, chest, foreneck stripe and tail. The face, the rest of the neck and belly are white and the wings and back are light brown. The bill and legs are black.",
+    "colors": "The spur-winged lapwing is a medium-large wader with a black crown, chest, foreneck stripe and tail. The face, the rest of the neck and belly are white and the wings and back are light brown.",
+    "wings": "The spur-winged lapwing or spur-winged plover (Vanellus spinosus) is a lapwing species, one of a group of largish waders in the family Charadriidae. The spur-winged lapwing is a medium-large wader with a black crown, chest, foreneck stripe and tail."
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": "This species has a preference for marshes and similar freshwater wetland habitats. The food of the spur-winged lapwing is insects and other invertebrates, which are picked from the ground. It lays four blotchy yellowish eggs on a ground scrape.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The spur-winged lapwing breeds around the eastern Mediterranean, and in a wide band from sub-Saharan west Africa to Arabia. The Greek and Turkish breeders are migratory, but other populations are resident.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Nairobi",
+      "Eastern",
+      "Coast",
+      "Nyanza"
+    ],
+    "gbif_records_in_kenya": 20096
+  },
+  "look_alikes": [
+    {
+      "label": "Oenanthe_pileata",
+      "common_name": "Capped Wheatear",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Oena_capensis",
+      "common_name": "Namaqua Dove",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Actophilornis_africanus",
+      "common_name": "African Jacana",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Melierax_poliopterus",
+      "common_name": "Eastern Chanting Goshawk",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Vanellus_coronatus",
+      "common_name": "Crowned Lapwing",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Spur-winged lapwing",
+      "url": "https://en.wikipedia.org/wiki/Spur-winged_lapwing",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/5229142"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

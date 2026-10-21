@@ -1,0 +1,128 @@
+{
+  "label": "Vidua_paradisaea",
+  "scientific_name": "Vidua paradisaea",
+  "common_name": "Long-tailed Paradise Whydah",
+  "other_names": {},
+  "family": "Viduidae",
+  "summary": "The long-tailed paradise whydah or eastern paradise whydah (Vidua paradisaea) is a bird in the family Viduidae of the order Passeriformes. It is a small passerine with a short, stubby bill, found across eastern and southern Africa from Ethiopia south to South Africa and west to Angola. It is mostly granivorous, and feed on seeds that have ripened and fallen on the ground.",
+  "appearance": {
+    "description": "Breeding male long-tailed paradise whydahs have black heads and back, a rusty coloured breast, a bright buffy-yellow nape, and white abdomen with broad, elongated black tail feathers that can grow up to 36 cm or more. When in non-breeding plumage, males are hard to distinguish from females, and in general, from other Viduidae species, as these differ from one another in size, in non-breeding plumage and colour, and in the songs used for mating.. Usually, they are about 13 cm in length and weigh about 21 grams.",
+    "colors": "During this time, the males moult into breeding plumage where they have a distinctive long tail. However, there are some cases where females don't use songs to choose their mate but they use either male characteristics like plumage or they can have a shortage of options with song mimicry.",
+    "wings": null
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        36.0,
+        36.0
+      ]
+    },
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": "The long-tailed paradise whydah are known to be brood parasites where they would lay their eggs in nests of other songbirds. Furthermore, they usually roost together in flocks during both breeding and non-breeding seasons. Males develop the ability to mimic songs of their host.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The long-tailed paradise whydahs are found in grassland, savanna and open woodland where they live in bushed grassland around cultivation. The majority of the time, these whydahs stay away from surface waters.",
+    "kenya_regions": [
+      "Coast",
+      "Kenya",
+      "Rift Valley",
+      "Eastern",
+      "Taita Taveta",
+      "Nyanza"
+    ],
+    "gbif_records_in_kenya": 2925
+  },
+  "look_alikes": [
+    {
+      "label": "Halcyon_albiventris",
+      "common_name": "Brown-hooded Kingfisher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Euplectes_jacksoni",
+      "common_name": "Jackson's Widowbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Rhinopomastus_minor",
+      "common_name": "Abyssinian Scimitarbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tockus_jacksoni",
+      "common_name": "Jackson's Hornbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Apus_affinis",
+      "common_name": "Little Swift",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Buteo_augur",
+      "common_name": "Augur Buzzard",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cecropis_abyssinica",
+      "common_name": "Lesser Striped Swallow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Colius_striatus",
+      "common_name": "Speckled Mousebird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Crithagra_striolata",
+      "common_name": "Streaky Seedeater",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Spatula_hottentota",
+      "common_name": "Blue-billed Teal",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Trachyphonus_darnaudii",
+      "common_name": "D'Arnaud's Barbet",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Corythornis_cristatus",
+      "common_name": "Malachite Kingfisher",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Long-tailed paradise whydah",
+      "url": "https://en.wikipedia.org/wiki/Long-tailed_paradise_whydah",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2484626"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "label": "Ciconia_nigra",
+  "scientific_name": "Ciconia nigra",
+  "common_name": "Black Stork",
+  "other_names": {
+    "sw": "Korongo Mweusi"
+  },
+  "family": "Ciconiidae",
+  "summary": "The black stork (Ciconia nigra) is a large bird in the stork family Ciconiidae. It was first described by Carl Linnaeus in the 10th edition of his Systema Naturae. Measuring on average 95 to 100 cm (37 to 39 in) from beak tip to end of tail with a 145-to-155 cm (57-to-61 in) wingspan, the adult black stork has mainly black plumage, with white underparts, long red legs and a long pointed red beak.",
+  "appearance": {
+    "description": "The black stork is a large bird, measuring between 95 and 100 cm (37 and 39 in) in length with a 145-to-155 cm (57-to-61 in) wingspan, and weighing around 3 kg (6.6 lb). Standing as tall as 102 cm (40 in), it has long red legs, a long neck and a long, straight, pointed red beak. It bears some resemblance to Abdim's stork (C. abdimii), which can be distinguished by its much smaller build, predominantly green bill, legs and feet, and white rump and lower back.",
+    "colors": "The black stork (Ciconia nigra) is a large bird in the stork family Ciconiidae. Measuring on average 95 to 100 cm (37 to 39 in) from beak tip to end of tail with a 145-to-155 cm (57-to-61 in) wingspan, the adult black stork has mainly black plumage, with white underparts, long red legs and a long pointed red beak.",
+    "wings": "The scapulars, wing and upper tail coverts have pale tips. It could possibly be confused with the juvenile yellow-billed stork, but the latter has paler wings and mantle, a longer bill and white under the wings."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        95.0,
+        155.0
+      ],
+      "mass_g": [
+        3000.0,
+        3000.0
+      ]
+    },
+    "juvenile": {
+      "notes": "The juvenile resembles the adult in plumage, but the areas corresponding to the adult black feathers are browner and less glossy. It could possibly be confused with the juvenile yellow-billed stork, but the latter has paler wings and mantle, a longer bill and white under the wings."
+    },
+    "chick": {
+      "notes": "Hatching is asynchronous, and takes place at the end of May. Fledging takes 60 to 71 days, after which the young joins the adults at their feeding grounds."
+    }
+  },
+  "behaviour": "A wary species, the black stork avoids contact with people. It is generally found alone or in pairs, or in flocks of up to 100 birds when migrating or during winter. The black stork has a wider range of calls than the white stork, its main call being a chee leee, which sounds like a loud inhalation.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "During the summer, the black stork is found from Eastern Asia (Siberia and northern China) west to Central Europe, reaching Estonia in the north, Poland, Lower Saxony and Bavaria in Germany, the Czech Republic, Hungary, Italy and Greece in the south, with an outlying population in the central-southwest region of the Iberian Peninsula (Extremadura and surrounding provinces of Spain, plus Portugal). It is migratory, wintering in tropical Africa and Asia, although certain populations of black storks are sedentary or dispersive.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Nairobi",
+      "Kenya",
+      "Central",
+      "Eastern",
+      "Coast"
+    ],
+    "gbif_records_in_kenya": 2117
+  },
+  "look_alikes": [
+    {
+      "label": "Ciconia_abdimii",
+      "common_name": "Abdim's Stork",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Leptoptilos_crumenifer",
+      "common_name": "Marabou Stork",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Plectropterus_gambensis",
+      "common_name": "Spur-winged Goose",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Black stork",
+      "url": "https://en.wikipedia.org/wiki/Black_stork",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2481909"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

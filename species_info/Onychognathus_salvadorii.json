@@ -1,0 +1,69 @@
+{
+  "label": "Onychognathus_salvadorii",
+  "scientific_name": "Onychognathus salvadorii",
+  "common_name": "Bristle-crowned Starling",
+  "other_names": {},
+  "family": "Sturnidae",
+  "summary": "The bristle-crowned starling (Onychognathus salvadorii) is a species of starling in the family Sturnidae. It is found in Ethiopia, Kenya, Somalia, and Uganda.",
+  "appearance": {
+    "description": null,
+    "colors": null,
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Rift Valley",
+      "Eastern",
+      "Kenya",
+      "Baringo",
+      "Isiolo",
+      "North-Eastern"
+    ],
+    "gbif_records_in_kenya": 2397
+  },
+  "look_alikes": [
+    {
+      "label": "Onychognathus_morio",
+      "common_name": "Red-winged Starling",
+      "difference": null,
+      "times_confused": 4
+    },
+    {
+      "label": "Notopholia_corrusca",
+      "common_name": "Black-bellied Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lamprotornis_purpuroptera",
+      "common_name": "Rüppell's Starling",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Bristle-crowned starling",
+      "url": "https://en.wikipedia.org/wiki/Bristle-crowned_starling",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/5230741"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

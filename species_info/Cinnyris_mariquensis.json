@@ -1,0 +1,117 @@
+{
+  "label": "Cinnyris_mariquensis",
+  "scientific_name": "Cinnyris mariquensis",
+  "common_name": "Marico Sunbird",
+  "other_names": {},
+  "family": "Nectariniidae",
+  "summary": "The Marico sunbird (Cinnyris mariquensis) is a species of bird in the family Nectariniidae, which is native to woodlands of the eastern and southern Afrotropics.The bird is typically found in the southeast of the continent of Africa. It is of least concern on the IUCN Red List and has an unknown population size that has yet to be quantified. The Marico sunbird has conservation regions located all over its range, so it is unlikely to go extinct.",
+  "appearance": {
+    "description": null,
+    "colors": "It is of least concern on the IUCN Red List and has an unknown population size that has yet to be quantified.",
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": "It is found in Angola, Botswana, Burundi, Eritrea, Eswatini, Ethiopia, Kenya, Mozambique, Namibia, Rwanda, Somalia, South Africa, South Sudan, Tanzania, Uganda, Zambia, and Zimbabwe. The African population of Marico sunbird was spotted on various occasions in between July and August 2016 in locations southwest of where its previously believed range ended.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Eastern",
+      "Nyanza",
+      "Central",
+      "Nairobi"
+    ],
+    "gbif_records_in_kenya": 7898
+  },
+  "look_alikes": [
+    {
+      "label": "Cinnyris_pulchellus",
+      "common_name": "Beautiful Sunbird",
+      "difference": null,
+      "times_confused": 4
+    },
+    {
+      "label": "Nectarinia_kilimensis",
+      "common_name": "Bronze Sunbird",
+      "difference": null,
+      "times_confused": 4
+    },
+    {
+      "label": "Cinnyris_venustus",
+      "common_name": "Variable Sunbird",
+      "difference": null,
+      "times_confused": 3
+    },
+    {
+      "label": "Cinnyris_bifasciatus",
+      "common_name": "Purple-banded Sunbird",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Cinnyris_nectarinioides",
+      "common_name": "Black-bellied Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cichladusa_guttata",
+      "common_name": "Spotted Palm Thrush",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cinnyris_mediocris",
+      "common_name": "Eastern Double-collared Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Prionops_scopifrons",
+      "common_name": "Chestnut-fronted Helmetshrike",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cinnyricinclus_leucogaster",
+      "common_name": "Violet-backed Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Chalcomitra_senegalensis",
+      "common_name": "Scarlet-chested Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Dessonornis_caffer",
+      "common_name": "Cape Robin-chat",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Marico sunbird",
+      "url": "https://en.wikipedia.org/wiki/Marico_sunbird",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/7340700"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "label": "Tockus_erythrorhynchus",
+  "scientific_name": "Tockus erythrorhynchus",
+  "common_name": "Northern Red-billed Hornbill",
+  "other_names": {},
+  "family": "Bucerotidae",
+  "summary": "The northern red-billed hornbill (Tockus erythrorhynchus) is a species of hornbill in the family Bucerotidae. It is found from southern Mauritania through Somalia and northeast Tanzania. There are five species of red-billed hornbills recognized, but all five were once considered conspecific and some authorities still classify the others as subspecies of Tockus erythrorhynchus.",
+  "appearance": {
+    "description": null,
+    "colors": "The northern red-billed hornbill (Tockus erythrorhynchus) is a species of hornbill in the family Bucerotidae. There are five species of red-billed hornbills recognized, but all five were once considered conspecific and some authorities still classify the others as subspecies of Tockus erythrorhynchus.",
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Rift Valley",
+      "Eastern",
+      "Coast",
+      "Kenya",
+      "Isiolo",
+      "Taita Taveta"
+    ],
+    "gbif_records_in_kenya": 13530
+  },
+  "look_alikes": [
+    {
+      "label": "Tockus_jacksoni",
+      "common_name": "Jackson's Hornbill",
+      "difference": null,
+      "times_confused": 4
+    },
+    {
+      "label": "Lophoceros_hemprichii",
+      "common_name": "Hemprich's Hornbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Clamator_glandarius",
+      "common_name": "Great Spotted Cuckoo",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cossypha_natalensis",
+      "common_name": "Red-capped Robin-chat",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pandion_haliaetus",
+      "common_name": "Osprey",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Erythropygia_leucophrys",
+      "common_name": "White-browed Scrub Robin",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lophoceros_nasutus",
+      "common_name": "African Grey Hornbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ardeola_ralloides",
+      "common_name": "Squacco Heron",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Merops_oreobates",
+      "common_name": "Cinnamon-chested Bee-eater",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Campethera_nubica",
+      "common_name": "Nubian Woodpecker",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lanius_humeralis",
+      "common_name": "Northern Fiscal",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Merops_albicollis",
+      "common_name": "White-throated Bee-eater",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Terpsiphone_viridis",
+      "common_name": "African Paradise Flycatcher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tockus_deckeni",
+      "common_name": "Von Der Decken's Hornbill",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Northern red-billed hornbill",
+      "url": "https://en.wikipedia.org/wiki/Northern_red-billed_hornbill",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2475965"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "label": "Ispidina_picta",
+  "scientific_name": "Ispidina picta",
+  "common_name": "African Pygmy Kingfisher",
+  "other_names": {},
+  "family": "Alcedinidae",
+  "summary": "The African pygmy kingfisher (Ispidina picta) is a small insectivorous kingfisher found in the Afrotropics, mostly in woodland habitats.",
+  "appearance": {
+    "description": "The African pygmy kingfisher is 12 cm (4.7 in) in length. The sexes are alike. It is a very small kingfisher with rufous underparts and a blue back extending down to the tail.",
+    "colors": "It is a very small kingfisher with rufous underparts and a blue back extending down to the tail. The dark blue crown of the adult separates it from the African dwarf kingfisher.",
+    "wings": null
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        12.0,
+        12.0
+      ]
+    },
+    "juvenile": {
+      "notes": "Juveniles have less extensive violet on their ear coverts and a black rather than orange bill."
+    },
+    "chick": null
+  },
+  "behaviour": "=== Breeding === African pygmy kingfishers nest in burrows that are dug by both sexes in sandy soil banks or into a ground termite nest. The burrows are between 30 and 60 cm (12 and 24 in) in length. The clutch is four to six white eggs.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The African pygmy kingfisher is distributed widely in Africa south of the Sahara, where it is a common resident and intra-African migrant. It is absent from much of the horn of Africa, and also the drier western regions of Southern Africa.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Western",
+      "Coast",
+      "Nairobi",
+      "Central"
+    ],
+    "gbif_records_in_kenya": 4606
+  },
+  "look_alikes": [
+    {
+      "label": "Corythornis_cristatus",
+      "common_name": "Malachite Kingfisher",
+      "difference": null,
+      "times_confused": 4
+    },
+    {
+      "label": "Cossypha_natalensis",
+      "common_name": "Red-capped Robin-chat",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ardea_alba",
+      "common_name": "Great Egret",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Anaplectes_rubriceps",
+      "common_name": "Red-headed Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Trachyphonus_erythrocephalus",
+      "common_name": "Red-and-yellow Barbet",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Quelea_quelea",
+      "common_name": "Red-billed Quelea",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "African pygmy kingfisher",
+      "url": "https://en.wikipedia.org/wiki/African_pygmy_kingfisher",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2475821"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

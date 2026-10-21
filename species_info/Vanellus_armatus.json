@@ -1,0 +1,105 @@
+{
+  "label": "Vanellus_armatus",
+  "scientific_name": "Vanellus armatus",
+  "common_name": "Blacksmith Lapwing",
+  "other_names": {},
+  "family": "Charadriidae",
+  "summary": "The blacksmith lapwing or blacksmith plover (Vanellus armatus) is a lapwing species that occurs commonly from Kenya through central Tanzania to southern and southwestern Africa. The vernacular name derives from the repeated metallic 'tink, tink, tink' alarm call, which suggests a blacksmith's hammer striking an anvil.",
+  "appearance": {
+    "description": "Blacksmith lapwings are very boldly patterned in black, grey and white, possibly warning colours to predators. It is one of five lapwing species (two African, one Asian and two Neotropical) that share the characteristics of red eyes and a bold pied plumage, with a carpal (wing) spur adorning the wrist joint; a sharp black protrusion which they use to aggressively defend their young from potential threats, through persistent aerial dives typically targeting the head.",
+    "colors": "The blacksmith lapwing or blacksmith plover (Vanellus armatus) is a lapwing species that occurs commonly from Kenya through central Tanzania to southern and southwestern Africa. The vernacular name derives from the repeated metallic 'tink, tink, tink' alarm call, which suggests a blacksmith's hammer striking an anvil.",
+    "wings": "The blacksmith lapwing or blacksmith plover (Vanellus armatus) is a lapwing species that occurs commonly from Kenya through central Tanzania to southern and southwestern Africa. Blacksmith lapwings are very boldly patterned in black, grey and white, possibly warning colours to predators."
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": "During the breeding season, the species often reacts aggressively to other lapwings or African jacanas that may enter its wetland habitat. Nests are shallow depressions on bare ground or short grass, close to water, and tend to be spaced at least 400 m apart. The blacksmith lapwing breeds in spring, but its choice of nesting site and timing may be opportunistic.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The blacksmith lapwing occurs in association with wetlands of all sizes. Even very small damp areas caused by a spilling water trough can attract them.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Nairobi",
+      "Central",
+      "Eastern",
+      "Coast"
+    ],
+    "gbif_records_in_kenya": 20896
+  },
+  "look_alikes": [
+    {
+      "label": "Lanius_excubitoroides",
+      "common_name": "Grey-backed Fiscal",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Recurvirostra_avosetta",
+      "common_name": "Pied Avocet",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Apus_affinis",
+      "common_name": "Little Swift",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lanius_dorsalis",
+      "common_name": "Taita Fiscal",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Alopochen_aegyptiaca",
+      "common_name": "Egyptian Goose",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bucorvus_leadbeateri",
+      "common_name": "Southern Ground Hornbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Corythaixoides_leucogaster",
+      "common_name": "White-bellied Go-away-bird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Haliaeetus_vocifer",
+      "common_name": "African Fish Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tringa_glareola",
+      "common_name": "Wood Sandpiper",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Blacksmith lapwing",
+      "url": "https://en.wikipedia.org/wiki/Blacksmith_lapwing",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/5229136"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

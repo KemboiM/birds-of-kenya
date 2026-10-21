@@ -1,0 +1,69 @@
+{
+  "label": "Tockus_flavirostris",
+  "scientific_name": "Tockus flavirostris",
+  "common_name": "Eastern Yellow-billed Hornbill",
+  "other_names": {},
+  "family": "Bucerotidae",
+  "summary": "The Eastern yellow-billed hornbill (Tockus flavirostris), also known as the northern yellow-billed hornbill, is a species of hornbill in the family Bucerotidae. It is found in Djibouti, Eritrea, Ethiopia, Kenya, Somaliland, South Sudan, Tanzania, and Uganda. It resembles the southern yellow-billed hornbill, but has blackish (not pinkish) skin around the eyes.",
+  "appearance": {
+    "description": null,
+    "colors": "The Eastern yellow-billed hornbill (Tockus flavirostris), also known as the northern yellow-billed hornbill, is a species of hornbill in the family Bucerotidae. It resembles the southern yellow-billed hornbill, but has blackish (not pinkish) skin around the eyes.",
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Rift Valley",
+      "Eastern",
+      "Kenya",
+      "Coast",
+      "Samburu",
+      "North-Eastern"
+    ],
+    "gbif_records_in_kenya": 4619
+  },
+  "look_alikes": [
+    {
+      "label": "Tockus_jacksoni",
+      "common_name": "Jackson's Hornbill",
+      "difference": null,
+      "times_confused": 3
+    },
+    {
+      "label": "Euplectes_capensis",
+      "common_name": "Yellow Bishop",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Motacilla_aguimp",
+      "common_name": "African Pied Wagtail",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Eastern yellow-billed hornbill",
+      "url": "https://en.wikipedia.org/wiki/Eastern_yellow-billed_hornbill",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2475979"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

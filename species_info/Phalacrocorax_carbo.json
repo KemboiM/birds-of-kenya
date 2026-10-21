@@ -1,0 +1,138 @@
+{
+  "label": "Phalacrocorax_carbo",
+  "scientific_name": "Phalacrocorax carbo",
+  "common_name": "Great Cormorant",
+  "other_names": {},
+  "family": "Phalacrocoracidae",
+  "summary": "The great cormorant (Phalacrocorax carbo), also known as just cormorant in Britain, as black shag or kawau in New Zealand, formerly also known as the great black cormorant across the Northern Hemisphere, the black cormorant in Australia, and the large cormorant in India, is a widespread member of the cormorant family of seabirds. It breeds in much of the Old World, Australasia, and the Atlantic coast of North America.",
+  "appearance": {
+    "description": "The great cormorant is a large bird, but there is a wide variation in size in the species' wide range. Weight is reported to vary from 1.5 kg (3 lb 5 oz) to 5.3 kg (11 lb 11 oz). Males are typically larger and heavier than females, with the nominate race P. c. carbo averaging about 10% larger in linear measurements than the smaller subspecies P. c. sinensis.",
+    "colors": "The great cormorant (Phalacrocorax carbo), also known as just cormorant in Britain, as black shag or kawau in New Zealand, formerly also known as the great black cormorant across the Northern Hemisphere, the black cormorant in Australia, and the large cormorant in India, is a widespread member of the cormorant family of seabirds. In bulk if not in linear dimensions, the blue-eyed shag species complex of the Southern Oceans is only marginally smaller on average.",
+    "wings": "The plumage is largely black, but with bronze to greenish iridescence on the wings and tail, and purple iridescence on the body."
+  },
+  "size": {
+    "adult": {
+      "mass_g": [
+        1500.0,
+        5300.0
+      ],
+      "wingspan_cm": [
+        121.0,
+        160.0
+      ],
+      "length_cm": [
+        70.0,
+        102.0
+      ]
+    },
+    "juvenile": {
+      "notes": "The eyes are a striking deep sea-green in adults, duller dark grey in juveniles. Juveniles and immatures have pale to whitish underparts, becoming browner in their second year and reaching adult plumage when 3–4 years old."
+    },
+    "chick": null
+  },
+  "behaviour": "=== Breeding === The great cormorant nests in colonies near wetlands, rivers, and sheltered inshore waters. Pairs will use the same nest site to breed year after year. It builds its nest, which is made from sticks, in trees, on the ledges of cliffs, and on the ground on rocky islands that are free of predators.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "This is a very common and widespread bird species. It feeds at sea in inshore waters, in estuaries, and on freshwater lakes and rivers.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Nairobi",
+      "Nakuru",
+      "Central",
+      "Nyanza",
+      "Coast"
+    ],
+    "gbif_records_in_kenya": 8277
+  },
+  "look_alikes": [
+    {
+      "label": "Anhinga_rufa",
+      "common_name": "African Darter",
+      "difference": null,
+      "times_confused": 4
+    },
+    {
+      "label": "Microcarbo_africanus",
+      "common_name": "Reed Cormorant",
+      "difference": null,
+      "times_confused": 4
+    },
+    {
+      "label": "Threskiornis_aethiopicus",
+      "common_name": "African Sacred Ibis",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Sylvietta_whytii",
+      "common_name": "Red-faced Crombec",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Polihierax_semitorquatus",
+      "common_name": "Pygmy Falcon",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bubulcus_ibis",
+      "common_name": "Western Cattle Egret",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Numida_meleagris",
+      "common_name": "Helmeted Guinea Fowl",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Aquila_verreauxii",
+      "common_name": "Verreaux's Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Fulica_cristata",
+      "common_name": "Red-knobbed Coot",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lissotis_melanogaster",
+      "common_name": "Black-bellied Bustard",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Oenanthe_lugubris",
+      "common_name": "Abyssinian Wheatear",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pelecanus_onocrotalus",
+      "common_name": "Great White Pelican",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Great cormorant",
+      "url": "https://en.wikipedia.org/wiki/Great_cormorant",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2481890"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

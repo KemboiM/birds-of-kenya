@@ -1,0 +1,86 @@
+{
+  "label": "Merops_persicus",
+  "scientific_name": "Merops persicus",
+  "common_name": "Blue-cheeked Bee-eater",
+  "other_names": {},
+  "family": "Meropidae",
+  "summary": "The blue-cheeked bee-eater (Merops persicus) is a species of bee-eater that breeds in Northern Africa and the Middle East from eastern Turkey to Kazakhstan and India. It is generally strongly migratory, wintering in tropical Africa, although some populations are resident year-round in the Sahel. This species occurs as a rare vagrant north of its breeding range, with most vagrants occurring in Italy and Greece.",
+  "appearance": {
+    "description": "This species, like other bee-eaters, is a richly coloured, slender bird. It is predominantly green; its face has blue sides with a black eye stripe, and a yellow and brown throat; the beak is black. It can reach a length of 31 cm (12 in), with the two elongated central tail feathers adding another 7 cm (2.8 in).",
+    "colors": "The blue-cheeked bee-eater (Merops persicus) is a species of bee-eater that breeds in Northern Africa and the Middle East from eastern Turkey to Kazakhstan and India. This species, like other bee-eaters, is a richly coloured, slender bird.",
+    "wings": "It also enjoys damselflies and lacewings."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        7.0,
+        31.0
+      ]
+    },
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Coast",
+      "Nyanza",
+      "Eastern",
+      "Baringo"
+    ],
+    "gbif_records_in_kenya": 2430
+  },
+  "look_alikes": [
+    {
+      "label": "Merops_superciliosus",
+      "common_name": "Olive Bee-eater",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Halcyon_chelicuti",
+      "common_name": "Striped Kingfisher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Merops_albicollis",
+      "common_name": "White-throated Bee-eater",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Merops_bullockoides",
+      "common_name": "White-fronted Bee-eater",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Poicephalus_meyeri",
+      "common_name": "Meyer's Parrot",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Blue-cheeked bee-eater",
+      "url": "https://en.wikipedia.org/wiki/Blue-cheeked_bee-eater",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2475419"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

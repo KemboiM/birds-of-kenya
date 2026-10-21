@@ -1,0 +1,86 @@
+{
+  "label": "Dendrocygna_bicolor",
+  "scientific_name": "Dendrocygna bicolor",
+  "common_name": "Fulvous Whistling Duck",
+  "other_names": {},
+  "family": "Anatidae",
+  "summary": "The fulvous whistling duck or fulvous tree duck (Dendrocygna bicolor) is a species of whistling duck that breeds across the world's tropical regions in much of Mexico and South America, the West Indies, the southern United States, sub-Saharan Africa and the Indian subcontinent. It has plumage that is mainly reddish brown, long legs and a long grey bill, and shows a distinctive white band across its black tail in flight. Like other members of its ancient lineage, it has a whistling call which is given in flight or on the ground.",
+  "appearance": {
+    "description": "The fulvous whistling duck is 45–53 cm (18–21 in) long; the male weighs 748–1,050 g (26.4–37.0 oz), and the female averages marginally lighter at 712–1,000 g (25.1–35.3 oz). The wingspan ranges from 85 to 93 cm. It is a long-legged duck, mainly different shades of brown; head, neck and breast are particularly rich buff (fulvous) with a darker back.",
+    "colors": "The fulvous whistling duck or fulvous tree duck (Dendrocygna bicolor) is a species of whistling duck that breeds across the world's tropical regions in much of Mexico and South America, the West Indies, the southern United States, sub-Saharan Africa and the Indian subcontinent. It has plumage that is mainly reddish brown, long legs and a long grey bill, and shows a distinctive white band across its black tail in flight.",
+    "wings": "In flight, the wings are brown above and black below, with no white markings, and a white crescent on the rump contrasts with the black tail. There is a complete wing moult after breeding, and birds then seek the cover of dense wetland vegetation while they are flightless."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        45.0,
+        53.0
+      ],
+      "mass_g": [
+        712.0,
+        1050.0
+      ],
+      "wingspan_cm": [
+        85.0,
+        93.0
+      ]
+    },
+    "juvenile": {
+      "notes": "The juvenile has paler underparts, and appears generally duller, especially on the flanks. Juvenile fulvous whistling ducks are very like young lesser whistling ducks, but the crown colour is still a distinction."
+    },
+    "chick": {
+      "notes": "The eggs hatch in about 24–29 days, The downy ducklings are grey, with paler upperparts, and a white band on the neck, and weigh 22–38 g (0.78–1.34 oz) within a day of hatching. Like all ducklings, they are precocial and leave the nest after a day or so, but the parents protect them until they fledge around nine weeks later."
+    }
+  },
+  "behaviour": "This species is usually found in small groups, but substantial flocks can form at favoured sites. It walks well, without waddling, and normally feeds by upending, though it can dive if necessary. It does not often perch in trees, unlike other whistling ducks.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The fulvous whistling duck has a very large range extending across four continents. It breeds in lowland South America from northern Argentina to Colombia and then up to the southern US and the West Indies.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Central",
+      "Kenya",
+      "Coast",
+      "Nairobi",
+      "Nyanza"
+    ],
+    "gbif_records_in_kenya": 1743
+  },
+  "look_alikes": [
+    {
+      "label": "Alopochen_aegyptiaca",
+      "common_name": "Egyptian Goose",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Anas_erythrorhyncha",
+      "common_name": "Red-billed Teal",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Dendrocygna_viduata",
+      "common_name": "White-faced Whistling Duck",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Fulvous whistling duck",
+      "url": "https://en.wikipedia.org/wiki/Fulvous_whistling_duck",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2498402"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "label": "Scopus_umbretta",
+  "scientific_name": "Scopus umbretta",
+  "common_name": "Hamerkop",
+  "other_names": {},
+  "family": "Scopidae",
+  "summary": "The hamerkop (Scopus umbretta), also called the umbrette, is a medium-sized water bird with brown plumage. It is found in mainland Africa, Madagascar and Arabia, living in a wide variety of wetlands, including estuaries, lakesides, fish ponds, riverbanks, and rocky coasts. The shape of its head, with its long bill and crest at the back, gives this species its name, hamerkop being the Afrikaans word for hammerhead.",
+  "appearance": {
+    "description": "The hamerkop is a medium-sized waterbird, standing 56 cm (22 in) high and weighing 470 g (17 oz), although the subspecies S. u. minor is smaller. Its plumage is a drab brown with purple iridescence on the back; S. u. minor is darker. The tail is faintly barred with darker brown.",
+    "colors": "The hamerkop (Scopus umbretta), also called the umbrette, is a medium-sized water bird with brown plumage. Long considered to sit with the Ciconiiformes, the species and its family is now placed with the Pelecaniformes, its closest relatives thought to be the pelicans and the shoebill.",
+    "wings": "Its tail is short and its wings are big, wide, and round-tipped; it soars well, although it does so less than the shoebill or storks. It may hold its wings out when running for extra stability."
+  },
+  "size": {
+    "adult": {
+      "mass_g": [
+        470.0,
+        470.0
+      ],
+      "length_cm": [
+        8.0,
+        8.5
+      ]
+    },
+    "juvenile": {
+      "notes": "The bill is brown in young birds, but becomes black by the time a bird fledges."
+    },
+    "chick": {
+      "notes": "Incubation takes around 30 days from the first egg being laid to hatching, eggs are laid with intervals of one to three days, and they hatch asynchronously. The young hatch covered with grey down."
+    }
+  },
+  "behaviour": "The hamerkop is mostly active during the day, often resting at noon during the heat of the day. They can be somewhat crepuscular, being active around dusk, but are not nocturnal as has sometimes been reported. The hamerkop is mostly silent when alone, but is fairly vocal when in pairs or in groups.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The hamerkop occurs in Africa south of the Sahara, Madagascar, and coastal south-west Arabia. It requires shallow water in which to forage, and is found in all wetland habitats, including rivers, streams, seasonal pools, estuaries, reservoirs, marshes, mangroves, irrigated land such as rice paddies, savannahs, and forests.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Nairobi",
+      "Nyanza",
+      "Central",
+      "Eastern"
+    ],
+    "gbif_records_in_kenya": 25913
+  },
+  "look_alikes": [
+    {
+      "label": "Bostrychia_hagedash",
+      "common_name": "Hadada Ibis",
+      "difference": null,
+      "times_confused": 4
+    },
+    {
+      "label": "Plegadis_falcinellus",
+      "common_name": "Glossy Ibis",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Histurgops_ruficauda",
+      "common_name": "Rufous-tailed Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Circus_macrourus",
+      "common_name": "Pallid Harrier",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Dendrocygna_viduata",
+      "common_name": "White-faced Whistling Duck",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Alopochen_aegyptiaca",
+      "common_name": "Egyptian Goose",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Centropus_superciliosus",
+      "common_name": "White-browed Coucal",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Corvus_albus",
+      "common_name": "Pied Crow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Egretta_garzetta",
+      "common_name": "Little Egret",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Falco_naumanni",
+      "common_name": "Lesser Kestrel",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Gyps_rueppellii",
+      "common_name": "Rüppell's Vulture",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lonchura_cucullata",
+      "common_name": "Bronze Mannikin",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Hamerkop",
+      "url": "https://en.wikipedia.org/wiki/Hamerkop",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/5229154"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

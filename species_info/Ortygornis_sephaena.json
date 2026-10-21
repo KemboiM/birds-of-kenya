@@ -1,0 +1,87 @@
+{
+  "label": "Ortygornis_sephaena",
+  "scientific_name": "Ortygornis sephaena",
+  "common_name": "Crested Francolin",
+  "other_names": {},
+  "family": "Phasianidae",
+  "summary": "The crested francolin (Ortygornis sephaena) is a species of bird in the family Phasianidae. It is found in southern Africa. One of its subspecies, Ortygornis sephaena rovuma, is sometimes considered a separate species, Kirk's francolin.",
+  "appearance": {
+    "description": null,
+    "colors": "One of its subspecies, Ortygornis sephaena rovuma, is sometimes considered a separate species, Kirk's francolin.",
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Kenya",
+      "Rift Valley",
+      "Coast",
+      "Eastern",
+      "Nairobi",
+      "Western"
+    ],
+    "gbif_records_in_kenya": 16283
+  },
+  "look_alikes": [
+    {
+      "label": "Coturnix_delegorguei",
+      "common_name": "Harlequin Quail",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Scleroptila_shelleyi",
+      "common_name": "Shelley's Francolin",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Calendulauda_africanoides",
+      "common_name": "Fawn-coloured Lark",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Crithagra_reichenowi",
+      "common_name": "Reichenow's Seedeater",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Fulica_cristata",
+      "common_name": "Red-knobbed Coot",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pterocles_exustus",
+      "common_name": "Chestnut-bellied Sandgrouse",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Crested francolin",
+      "url": "https://en.wikipedia.org/wiki/Crested_francolin",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/11366957"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

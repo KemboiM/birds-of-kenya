@@ -1,0 +1,87 @@
+{
+  "label": "Tauraco_hartlaubi",
+  "scientific_name": "Tauraco hartlaubi",
+  "common_name": "Hartlaub's Turaco",
+  "other_names": {},
+  "family": "Musophagidae",
+  "summary": "Hartlaub's turaco (Tauraco hartlaubi) is a species of bird in the family Musophagidae. It is found in Kenya, Tanzania, and Uganda. The common name and Latin binomial commemorate the German physician and ornithologist Gustav Hartlaub.",
+  "appearance": {
+    "description": null,
+    "colors": null,
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Central",
+      "Kenya",
+      "Nairobi",
+      "Rift Valley",
+      "Eastern",
+      "Coast"
+    ],
+    "gbif_records_in_kenya": 9969
+  },
+  "look_alikes": [
+    {
+      "label": "Laniarius_funebris",
+      "common_name": "Slate-colored Boubou",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Bycanistes_brevis",
+      "common_name": "Silvery-cheeked Hornbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cinnyris_venustus",
+      "common_name": "Variable Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Laniarius_major",
+      "common_name": "Tropical Boubou",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Onychognathus_morio",
+      "common_name": "Red-winged Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ephippiorhynchus_senegalensis",
+      "common_name": "Saddle-billed Stork",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Hartlaub's turaco",
+      "url": "https://en.wikipedia.org/wiki/Hartlaub%27s_turaco",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2475233"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

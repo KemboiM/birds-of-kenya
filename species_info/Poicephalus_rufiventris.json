@@ -1,0 +1,128 @@
+{
+  "label": "Poicephalus_rufiventris",
+  "scientific_name": "Poicephalus rufiventris",
+  "common_name": "Red-bellied Parrot",
+  "other_names": {},
+  "family": "Psittacidae",
+  "summary": "The red-bellied parrot (Poicephalus rufiventris) is a small African parrot about 23 cm (9 in) long of the genus Poicephalus. The genus Poicephalus has the greatest quantity of species and is widely spread in Africa. It is a mostly greenish and grey parrot.",
+  "appearance": {
+    "description": "The red-bellied parrot is a small parrot about 23 cm (9 in) long and weights 140 g (5 oz). It is a mostly greenish and grey bird with the green being more prominent over its lower surfaces and the grey more prominent over its upper surfaces. Adult birds have green feathers covering the upper portions of their legs, red irises and dark grey beaks.",
+    "colors": "The red-bellied parrot (Poicephalus rufiventris) is a small African parrot about 23 cm (9 in) long of the genus Poicephalus. It is a mostly greenish and grey parrot.",
+    "wings": null
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        23.0,
+        23.0
+      ],
+      "mass_g": [
+        140.0,
+        140.0
+      ]
+    },
+    "juvenile": null,
+    "chick": {
+      "notes": "The female incubates the eggs for about 28 days and the chicks leave the nest about 63 days after hatching."
+    }
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Eastern",
+      "Coast",
+      "Kenya",
+      "Rift Valley",
+      "Isiolo",
+      "Samburu"
+    ],
+    "gbif_records_in_kenya": 5168
+  },
+  "look_alikes": [
+    {
+      "label": "Chamaetylas_poliocephala",
+      "common_name": "Brown-chested Alethe",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_bicolor",
+      "common_name": "Dark-backed Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Coccopygia_quartinia",
+      "common_name": "Yellow-bellied Waxbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Treron_calvus",
+      "common_name": "African Green Pigeon",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Corythaixoides_personatus",
+      "common_name": "Bare-faced Go-away-bird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cossypha_semirufa",
+      "common_name": "Rüppell's Robin-chat",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Dessonornis_caffer",
+      "common_name": "Cape Robin-chat",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Parus_albiventris",
+      "common_name": "White-bellied Tit",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Prionops_scopifrons",
+      "common_name": "Chestnut-fronted Helmetshrike",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tchagra_senegalus",
+      "common_name": "Black-crowned Tchagra",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lonchura_cucullata",
+      "common_name": "Bronze Mannikin",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Red-bellied parrot",
+      "url": "https://en.wikipedia.org/wiki/Red-bellied_parrot",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2479948"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

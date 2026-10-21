@@ -1,0 +1,186 @@
+{
+  "label": "Prinia_subflava",
+  "scientific_name": "Prinia subflava",
+  "common_name": "Tawny-flanked Prinia",
+  "other_names": {
+    "sw": "Magamaga Bawa-kahawia"
+  },
+  "family": "Cisticolidae",
+  "summary": "The tawny-flanked prinia (Prinia subflava) is a small passerine bird belonging to the genus Prinia in the family Cisticolidae, a family of Old World warblers. It is widespread and common in most parts of Africa south of the Sahara. The plain prinia (P. inornata) of southern Asia was formerly included in this species but is now usually considered to be a separate species.",
+  "appearance": {
+    "description": "The tawny-flanked prinia is 11–12 cm (4.3–4.7 in) in length with a long, narrow, graduated tail and a fairly long, slender bill. The tail is often held erect or waved from side to side. The upperparts are grey-brown with rufous-brown edges to the flight feathers and a rufous tinge to the rump.",
+    "colors": "The plain prinia (P. inornata) of southern Asia was formerly included in this species but is now usually considered to be a separate species. The upperparts are grey-brown with rufous-brown edges to the flight feathers and a rufous tinge to the rump.",
+    "wings": null
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        11.0,
+        12.0
+      ]
+    },
+    "juvenile": {
+      "notes": "Juveniles have pale yellow underparts and a yellowish bill."
+    },
+    "chick": null
+  },
+  "behaviour": "It feeds on insects and other invertebrates. It forages in small flocks which move through shrubs and undergrowth. The nest is purse-shaped and made of strips of grass woven together.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "There are ten subspecies distributed across most parts of sub-Saharan Africa except for the driest and wettest areas. It is absent from much of the Congo Basin, southern Namibia, south-west Botswana and the western half of South Africa.",
+    "kenya_regions": [
+      "Kenya",
+      "Rift Valley",
+      "Nairobi",
+      "Coast",
+      "Central",
+      "Eastern"
+    ],
+    "gbif_records_in_kenya": 21073
+  },
+  "look_alikes": [
+    {
+      "label": "Phyllolais_pulchella",
+      "common_name": "Buff-bellied Warbler",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Sylvia_boehmi",
+      "common_name": "Banded Parisoma",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cisticola_cantans",
+      "common_name": "Singing Cisticola",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Phylloscopus_trochilus",
+      "common_name": "Willow Warbler",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bradornis_pallidus",
+      "common_name": "Pale Flycatcher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tchagra_australis",
+      "common_name": "Brown-crowned Tchagra",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Apalis_flavida",
+      "common_name": "Yellow-breasted Apalis",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cisticola_chiniana",
+      "common_name": "Rattling Cisticola",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Laniarius_funebris",
+      "common_name": "Slate-colored Boubou",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cisticola_hunteri",
+      "common_name": "Hunter's Cisticola",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Corythaixoides_personatus",
+      "common_name": "Bare-faced Go-away-bird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Estrilda_astrild",
+      "common_name": "Common Waxbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Laniarius_major",
+      "common_name": "Tropical Boubou",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lanius_phoenicuroides",
+      "common_name": "Red-tailed Shrike",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Plocepasser_mahali",
+      "common_name": "White-browed Sparrow-weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Polihierax_semitorquatus",
+      "common_name": "Pygmy Falcon",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pycnonotus_barbatus",
+      "common_name": "Common Bulbul",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Passer_gongonensis",
+      "common_name": "Parrot-billed Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Quelea_quelea",
+      "common_name": "Red-billed Quelea",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Telophorus_cruentus",
+      "common_name": "Rosy-patched Bushshrike",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cinnyris_venustus",
+      "common_name": "Variable Sunbird",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Tawny-flanked prinia",
+      "url": "https://en.wikipedia.org/wiki/Tawny-flanked_prinia",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2492762"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

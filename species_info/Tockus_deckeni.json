@@ -1,0 +1,131 @@
+{
+  "label": "Tockus_deckeni",
+  "scientific_name": "Tockus deckeni",
+  "common_name": "Von Der Decken's Hornbill",
+  "other_names": {},
+  "family": "Bucerotidae",
+  "summary": "Von der Decken's hornbill (Tockus deckeni) is a hornbill found in East Africa, especially to the east of the East African Rift, from Ethiopia south to Tanzania. It is found mainly in thorn scrub and similar arid habitats. Jackson's hornbill is often treated as a subspecies of it.",
+  "appearance": {
+    "description": "This species is a small hornbill with blackish upperparts and mainly whitish underparts and head. It has a long tail and a long curved bill which lacks a casque. It is similar to the red-billed hornbill except for the bill colour and the lack of spotting on the wing coverts in both male and female.",
+    "colors": "This species is a small hornbill with blackish upperparts and mainly whitish underparts and head. It is similar to the red-billed hornbill except for the bill colour and the lack of spotting on the wing coverts in both male and female.",
+    "wings": "It is similar to the red-billed hornbill except for the bill colour and the lack of spotting on the wing coverts in both male and female."
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": {
+      "notes": "There is only one narrow aperture, just big enough for the male to transfer food to the mother and chicks. When the chicks and the female are too big for the nest, the mother breaks out and rebuilds the wall."
+    }
+  },
+  "behaviour": "Von der Decken's hornbill is omnivorous, taking insects, fruit and seeds. It feeds mainly on the ground and will form flocks outside the breeding season. In captivity, Von Der Decken's hornbill will readily eat papaya, cantaloupe, blueberries, bananas, and apples.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Coast",
+      "Eastern",
+      "Laikipia",
+      "Taita Taveta"
+    ],
+    "gbif_records_in_kenya": 12574
+  },
+  "look_alikes": [
+    {
+      "label": "Tockus_jacksoni",
+      "common_name": "Jackson's Hornbill",
+      "difference": null,
+      "times_confused": 5
+    },
+    {
+      "label": "Lophoceros_hemprichii",
+      "common_name": "Hemprich's Hornbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bycanistes_bucinator",
+      "common_name": "Trumpeter Hornbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lophoceros_nasutus",
+      "common_name": "African Grey Hornbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Streptopelia_decipiens",
+      "common_name": "Mourning Collared Dove",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ardeotis_kori",
+      "common_name": "Kori Bustard",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Chrysococcyx_klaas",
+      "common_name": "Klaas's Cuckoo",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Dinemellia_dinemelli",
+      "common_name": "White-headed Buffalo Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Buteo_augur",
+      "common_name": "Augur Buzzard",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Terathopius_ecaudatus",
+      "common_name": "Bateleur",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tockus_erythrorhynchus",
+      "common_name": "Northern Red-billed Hornbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lamprotornis_superbus",
+      "common_name": "Superb Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Streptopelia_capicola",
+      "common_name": "Ring-necked Dove",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Von der Decken's hornbill",
+      "url": "https://en.wikipedia.org/wiki/Von_der_Decken%27s_hornbill",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2475971"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

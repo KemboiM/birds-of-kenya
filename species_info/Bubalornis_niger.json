@@ -1,0 +1,186 @@
+{
+  "label": "Bubalornis_niger",
+  "scientific_name": "Bubalornis niger",
+  "common_name": "Red-billed Buffalo Weaver",
+  "other_names": {},
+  "family": "Ploceidae",
+  "summary": "The red-billed buffalo weaver (Bubalornis niger) is a species of bird in the family Ploceidae. It is found in eastern and southern Africa. Its natural habitat is the dry savanna.",
+  "appearance": {
+    "description": "The body length of full grown red-billed buffalo weavers is 21 to 25 cm (8.3 to 9.8 in) and body mass averages 82.1 g (2.90 oz) in males and 70.7 g (2.49 oz) in females. This may the largest of the Ploceidae (weaver birds). Visually the sexes are not greatly differentiated from one another.",
+    "colors": "The red-billed buffalo weaver (Bubalornis niger) is a species of bird in the family Ploceidae. The body length of full grown red-billed buffalo weavers is 21 to 25 cm (8.3 to 9.8 in) and body mass averages 82.1 g (2.90 oz) in males and 70.7 g (2.49 oz) in females.",
+    "wings": "The front wing edges and the wing tips are flecked with white. The female's body is also colored dark chocolate brown, without the white flecks on the wings."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        21.0,
+        25.0
+      ],
+      "mass_g": [
+        70.7,
+        82.1
+      ]
+    },
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": "The diet of the red billed buffalo weaver consists primarily of insects, seed and fruit. Particular insects the bird feeds on include crickets, locusts, grasshoppers, caterpillars, beetles, weevils, wasps, bees, ants, flies, and spiders. Its diet also includes scorpions.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "These birds tend to live in dry savannahs and sparse woodlands. They prefer areas usually disturbed by humans and livestock.",
+    "kenya_regions": [
+      "Coast",
+      "Kenya",
+      "Rift Valley",
+      "Eastern",
+      "Kajiado",
+      "North-Eastern"
+    ],
+    "gbif_records_in_kenya": 7837
+  },
+  "look_alikes": [
+    {
+      "label": "Vidua_chalybeata",
+      "common_name": "Village Indigobird",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Gallinula_chloropus",
+      "common_name": "Common Moorhen",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Speculipastor_bicolor",
+      "common_name": "Magpie Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Turdus_pelios",
+      "common_name": "African Thrush",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Euplectes_albonotatus",
+      "common_name": "White-winged Widowbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Amadina_fasciata",
+      "common_name": "Cut-throat Finch",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bycanistes_brevis",
+      "common_name": "Silvery-cheeked Hornbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Upupa_africana",
+      "common_name": "Eurasian Hoopoe",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Amblyospiza_albifrons",
+      "common_name": "Thick-billed Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bucorvus_leadbeateri",
+      "common_name": "Southern Ground Hornbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Camaroptera_brachyura",
+      "common_name": "Green-backed Camaroptera",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Corvus_albus",
+      "common_name": "Pied Crow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Passer_eminibey",
+      "common_name": "Chestnut Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Phoeniculus_purpureus",
+      "common_name": "Green Wood Hoopoe",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Terathopius_ecaudatus",
+      "common_name": "Bateleur",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Oena_capensis",
+      "common_name": "Namaqua Dove",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Merops_bullockoides",
+      "common_name": "White-fronted Bee-eater",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lagonosticta_senegala",
+      "common_name": "Red-billed Firefinch",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Microcarbo_africanus",
+      "common_name": "Reed Cormorant",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Dicrurus_adsimilis",
+      "common_name": "Fork-tailed Drongo",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bostrychia_hagedash",
+      "common_name": "Hadada Ibis",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Red-billed buffalo weaver",
+      "url": "https://en.wikipedia.org/wiki/Red-billed_buffalo_weaver",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2494073"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

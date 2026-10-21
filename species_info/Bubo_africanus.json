@@ -1,0 +1,94 @@
+{
+  "label": "Bubo_africanus",
+  "scientific_name": "Bubo africanus",
+  "common_name": "Spotted Eagle-owl",
+  "other_names": {},
+  "family": "Strigidae",
+  "summary": "The spotted eagle-owl (Bubo africanus), also known as the African spotted eagle-owl and the African eagle-owl, is a medium-sized species of owl, one of the smallest of the eagle owls. Its length is 45 cm (18 in) and its weight is from 454 to 907 grams (1.0 to 2.0 lb). It has a 100 to 140 cm (39 to 55 in) wingspan.",
+  "appearance": {
+    "description": null,
+    "colors": "The facial disk is off-white to pale ochre and the eyes are yellow. It has prominent ear-tufts, and the upper body is dusky brown, the lower parts off-white with brown bars.",
+    "wings": null
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        45.0,
+        45.0
+      ]
+    },
+    "juvenile": null,
+    "chick": {
+      "notes": "The young owls can fly at around seven weeks of age, but continue to stay with the parents for several weeks after they have fledged."
+    }
+  },
+  "behaviour": "Its prey mainly consists of rodents, small mammals, birds (up to the size of terns and falcons), insects (such as beetles), other arthropods (such as termites, spiders and scorpions), reptiles, frogs and carrion, although it has a dietary preference for small mammals such as rodents, shrews, bats, hedgehogs and young hares. It often swallows its prey whole, with much head-jerking, pausing and resting in between, while a portion of the prey remains inside the mouth, until the prey can finally be swallowed down completely.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "Spotted eagle-owls are the most common species of owl found in Southern Africa. They have a healthy population in most parts of the region.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Coast",
+      "Nairobi",
+      "Central",
+      "Eastern"
+    ],
+    "gbif_records_in_kenya": 1516
+  },
+  "look_alikes": [
+    {
+      "label": "Bubo_cinerascens",
+      "common_name": "Greyish Eagle-owl",
+      "difference": null,
+      "times_confused": 5
+    },
+    {
+      "label": "Bubo_lacteus",
+      "common_name": "Verreaux's Eagle-owl",
+      "difference": null,
+      "times_confused": 3
+    },
+    {
+      "label": "Gymnobucco_bonapartei",
+      "common_name": "Grey-throated Barbet",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cuculus_solitarius",
+      "common_name": "Red-chested Cuckoo",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Glaucidium_perlatum",
+      "common_name": "Pearl-spotted Owlet",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Calidris_minuta",
+      "common_name": "Little Stint",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Spotted eagle-owl",
+      "url": "https://en.wikipedia.org/wiki/Spotted_eagle-owl",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/5959111"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

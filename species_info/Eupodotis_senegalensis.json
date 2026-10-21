@@ -1,0 +1,91 @@
+{
+  "label": "Eupodotis_senegalensis",
+  "scientific_name": "Eupodotis senegalensis",
+  "common_name": "White-bellied Bustard",
+  "other_names": {},
+  "family": "Otididae",
+  "summary": "The white-bellied bustard or white-bellied korhaan (Eupodotis senegalensis) is an African species of bustard. It is widespread in sub-Saharan Africa in grassland and open woodland habitats. Despite its wide distribution and easily identifiable characteristics, very few studies have been conducted on this species and little is known about its life history and behavior.",
+  "appearance": {
+    "description": "It is one of the smaller bustards, 48 to 61 centimetres (19 to 24 in) long. All are tawny brown above and on the breast and white on the belly, with cream-coloured legs; juveniles have light brown necks and heads, and adults have blue-grey necks. The adult female has a grey crown, a brown and buff line below the eye, and black speckling on the throat.",
+    "colors": "The white-bellied bustard or white-bellied korhaan (Eupodotis senegalensis) is an African species of bustard. The adult female has a grey crown, a brown and buff line below the eye, and black speckling on the throat.",
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": {
+      "notes": "All are tawny brown above and on the breast and white on the belly, with cream-coloured legs; juveniles have light brown necks and heads, and adults have blue-grey necks."
+    },
+    "chick": {
+      "notes": "Nests are usually a simple unlined scrape in the ground and situated in or under vegetation so that the eggs, chicks, and female can be hidden from predators. In certain countries, white-bellied bustard chicks have been successfully raised until adulthood in captivity (mostly during the 1990's)."
+    }
+  },
+  "behaviour": "=== Vocalizations === The white-bellied bustard's calls can be heard year-round, mostly at dusk or dawn or during rainfall. Both males and females vocalize. The most recognizable of its sounds is a croaking call (a guttural \"kuk-kur-ruk\" or \"kuk-kaaah\"), which is used in territorial defense among other purposes.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "White-bellied bustards are found exclusively on the African continent.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Nairobi",
+      "Eastern",
+      "Coast",
+      "Narok"
+    ],
+    "gbif_records_in_kenya": 9776
+  },
+  "look_alikes": [
+    {
+      "label": "Lissotis_melanogaster",
+      "common_name": "Black-bellied Bustard",
+      "difference": null,
+      "times_confused": 4
+    },
+    {
+      "label": "Struthio_molybdophanes",
+      "common_name": "Somali Ostrich",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ardeotis_kori",
+      "common_name": "Kori Bustard",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Circus_macrourus",
+      "common_name": "Pallid Harrier",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lophotis_gindiana",
+      "common_name": "Buff-crested Bustard",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Streptopelia_capicola",
+      "common_name": "Ring-necked Dove",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "White-bellied bustard",
+      "url": "https://en.wikipedia.org/wiki/White-bellied_bustard",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2474890"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

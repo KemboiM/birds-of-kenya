@@ -1,0 +1,146 @@
+{
+  "label": "Circus_macrourus",
+  "scientific_name": "Circus macrourus",
+  "common_name": "Pallid Harrier",
+  "other_names": {
+    "sw": "Kipondya Kijivu"
+  },
+  "family": "Accipitridae",
+  "summary": "The pallid harrier (Circus macrourus) is a species of harrier, a bird of prey in the family Accipitridae. It breeds in southern parts of eastern Europe and central Asia and Iran and winters mainly in India and southeast Asia. It is a rare but increasing vagrant to Great Britain and western Europe.",
+  "appearance": {
+    "description": "This is a typical harrier, with long wings held in a shallow V in its low flight. It also resembles other harriers in having distinct male and female plumages. Adults measure 40–48 cm (16–19 in) long with a wingspan of 95–120 cm (37–47 in).",
+    "colors": "In 2019, a pair bred in Spain for the first time. It also resembles other harriers in having distinct male and female plumages.",
+    "wings": "This is a typical harrier, with long wings held in a shallow V in its low flight. The male is whitish grey above and white below, with narrow black wingtips."
+  },
+  "size": {
+    "adult": {
+      "wingspan_cm": [
+        95.0,
+        120.0
+      ],
+      "length_cm": [
+        40.0,
+        48.0
+      ],
+      "mass_g": [
+        315.0,
+        445.0
+      ]
+    },
+    "juvenile": {
+      "notes": "The female is brown above with white upper tail coverts, hence females and the similar juveniles are often called \"ringtails\"."
+    },
+    "chick": null
+  },
+  "behaviour": "Pallid harriers primarily hunt small mammals and birds, surprising them as they drift low over fields and moors. Other food sources include large insects (typically grasshoppers and locusts), lizards and frogs. The nest of this species is on the ground.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Nairobi",
+      "Coast",
+      "Eastern",
+      "Central"
+    ],
+    "gbif_records_in_kenya": 3621
+  },
+  "look_alikes": [
+    {
+      "label": "Circus_pygargus",
+      "common_name": "Montagu's Harrier",
+      "difference": null,
+      "times_confused": 5
+    },
+    {
+      "label": "Aquila_rapax",
+      "common_name": "Tawny Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Buteo_buteo",
+      "common_name": "Common Buzzard",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Circaetus_cinereus",
+      "common_name": "Brown Snake Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Falco_ardosiaceus",
+      "common_name": "Grey Kestrel",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Gelochelidon_nilotica",
+      "common_name": "Gull-billed Tern",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Milvus_migrans",
+      "common_name": "Black Kite",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Scopus_umbretta",
+      "common_name": "Hamerkop",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Micronisus_gabar",
+      "common_name": "Gabar Goshawk",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Circaetus_pectoralis",
+      "common_name": "Black-chested Snake Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Eupodotis_senegalensis",
+      "common_name": "White-bellied Bustard",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Polemaetus_bellicosus",
+      "common_name": "Martial Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Elanus_caeruleus",
+      "common_name": "Black-winged Kite",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Pallid harrier",
+      "url": "https://en.wikipedia.org/wiki/Pallid_harrier",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2480491"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

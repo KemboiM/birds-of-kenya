@@ -1,0 +1,136 @@
+{
+  "label": "Haliaeetus_vocifer",
+  "scientific_name": "Haliaeetus vocifer",
+  "common_name": "African Fish Eagle",
+  "other_names": {},
+  "family": "Accipitridae",
+  "summary": "The African fish eagle (Icthyophaga vocifer) or the African sea eagle is a large species of eagle found throughout sub-Saharan Africa wherever large bodies of open water with an abundant food supply occur. It is the national bird of Malawi, Namibia, Zambia, and Zimbabwe. As a result of its large range, it is known in many languages.",
+  "appearance": {
+    "description": "The African fish eagle is a large bird. The female, at 3.2–3.6 kg (7.1–7.9 lb) is larger than the male, at 2.0–2.5 kg (4.4–5.5 lb). This is typical sexual dimorphism in birds of prey.",
+    "colors": "The adult is very distinctive in appearance with a mostly brown body with a white head like the bald eagle and large, powerful, black wings. The head, breast, and tail of African fish eagles are snow white, except for the featherless face, which is yellow.",
+    "wings": "The adult is very distinctive in appearance with a mostly brown body with a white head like the bald eagle and large, powerful, black wings."
+  },
+  "size": {
+    "adult": {
+      "wingspan_cm": [
+        200.0,
+        200.0
+      ],
+      "length_cm": [
+        63.0,
+        75.0
+      ]
+    },
+    "juvenile": {
+      "notes": "The plumage of the juvenile is brown, and the eyes are paler than the adult's."
+    },
+    "chick": {
+      "notes": "Incubation lasts for 42 to 45 days before the chicks hatch. Siblicide does not normally occur in this taxon, and the parents often successfully rear two or three chicks."
+    }
+  },
+  "behaviour": "The African fish eagle feeds mainly on fish, which it swoops down upon from a perch in a tree, snatching the prey from the water with its large, clawed talons. The eagle then flies back to its perch to eat its catch. Like other sea eagles, the African fish eagle has structures on its toes called spiricules that allow it to grasp fish and other slippery prey.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "This species is still quite common near freshwater lakes, reservoirs, and rivers, although it can sometimes be found near the coast at the mouths of rivers or lagoons. African fish eagles are indigenous to sub-Saharan Africa, ranging over most of continental Africa south of the Sahara Desert.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Nairobi",
+      "Coast",
+      "Nakuru",
+      "Eastern"
+    ],
+    "gbif_records_in_kenya": 25571
+  },
+  "look_alikes": [
+    {
+      "label": "Polyboroides_typus",
+      "common_name": "African Harrier-hawk",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Gyps_rueppellii",
+      "common_name": "Rüppell's Vulture",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Gypohierax_angolensis",
+      "common_name": "Palm-nut Vulture",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Chalcomitra_senegalensis",
+      "common_name": "Scarlet-chested Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lophaetus_occipitalis",
+      "common_name": "Long-crested Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Streptopelia_capicola",
+      "common_name": "Ring-necked Dove",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Vanellus_armatus",
+      "common_name": "Blacksmith Lapwing",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Buteo_augur",
+      "common_name": "Augur Buzzard",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Buteo_buteo",
+      "common_name": "Common Buzzard",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ciconia_microscelis",
+      "common_name": "African Woolly-necked Stork",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Terathopius_ecaudatus",
+      "common_name": "Bateleur",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Torgos_tracheliotos",
+      "common_name": "Lappet-faced Vulture",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "African fish eagle",
+      "url": "https://en.wikipedia.org/wiki/African_fish_eagle",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2480454"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

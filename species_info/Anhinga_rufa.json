@@ -1,0 +1,142 @@
+{
+  "label": "Anhinga_rufa",
+  "scientific_name": "Anhinga rufa",
+  "common_name": "African Darter",
+  "other_names": {},
+  "family": "Anhingidae",
+  "summary": "The African darter (Anhinga rufa), sometimes called the snakebird, is a water bird of Sub-Saharan Africa and Iraq.",
+  "appearance": {
+    "description": "The African darter is 80 cm (31 in) long. Like other anhingas, it has a very long neck. The male is mainly glossy black with white streaking; females and immature birds are browner.",
+    "colors": "The African darter differs in appearance from the American darter most recognisably by its thin white lateral neck stripe against a rufous background colour.",
+    "wings": null
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        80.0,
+        80.0
+      ]
+    },
+    "juvenile": {
+      "notes": "The male is mainly glossy black with white streaking; females and immature birds are browner."
+    },
+    "chick": null
+  },
+  "behaviour": "This species builds a stick nest in a tree and lays 3–6 eggs. It often nests with herons, egrets and cormorants. It often swims with only the neck above water, hence the common name snakebird.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The African darter is found throughout Sub-Saharan Africa wherever large bodies of water occur; overall, the species remains widespread and common. The only non-African subspecies, the Levant darter (Anhinga rufa chantrei), occurred at Lake Amik (Amik Gölü) in south-central Turkey, in the Hula Valley lake and marshes in northern Israel and in the Mesopotamian Marshes of the lower Euphrates and Tigris rivers in southern Iraq.",
+    "kenya_regions": [
+      "Nairobi",
+      "Rift Valley",
+      "Kenya",
+      "Coast",
+      "Central",
+      "Eastern"
+    ],
+    "gbif_records_in_kenya": 6735
+  },
+  "look_alikes": [
+    {
+      "label": "Phalacrocorax_carbo",
+      "common_name": "Great Cormorant",
+      "difference": null,
+      "times_confused": 4
+    },
+    {
+      "label": "Anastomus_lamelligerus",
+      "common_name": "African Openbill",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Microcarbo_africanus",
+      "common_name": "Reed Cormorant",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Rhinopomastus_cyanomelas",
+      "common_name": "Common Scimitarbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ardea_purpurea",
+      "common_name": "Purple Heron",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Alopochen_aegyptiaca",
+      "common_name": "Egyptian Goose",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lophaetus_occipitalis",
+      "common_name": "Long-crested Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lophoceros_alboterminatus",
+      "common_name": "Crowned Hornbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Phoeniconaias_minor",
+      "common_name": "Lesser Flamingo",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Plegadis_falcinellus",
+      "common_name": "Glossy Ibis",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Halcyon_leucocephala",
+      "common_name": "Grey-headed Kingfisher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bucorvus_leadbeateri",
+      "common_name": "Southern Ground Hornbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ardea_goliath",
+      "common_name": "Goliath Heron",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Gyps_africanus",
+      "common_name": "White-backed Vulture",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "African darter",
+      "url": "https://en.wikipedia.org/wiki/African_darter",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2482080"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

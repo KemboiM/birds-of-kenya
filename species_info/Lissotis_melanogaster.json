@@ -1,0 +1,100 @@
+{
+  "label": "Lissotis_melanogaster",
+  "scientific_name": "Lissotis melanogaster",
+  "common_name": "Black-bellied Bustard",
+  "other_names": {},
+  "family": "Otididae",
+  "summary": "The black-bellied bustard (Lissotis melanogaster), also known as the black-bellied korhaan, is an African ground-dwelling bird in the bustard family.",
+  "appearance": {
+    "description": "The black-bellied bustard is 58–65 cm (23–26 in) long. The bill and legs are dull yellow. The male's upperparts have black and brown marks on a tawny buff background; the underparts are black.",
+    "colors": "The black-bellied bustard (Lissotis melanogaster), also known as the black-bellied korhaan, is an African ground-dwelling bird in the bustard family. The black-bellied bustard is 58–65 cm (23–26 in) long.",
+    "wings": "The upper surface of the wings is white with a brown triangle at the base; the flight feathers have black tips except for the outer secondary feathers. The white of the wings is visible when the bird stands, contrasting with the black underparts."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        58.0,
+        65.0
+      ]
+    },
+    "juvenile": {
+      "notes": "The juvenile is duller and darker, with a dark grey crown and buff spots on the wing."
+    },
+    "chick": null
+  },
+  "behaviour": "In feeding habits it resembles other bustards. In courtship display the male retracts his head to his back, giving \"a short rising wheezy whistle, zhweeeeee\", pauses in that position, and slowly raises his head, giving \"a popping quock or plop followed by soft gurgling\". This is an omnivorous bird mainly feeding on invertebrates like beetles, grasshopper, cockroach, ants and some other small insects.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "It is found in savanna, cultivated fields and tall open grassland in sub-Saharan Africa. This species is also found in the areas of S.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Nairobi",
+      "Narok",
+      "Eastern",
+      "Nyanza"
+    ],
+    "gbif_records_in_kenya": 5152
+  },
+  "look_alikes": [
+    {
+      "label": "Lissotis_hartlaubii",
+      "common_name": "Hartlaub's Bustard",
+      "difference": null,
+      "times_confused": 6
+    },
+    {
+      "label": "Eupodotis_senegalensis",
+      "common_name": "White-bellied Bustard",
+      "difference": null,
+      "times_confused": 4
+    },
+    {
+      "label": "Lophotis_gindiana",
+      "common_name": "Buff-crested Bustard",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Lophoceros_nasutus",
+      "common_name": "African Grey Hornbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Burhinus_capensis",
+      "common_name": "Spotted Thick-knee",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Struthio_molybdophanes",
+      "common_name": "Somali Ostrich",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Phalacrocorax_carbo",
+      "common_name": "Great Cormorant",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Black-bellied bustard",
+      "url": "https://en.wikipedia.org/wiki/Black-bellied_bustard",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2474850"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "label": "Glaucidium_perlatum",
+  "scientific_name": "Glaucidium perlatum",
+  "common_name": "Pearl-spotted Owlet",
+  "other_names": {},
+  "family": "Strigidae",
+  "summary": "The pearl-spotted owlet (Glaucidium perlatum) is a small bird of prey found in sub-Saharan Africa. They belong to the Strigidae family, otherwise known as the typical owls or the true owls, which contains most species of owl. As part of the genus Glaucidium, or pygmy owls, they are commonly referred to as 'owlets' due to their diminutive size.",
+  "appearance": {
+    "description": "The pearl-spotted owlet is one of the smallest owls in Africa with a length of 17 to 21 cm. The females are slightly larger and heavier (100g) than the males (65g). Both males and females have similar plumage colouration.",
+    "colors": "As part of the genus Glaucidium, or pygmy owls, they are commonly referred to as 'owlets' due to their diminutive size. Pearl-spotted owlets are brownish and heavily spotted white, with two distinct black false 'eyes' at the back of their head.",
+    "wings": null
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        17.0,
+        21.0
+      ]
+    },
+    "juvenile": {
+      "notes": "Juveniles are similar to adults but the head and back spots may be lacking or much reduced and the false 'face' is very obvious."
+    },
+    "chick": null
+  },
+  "behaviour": "The pearl-spotted owlet is often active by day, but hunts and calls mostly at night. They roost in relatively open sites below canopies of small bushes or shrubs, staring intently at intruders and readily changing perches if disturbed. When alarmed they will often flick or wag their tail feathers.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The pearl-spotted owlet occurs in sub-Saharan Africa, particularly widespread across savanna, in southern Africa, across north and central Namibia, south to southern limit of arid bushveld and woodland in south Namibia. Their occurrence continues further north through Botswana and Zimbabwe up to Sudan and west to Senegal.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Eastern",
+      "Coast",
+      "Nairobi",
+      "Baringo"
+    ],
+    "gbif_records_in_kenya": 4062
+  },
+  "look_alikes": [
+    {
+      "label": "Strix_woodfordii",
+      "common_name": "African Wood Owl",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bubo_africanus",
+      "common_name": "Spotted Eagle-owl",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Dendropicos_fuscescens",
+      "common_name": "Cardinal Woodpecker",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Dioptrornis_fischeri",
+      "common_name": "White-eyed Slaty Flycatcher",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Pearl-spotted owlet",
+      "url": "https://en.wikipedia.org/wiki/Pearl-spotted_owlet",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/5232086"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

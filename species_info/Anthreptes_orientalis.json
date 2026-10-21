@@ -1,0 +1,117 @@
+{
+  "label": "Anthreptes_orientalis",
+  "scientific_name": "Anthreptes orientalis",
+  "common_name": "Eastern Violet-backed Sunbird",
+  "other_names": {},
+  "family": "Nectariniidae",
+  "summary": "The eastern violet-backed sunbird (Anthreptes orientalis), also known as the Kenya violet-backed sunbird, is a species of bird in the family Nectariniidae. It is found in arid savanna of East Africa, ranging from Djibouti in north to Tanzania in south. It is part of the violet-backed sunbird superspecies.",
+  "appearance": {
+    "description": null,
+    "colors": "The eastern violet-backed sunbird (Anthreptes orientalis), also known as the Kenya violet-backed sunbird, is a species of bird in the family Nectariniidae. It is part of the violet-backed sunbird superspecies.",
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Rift Valley",
+      "Eastern",
+      "Kenya",
+      "Coast",
+      "Baringo",
+      "Samburu"
+    ],
+    "gbif_records_in_kenya": 7058
+  },
+  "look_alikes": [
+    {
+      "label": "Cinnyricinclus_leucogaster",
+      "common_name": "Violet-backed Starling",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Lanius_cabanisi",
+      "common_name": "Long-tailed Fiscal",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Platysteira_cyanea",
+      "common_name": "Brown-throated Wattle-eye",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Actophilornis_africanus",
+      "common_name": "African Jacana",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Aquila_spilogaster",
+      "common_name": "African Hawk-eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Creatophora_cinerea",
+      "common_name": "Wattled Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Dioptrornis_fischeri",
+      "common_name": "White-eyed Slaty Flycatcher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Hirundo_rustica",
+      "common_name": "Barn Swallow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Merops_revoilii",
+      "common_name": "Somali Bee-eater",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pseudonigrita_cabanisi",
+      "common_name": "Black-capped Social Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cisticola_chiniana",
+      "common_name": "Rattling Cisticola",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Eastern violet-backed sunbird",
+      "url": "https://en.wikipedia.org/wiki/Eastern_violet-backed_sunbird",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2484633"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

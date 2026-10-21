@@ -1,0 +1,138 @@
+{
+  "label": "Ardea_cinerea",
+  "scientific_name": "Ardea cinerea",
+  "common_name": "Grey Heron",
+  "other_names": {
+    "sw": "Koikoi Kijivu"
+  },
+  "family": "Ardeidae",
+  "summary": "The grey heron (Ardea cinerea) is a long-legged wading bird of the heron family, Ardeidae, native throughout Europe, Asia, and most of Africa. It is resident in much of its range, but some populations from the more northern parts migrate southwards in autumn. A bird of wetland areas, it can be seen around lakes, rivers, ponds, marshes and on the sea coast.",
+  "appearance": {
+    "description": "The grey heron is a large bird, standing up to 100 cm (40 in) tall and measuring 84–102 cm (33–40 in) long with a 155–195 cm (61–77 in) wingspan. The body weight can range from 1.02–2.08 kg (2 lb 4 oz – 4 lb 9+1⁄4 oz). The plumage is largely ashy-grey above, and greyish-white below, with some black on the flanks.",
+    "colors": "They have a white head and neck with a broad black stripe that extends from the eye to the black crest. The body and wings are grey above and the underparts are greyish-white, with some black on the flanks.",
+    "wings": "The body and wings are grey above and the underparts are greyish-white, with some black on the flanks."
+  },
+  "size": {
+    "adult": {
+      "mass_g": [
+        1000.0,
+        2000.0
+      ],
+      "length_cm": [
+        84.0,
+        195.0
+      ]
+    },
+    "juvenile": {
+      "notes": "In immature birds the adult's black stripe on the head is grey, and the white face paler grey; they are generally duller in appearance than adults, with only a small, dark grey crest."
+    },
+    "chick": {
+      "notes": "At first, the chicks seize the adult's bill from the side and extract regurgitated food from it. Later, the adult disgorges the food at the nest and the chicks squabble for possession."
+    }
+  },
+  "behaviour": "The grey heron has a slow flight, with its long neck retracted in an S-shape. This is characteristic of herons and bitterns, and distinguishes them from storks, cranes, and spoonbills, which extend their necks. It flies with slow wing-beats and sometimes glides for short distances.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The grey heron has an extensive range throughout most of the Palearctic realm. The range of the nominate subspecies A. c. cinerea extends to 70° N in Norway and 66°N in Sweden, but its northerly limit is around 60°N across the rest of Europe and Asia, as far eastwards as the Ural Mountains.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Nairobi",
+      "Coast",
+      "Central",
+      "Eastern"
+    ],
+    "gbif_records_in_kenya": 27587
+  },
+  "look_alikes": [
+    {
+      "label": "Ardea_melanocephala",
+      "common_name": "Black-headed Heron",
+      "difference": null,
+      "times_confused": 4
+    },
+    {
+      "label": "Ardea_alba",
+      "common_name": "Great Egret",
+      "difference": null,
+      "times_confused": 3
+    },
+    {
+      "label": "Pelecanus_rufescens",
+      "common_name": "Pink-backed Pelican",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Egretta_dimorpha",
+      "common_name": "Dimorphic Egret",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Thalasseus_bengalensis",
+      "common_name": "Lesser Crested Tern",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Nycticorax_nycticorax",
+      "common_name": "Black-crowned Night Heron",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ichthyaetus_hemprichii",
+      "common_name": "Sooty Gull",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ardea_goliath",
+      "common_name": "Goliath Heron",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Corythaixoides_leucogaster",
+      "common_name": "White-bellied Go-away-bird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Platalea_alba",
+      "common_name": "African Spoonbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tringa_nebularia",
+      "common_name": "Common Greenshank",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Vanellus_senegallus",
+      "common_name": "African Wattled Lapwing",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Grey heron",
+      "url": "https://en.wikipedia.org/wiki/Grey_heron",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/9797180"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

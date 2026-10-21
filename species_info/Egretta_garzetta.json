@@ -1,0 +1,108 @@
+{
+  "label": "Egretta_garzetta",
+  "scientific_name": "Egretta garzetta",
+  "common_name": "Little Egret",
+  "other_names": {
+    "sw": "Dandala"
+  },
+  "family": "Ardeidae",
+  "summary": "The little egret (Egretta garzetta) is a species of small heron in the family Ardeidae. It is a white bird with a slender black beak, long black legs and, in the western race, yellow feet. As an aquatic bird, it feeds in shallow water and on land, consuming a variety of small creatures.",
+  "appearance": {
+    "description": "The adult little egret is 55–65 cm (22–26 in) long with an 88–106 cm (35–42 in) wingspan, and weighs 350–550 g (12–19 oz). Its plumage is normally entirely white, although there are dark forms with largely bluish-grey plumage. In the breeding season, the adult has two long plumes on the nape that form a crest.",
+    "colors": "It is a white bird with a slender black beak, long black legs and, in the western race, yellow feet. Its range is continuing to expand westward, and the species has begun to colonise the New World; it was first seen in Barbados in 1954 and first bred there in 1994.",
+    "wings": null
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        55.0,
+        106.0
+      ],
+      "mass_g": [
+        350.0,
+        550.0
+      ]
+    },
+    "juvenile": {
+      "notes": "Juveniles are similar to non-breeding adults but have greenish-black legs and duller yellow feet, and may have a certain proportion of greyish or brownish feathers."
+    },
+    "chick": {
+      "notes": "The three to five eggs are incubated by both adults for 21 to 25 days before hatching. The young birds are covered in white down feathers, are cared for by both parents and fledge after 40 to 45 days."
+    }
+  },
+  "behaviour": "Little egrets are sociable birds and are often seen in small flocks. Nevertheless, individual birds do not tolerate others coming too close to their chosen feeding site, though this depends on the abundance of prey. They use a variety of methods to procure their food; they stalk their prey in shallow water, often running with raised wings or shuffling their feet to disturb small fish, or may stand still and wait to ambush prey.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The breeding range of the western race (E. g. garzetta) includes southern Europe, the Middle East, much of Africa and southern Asia. Northern European populations are migratory, mostly travelling to Africa although some remain in southern Europe, while some Asian populations migrate to the Philippines.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Coast",
+      "Nyanza",
+      "Nairobi",
+      "Central"
+    ],
+    "gbif_records_in_kenya": 13995
+  },
+  "look_alikes": [
+    {
+      "label": "Ardea_alba",
+      "common_name": "Great Egret",
+      "difference": null,
+      "times_confused": 4
+    },
+    {
+      "label": "Egretta_intermedia",
+      "common_name": "Medium Egret",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Platalea_alba",
+      "common_name": "African Spoonbill",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Bubulcus_ibis",
+      "common_name": "Western Cattle Egret",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Egretta_dimorpha",
+      "common_name": "Dimorphic Egret",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Threskiornis_aethiopicus",
+      "common_name": "African Sacred Ibis",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Scopus_umbretta",
+      "common_name": "Hamerkop",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Little egret",
+      "url": "https://en.wikipedia.org/wiki/Little_egret",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2480876"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

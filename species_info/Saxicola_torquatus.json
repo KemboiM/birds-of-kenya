@@ -1,0 +1,93 @@
+{
+  "label": "Saxicola_torquatus",
+  "scientific_name": "Saxicola torquatus",
+  "common_name": "African Stonechat",
+  "other_names": {},
+  "family": "Muscicapidae",
+  "summary": "The African stonechat or common stonechat (Saxicola torquatus) is a species of the Old World flycatcher family (Muscicapidae), inhabiting sub-Saharan Africa and adjacent regions. Like the other chats, it was long assigned to the thrush family (Turdidae), to which the chats are convergent. Its scientific name refer to its appearance and habitat and means \"collared rock-dweller\": Saxicola from Latin saxum (\"rock\") + incola (\"one who dwells in a place\"), torquatus, Latin for \"collared\".",
+  "appearance": {
+    "description": "The males have a black head, a white half-collar, a black back, a white rump, and a black tail; the wings are black with a large white patch on the top side of the inner wing. The upper breast is usually dark orange-red, with a sharp or gradual transition to white or pale orange on the lower breast and belly depending on subspecies. In a few, black replaces the orange breast feathers in part or entirely.",
+    "colors": "Its scientific name refer to its appearance and habitat and means \"collared rock-dweller\": Saxicola from Latin saxum (\"rock\") + incola (\"one who dwells in a place\"), torquatus, Latin for \"collared\". In the past S. torquatus usually referred to the entire \"common stonechat\" superspecies and some sources still keep it that way, but all available evidence strongly supports full species status for the European (S. rubicola) and the Siberian stonechat (S. maurus) of temperate Eurasia, in addition to the island-endemics Fuerteventura chat (S. dacotiae) and Réunion stonechat (S. tectes) which were never unequivocally accepted into S. torquatus.",
+    "wings": "The males have a black head, a white half-collar, a black back, a white rump, and a black tail; the wings are black with a large white patch on the top side of the inner wing. Females have brown rather than black above and on the head with an indistinct paler eyebrow line, chestnut-buff rather than orange below, and less white on the wings."
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": "It has a scattered distribution across much of sub-Saharan Africa, occurring locally as far north as Senegal and Ethiopia. Outlying populations are found the mountains of southwest Arabia and on Madagascar and Grande Comore.",
+    "kenya_regions": [
+      "Central",
+      "Kenya",
+      "Rift Valley",
+      "Western",
+      "Coast",
+      "Eastern"
+    ],
+    "gbif_records_in_kenya": 6563
+  },
+  "look_alikes": [
+    {
+      "label": "Batis_perkeo",
+      "common_name": "Pygmy Batis",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Crithagra_striolata",
+      "common_name": "Streaky Seedeater",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Dicrurus_adsimilis",
+      "common_name": "Fork-tailed Drongo",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Erythropygia_leucophrys",
+      "common_name": "White-browed Scrub Robin",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Nectarinia_kilimensis",
+      "common_name": "Bronze Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pinarochroa_sordida",
+      "common_name": "Moorland Chat",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Merops_oreobates",
+      "common_name": "Cinnamon-chested Bee-eater",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "African stonechat",
+      "url": "https://en.wikipedia.org/wiki/African_stonechat",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2492526"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

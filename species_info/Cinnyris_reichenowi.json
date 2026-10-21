@@ -1,0 +1,95 @@
+{
+  "label": "Cinnyris_reichenowi",
+  "scientific_name": "Cinnyris reichenowi",
+  "common_name": "Northern Double-collared Sunbird",
+  "other_names": {},
+  "family": "Nectariniidae",
+  "summary": "The northern double-collared sunbird (Cinnyris reichenowi), is a species of bird in the family Nectariniidae. It is found in Burundi, Cameroon, Central African Republic, Democratic Republic of the Congo, Equatorial Guinea, Kenya, Nigeria, Rwanda, South Sudan, and Uganda.",
+  "appearance": {
+    "description": "The northern double-collared sunbird is a medium-sized species. The adult male's head and back is a metallic green that has a steely-blue sheen in some lights. The rump is greyish-brown, the uppertail coverts metallic purple and the tail black, glossed blue.",
+    "colors": "The northern double-collared sunbird (Cinnyris reichenowi), is a species of bird in the family Nectariniidae. The northern double-collared sunbird is a medium-sized species.",
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": {
+      "notes": "The juvenile is similar to the adult female."
+    },
+    "chick": null
+  },
+  "behaviour": "The northern double-collared sunbird is often found in small mixed-species flocks, associating with species like white-eyes (genus Zosterops) and the oriole finch (Linurgus olivaceus). It tends to perch in the mid-storeys of trees, looking from side to side. It feeds on nectar, insects and their larvae, and spiders.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Central",
+      "Nairobi",
+      "Rift Valley",
+      "Western",
+      "Eastern",
+      "Nyanza"
+    ],
+    "gbif_records_in_kenya": 6672
+  },
+  "look_alikes": [
+    {
+      "label": "Cinnyris_mediocris",
+      "common_name": "Eastern Double-collared Sunbird",
+      "difference": null,
+      "times_confused": 3
+    },
+    {
+      "label": "Cinnyris_pulchellus",
+      "common_name": "Beautiful Sunbird",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Cinnyris_bifasciatus",
+      "common_name": "Purple-banded Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cinnyris_nectarinioides",
+      "common_name": "Black-bellied Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Chalcomitra_amethystina",
+      "common_name": "Amethyst Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cinnyris_venustus",
+      "common_name": "Variable Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Uraeginthus_ianthinogaster",
+      "common_name": "Purple Grenadier",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Northern double-collared sunbird",
+      "url": "https://en.wikipedia.org/wiki/Northern_double-collared_sunbird",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/7340734"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

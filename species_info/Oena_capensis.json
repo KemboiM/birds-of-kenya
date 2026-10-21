@@ -1,0 +1,170 @@
+{
+  "label": "Oena_capensis",
+  "scientific_name": "Oena capensis",
+  "common_name": "Namaqua Dove",
+  "other_names": {},
+  "family": "Columbidae",
+  "summary": "The Namaqua dove (Oena capensis) is a very small species of pigeon. It is the only species in the genus Oena. It is found over much of Sub-Saharan Africa as well as Arabia and Madagascar.",
+  "appearance": {
+    "description": "The Namaqua dove is a tiny pigeon, typically 22 cm in length with a 28–33 cm wingspan, and weighing 40g. It has a very long black tapered tail, and the size and shape have led to comparison with the budgerigar. The plumage is mostly grey apart from a white belly, and chestnut primary feathers which are visible in flight.",
+    "colors": "It has a very long black tapered tail, and the size and shape have led to comparison with the budgerigar. The plumage is mostly grey apart from a white belly, and chestnut primary feathers which are visible in flight.",
+    "wings": "Young birds are dark blotched on the wings and shoulders, and otherwise resemble the females."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        22.0,
+        33.0
+      ],
+      "mass_g": [
+        40.0,
+        40.0
+      ]
+    },
+    "juvenile": {
+      "notes": "Young birds are dark blotched on the wings and shoulders, and otherwise resemble the females."
+    },
+    "chick": null
+  },
+  "behaviour": "The Namaqua dove is quite terrestrial, and usually forages on open ground and roadsides. The food is almost exclusively minute seeds, such as those of grasses, sedges and weeds. It is not gregarious, being encountered singly or in pairs, though they may form larger flocks at waterholes.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The dove is a widespread resident breeding bird in Sub-Saharan Africa and Madagascar with its range extending into the Arabian Peninsula southern Israel and Jordan. It is found in near desert with acacia and bushes.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Eastern",
+      "Coast",
+      "Nairobi",
+      "North-Eastern"
+    ],
+    "gbif_records_in_kenya": 13091
+  },
+  "look_alikes": [
+    {
+      "label": "Spilopelia_senegalensis",
+      "common_name": "Laughing Dove",
+      "difference": null,
+      "times_confused": 3
+    },
+    {
+      "label": "Turtur_chalcospilos",
+      "common_name": "Emerald-spotted Wood Dove",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Streptopelia_decipiens",
+      "common_name": "Mourning Collared Dove",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Turtur_tympanistria",
+      "common_name": "Tambourine Dove",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Chlidonias_hybrida",
+      "common_name": "Whiskered Tern",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pseudonigrita_cabanisi",
+      "common_name": "Black-capped Social Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Onychognathus_morio",
+      "common_name": "Red-winged Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Balearica_regulorum",
+      "common_name": "Grey Crowned Crane",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bubalornis_niger",
+      "common_name": "Red-billed Buffalo Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Creatophora_cinerea",
+      "common_name": "Wattled Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Passer_gongonensis",
+      "common_name": "Parrot-billed Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ptyonoprogne_fuligula",
+      "common_name": "Large Rock Martin",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Terathopius_ecaudatus",
+      "common_name": "Bateleur",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Vanellus_spinosus",
+      "common_name": "Spur-winged Lapwing",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Corythaixoides_personatus",
+      "common_name": "Bare-faced Go-away-bird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Polyboroides_typus",
+      "common_name": "African Harrier-hawk",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Chroicocephalus_cirrocephalus",
+      "common_name": "Grey-headed Gull",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Plocepasser_mahali",
+      "common_name": "White-browed Sparrow-weaver",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Namaqua dove",
+      "url": "https://en.wikipedia.org/wiki/Namaqua_dove",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2495342"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "label": "Streptopelia_lugens",
+  "scientific_name": "Streptopelia lugens",
+  "common_name": "Dusky Turtle Dove",
+  "other_names": {},
+  "family": "Columbidae",
+  "summary": "The dusky turtle dove or pink-breasted turtle dove (Streptopelia lugens) is a species of bird in the family Columbidae.",
+  "appearance": {
+    "description": "The dusky turtle dove is a very dark or slaty-grey dove, generally 28–30 centimetres long, and weighs 120–205 g; the males (140–205 g) slightly heavier than the females (120–190 g). It has a grey face slightly paler than the body, conspicuous black patches on sides of the neck, and wing coverts and tertials with pale brown or rufous edges. Its eye is orange or orange-yellow with a purplish eye-ring.",
+    "colors": "The dusky turtle dove or pink-breasted turtle dove (Streptopelia lugens) is a species of bird in the family Columbidae. The dusky turtle dove is a very dark or slaty-grey dove, generally 28–30 centimetres long, and weighs 120–205 g; the males (140–205 g) slightly heavier than the females (120–190 g).",
+    "wings": "It has a grey face slightly paler than the body, conspicuous black patches on sides of the neck, and wing coverts and tertials with pale brown or rufous edges."
+  },
+  "size": {
+    "adult": {
+      "mass_g": [
+        120.0,
+        205.0
+      ]
+    },
+    "juvenile": {
+      "notes": "Juvenile birds are paler and browner than adults."
+    },
+    "chick": null
+  },
+  "behaviour": "The diet consists of seeds, insects, and molluscs, foraged from the ground. It is active during the day (diurnal) and is usually solitary or in small groups, but outside of the breeding season, in flocks of up to 100. The breeding season is mainly during the dry season, but is long, with nests recorded in all but the wettest periods (in Ethiopia, July and August).",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The dusky turtle dove is found in East Africa, occurring in Eritrea, Somalia, southern Sudan, Ethiopia, Uganda, Tanzania, Malawi, Burundi, Democratic Republic of the Congo, and with a disjunct population in South Arabia in Yemen and southern Saudi Arabia. It inhabits the Afrotropical Highlands Biome, in montane forest, forest edge, and woodland garden, between 1,800 and 3,200 metres altitude.",
+    "kenya_regions": [
+      "Nairobi",
+      "Kenya",
+      "Rift Valley",
+      "Central",
+      "Eastern",
+      "Rift valley prov"
+    ],
+    "gbif_records_in_kenya": 7033
+  },
+  "look_alikes": [
+    {
+      "label": "Streptopelia_semitorquata",
+      "common_name": "Red-eyed Dove",
+      "difference": null,
+      "times_confused": 4
+    },
+    {
+      "label": "Streptopelia_decipiens",
+      "common_name": "Mourning Collared Dove",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Kaupifalco_monogrammicus",
+      "common_name": "Lizard Buzzard",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Turdus_abyssinicus",
+      "common_name": "Abyssinian Thrush",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Columba_guinea",
+      "common_name": "Speckled Pigeon",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Nectarinia_kilimensis",
+      "common_name": "Bronze Sunbird",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Dusky turtle dove",
+      "url": "https://en.wikipedia.org/wiki/Dusky_turtle_dove",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2495699"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

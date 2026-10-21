@@ -1,0 +1,81 @@
+{
+  "label": "Pogoniulus_bilineatus",
+  "scientific_name": "Pogoniulus bilineatus",
+  "common_name": "Yellow-rumped Tinkerbird",
+  "other_names": {},
+  "family": "Lybiidae",
+  "summary": "The yellow-rumped tinkerbird (Pogoniulus bilineatus) is a bird species in the family Lybiidae (African barbets), which is native to the moist tropical and subtropical regions of sub-Saharan Africa.",
+  "appearance": {
+    "description": null,
+    "colors": "The yellow-rumped tinkerbird (Pogoniulus bilineatus) is a bird species in the family Lybiidae (African barbets), which is native to the moist tropical and subtropical regions of sub-Saharan Africa.",
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": "It is found in Angola, Benin, Burundi, Cameroon, Central African Republic, Republic of the Congo, Democratic Republic of the Congo, Ivory Coast, Equatorial Guinea, Eswatini, Gabon, Gambia, Ghana, Guinea, Guinea-Bissau, Kenya, Liberia, Malawi, Mozambique, Nigeria, Rwanda, Senegal, Sierra Leone, South Africa, South Sudan, Tanzania, Togo, Uganda, Zambia, and Zimbabwe.",
+    "kenya_regions": [
+      "Kenya",
+      "Nairobi",
+      "Central",
+      "Western",
+      "Rift Valley",
+      "Coast"
+    ],
+    "gbif_records_in_kenya": 14855
+  },
+  "look_alikes": [
+    {
+      "label": "Buteo_augur",
+      "common_name": "Augur Buzzard",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Chroicocephalus_cirrocephalus",
+      "common_name": "Grey-headed Gull",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cossypha_heuglini",
+      "common_name": "White-browed Robin-chat",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Dryoscopus_cubla",
+      "common_name": "Black-backed Puffback",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tricholaema_lacrymosa",
+      "common_name": "Spot-flanked Barbet",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Yellow-rumped tinkerbird",
+      "url": "https://en.wikipedia.org/wiki/Yellow-rumped_tinkerbird",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2478916"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

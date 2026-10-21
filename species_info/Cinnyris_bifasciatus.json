@@ -1,0 +1,63 @@
+{
+  "label": "Cinnyris_bifasciatus",
+  "scientific_name": "Cinnyris bifasciatus",
+  "common_name": "Purple-banded Sunbird",
+  "other_names": {},
+  "family": "Nectariniidae",
+  "summary": "The purple-banded sunbird (Cinnyris bifasciatus) is a species of bird in the family Nectariniidae. It is found in Angola, Botswana, Republic of the Congo, Democratic Republic of the Congo, Ethiopia, Eswatini, Gabon, Kenya, Malawi, Mozambique, Namibia, Rwanda, Somalia, South Africa, Tanzania, Uganda, Zambia, and Zimbabwe. The Tsavo sunbird, sometimes lumped with the purple-banded, is here considered a separate species.",
+  "appearance": {
+    "description": null,
+    "colors": "The purple-banded sunbird (Cinnyris bifasciatus) is a species of bird in the family Nectariniidae. The Tsavo sunbird, sometimes lumped with the purple-banded, is here considered a separate species.",
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Kenya",
+      "Coast",
+      "Rift Valley",
+      "Nyanza",
+      "Western",
+      "Coast prov"
+    ],
+    "gbif_records_in_kenya": 3249
+  },
+  "look_alikes": [
+    {
+      "label": "Cinnyris_mariquensis",
+      "common_name": "Marico Sunbird",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Cinnyris_reichenowi",
+      "common_name": "Northern Double-collared Sunbird",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Purple-banded sunbird",
+      "url": "https://en.wikipedia.org/wiki/Purple-banded_sunbird",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/6087859"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

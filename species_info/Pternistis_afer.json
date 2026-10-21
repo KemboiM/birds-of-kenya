@@ -1,0 +1,86 @@
+{
+  "label": "Pternistis_afer",
+  "scientific_name": "Pternistis afer",
+  "common_name": "Red-necked Spurfowl",
+  "other_names": {},
+  "family": "Phasianidae",
+  "summary": "The red-necked spurfowl or red-necked francolin (Pternistis afer), is a gamebird in the pheasant family Phasianidae that is a resident species in southern Africa.",
+  "appearance": {
+    "description": "The red-necked spurfowl is 25–38 cm (9.8–15.0 in) in length, with significant size differences between the subspecies. It is a generally dark spurfowl, brown above and black-streaked grey or white underparts. The bill, bare facial skin, neck and legs are bright red.",
+    "colors": "The red-necked spurfowl or red-necked francolin (Pternistis afer), is a gamebird in the pheasant family Phasianidae that is a resident species in southern Africa. The red-necked spurfowl is 25–38 cm (9.8–15.0 in) in length, with significant size differences between the subspecies.",
+    "wings": null
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        25.0,
+        38.0
+      ]
+    },
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": "The red-necked spurfowl is a wary species, keeping to deep cover, although it sometimes feeds in open scrub or cultivation if disturbance is limited and there are thickets nearby. The nest is a bare scrape, and three to nine eggs are laid.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The red-necked spurfowl occurs across the central region of Africa below the Congo Basin. It is found in Angola, southern Gabon and the southern Democratic Republic of the Congo.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Narok",
+      "Nyanza",
+      "Coast",
+      "Homa Bay"
+    ],
+    "gbif_records_in_kenya": 4565
+  },
+  "look_alikes": [
+    {
+      "label": "Pternistis_hildebrandti",
+      "common_name": "Hildebrandt's Spurfowl",
+      "difference": null,
+      "times_confused": 3
+    },
+    {
+      "label": "Laniarius_erythrogaster",
+      "common_name": "Black-headed Gonolek",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Amaurornis_flavirostra",
+      "common_name": "Black Crake",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Columba_livia",
+      "common_name": "Rock Dove",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ephippiorhynchus_senegalensis",
+      "common_name": "Saddle-billed Stork",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Red-necked spurfowl",
+      "url": "https://en.wikipedia.org/wiki/Red-necked_spurfowl",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2473787"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

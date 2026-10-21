@@ -1,0 +1,114 @@
+{
+  "label": "Sarkidiornis_melanotos",
+  "scientific_name": "Sarkidiornis melanotos",
+  "common_name": "Knob-billed Duck",
+  "other_names": {},
+  "family": "Anatidae",
+  "summary": "The knob-billed duck (Sarkidiornis melanotos) or African comb duck is a type of duck found along the tropical/sub-tropical wetlands and waterways of Sub-Saharan Africa and the island of Madagascar, as well as most of South Asia and mainland Indochina. Most taxonomic authorities classify the knob-billed duck and the comb duck separately.",
+  "appearance": {
+    "description": "This common species is unmistakable. It is one of the largest species of duck. Length can range from 56 to 76 cm (22 to 30 in), wingspan ranges from 116 to 145 cm (46 to 57 in) and weight from 1.03 to 2.9 kg (2.3 to 6.4 lb).",
+    "colors": "Adults have a white head freckled with dark spots, and a pure white neck and underparts. The upperparts are glossy blue-black upperparts, with bluish and greenish iridescence especially prominent on the secondaries (lower arm feathers).",
+    "wings": null
+  },
+  "size": {
+    "adult": {
+      "wingspan_cm": [
+        116.0,
+        145.0
+      ],
+      "length_cm": [
+        56.0,
+        76.0
+      ],
+      "mass_g": [
+        1030.0,
+        2900.0
+      ]
+    },
+    "juvenile": {
+      "notes": "Young birds are dull buff below and on the face and neck, with dull brown upperparts, top of the head and eyestripe. Immature knob-billed ducks look like a large greyish female of the cotton pygmy goose (Nettapus coromandelicus) and may be difficult to tell apart if no other birds are around to compare size and hue."
+    },
+    "chick": null
+  },
+  "behaviour": "It breeds in still freshwater swamps and lakes in the tropics. It is largely resident, apart from dispersion in the wet season. This duck feeds on vegetation by grazing or dabbling and to a lesser extent on small fish, invertebrates, and seeds.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Rift Valley",
+      "Coast",
+      "Kenya",
+      "Eastern",
+      "Central",
+      "Nairobi"
+    ],
+    "gbif_records_in_kenya": 2920
+  },
+  "look_alikes": [
+    {
+      "label": "Rostratula_benghalensis",
+      "common_name": "Greater Painted-snipe",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Alopochen_aegyptiaca",
+      "common_name": "Egyptian Goose",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bostrychia_hagedash",
+      "common_name": "Hadada Ibis",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ciconia_ciconia",
+      "common_name": "White Stork",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Gallinula_chloropus",
+      "common_name": "Common Moorhen",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pelecanus_onocrotalus",
+      "common_name": "Great White Pelican",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tringa_nebularia",
+      "common_name": "Common Greenshank",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Plectropterus_gambensis",
+      "common_name": "Spur-winged Goose",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Knob-billed duck",
+      "url": "https://en.wikipedia.org/wiki/Knob-billed_duck",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2498001"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

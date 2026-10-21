@@ -1,0 +1,140 @@
+{
+  "label": "Gallinula_chloropus",
+  "scientific_name": "Gallinula chloropus",
+  "common_name": "Common Moorhen",
+  "other_names": {},
+  "family": "Rallidae",
+  "summary": "The common moorhen (Gallinula chloropus), also known as the waterhen, is a bird species in the rail family (Rallidae). It is distributed across many parts of the Old World, across Africa, Europe, and Asia. It lives around well-vegetated marshes, ponds, canals and other wetlands.",
+  "appearance": {
+    "description": "The moorhen is a distinctive species, with predominantly black and brown plumage, with the exception of a white under-tail, white streaks on the flanks, yellow legs and a red frontal shield. The bill is red with a yellow tip. The young are browner and lack the red shield.",
+    "colors": "The moorhen is a distinctive species, with predominantly black and brown plumage, with the exception of a white under-tail, white streaks on the flanks, yellow legs and a red frontal shield. The bill is red with a yellow tip.",
+    "wings": "The subspecies G. c. meridionalis is smaller than the nominate, has slaty blue-grey upperwing coverts and lacks the olive wash. A midsized to large rail, it can range from 30 to 38 cm (12 to 15 in) in length and span 50 to 62 cm (20 to 24 in) across the wings."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        30.0,
+        62.0
+      ],
+      "mass_g": [
+        192.0,
+        500.0
+      ]
+    },
+    "juvenile": null,
+    "chick": {
+      "notes": "These fledge after 40–50 days, become independent usually a few weeks thereafter, and may raise their first brood the next spring."
+    }
+  },
+  "behaviour": "=== Food and feeding === This species will consume a wide variety of vegetable material and small aquatic creatures. They forage beside or in the water, sometimes walking on lilypads or upending in the water to feed. They are often secretive, but can become tame in some areas.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "This is a common breeding and resident bird in marsh environments, rivers, well-vegetated lakes and even in city parks. Populations in areas where the waters freeze, such as eastern Europe, migrate to more temperate climates.",
+    "kenya_regions": [
+      "Nairobi",
+      "Kenya",
+      "Rift Valley",
+      "Central",
+      "Coast",
+      "Eastern"
+    ],
+    "gbif_records_in_kenya": 7776
+  },
+  "look_alikes": [
+    {
+      "label": "Bubalornis_niger",
+      "common_name": "Red-billed Buffalo Weaver",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Estrilda_rhodopyga",
+      "common_name": "Crimson-rumped Waxbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Sarkidiornis_melanotos",
+      "common_name": "Knob-billed Duck",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Euplectes_albonotatus",
+      "common_name": "White-winged Widowbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Riparia_paludicola",
+      "common_name": "Brown-throated Martin",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Estrilda_astrild",
+      "common_name": "Common Waxbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Anas_sparsa",
+      "common_name": "African Black Duck",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pelecanus_rufescens",
+      "common_name": "Pink-backed Pelican",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Plectropterus_gambensis",
+      "common_name": "Spur-winged Goose",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Amaurornis_flavirostra",
+      "common_name": "Black Crake",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Camaroptera_brachyura",
+      "common_name": "Green-backed Camaroptera",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Uraeginthus_bengalus",
+      "common_name": "Red-cheeked Cordon-bleu",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lamprotornis_superbus",
+      "common_name": "Superb Starling",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Common moorhen",
+      "url": "https://en.wikipedia.org/wiki/Common_moorhen",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/5228199"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

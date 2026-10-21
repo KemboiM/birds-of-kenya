@@ -1,0 +1,113 @@
+{
+  "label": "Dendropicos_spodocephalus",
+  "scientific_name": "Dendropicos spodocephalus",
+  "common_name": "Eastern Grey Woodpecker",
+  "other_names": {},
+  "family": "Picidae",
+  "summary": "The eastern grey woodpecker (Dendropicos spodocephalus), also known as grey-headed woodpecker and mountain gray woodpecker, is a species of bird in the woodpecker family Picidae. It is a resident breeder in eastern Africa. It has a large range and is a fairly common species.",
+  "appearance": {
+    "description": "Like other woodpeckers, this species has a straight pointed bill, a stiff tail to provide support against tree trunks, and zygodactyl or \"yoked\" feet, with two toes pointing forward, and two backward. The long tongue can be darted forward to capture insects. The adult male eastern grey woodpecker has a red crown and nape, and females have a plain grey head, lacking the red crown.",
+    "colors": "The eastern grey woodpecker (Dendropicos spodocephalus), also known as grey-headed woodpecker and mountain gray woodpecker, is a species of bird in the woodpecker family Picidae. The adult male eastern grey woodpecker has a red crown and nape, and females have a plain grey head, lacking the red crown.",
+    "wings": "The upper parts of the body are yellowish-green, the rump is red, and the wings and tail are dark brown."
+  },
+  "size": {
+    "adult": null,
+    "juvenile": {
+      "notes": "Young birds are similar to the female, but the reds are paler, and there may be some barring on the flanks and some red on the crown in both sexes."
+    },
+    "chick": null
+  },
+  "behaviour": "Like other woodpeckers, this species is an insectivore, and forages on trees and on the ground for moths, centipedes, larvae and pupae. It is frequently seen, and regularly taps or drums. This species and the African grey woodpecker were formerly considered conspecific.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The eastern grey woodpecker is a native of tropical eastern Africa, its range including Ethiopia, Kenya, South Sudan, Sudan and Tanzania. Its habitat is humid forests, forest verges and gallery forests.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Nairobi",
+      "Kenya",
+      "Nakuru",
+      "Central",
+      "Eastern"
+    ],
+    "gbif_records_in_kenya": 5994
+  },
+  "look_alikes": [
+    {
+      "label": "Camaroptera_brachyura",
+      "common_name": "Green-backed Camaroptera",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Dendropicos_goertae",
+      "common_name": "African Grey Woodpecker",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Chrysococcyx_klaas",
+      "common_name": "Klaas's Cuckoo",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Coccopygia_quartinia",
+      "common_name": "Yellow-bellied Waxbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lagonosticta_senegala",
+      "common_name": "Red-billed Firefinch",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Mycteria_ibis",
+      "common_name": "Yellow-billed Stork",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Passer_griseus",
+      "common_name": "Northern Grey-headed Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Phoeniculus_purpureus",
+      "common_name": "Green Wood Hoopoe",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Telophorus_cruentus",
+      "common_name": "Rosy-patched Bushshrike",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Turdus_abyssinicus",
+      "common_name": "Abyssinian Thrush",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Eastern grey woodpecker",
+      "url": "https://en.wikipedia.org/wiki/Eastern_grey_woodpecker",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2478430"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

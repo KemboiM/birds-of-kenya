@@ -1,0 +1,64 @@
+{
+  "label": "Halcyon_albiventris",
+  "scientific_name": "Halcyon albiventris",
+  "common_name": "Brown-hooded Kingfisher",
+  "other_names": {},
+  "family": "Alcedinidae",
+  "summary": "The brown-hooded kingfisher (Halcyon albiventris) is a species of bird in the subfamily Halcyoninae, the tree kingfishers. It has a brown head and blackish and turquoise wings. It is found in Sub-Saharan Africa, living in woodland, scrubland, forest edges, and also suburban areas.",
+  "appearance": {
+    "description": "The brown-hooded kingfisher is about 22 cm (8.7 in) long. The head is brown, with blackish streaks. There is a broad buffy collar above the brownish-black mantle.",
+    "colors": "The brown-hooded kingfisher (Halcyon albiventris) is a species of bird in the subfamily Halcyoninae, the tree kingfishers. It has a brown head and blackish and turquoise wings.",
+    "wings": "It has a brown head and blackish and turquoise wings. The wing coverts are mostly brownish-black, and the secondary flight feathers are turquoise."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        22.0,
+        22.0
+      ]
+    },
+    "juvenile": {
+      "notes": "The juvenile bird is duller, with scalloped whitish underparts."
+    },
+    "chick": null
+  },
+  "behaviour": "This kingfisher is generally seen alone or in pairs. It usually forages on the ground, mainly feeding on insects, and also eating scorpions, reptiles, small birds, rodents and fishes. Eating snakes and lizards as long as 25 cm (9.8 in) has been reported.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "This kingfisher is found in Sub-Saharan Africa, in Gabon, Congo, the Democratic Republic of the Congo, Angola, Kenya, Tanzania, Zambia, Somalia, Mozambique, Malawi, Zimbabwe, Botswana, Namibia, South Africa and Eswatini. It occurs below 1,800 m (5,900 ft) in elevation, living in woodland, grassland with trees, scrubland, forest edge, and also cultivations, parks and gardens.",
+    "kenya_regions": [
+      "Coast",
+      "Kenya",
+      "Rift Valley",
+      "Eastern",
+      "Central",
+      "Kwale"
+    ],
+    "gbif_records_in_kenya": 2764
+  },
+  "look_alikes": [
+    {
+      "label": "Vidua_paradisaea",
+      "common_name": "Long-tailed Paradise Whydah",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Brown-hooded kingfisher",
+      "url": "https://en.wikipedia.org/wiki/Brown-hooded_kingfisher",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/5228322"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

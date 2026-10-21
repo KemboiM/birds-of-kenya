@@ -1,0 +1,118 @@
+{
+  "label": "Lanius_collurio",
+  "scientific_name": "Lanius collurio",
+  "common_name": "Red-backed Shrike",
+  "other_names": {},
+  "family": "Laniidae",
+  "summary": "The red-backed shrike (Lanius collurio) is a carnivorous passerine bird and member of the shrike family, Laniidae. Its breeding range stretches from Western Europe east to central Russia. It is migratory and winters in the eastern areas of tropical Africa and southern Africa.",
+  "appearance": {
+    "description": "This 16–18 cm-long (6.3–7.1 in) migratory bird eats large insects, small birds, frogs, rodents and lizards. Like other shrikes it hunts from prominent perches, and impales corpses on thorns or barbed wire as a \"larder.\" This practice has earned it the nickname of \"butcher bird.\" The general colour of the male's upper parts is reddish. It has a grey head and a typical shrike black stripe through the eye.",
+    "colors": "The red-backed shrike (Lanius collurio) is a carnivorous passerine bird and member of the shrike family, Laniidae. Like other shrikes it hunts from prominent perches, and impales corpses on thorns or barbed wire as a \"larder.\" This practice has earned it the nickname of \"butcher bird.\" The general colour of the male's upper parts is reddish.",
+    "wings": null
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        16.0,
+        18.0
+      ]
+    },
+    "juvenile": {
+      "notes": "In the female and young birds the upperparts are brown and vermiculated."
+    },
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": "This bird breeds in most of Europe and western Asia and winters in tropical Africa. The bird is listed as a \"least concern\" (LC) species on a global scale, but some parts of its range have seen a steep decline in numbers, so locally its status can be less secure.",
+    "kenya_regions": [
+      "Coast",
+      "Kenya",
+      "Rift Valley",
+      "Nairobi",
+      "Eastern",
+      "Central"
+    ],
+    "gbif_records_in_kenya": 4473
+  },
+  "look_alikes": [
+    {
+      "label": "Lanius_phoenicuroides",
+      "common_name": "Red-tailed Shrike",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Estrilda_rhodopyga",
+      "common_name": "Crimson-rumped Waxbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Centropus_superciliosus",
+      "common_name": "White-browed Coucal",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Dendrocygna_viduata",
+      "common_name": "White-faced Whistling Duck",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Gymnoris_pyrgita",
+      "common_name": "Yellow-spotted Bush Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Laniarius_major",
+      "common_name": "Tropical Boubou",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Passer_domesticus",
+      "common_name": "House Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_rubiginosus",
+      "common_name": "Chestnut Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Oenanthe_isabellina",
+      "common_name": "Isabelline Wheatear",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lanius_cabanisi",
+      "common_name": "Long-tailed Fiscal",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Red-backed shrike",
+      "url": "https://en.wikipedia.org/wiki/Red-backed_shrike",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/7745240"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

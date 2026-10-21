@@ -1,0 +1,75 @@
+{
+  "label": "Cisticola_robustus",
+  "scientific_name": "Cisticola robustus",
+  "common_name": "Stout Cisticola",
+  "other_names": {},
+  "family": "Cisticolidae",
+  "summary": "The stout cisticola (Cisticola robustus) is a species of bird in the family Cisticolidae. It is found in Angola, Burundi, Cameroon, Republic of the Congo, Democratic Republic of the Congo, Eritrea, Ethiopia, Kenya, Nigeria, Rwanda, South Sudan, Tanzania, Uganda, and Zambia. Its natural habitats are boreal forest, moist savanna, and subtropical or tropical high-altitude grassland.",
+  "appearance": {
+    "description": null,
+    "colors": "The southern subspecies C. r. angolensis and C. r. awemba are sometimes considered to form a separate species, the Angola cisticola (C. angolensis).",
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Rift Valley",
+      "Nairobi",
+      "Kenya",
+      "Central",
+      "Western",
+      "Eastern"
+    ],
+    "gbif_records_in_kenya": 5379
+  },
+  "look_alikes": [
+    {
+      "label": "Cisticola_marginatus",
+      "common_name": "Winding Cisticola",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Cisticola_chiniana",
+      "common_name": "Rattling Cisticola",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Cecropis_abyssinica",
+      "common_name": "Lesser Striped Swallow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Sporopipes_frontalis",
+      "common_name": "Speckle-fronted Weaver",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Stout cisticola",
+      "url": "https://en.wikipedia.org/wiki/Stout_cisticola",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2492820"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

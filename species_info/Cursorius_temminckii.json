@@ -1,0 +1,75 @@
+{
+  "label": "Cursorius_temminckii",
+  "scientific_name": "Cursorius temminckii",
+  "common_name": "Temminck's Courser",
+  "other_names": {},
+  "family": "Glareolidae",
+  "summary": "Temminck's courser (Cursorius temminckii) is a bird in the pratincole and courser family, Glareolidae. It is a wader which lives in sub-Saharan Africa. It is noted for laying its dark ash-black eggs in the burnt bushes and grass of the African savannah.",
+  "appearance": {
+    "description": null,
+    "colors": null,
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Coast",
+      "Nairobi",
+      "Narok",
+      "Eastern"
+    ],
+    "gbif_records_in_kenya": 3136
+  },
+  "look_alikes": [
+    {
+      "label": "Cursorius_somalensis",
+      "common_name": "Somali Courser",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Actophilornis_africanus",
+      "common_name": "African Jacana",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ardeotis_kori",
+      "common_name": "Kori Bustard",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Burhinus_capensis",
+      "common_name": "Spotted Thick-knee",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Temminck's courser",
+      "url": "https://en.wikipedia.org/wiki/Temminck%27s_courser",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2480745"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "label": "Ardeola_ralloides",
+  "scientific_name": "Ardeola ralloides",
+  "common_name": "Squacco Heron",
+  "other_names": {
+    "sw": "Kingoyo Njano"
+  },
+  "family": "Ardeidae",
+  "summary": "The squacco heron (Ardeola ralloides) is a small heron, 44–47 cm (17+1⁄2–18+1⁄2 in) long, of which the body is 20–23 cm (8–9 in), with 80–92 cm (31+1⁄2–36 in) wingspan. It is of Old World origins, breeding in southern Europe and the Greater Middle East.",
+  "appearance": {
+    "description": null,
+    "colors": null,
+    "wings": null
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        20.0,
+        92.0
+      ]
+    },
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": "The squacco heron is a migrant, wintering in Africa. It is rare north of its breeding range. The species has been recorded in Fernando de Noronha islands, and more rarely in mainland South America, as a vagrant.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Coast",
+      "Central",
+      "Nairobi",
+      "Eastern"
+    ],
+    "gbif_records_in_kenya": 8239
+  },
+  "look_alikes": [
+    {
+      "label": "Ardea_purpurea",
+      "common_name": "Purple Heron",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Bubulcus_ibis",
+      "common_name": "Western Cattle Egret",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Campephaga_flava",
+      "common_name": "Black Cuckooshrike",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Nycticorax_nycticorax",
+      "common_name": "Black-crowned Night Heron",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Actitis_hypoleucos",
+      "common_name": "Common Sandpiper",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Centropus_superciliosus",
+      "common_name": "White-browed Coucal",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Egretta_ardesiaca",
+      "common_name": "Black Heron",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tockus_erythrorhynchus",
+      "common_name": "Northern Red-billed Hornbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Streptopelia_decipiens",
+      "common_name": "Mourning Collared Dove",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Actophilornis_africanus",
+      "common_name": "African Jacana",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Squacco heron",
+      "url": "https://en.wikipedia.org/wiki/Squacco_heron",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2480906"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

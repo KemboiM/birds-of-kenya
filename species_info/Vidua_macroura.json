@@ -1,0 +1,124 @@
+{
+  "label": "Vidua_macroura",
+  "scientific_name": "Vidua macroura",
+  "common_name": "Pin-tailed Whydah",
+  "other_names": {},
+  "family": "Viduidae",
+  "summary": "The pin-tailed whydah (Vidua macroura) is a small songbird with a conspicuous pennant-like tail in breeding males. It is a resident breeding bird in most of Africa south of the Sahara Desert.",
+  "appearance": {
+    "description": "The pin-tailed whydah is 12–13 cm in length, although the breeding male's tail adds another 20 cm to this. The adult male has a black back and crown, and a very long black tail. The wings are dark brown with white patches, and the underparts and the head, apart from the crown, are white.",
+    "colors": "The adult male has a black back and crown, and a very long black tail. The wings are dark brown with white patches, and the underparts and the head, apart from the crown, are white.",
+    "wings": "The wings are dark brown with white patches, and the underparts and the head, apart from the crown, are white."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        12.0,
+        20.0
+      ]
+    },
+    "juvenile": {
+      "notes": "Immature birds are like the female but plainer and with a greyish bill."
+    },
+    "chick": null
+  },
+  "behaviour": "The species is a brood parasite which lays its eggs in the nests of estrildid finches, especially waxbills. Unlike the common cuckoo, it does not destroy the host's eggs. Typically, 2–4 eggs are added to those already present.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The pin-tailed whydah occurs in much of sub-Saharan Africa, favouring grassland, scrubs and savannah, also coming into parks and gardens. In Portugal it is established in the region around Aveiro, with observations occurring north and south of it.",
+    "kenya_regions": [
+      "Kenya",
+      "Rift Valley",
+      "Nairobi",
+      "Coast",
+      "Central",
+      "Eastern"
+    ],
+    "gbif_records_in_kenya": 16036
+  },
+  "look_alikes": [
+    {
+      "label": "Hirundo_rustica",
+      "common_name": "Barn Swallow",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Urolestes_melanoleucus",
+      "common_name": "Magpie Shrike",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Euplectes_ardens",
+      "common_name": "Red-collared Widowbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Passer_domesticus",
+      "common_name": "House Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Batis_molitor",
+      "common_name": "Chinspot Batis",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Chrysococcyx_klaas",
+      "common_name": "Klaas's Cuckoo",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Eurocephalus_ruppelli",
+      "common_name": "Northern White-crowned Shrike",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Oriolus_larvatus",
+      "common_name": "Black-headed Oriole",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Vidua_fischeri",
+      "common_name": "Straw-tailed Whydah",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Coracias_caudatus",
+      "common_name": "Lilac-breasted Roller",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Elanus_caeruleus",
+      "common_name": "Black-winged Kite",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Pin-tailed whydah",
+      "url": "https://en.wikipedia.org/wiki/Pin-tailed_whydah",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2484628"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

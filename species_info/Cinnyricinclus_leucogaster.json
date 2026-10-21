@@ -1,0 +1,206 @@
+{
+  "label": "Cinnyricinclus_leucogaster",
+  "scientific_name": "Cinnyricinclus leucogaster",
+  "common_name": "Violet-backed Starling",
+  "other_names": {},
+  "family": "Sturnidae",
+  "summary": "The violet-backed starling (Cinnyricinclus leucogaster), also known as the plum-coloured starling or amethyst starling, or Ndambamukula in the Venda language, is a relatively small species (17 cm) of starling in the family Sturnidae. It is the only member of the genus Cinnyricinclus. This strongly sexually dimorphic species is found widely in the woodlands and savannah forest edges of mainland sub-Saharan Africa.",
+  "appearance": {
+    "description": "The violet-backed starling is a sexually dimorphic species with adults reaching a length of about 18 cm (7 in). The male has an iridescent violet head and back, and pure white underparts. The female has a thrush-like appearance with brown, boldly-streaked upper parts and white, heavily-streaked underparts.",
+    "colors": "The violet-backed starling (Cinnyricinclus leucogaster), also known as the plum-coloured starling or amethyst starling, or Ndambamukula in the Venda language, is a relatively small species (17 cm) of starling in the family Sturnidae. The violet-backed starling is a sexually dimorphic species with adults reaching a length of about 18 cm (7 in).",
+    "wings": null
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        18.0,
+        18.0
+      ]
+    },
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": "The diet of the violet-backed starling includes fruits, seeds and arthropods. It sometimes hawks for insects in a manner similar to flycatchers. It largely feeds in the canopy, seldom foraging on the ground.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The violet-backed starling is a common bird in Sub-Saharan Africa, occurring in most locations with the exception of the dense rainforest of the Congo Basin, and the more arid parts of southwestern Africa. It is found in open woodland, gallery forests, forest verges and clearings.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Coast",
+      "Nairobi",
+      "Central",
+      "Western"
+    ],
+    "gbif_records_in_kenya": 7917
+  },
+  "look_alikes": [
+    {
+      "label": "Amadina_fasciata",
+      "common_name": "Cut-throat Finch",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Anthreptes_orientalis",
+      "common_name": "Eastern Violet-backed Sunbird",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Turdoides_plebejus",
+      "common_name": "Brown Babbler",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Uraeginthus_cyanocephalus",
+      "common_name": "Blue-capped Cordon-bleu",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Vanellus_tectus",
+      "common_name": "Black-headed Lapwing",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Monticola_saxatilis",
+      "common_name": "Common Rock Thrush",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Dryoscopus_cubla",
+      "common_name": "Black-backed Puffback",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pseudonigrita_cabanisi",
+      "common_name": "Black-capped Social Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Halcyon_chelicuti",
+      "common_name": "Striped Kingfisher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Anaplectes_rubriceps",
+      "common_name": "Red-headed Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Oenanthe_lugubris",
+      "common_name": "Abyssinian Wheatear",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Amblyospiza_albifrons",
+      "common_name": "Thick-billed Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Apaloderma_narina",
+      "common_name": "Narina Trogon",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cinnyris_mariquensis",
+      "common_name": "Marico Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Falco_tinnunculus",
+      "common_name": "Common Kestrel",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Platysteira_cyanea",
+      "common_name": "Brown-throated Wattle-eye",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_spekei",
+      "common_name": "Speke's Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Threskiornis_aethiopicus",
+      "common_name": "African Sacred Ibis",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Turdoides_sharpei",
+      "common_name": "Black-lored Babbler",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Phoeniculus_purpureus",
+      "common_name": "Green Wood Hoopoe",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Passer_gongonensis",
+      "common_name": "Parrot-billed Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Upupa_epops",
+      "common_name": "Eurasian Hoopoe",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Chalcomitra_senegalensis",
+      "common_name": "Scarlet-chested Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Trachyphonus_darnaudii",
+      "common_name": "D'Arnaud's Barbet",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Actitis_hypoleucos",
+      "common_name": "Common Sandpiper",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Violet-backed starling",
+      "url": "https://en.wikipedia.org/wiki/Violet-backed_starling",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2489057"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

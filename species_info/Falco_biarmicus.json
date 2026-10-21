@@ -1,0 +1,114 @@
+{
+  "label": "Falco_biarmicus",
+  "scientific_name": "Falco biarmicus",
+  "common_name": "Lanner Falcon",
+  "other_names": {
+    "sw": "Kozi Marumbi"
+  },
+  "family": "Falconidae",
+  "summary": "The lanner falcon (Falco biarmicus) is a medium-sized bird of prey that breeds in Africa, southeast Europe and just into Asia. It prefers open habitat and is mainly resident, but some birds disperse more widely after the breeding season. A large falcon, it preys on birds and bats.",
+  "appearance": {
+    "description": "It is a large falcon, at 43–50 cm (17–20 in) length with a wingspan of 95–105 cm (37–41 in). Eurasian lanner falcons (Falco biarmicus feldeggi, also called Feldegg's falcon) have slate grey or brown-grey upperparts; most African subspecies are a paler blue grey above. The breast is streaked in northern birds, resembling greyish saker falcons, but the lanner has a reddish back to the head.",
+    "colors": "Most likely either the lanner or peregrine falcon was the sacred species of falcon to the ancient Egyptians, and some ancient Egyptian deities, like Ra and Horus, were often represented as a man with the head of a lanner falcon. The breast is streaked in northern birds, resembling greyish saker falcons, but the lanner has a reddish back to the head.",
+    "wings": null
+  },
+  "size": {
+    "adult": {
+      "wingspan_cm": [
+        95.0,
+        105.0
+      ],
+      "length_cm": [
+        43.0,
+        50.0
+      ]
+    },
+    "juvenile": {
+      "notes": "Sexes are similar, but the browner young birds resemble saker falcons even more."
+    },
+    "chick": {
+      "notes": "Lanner falcon have a laying period in July which suggests a strategy to fledge young before the heat and heavy rain of the summer as well as before the influx of migratory birds during December to February. However, juveniles have been present near nests up to ten weeks after fledgling."
+    }
+  },
+  "behaviour": "=== Moulting === Females usually moult from September to January, after the nesting period is over. Whereas, males moult from November to May, once the chicks can hunt for themselves. Lanner falcons most commonly prey on other birds, including doves, pigeons and domestic chickens or fowls.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "Lanner falcons are predominantly located in open habitats and can range from the forest edge to the desert. However, they are most commonly found in open savannah and sour grasslands.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Coast",
+      "Eastern",
+      "Nairobi",
+      "Central"
+    ],
+    "gbif_records_in_kenya": 3683
+  },
+  "look_alikes": [
+    {
+      "label": "Polyboroides_typus",
+      "common_name": "African Harrier-hawk",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Butastur_rufipennis",
+      "common_name": "Grasshopper Buzzard",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cecropis_senegalensis",
+      "common_name": "Mosque Swallow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Dendropicos_fuscescens",
+      "common_name": "Cardinal Woodpecker",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Falco_naumanni",
+      "common_name": "Lesser Kestrel",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Passer_griseus",
+      "common_name": "Northern Grey-headed Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Polemaetus_bellicosus",
+      "common_name": "Martial Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Amadina_fasciata",
+      "common_name": "Cut-throat Finch",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Lanner falcon",
+      "url": "https://en.wikipedia.org/wiki/Lanner_falcon",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/8014966"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "label": "Pternistis_hildebrandti",
+  "scientific_name": "Pternistis hildebrandti",
+  "common_name": "Hildebrandt's Spurfowl",
+  "other_names": {},
+  "family": "Phasianidae",
+  "summary": "Hildebrandt's spurfowl (Pternistis hildebrandti) is a species of bird in the family Phasianidae. It is found in Burundi, Democratic Republic of the Congo, Kenya, Malawi, Mozambique, Rwanda, Tanzania, and Zambia. The species is named for Johann Maria Hildebrandt, who collected the first specimens in Kenya.",
+  "appearance": {
+    "description": null,
+    "colors": "The sexes differ markedly in their plumage and females are smaller than males.",
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Coast",
+      "Nakuru",
+      "Eastern",
+      "Nairobi"
+    ],
+    "gbif_records_in_kenya": 2697
+  },
+  "look_alikes": [
+    {
+      "label": "Pternistis_afer",
+      "common_name": "Red-necked Spurfowl",
+      "difference": null,
+      "times_confused": 3
+    },
+    {
+      "label": "Amadina_fasciata",
+      "common_name": "Cut-throat Finch",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Hildebrandt's spurfowl",
+      "url": "https://en.wikipedia.org/wiki/Hildebrandt%27s_spurfowl",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2473837"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

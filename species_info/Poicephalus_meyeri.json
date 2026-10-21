@@ -1,0 +1,119 @@
+{
+  "label": "Poicephalus_meyeri",
+  "scientific_name": "Poicephalus meyeri",
+  "common_name": "Meyer's Parrot",
+  "other_names": {},
+  "family": "Psittacidae",
+  "summary": "Meyer's parrot (Poicephalus meyeri), also known as the brown parrot, is a species of parrot native to Africa. A Meyer's parrot has black feathers, turquoise belly, blue rump, and bright yellow markings on the carpal joint of the wings. Most subspecies have some yellow on the top of the head as well.",
+  "appearance": {
+    "description": null,
+    "colors": "Meyer's parrot (Poicephalus meyeri), also known as the brown parrot, is a species of parrot native to Africa. A Meyer's parrot has black feathers, turquoise belly, blue rump, and bright yellow markings on the carpal joint of the wings.",
+    "wings": "A Meyer's parrot has black feathers, turquoise belly, blue rump, and bright yellow markings on the carpal joint of the wings. Forshaw (1989) recognizes six subspecies of P. meyeri which vary in home range, size and in markings, including the extent of yellow markings to the head and wings, and the intensity of turquoise markings on the belly and rump."
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": {
+      "notes": "The female incubates the eggs for about 28 days and the chicks leave the nest about 60 days after hatching."
+    }
+  },
+  "behaviour": "=== Food and feeding === Their wild diet includes fruit, seeds, nuts, berries and cultivated crops. Seeds of the various leguminous trees of the African woodlands are especially favoured, providing their staple food in some areas. Although they normally travel in pairs or small flocks, wild Meyer's parrots may gather in much larger numbers where food is plentiful.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "Meyer's parrots are native to the plateau woodlands of sub-Saharan Africa where they occur in several woodland types including miombo, savanna woodlands, wooded grasslands and forests bordering watercourses or agricultural land. They are found in high densities in the Okavango Delta region of Botswana.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Nyanza",
+      "Western",
+      "Eastern",
+      "Nairobi"
+    ],
+    "gbif_records_in_kenya": 6494
+  },
+  "look_alikes": [
+    {
+      "label": "Treron_calvus",
+      "common_name": "African Green Pigeon",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Poicephalus_gulielmi",
+      "common_name": "Red-fronted Parrot",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Agapornis_fischeri",
+      "common_name": "Fischer's Lovebird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Apaloderma_narina",
+      "common_name": "Narina Trogon",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Amblyospiza_albifrons",
+      "common_name": "Thick-billed Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Corvus_albus",
+      "common_name": "Pied Crow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lonchura_cucullata",
+      "common_name": "Bronze Mannikin",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Merops_persicus",
+      "common_name": "Blue-cheeked Bee-eater",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_nigricollis",
+      "common_name": "Black-necked Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Crithagra_mozambica",
+      "common_name": "Yellow-fronted Canary",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Dendropicos_fuscescens",
+      "common_name": "Cardinal Woodpecker",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Meyer's parrot",
+      "url": "https://en.wikipedia.org/wiki/Meyer%27s_parrot",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2479968"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

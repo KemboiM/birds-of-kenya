@@ -1,0 +1,99 @@
+{
+  "label": "Crithagra_citrinelloides",
+  "scientific_name": "Crithagra citrinelloides",
+  "common_name": "African Citril",
+  "other_names": {},
+  "family": "Fringillidae",
+  "summary": "The African citril (Crithagra citrinelloides), also known as the Abyssinian citril, is a species of finch. It is found from Ethiopia and Eritrea to western Kenya. It is closely related to the western and southern citril, to which it was formerly considered conspecific.",
+  "appearance": {
+    "description": null,
+    "colors": "It is closely related to the western and southern citril, to which it was formerly considered conspecific.",
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": "This bird was studied in the Degua Tembien massif, and observed to be a breeding resident of woodland edges, forest edges and scrubland.",
+    "kenya_regions": [
+      "Kenya",
+      "Nairobi",
+      "Central",
+      "Rift Valley",
+      "Eastern",
+      "Nakuru"
+    ],
+    "gbif_records_in_kenya": 11291
+  },
+  "look_alikes": [
+    {
+      "label": "Crithagra_dorsostriata",
+      "common_name": "White-bellied Canary",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Crithagra_sulphurata",
+      "common_name": "Brimstone Canary",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Crithagra_mozambica",
+      "common_name": "Yellow-fronted Canary",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Hedydipna_collaris",
+      "common_name": "Collared Sunbird",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Ploceus_ocularis",
+      "common_name": "Spectacled Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_xanthops",
+      "common_name": "Holub's Golden Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_spekei",
+      "common_name": "Speke's Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_baglafecht",
+      "common_name": "Baglafecht Weaver",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "African citril",
+      "url": "https://en.wikipedia.org/wiki/African_citril",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/6100986"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

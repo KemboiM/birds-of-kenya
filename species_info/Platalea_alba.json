@@ -1,0 +1,95 @@
+{
+  "label": "Platalea_alba",
+  "scientific_name": "Platalea alba",
+  "common_name": "African Spoonbill",
+  "other_names": {},
+  "family": "Threskiornithidae",
+  "summary": "The African spoonbill (Platalea alba) is a long-legged wading bird of the ibis and spoonbill family Threskiornithidae. The species is widespread across Africa and Madagascar, including Botswana, Kenya, Mozambique, Namibia, South Africa, and Zimbabwe. The species belongs to the genus Platalea, which also includes species such as the Black-faced spoonbill, Eurasian spoonbill, and Roseate spoonbill.",
+  "appearance": {
+    "description": null,
+    "colors": "The species belongs to the genus Platalea, which also includes species such as the Black-faced spoonbill, Eurasian spoonbill, and Roseate spoonbill.",
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": {
+      "notes": "The eggs are incubated by both parents for up to 29 days, and upon hatching the young birds are cared for by both parents for around 20 to 30 days."
+    }
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Nairobi",
+      "Coast",
+      "Central",
+      "Eastern"
+    ],
+    "gbif_records_in_kenya": 15443
+  },
+  "look_alikes": [
+    {
+      "label": "Mycteria_ibis",
+      "common_name": "Yellow-billed Stork",
+      "difference": null,
+      "times_confused": 3
+    },
+    {
+      "label": "Bubulcus_ibis",
+      "common_name": "Western Cattle Egret",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Egretta_garzetta",
+      "common_name": "Little Egret",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Ardea_alba",
+      "common_name": "Great Egret",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Phoenicopterus_roseus",
+      "common_name": "Greater Flamingo",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Himantopus_himantopus",
+      "common_name": "Black-winged Stilt",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ardea_cinerea",
+      "common_name": "Grey Heron",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "African spoonbill",
+      "url": "https://en.wikipedia.org/wiki/African_spoonbill",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2480800"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

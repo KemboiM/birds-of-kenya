@@ -1,0 +1,98 @@
+{
+  "label": "Colius_leucocephalus",
+  "scientific_name": "Colius leucocephalus",
+  "common_name": "White-headed Mousebird",
+  "other_names": {},
+  "family": "Coliidae",
+  "summary": "The white-headed mousebird (Colius leucocephalus) is a bird belonging to the mousebird family, Coliidae. It is found only in east Africa where it occurs in southern Somalia and parts of Kenya with its range just extending into southern Ethiopia and northern Tanzania. It inhabits arid bushland up to 1,400 metres above sea-level.",
+  "appearance": {
+    "description": null,
+    "colors": "The white-headed mousebird (Colius leucocephalus) is a bird belonging to the mousebird family, Coliidae. The plumage is mainly greyish with black and white barring on the back, neck and breast.",
+    "wings": null
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        32.0,
+        32.0
+      ]
+    },
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Eastern",
+      "Rift Valley",
+      "Kenya",
+      "Coast",
+      "Isiolo",
+      "Samburu"
+    ],
+    "gbif_records_in_kenya": 2722
+  },
+  "look_alikes": [
+    {
+      "label": "Corythaixoides_personatus",
+      "common_name": "Bare-faced Go-away-bird",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Buphagus_erythrorhynchus",
+      "common_name": "Red-billed Oxpecker",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Colius_striatus",
+      "common_name": "Speckled Mousebird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Crithagra_reichenowi",
+      "common_name": "Reichenow's Seedeater",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Vidua_fischeri",
+      "common_name": "Straw-tailed Whydah",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Melierax_metabates",
+      "common_name": "Dark Chanting Goshawk",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Urocolius_macrourus",
+      "common_name": "Blue-naped Mousebird",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "White-headed mousebird",
+      "url": "https://en.wikipedia.org/wiki/White-headed_mousebird",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/5229463"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

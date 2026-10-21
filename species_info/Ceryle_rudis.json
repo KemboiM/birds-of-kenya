@@ -1,0 +1,130 @@
+{
+  "label": "Ceryle_rudis",
+  "scientific_name": "Ceryle rudis",
+  "common_name": "Pied Kingfisher",
+  "other_names": {},
+  "family": "Alcedinidae",
+  "summary": "The pied kingfisher (Ceryle rudis) is a species of water kingfisher widely distributed across Africa and Asia. Originally described by Carl Linnaeus in 1758, it has five recognised subspecies, and is the only member of the genus Ceryle. Its black-and white-plumage and crest, as well as its habit of hovering over clear lakes and rivers before diving for fish, make it distinctive.",
+  "appearance": {
+    "description": "This is a medium-sized kingfisher, about 25 cm (9.8 in) long with a white and black mask, a white supercilium, and black breast bands. The crest is neat and the upperparts are barred in black. Several subspecies are recognized within the broad distribution.",
+    "colors": "Its black-and white-plumage and crest, as well as its habit of hovering over clear lakes and rivers before diving for fish, make it distinctive. This is a medium-sized kingfisher, about 25 cm (9.8 in) long with a white and black mask, a white supercilium, and black breast bands.",
+    "wings": "The subspecies C. r. syriacus is a larger, northern bird similar to the nominate subspecies (following Bergmann's rule)."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        25.0,
+        25.0
+      ]
+    },
+    "juvenile": null,
+    "chick": {
+      "notes": "In India, nestlings have been found to be prone to maggot infestations (probably by Protocalliphora species) and in some areas to leeches."
+    }
+  },
+  "behaviour": "When perched, the pied kingfisher often bobs its heads up and down and sometimes raises its tail and flicks it downwards. It calls often with sharp chirruk chirruk notes. Unlike some kingfishers, it is quite gregarious, and forms large roosts at night.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "It is common throughout sub-Saharan Africa and southern Asia from Turkey to India to China. It is resident, and most birds do not migrate, other than short-distance, seasonal movements.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Coast",
+      "Nairobi",
+      "Nyanza",
+      "Eastern"
+    ],
+    "gbif_records_in_kenya": 21930
+  },
+  "look_alikes": [
+    {
+      "label": "Circus_pygargus",
+      "common_name": "Montagu's Harrier",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Merops_nubicus",
+      "common_name": "Northern Carmine Bee-eater",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Recurvirostra_avosetta",
+      "common_name": "Pied Avocet",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Batis_perkeo",
+      "common_name": "Pygmy Batis",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Laniarius_major",
+      "common_name": "Tropical Boubou",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Merops_albicollis",
+      "common_name": "White-throated Bee-eater",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Motacilla_aguimp",
+      "common_name": "African Pied Wagtail",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pelecanus_onocrotalus",
+      "common_name": "Great White Pelican",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Riparia_cincta",
+      "common_name": "Banded Martin",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Threskiornis_aethiopicus",
+      "common_name": "African Sacred Ibis",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cecropis_abyssinica",
+      "common_name": "Lesser Striped Swallow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lanius_humeralis",
+      "common_name": "Northern Fiscal",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Pied kingfisher",
+      "url": "https://en.wikipedia.org/wiki/Pied_kingfisher",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2475679"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "label": "Circus_aeruginosus",
+  "scientific_name": "Circus aeruginosus",
+  "common_name": "Western Marsh Harrier",
+  "other_names": {
+    "sw": "Kipondya wa Ulaya"
+  },
+  "family": "Accipitridae",
+  "summary": "The western marsh harrier (Circus aeruginosus) is a large harrier, a bird of prey from temperate and subtropical western Eurasia and adjacent Africa. It is also known as the Eurasian marsh harrier. Formerly, a number of relatives were included in C. aeruginosus, which was then known as \"marsh harrier\".",
+  "appearance": {
+    "description": "The western marsh harrier is 48 to 56 cm (19 to 22 in) in length, has a wingspan of 115 to 130 cm (45 to 51 in) and a weight of 400 to 650 g (14 to 23 oz) in males and 550 to 800 g (19 to 28 oz) in females. It is a large, bulky harrier, larger than other European harriers, with fairly broad wings, and is sexually dimorphic. The male's plumage is mostly a cryptic reddish-brown with lighter yellowish streaks, which are particularly prominent on the breast.",
+    "colors": "The related taxa are now generally considered to be separate species: the eastern marsh harrier (C. spilonotus), the Papuan harrier (C. spilothorax) of eastern Asia and the Wallacea, the swamp harrier (C. approximans) of Australasia and the Madagascar marsh harrier (C. maillardi) of the western Indian Ocean islands. The male's plumage is mostly a cryptic reddish-brown with lighter yellowish streaks, which are particularly prominent on the breast.",
+    "wings": "It is a large, bulky harrier, larger than other European harriers, with fairly broad wings, and is sexually dimorphic. The rectrices and the secondary and tertiary remiges are pure grey, the latter contrasting with the brown forewing and the black primary remiges at the wingtips."
+  },
+  "size": {
+    "adult": {
+      "wingspan_cm": [
+        115.0,
+        130.0
+      ],
+      "length_cm": [
+        48.0,
+        56.0
+      ],
+      "mass_g": [
+        400.0,
+        800.0
+      ]
+    },
+    "juvenile": {
+      "notes": "Juveniles are similar to females, but usually have less yellow, particularly on the shoulders. Juveniles of this morph may look entirely black in flight."
+    },
+    "chick": null
+  },
+  "behaviour": "=== Breeding === The start of the breeding season varies from mid-March to early May. Western marsh harrier males often pair with two and occasionally three females. Pair bonds usually last for a single breeding season, but some pairs remain together for several years.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "This species has a wide breeding range from Europe and northwestern Africa to Central Asia and the northern parts of the Middle East. It breeds in almost every country of Europe but is absent from mountainous regions and subarctic Scandinavia.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Nairobi",
+      "Coast",
+      "Central",
+      "Eastern"
+    ],
+    "gbif_records_in_kenya": 3145
+  },
+  "look_alikes": [
+    {
+      "label": "Aquila_nipalensis",
+      "common_name": "Steppe Eagle",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Glareola_pratincola",
+      "common_name": "Collared Pratincole",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Gyps_rueppellii",
+      "common_name": "Rüppell's Vulture",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Milvus_migrans",
+      "common_name": "Black Kite",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Necrosyrtes_monachus",
+      "common_name": "Hooded Vulture",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Western marsh harrier",
+      "url": "https://en.wikipedia.org/wiki/Western_marsh_harrier",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2480482"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

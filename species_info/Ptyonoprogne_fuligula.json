@@ -1,0 +1,142 @@
+{
+  "label": "Ptyonoprogne_fuligula",
+  "scientific_name": "Ptyonoprogne fuligula",
+  "common_name": "Large Rock Martin",
+  "other_names": {},
+  "family": "Hirundinidae",
+  "summary": "The large rock martin (Ptyonoprogne fuligula), also known as the southern crag-martin, is a small passerine bird in the swallow family that is resident in southern Africa. It was formerly considered to be conspecific with the red-throated rock martin. It breeds mainly in the mountains, but also at lower altitudes, especially in rocky areas and around towns, and, unlike most swallows, it is often found far from water.",
+  "appearance": {
+    "description": "The large rock martin of the nominate subspecies P. f. fuligula is 12–15 cm (4.7–5.9 in) long, with earth-brown upperparts and a short square tail that has small white patches near the tips of all but the central and outermost pairs of feathers. It has a cinnamon chin, throat, upper breast and underwing coverts, with the rest of the underparts being a similar brown to the upperparts. The eyes are brown, the small bill is mainly black, and the legs are brownish-pink.",
+    "colors": "It was formerly considered to be conspecific with the red-throated rock martin. It is 12–15 cm (4.7–5.9 in) long, with mainly brown plumage, paler-toned on the upper breast and underwing coverts, and with white \"windows\" on the spread tail in flight.",
+    "wings": "It is 12–15 cm (4.7–5.9 in) long, with mainly brown plumage, paler-toned on the upper breast and underwing coverts, and with white \"windows\" on the spread tail in flight. It has a cinnamon chin, throat, upper breast and underwing coverts, with the rest of the underparts being a similar brown to the upperparts."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        12.0,
+        15.0
+      ]
+    },
+    "juvenile": {
+      "notes": "The sexes are similar in appearance, but juveniles have pale edges to the upperparts and flight feathers."
+    },
+    "chick": null
+  },
+  "behaviour": "=== Breeding === Large rock martin pairs often nest alone, although where suitable sites are available small loose colonies may form with up to 40 pairs. These martins aggressively defend their nesting territory against conspecifics and other species. Breeding dates vary geographically and with local weather conditions.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The large rock martin breeds in suitable habitat in much of South Africa and Namibia. It is more patchily distributed in Zimbabwe and is absent from most of Botswana.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Nairobi",
+      "Central",
+      "Eastern",
+      "Coast"
+    ],
+    "gbif_records_in_kenya": 15799
+  },
+  "look_alikes": [
+    {
+      "label": "Apus_affinis",
+      "common_name": "Little Swift",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Pandion_haliaetus",
+      "common_name": "Osprey",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Riparia_paludicola",
+      "common_name": "Brown-throated Martin",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Passer_griseus",
+      "common_name": "Northern Grey-headed Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Hirundo_rustica",
+      "common_name": "Barn Swallow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Hirundo_smithii",
+      "common_name": "Wire-tailed Swallow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Nectarinia_kilimensis",
+      "common_name": "Bronze Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Passer_domesticus",
+      "common_name": "House Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Calendulauda_poecilosterna",
+      "common_name": "Pink-breasted Lark",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Oena_capensis",
+      "common_name": "Namaqua Dove",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Muscicapa_adusta",
+      "common_name": "African Dusky Flycatcher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Buphagus_africanus",
+      "common_name": "Yellow-billed Oxpecker",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cecropis_abyssinica",
+      "common_name": "Lesser Striped Swallow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Streptopelia_capicola",
+      "common_name": "Ring-necked Dove",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Large rock martin",
+      "url": "https://en.wikipedia.org/wiki/Large_rock_martin",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/7340285"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

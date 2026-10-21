@@ -1,0 +1,157 @@
+{
+  "label": "Onychognathus_morio",
+  "scientific_name": "Onychognathus morio",
+  "common_name": "Red-winged Starling",
+  "other_names": {},
+  "family": "Sturnidae",
+  "summary": "The red-winged starling (Onychognathus morio) is a bird of the starling family Sturnidae native to eastern and southern Africa from Ethiopia to South Africa. An omnivorous, generalist species, it prefers cliffs and mountainous areas for nesting, and has moved into cities and towns due to similarity to its original habitat.",
+  "appearance": {
+    "description": "The male of this 27–30-centimetre (11–12 in) long starling has mainly iridescent black plumage, with chestnut flight feathers, which are particularly noticeable in flight. The female has an ash-grey head and upper breast. The juvenile resembles the male, but is less glossy than the adults, and has brown rather than dark red eyes.",
+    "colors": "The red-winged starling (Onychognathus morio) is a bird of the starling family Sturnidae native to eastern and southern Africa from Ethiopia to South Africa. The male of this 27–30-centimetre (11–12 in) long starling has mainly iridescent black plumage, with chestnut flight feathers, which are particularly noticeable in flight.",
+    "wings": "The red-winged starling (Onychognathus morio) is a bird of the starling family Sturnidae native to eastern and southern Africa from Ethiopia to South Africa. This starling may be confused with other similar starling species, such as its sister species the pale-winged starling."
+  },
+  "size": {
+    "adult": null,
+    "juvenile": {
+      "notes": "The juvenile resembles the male, but is less glossy than the adults, and has brown rather than dark red eyes."
+    },
+    "chick": {
+      "notes": "The female incubates the eggs for 13–14 days, with another 22–28 days to fledge."
+    }
+  },
+  "behaviour": "=== Food and feeding === Like other starlings, the red-winged starling is an omnivore, taking a wide range of seeds, berries, nectar from plants such as Aloe and Schotia brachypetala, and invertebrates, such as the beetle species Pachnoda sinuata. They may take nestlings and adults of certain bird species, such as the African palm swift. It will also scavenge on carrion and human food scrap.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The range runs down eastern Africa from Ethiopia to the Cape, KwaZulu-Natal and Gauteng in South Africa. This species has a wide habitat tolerance.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Coast",
+      "Nairobi",
+      "Eastern",
+      "Central"
+    ],
+    "gbif_records_in_kenya": 9082
+  },
+  "look_alikes": [
+    {
+      "label": "Onychognathus_salvadorii",
+      "common_name": "Bristle-crowned Starling",
+      "difference": null,
+      "times_confused": 4
+    },
+    {
+      "label": "Lamprotornis_purpuroptera",
+      "common_name": "Rüppell's Starling",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Cossypha_natalensis",
+      "common_name": "Red-capped Robin-chat",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Motacilla_clara",
+      "common_name": "Mountain Wagtail",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Corvus_rhipidurus",
+      "common_name": "Fan-tailed Raven",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Melaenornis_pammelaina",
+      "common_name": "Southern Black Flycatcher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lamprotornis_regius",
+      "common_name": "Golden-breasted Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ardeola_rufiventris",
+      "common_name": "Rufous-bellied Heron",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bycanistes_brevis",
+      "common_name": "Silvery-cheeked Hornbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Dicrurus_adsimilis",
+      "common_name": "Fork-tailed Drongo",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Laniarius_funebris",
+      "common_name": "Slate-colored Boubou",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Melaenornis_edolioides",
+      "common_name": "Northern Black Flycatcher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Oena_capensis",
+      "common_name": "Namaqua Dove",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tauraco_hartlaubi",
+      "common_name": "Hartlaub's Turaco",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Hirundo_rustica",
+      "common_name": "Barn Swallow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Nectarinia_kilimensis",
+      "common_name": "Bronze Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lamprotornis_chalybaeus",
+      "common_name": "Greater Blue-eared Starling",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Red-winged starling",
+      "url": "https://en.wikipedia.org/wiki/Red-winged_starling",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/5230739"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "label": "Vanellus_lugubris",
+  "scientific_name": "Vanellus lugubris",
+  "common_name": "Senegal Lapwing",
+  "other_names": {},
+  "family": "Charadriidae",
+  "summary": "The African wattled lapwing (Vanellus senegallus) is sometimes called Senegal wattled plover. The Senegal lapwing, lesser black-winged lapwing or lesser black-winged plover (Vanellus lugubris) is a species of bird in the family Charadriidae. It is found in the African countries of Angola, Burundi, Cameroon, Republic of the Congo, Democratic Republic of the Congo, Ivory Coast, Eswatini, Gabon, Gambia, Ghana, Guinea, Kenya, Liberia, Malawi, Mali, Mozambique, Nigeria, Rwanda, Senegal, Sierra Leone, Somalia, South Africa, Tanzania, Togo, Uganda, Zambia, and Zimbabwe.",
+  "appearance": {
+    "description": null,
+    "colors": "The Senegal lapwing, lesser black-winged lapwing or lesser black-winged plover (Vanellus lugubris) is a species of bird in the family Charadriidae.",
+    "wings": "The African wattled lapwing (Vanellus senegallus) is sometimes called Senegal wattled plover. The Senegal lapwing, lesser black-winged lapwing or lesser black-winged plover (Vanellus lugubris) is a species of bird in the family Charadriidae."
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Coast",
+      "Central",
+      "Nyanza",
+      "Narok"
+    ],
+    "gbif_records_in_kenya": 1759
+  },
+  "look_alikes": [
+    {
+      "label": "Vanellus_melanopterus",
+      "common_name": "Black-winged Lapwing",
+      "difference": null,
+      "times_confused": 4
+    },
+    {
+      "label": "Vanellus_senegallus",
+      "common_name": "African Wattled Lapwing",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Senegal lapwing",
+      "url": "https://en.wikipedia.org/wiki/Senegal_lapwing",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/5229139"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

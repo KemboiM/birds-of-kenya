@@ -1,0 +1,81 @@
+{
+  "label": "Pternistis_leucoscepus",
+  "scientific_name": "Pternistis leucoscepus",
+  "common_name": "Yellow-necked Spurfowl",
+  "other_names": {},
+  "family": "Phasianidae",
+  "summary": "The yellow-necked spurfowl or yellow-necked francolin (Pternistis leucoscepus) is a species of bird in the family Phasianidae. It is found in Djibouti, Eritrea, Ethiopia, Kenya, Somalia, Sudan, Tanzania, and Uganda. This species is named for the yellow patch found on its neck.",
+  "appearance": {
+    "description": null,
+    "colors": "The yellow-necked spurfowl or yellow-necked francolin (Pternistis leucoscepus) is a species of bird in the family Phasianidae. This species is named for the yellow patch found on its neck.",
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": "It has been noted that this bird is most active at dawn and dusk. The bird is also noted to be very adaptable, it can continue to live in land after agriculture begins, it only leaves lands when heavy human occupation begins.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Eastern",
+      "Coast",
+      "Nairobi",
+      "Kajiado"
+    ],
+    "gbif_records_in_kenya": 18642
+  },
+  "look_alikes": [
+    {
+      "label": "Pterocles_decoratus",
+      "common_name": "Black-faced Sandgrouse",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Neophron_percnopterus",
+      "common_name": "Egyptian Vulture",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pterocles_exustus",
+      "common_name": "Chestnut-bellied Sandgrouse",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pterocles_lichtensteinii",
+      "common_name": "Lichtenstein's Sandgrouse",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lamprotornis_purpuroptera",
+      "common_name": "Rüppell's Starling",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Yellow-necked spurfowl",
+      "url": "https://en.wikipedia.org/wiki/Yellow-necked_spurfowl",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2473849"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

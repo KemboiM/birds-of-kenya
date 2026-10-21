@@ -1,0 +1,162 @@
+{
+  "label": "Necrosyrtes_monachus",
+  "scientific_name": "Necrosyrtes monachus",
+  "common_name": "Hooded Vulture",
+  "other_names": {},
+  "family": "Accipitridae",
+  "summary": "The hooded vulture (Necrosyrtes monachus) is an Old World vulture in the order Accipitriformes, which also includes eagles, kites, buzzards and hawks. It is the only member of the genus Necrosyrtes, which is sister to the larger Gyps genus, both of which are a part of the Aegypiinae subfamily of Old World vultures. It is native to sub-Saharan Africa, where it has a widespread distribution with populations in southern, East and West Africa.",
+  "appearance": {
+    "description": "=== Appearance === The hooded vulture is a typical vulture, with a head that is usually pinkish-white, but flushes red when agitated, and a grey to black \"hood\". It has fairly uniform dark brown body plumage. It has broad wings for soaring and short tail feathers.",
+    "colors": "It is a scruffy-looking, small vulture with dark brown plumage, a long thin bill, bare crown, face and fore-neck, and a downy nape and hind-neck. Its face is usually a light red colour.",
+    "wings": "It has broad wings for soaring and short tail feathers."
+  },
+  "size": {
+    "adult": {
+      "wingspan_cm": [
+        155.0,
+        180.0
+      ],
+      "length_cm": [
+        62.0,
+        72.0
+      ],
+      "mass_g": [
+        1500.0,
+        2600.0
+      ]
+    },
+    "juvenile": {
+      "notes": "Juveniles look like adults, only darker and plainer, and body feathers have a purplish sheen."
+    },
+    "chick": null
+  },
+  "behaviour": "Usually silent, but gives a shrill, sibilant whistle during copulation, and thin squealing calls both at nests and carcasses. It breeds in a stick nest in trees (often palms) in much of Africa south of the Sahara, laying one egg. Birds may form loose colonies.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "Although hooded vultures have relatively small home ranges, they are widely distributed across Africa. It occurs in Senegal, Mauritania, Guinea-Bissau, The Gambia, Niger and Nigeria in West Africa; in East Africa it is found in Chad, Sudan, South Sudan, Ethiopia, Rwanda and Somalia; in southern Africa it has been recorded in northern Namibia, Botswana, Zambia, Zimbabwe, Mozambique and South Africa.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Eastern",
+      "Kenya",
+      "Narok",
+      "Coast",
+      "Central"
+    ],
+    "gbif_records_in_kenya": 4533
+  },
+  "look_alikes": [
+    {
+      "label": "Torgos_tracheliotos",
+      "common_name": "Lappet-faced Vulture",
+      "difference": null,
+      "times_confused": 7
+    },
+    {
+      "label": "Gyps_rueppellii",
+      "common_name": "Rüppell's Vulture",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Polemaetus_bellicosus",
+      "common_name": "Martial Eagle",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Circus_aeruginosus",
+      "common_name": "Western Marsh Harrier",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Gymnobucco_bonapartei",
+      "common_name": "Grey-throated Barbet",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Myrmecocichla_nigra",
+      "common_name": "Sooty Chat",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Corythaixoides_personatus",
+      "common_name": "Bare-faced Go-away-bird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Polyboroides_typus",
+      "common_name": "African Harrier-hawk",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Actitis_hypoleucos",
+      "common_name": "Common Sandpiper",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ardea_melanocephala",
+      "common_name": "Black-headed Heron",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lophaetus_occipitalis",
+      "common_name": "Long-crested Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Corvus_rhipidurus",
+      "common_name": "Fan-tailed Raven",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Myrmecocichla_aethiops",
+      "common_name": "Anteater Chat",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pelecanus_onocrotalus",
+      "common_name": "Great White Pelican",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Sagittarius_serpentarius",
+      "common_name": "Secretarybird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Coracias_caudatus",
+      "common_name": "Lilac-breasted Roller",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Hooded vulture",
+      "url": "https://en.wikipedia.org/wiki/Hooded_vulture",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2480715"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

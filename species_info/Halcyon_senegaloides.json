@@ -1,0 +1,76 @@
+{
+  "label": "Halcyon_senegaloides",
+  "scientific_name": "Halcyon senegaloides",
+  "common_name": "Mangrove Kingfisher",
+  "other_names": {},
+  "family": "Alcedinidae",
+  "summary": "The mangrove kingfisher (Halcyon senegaloides) is a kingfisher in the genus Halcyon. It is similar in appearance to the woodland kingfisher. It is found along the eastern coastline of Sub-Saharan Africa, living in woodland, along rivers, and in estuaries and mangrove.",
+  "appearance": {
+    "description": "The mangrove kingfisher is about 22 cm (8.7 in) long. The male and female are alike. The head is dark grey-brown, with black lores and a narrow white line above the eye, and the cheeks and sides of the neck are brown-grey.",
+    "colors": "The head is dark grey-brown, with black lores and a narrow white line above the eye, and the cheeks and sides of the neck are brown-grey. The grey breast and flanks are vermiculated (having dense, irregular lines).",
+    "wings": "There is a black patch under the wing. Birds in the south tend to have slightly longer wings and narrower beaks."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        22.0,
+        22.0
+      ]
+    },
+    "juvenile": {
+      "notes": "The juvenile bird is duller, has coarser vermiculations and a yellowish-buff wash on the breast, and has a brown beak."
+    },
+    "chick": null
+  },
+  "behaviour": "This kingfisher catches fish and also eats crabs, prawns, lizards and insects. The song is a raucous, accelerating series of tchi notes, and the breeding display includes spreading the wings. Breeding has been recorded from October to January.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "This species is found near the eastern coast of Africa, from Somalia, south through Kenya, Tanzania and Mozambique, to South Africa. One individual has been recorded in eastern Zambia.",
+    "kenya_regions": [
+      "Coast",
+      "Kenya",
+      "Kilifi",
+      "Kwale",
+      "Mombasa",
+      "Lamu"
+    ],
+    "gbif_records_in_kenya": 1771
+  },
+  "look_alikes": [
+    {
+      "label": "Halcyon_leucocephala",
+      "common_name": "Grey-headed Kingfisher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Halcyon_senegalensis",
+      "common_name": "Woodland Kingfisher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Urocolius_macrourus",
+      "common_name": "Blue-naped Mousebird",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Mangrove kingfisher",
+      "url": "https://en.wikipedia.org/wiki/Mangrove_kingfisher",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/5228303"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "label": "Platysteira_peltata",
+  "scientific_name": "Platysteira peltata",
+  "common_name": "Black-throated Wattle-eye",
+  "other_names": {},
+  "family": "Platysteiridae",
+  "summary": "The black-throated wattle-eye (Platysteira peltata) is a species of bird in the family Platysteiridae. It is found in Angola, Burundi, Democratic Republic of the Congo, Eswatini, Kenya, Malawi, Mozambique, Somalia, South Africa, Tanzania, Uganda, Zambia, and Zimbabwe.",
+  "appearance": {
+    "description": null,
+    "colors": "The black-throated wattle-eye (Platysteira peltata) is a species of bird in the family Platysteiridae.",
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Kenya",
+      "Rift Valley",
+      "Coast",
+      "Nairobi",
+      "Central",
+      "Eastern"
+    ],
+    "gbif_records_in_kenya": 2281
+  },
+  "look_alikes": [
+    {
+      "label": "Dryoscopus_cubla",
+      "common_name": "Black-backed Puffback",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Platysteira_cyanea",
+      "common_name": "Brown-throated Wattle-eye",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Black-throated wattle-eye",
+      "url": "https://en.wikipedia.org/wiki/Black-throated_wattle-eye",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2492312"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

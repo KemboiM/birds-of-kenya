@@ -1,0 +1,150 @@
+{
+  "label": "Calidris_pugnax",
+  "scientific_name": "Calidris pugnax",
+  "common_name": "Ruff",
+  "other_names": {
+    "sw": "Chokowe Mjasiri"
+  },
+  "family": "Scolopacidae",
+  "summary": "The ruff (Calidris pugnax) is a medium-sized wading bird that breeds in marshes and wet meadows across northern Eurasia. This highly gregarious sandpiper is migratory and sometimes forms huge flocks in its winter grounds, which include southern and western Europe, Africa, southern Asia and Australia. The ruff is a long-necked, pot-bellied bird.",
+  "appearance": {
+    "description": "The ruff has a distinctive pot-bellied appearance, with a small head, medium-length bill, longish neck and heavy body. It has long legs that are variable in colour, being dark greenish in juveniles, pink to orange in adults with some males having reddish orange legs only during the breeding season. In flight, it has a deeper, slower wing stroke than other waders of a similar size, and displays a thin, indistinct white bar on the wing, and white ovals on the sides of the tail.",
+    "colors": "This species shows marked sexual dimorphism; the male is much larger than the female (the reeve), and has a breeding plumage that includes brightly coloured head tufts, bare orange facial skin, extensive black on the breast, and the large collar of ornamental feathers that inspired this bird's English name. The female and the non-breeding male have grey-brown upperparts and mainly white underparts.",
+    "wings": "In flight, it has a deeper, slower wing stroke than other waders of a similar size, and displays a thin, indistinct white bar on the wing, and white ovals on the sides of the tail."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        29.0,
+        60.0
+      ],
+      "mass_g": [
+        130.0,
+        254.0
+      ]
+    },
+    "juvenile": {
+      "notes": "It has long legs that are variable in colour, being dark greenish in juveniles, pink to orange in adults with some males having reddish orange legs only during the breeding season. The plumage of the juveniles resembles the non-breeding adult, but has upperparts with a neat, scale-like pattern with dark feather centres, and a strong buff tinge to the underparts."
+    },
+    "chick": {
+      "notes": "Incubation is by the female alone, and the time to hatching is 20–23 days, with a further 25–28 days to fledging. The precocial chicks have buff and chestnut down, streaked and barred with black, and frosted with white; they feed themselves on a variety of small invertebrates, but are brooded by the female."
+    }
+  },
+  "behaviour": "=== Mating === Males display during the breeding season at a lek in a traditional open grassy arena. The ruff is one of the few lekking species in which the display is primarily directed at other males rather than to the females, and it is among the small percentage of birds in which the males have well-marked and inherited variations in plumage and mating behaviour. There are three male forms: the typical territorial males, satellite males which have a white neck ruff, and a very rare variant with female-like plumage.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The ruff is a migratory species, breeding in wetlands in colder regions of northern Eurasia, and spends the northern winter in the tropics, mainly in Africa. Some Siberian breeders undertake an annual round trip of up to 30,000 km (19,000 mi) to the West African wintering grounds.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Nairobi",
+      "Central",
+      "Coast",
+      "Eastern"
+    ],
+    "gbif_records_in_kenya": 6255
+  },
+  "look_alikes": [
+    {
+      "label": "Tringa_nebularia",
+      "common_name": "Common Greenshank",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Calendulauda_africanoides",
+      "common_name": "Fawn-coloured Lark",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Charadrius_hiaticula",
+      "common_name": "Common Ringed Plover",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Calidris_minuta",
+      "common_name": "Little Stint",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Anas_erythrorhyncha",
+      "common_name": "Red-billed Teal",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Dendrocygna_viduata",
+      "common_name": "White-faced Whistling Duck",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ephippiorhynchus_senegalensis",
+      "common_name": "Saddle-billed Stork",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Gelochelidon_nilotica",
+      "common_name": "Gull-billed Tern",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ichthyaetus_hemprichii",
+      "common_name": "Sooty Gull",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Numenius_phaeopus",
+      "common_name": "Eurasian Whimbrel",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pelecanus_rufescens",
+      "common_name": "Pink-backed Pelican",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Terathopius_ecaudatus",
+      "common_name": "Bateleur",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tringa_glareola",
+      "common_name": "Wood Sandpiper",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lanius_excubitoroides",
+      "common_name": "Grey-backed Fiscal",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Ruff (bird)",
+      "url": "https://en.wikipedia.org/wiki/Ruff_(bird)",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/8250742"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

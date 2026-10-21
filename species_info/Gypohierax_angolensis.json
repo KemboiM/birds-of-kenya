@@ -1,0 +1,116 @@
+{
+  "label": "Gypohierax_angolensis",
+  "scientific_name": "Gypohierax angolensis",
+  "common_name": "Palm-nut Vulture",
+  "other_names": {},
+  "family": "Accipitridae",
+  "summary": "The palm-nut vulture (Gypohierax angolensis) or vulturine fish eagle, is a large bird of prey in the family Accipitridae (which also includes many other diurnal raptors such as kites, buzzards and harriers, vultures, and eagles). It is the only member of the genus Gypohierax. This bird is an Old World vulture (only distantly related to the New World vultures, which are in a separate family, the Cathartidae).",
+  "appearance": {
+    "description": "This is a nearly unmistakable bird as an adult. At 1.3–1.7 kg (2.9–3.7 lb) in weight, 60 cm (2.0 ft) in length and with a wingspan of 1.50 m (4.9 ft), this is the smallest Old World vulture. Its plumage is all white except for black areas in its wings and tail.",
+    "colors": "Its plumage is all white except for black areas in its wings and tail. It has a red patch around each eye.",
+    "wings": "Its plumage is all white except for black areas in its wings and tail. With its extensive white plumage, and black wing- and tail-feathers, the adult palm-nut vulture can be crudely mistaken for both the African fish-eagle and the Egyptian vulture, but clearly lacks the chestnut body of the former and the white tail of the latter."
+  },
+  "size": {
+    "adult": {
+      "wingspan_cm": [
+        150.0,
+        150.0
+      ],
+      "length_cm": [
+        60.0,
+        60.0
+      ],
+      "mass_g": [
+        1300.0,
+        1700.0
+      ]
+    },
+    "juvenile": {
+      "notes": "The juvenile, which takes 3–4 years to mature, is brown with yellow eye-patches. Juveniles on the other hand are predominately brown with partially black wings and take a lengthy three to four years to make the transition into the adult plumage."
+    },
+    "chick": {
+      "notes": "Normally around 85 to 90 days after hatching, the young brown chicks will fledge."
+    }
+  },
+  "behaviour": "=== Food and feeding === Unusual for birds of prey, the palm-nut vulture feeds mainly on the fleshy fruit-husks of the oil palm and on the palm-fruits of Raffia palms, as well as wild dates, oranges, other fruits, some grains and acacia seeds. These fruits make up over 60% of the adult bird's diet and over 90% of the juvenile bird's diet.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "Palm-nut vultures are found throughout most of the coastal areas of the African continent from The Gambia to Kenya and as far South as South Africa. The total African population is estimated to be 80,000 pairs.",
+    "kenya_regions": [
+      "Coast",
+      "Kenya",
+      "Eastern",
+      "Rift Valley",
+      "Kwale",
+      "Western"
+    ],
+    "gbif_records_in_kenya": 2979
+  },
+  "look_alikes": [
+    {
+      "label": "Aquila_rapax",
+      "common_name": "Tawny Eagle",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Anastomus_lamelligerus",
+      "common_name": "African Openbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ciconia_ciconia",
+      "common_name": "White Stork",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Haliaeetus_vocifer",
+      "common_name": "African Fish Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lonchura_bicolor",
+      "common_name": "Black-and-white Mannikin",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Sagittarius_serpentarius",
+      "common_name": "Secretarybird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Torgos_tracheliotos",
+      "common_name": "Lappet-faced Vulture",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Polyboroides_typus",
+      "common_name": "African Harrier-hawk",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Palm-nut vulture",
+      "url": "https://en.wikipedia.org/wiki/Palm-nut_vulture",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2480393"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

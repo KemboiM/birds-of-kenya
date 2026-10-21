@@ -1,0 +1,88 @@
+{
+  "label": "Columba_guinea",
+  "scientific_name": "Columba guinea",
+  "common_name": "Speckled Pigeon",
+  "other_names": {},
+  "family": "Columbidae",
+  "summary": "The speckled pigeon (Columba guinea), also known as the African rock pigeon or Guinea pigeon, is a pigeon that is a resident breeding bird in much of Africa south of the Sahara. It is a common and widespread species in open habitats over much of its range, although there are sizable gaps in its distribution.",
+  "appearance": {
+    "description": "It is a medium-sized pigeon, at 32–35 cm in length similar in size to rock dove and stock dove. Its back and wings are rufous, the latter heavily speckled with white spots. The rest of the upperparts and underparts are blue-grey, and the head is grey with red patches of bare skin around the eye.",
+    "colors": "Its back and wings are rufous, the latter heavily speckled with white spots. The rest of the upperparts and underparts are blue-grey, and the head is grey with red patches of bare skin around the eye.",
+    "wings": "Its back and wings are rufous, the latter heavily speckled with white spots."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        32.0,
+        35.0
+      ]
+    },
+    "juvenile": {
+      "notes": "The sexes are similar, but immatures are browner than adults and lack the red eye patches."
+    },
+    "chick": null
+  },
+  "behaviour": "The speckled pigeon is frequently seen around human habitation and cultivation. Most of its food is vegetable, and it gathers in large numbers where grain or groundnuts are available. This species builds a large stick nest on protected rocky outcrops and in urban areas often atop covered pergola pillars and on flat roofs under deep eaves and lays two white eggs.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Nairobi",
+      "Eastern",
+      "Central",
+      "Nyanza"
+    ],
+    "gbif_records_in_kenya": 22788
+  },
+  "look_alikes": [
+    {
+      "label": "Corvus_rhipidurus",
+      "common_name": "Fan-tailed Raven",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Micronisus_gabar",
+      "common_name": "Gabar Goshawk",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Apus_affinis",
+      "common_name": "Little Swift",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Columba_livia",
+      "common_name": "Rock Dove",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Streptopelia_lugens",
+      "common_name": "Dusky Turtle Dove",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Speckled pigeon",
+      "url": "https://en.wikipedia.org/wiki/Speckled_pigeon",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/5231817"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

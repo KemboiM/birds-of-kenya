@@ -1,0 +1,96 @@
+{
+  "label": "Bycanistes_subcylindricus",
+  "scientific_name": "Bycanistes subcylindricus",
+  "common_name": "Black-and-white-casqued Hornbill",
+  "other_names": {},
+  "family": "Bucerotidae",
+  "summary": "The black-and-white-casqued hornbill (Bycanistes subcylindricus), also known as the grey-cheeked hornbill, is a large black and white hornbill. It has an oversized blackish bill with a large casque on top. The female is slightly smaller than the male and has a significantly smaller casque.",
+  "appearance": {
+    "description": "Bycanistes subcylindricus is a moderately large bird of 60 to 70 cm with a wing span of 70 to 96 cm. It is recognizable by its black plummage for the higher body and wings alongside and white plummage on the lower body and wings with black feathers amongst the white feathers of the tail, particularly the top tail feathers and the base of the tail feathers. It has a yellow-brownish bill and flattened casque, which are enlarged in males.",
+    "colors": "The black-and-white-casqued hornbill (Bycanistes subcylindricus), also known as the grey-cheeked hornbill, is a large black and white hornbill. It has an oversized blackish bill with a large casque on top.",
+    "wings": "Bycanistes subcylindricus is a moderately large bird of 60 to 70 cm with a wing span of 70 to 96 cm. It is recognizable by its black plummage for the higher body and wings alongside and white plummage on the lower body and wings with black feathers amongst the white feathers of the tail, particularly the top tail feathers and the base of the tail feathers."
+  },
+  "size": {
+    "adult": {
+      "wingspan_cm": [
+        70.0,
+        96.0
+      ],
+      "mass_g": [
+        1000.0,
+        1500.0
+      ]
+    },
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": "=== Diet === The diet of the black-and-white-casqued hornbill consist mostly of fruits, which includes relatively small fruits or pieces of larger fruits. While some may consider this bird, like many other hornbills, to be limited to such food, it has been noted that they are very much capable of hunting small animals, including lizards and the eggs of other birds. Most of the frugal diet of the black-and-white-casqued hornbill comes from figs.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The black-and-white-casqued hornbill is found in wooded habitats in central and western Africa, ranging from western Kenya to Côte d'Ivoire with an isolated population in north Angola. The black-and-white-casqued hornbill is found mostly in Ivory-Coast, with smaller populations in its surrounding countries for West-African populations.",
+    "kenya_regions": [
+      "Western",
+      "Rift Valley",
+      "Kenya",
+      "Kakamega",
+      "Nyanza",
+      "Narok"
+    ],
+    "gbif_records_in_kenya": 4402
+  },
+  "look_alikes": [
+    {
+      "label": "Bycanistes_brevis",
+      "common_name": "Silvery-cheeked Hornbill",
+      "difference": null,
+      "times_confused": 5
+    },
+    {
+      "label": "Corvus_albus",
+      "common_name": "Pied Crow",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Buteo_augur",
+      "common_name": "Augur Buzzard",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Elanus_caeruleus",
+      "common_name": "Black-winged Kite",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Recurvirostra_avosetta",
+      "common_name": "Pied Avocet",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Dinemellia_dinemelli",
+      "common_name": "White-headed Buffalo Weaver",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Black-and-white-casqued hornbill",
+      "url": "https://en.wikipedia.org/wiki/Black-and-white-casqued_hornbill",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/5228440"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

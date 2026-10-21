@@ -1,0 +1,114 @@
+{
+  "label": "Coracias_garrulus",
+  "scientific_name": "Coracias garrulus",
+  "common_name": "European Roller",
+  "other_names": {},
+  "family": "Coraciidae",
+  "summary": "The European roller (Coracias garrulus) is the only member of the roller family Coraciidae breeding in Europe. Its range extends into the Maghreb, West Asia and Central Asia. It winters in southern Africa, primarily in dry wooded savanna and bushy plains.",
+  "appearance": {
+    "description": "The European roller is a stocky bird, the size of a Eurasian jay at 29–32 cm (11–13 in) in length with a 52–58 cm (20–23 in) wingspan. It is mainly blue with an orange-brown back. The subspecies C. g. semenowi is slightly paler then the nominate.",
+    "colors": "It is mainly blue with an orange-brown back. The European roller is striking in its strong direct flight, with the brilliant blue contrasting with blue-black ends of the flight feathers.",
+    "wings": null
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        29.0,
+        58.0
+      ]
+    },
+    "juvenile": {
+      "notes": "Sexes are similar, but the juvenile is a drabber version of the adult."
+    },
+    "chick": {
+      "notes": "They hatch after 17 to 19 days. The nestlings fledge after 26 to 27 days."
+    }
+  },
+  "behaviour": "The European roller chick will vomit a foul-smelling orange liquid onto itself to deter a predator. The smell also warns the parents on their return to the nest. Rollers often perch prominently on trees, posts or overhead wires, like giant shrikes, whilst watching for the large insects, small reptiles, rodents and frogs that they eat.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The European roller is a bird of warmer regions. The nominate subspecies breeds in northern Africa from Morocco to Tunisia, in southern and east-central Europe, and eastwards through northwestern Iran to southwestern Siberia.",
+    "kenya_regions": [
+      "Coast",
+      "Kenya",
+      "Rift Valley",
+      "Eastern",
+      "Nairobi",
+      "Central"
+    ],
+    "gbif_records_in_kenya": 6225
+  },
+  "look_alikes": [
+    {
+      "label": "Elanus_caeruleus",
+      "common_name": "Black-winged Kite",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Empidornis_semipartitus",
+      "common_name": "Silverbird",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Uraeginthus_cyanocephalus",
+      "common_name": "Blue-capped Cordon-bleu",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Merops_nubicus",
+      "common_name": "Northern Carmine Bee-eater",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Coracias_caudatus",
+      "common_name": "Lilac-breasted Roller",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Odontospiza_caniceps",
+      "common_name": "Grey-headed Silverbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Passer_gongonensis",
+      "common_name": "Parrot-billed Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Spilopelia_senegalensis",
+      "common_name": "Laughing Dove",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Uraeginthus_bengalus",
+      "common_name": "Red-cheeked Cordon-bleu",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "European roller",
+      "url": "https://en.wikipedia.org/wiki/European_roller",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2475365"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

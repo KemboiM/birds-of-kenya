@@ -1,0 +1,112 @@
+{
+  "label": "Pterocles_decoratus",
+  "scientific_name": "Pterocles decoratus",
+  "common_name": "Black-faced Sandgrouse",
+  "other_names": {},
+  "family": "Pteroclididae",
+  "summary": "The black-faced sandgrouse (Pterocles decoratus) is a species of ground-dwelling bird in the Pteroclidae family. It is a mainly sedentary bird found in East Africa, ranging from Ethiopia, Kenya, Somalia, Tanzania, and Uganda. It is a medium-sized bird which is well-adapted and well-camouflaged to life in arid environments.",
+  "appearance": {
+    "description": "The black-faced sandgrouse is a medium-sized bird approximately 28 cm (11 in) long and weighing between 140 and 210 g (4.9 and 7.4 oz). Overall, it has a small and compact body, with a short tail, pointed wings, as well as short and feathered legs. The wing tips are black when in flight.",
+    "colors": "The black-faced sandgrouse (Pterocles decoratus) is a species of ground-dwelling bird in the Pteroclidae family. It is listed as least concern on the IUCN Red List.",
+    "wings": "It is a dove-like bird due to its physical resemblance, particularly its small head, short legs, and pointed wings. Overall, it has a small and compact body, with a short tail, pointed wings, as well as short and feathered legs."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        28.0,
+        28.0
+      ],
+      "mass_g": [
+        210.0,
+        210.0
+      ]
+    },
+    "juvenile": {
+      "notes": "Juveniles resemble the females, except with darker barring on the back."
+    },
+    "chick": {
+      "notes": "However, once the chicks have hatched, males spend more time watching over the young, which reduces their available foraging time. The female lay 2-3 eggs and once they hatch, the chicks are a sandy or golden colour with grey and black streaking."
+    }
+  },
+  "behaviour": "The black-faced sandgrouse is a mainly sedentary bird that does not migrate. It is less social than other sandgrouse species but will gather in flocks at waterholes in the early morning, often with the chestnut-bellied sandgrouse (Pterocles exustus). Several species in Kenya have been observed to be eaten by crocodiles while visiting waterholes to drink water.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The species is found in East Africa, in the dry zones of Ethiopia, Kenya, Tanzania, Uganda and Somalia. It is frequent in Ethiopia, common and widespread in S Somalia, and locally common in Kenya.",
+    "kenya_regions": [
+      "Coast",
+      "Eastern",
+      "Rift Valley",
+      "Kenya",
+      "Nairobi",
+      "Taita Taveta"
+    ],
+    "gbif_records_in_kenya": 7339
+  },
+  "look_alikes": [
+    {
+      "label": "Pterocles_exustus",
+      "common_name": "Chestnut-bellied Sandgrouse",
+      "difference": null,
+      "times_confused": 5
+    },
+    {
+      "label": "Pterocles_lichtensteinii",
+      "common_name": "Lichtenstein's Sandgrouse",
+      "difference": null,
+      "times_confused": 3
+    },
+    {
+      "label": "Scleroptila_shelleyi",
+      "common_name": "Shelley's Francolin",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Rhinoptilus_africanus",
+      "common_name": "Double-banded Courser",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Spatula_hottentota",
+      "common_name": "Blue-billed Teal",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pternistis_leucoscepus",
+      "common_name": "Yellow-necked Spurfowl",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pterocles_gutturalis",
+      "common_name": "Yellow-throated Sandgrouse",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tachybaptus_ruficollis",
+      "common_name": "Little Grebe",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Black-faced sandgrouse",
+      "url": "https://en.wikipedia.org/wiki/Black-faced_sandgrouse",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2480196"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

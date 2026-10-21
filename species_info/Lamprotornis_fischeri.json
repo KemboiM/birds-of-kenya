@@ -1,0 +1,94 @@
+{
+  "label": "Lamprotornis_fischeri",
+  "scientific_name": "Lamprotornis fischeri",
+  "common_name": "Fischer's Starling",
+  "other_names": {},
+  "family": "Sturnidae",
+  "summary": "Fischer's starling (Lamprotornis fischeri) is a bird which is an uncommon resident breeder from southern Ethiopia and Somalia to eastern Kenya and Tanzania. It is found in dry open acacia thornbush. The English and scientific names commemorate the 19th century German explorer of East Africa Gustav Fischer.",
+  "appearance": {
+    "description": "The adult of this 18 cm (7.1 in) long, 51 g (1.8 oz) starling has mainly dully ash-grey plumage except for a white lower chest, belly and undertail. It has a white iris and dark bill. The sexes are alike, but the juvenile has browner plumage, a brown iris and a dull yellow lower mandible.",
+    "colors": "The adult of this 18 cm (7.1 in) long, 51 g (1.8 oz) starling has mainly dully ash-grey plumage except for a white lower chest, belly and undertail. It has a white iris and dark bill.",
+    "wings": null
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        18.0,
+        18.0
+      ]
+    },
+    "juvenile": {
+      "notes": "The sexes are alike, but the juvenile has browner plumage, a brown iris and a dull yellow lower mandible."
+    },
+    "chick": null
+  },
+  "behaviour": "=== Breeding === Fischer's starling usually nests in thorn trees, typically 2.5 m (8 ft 2 in) above the ground. The roofed nest is made from grasses and lined with feathers. It has a ramp and opening in its side.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Coast",
+      "Kenya",
+      "Rift Valley",
+      "Eastern",
+      "North-Eastern",
+      "Taita Taveta"
+    ],
+    "gbif_records_in_kenya": 5503
+  },
+  "look_alikes": [
+    {
+      "label": "Oenanthe_isabellina",
+      "common_name": "Isabelline Wheatear",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Creatophora_cinerea",
+      "common_name": "Wattled Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tringa_glareola",
+      "common_name": "Wood Sandpiper",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Passer_griseus",
+      "common_name": "Northern Grey-headed Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Telophorus_cruentus",
+      "common_name": "Rosy-patched Bushshrike",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Spilopelia_senegalensis",
+      "common_name": "Laughing Dove",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Fischer's starling",
+      "url": "https://en.wikipedia.org/wiki/Fischer%27s_starling",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/5845379"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

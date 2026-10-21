@@ -1,0 +1,82 @@
+{
+  "label": "Clamator_glandarius",
+  "scientific_name": "Clamator glandarius",
+  "common_name": "Great Spotted Cuckoo",
+  "other_names": {},
+  "family": "Cuculidae",
+  "summary": "The great spotted cuckoo (Clamator glandarius) is a member of the cuckoo order of birds, the Cuculiformes, which also includes the roadrunners, the anis and the coucals. It is widely spread throughout Africa and the Mediterranean Basin. It is a brood parasite that lays its eggs in the nests of corvids, in particular the Eurasian magpie.",
+  "appearance": {
+    "description": "This species is slightly larger than the common cuckoo at 35–39 cm (14–15 in) in length, but looks much larger with its broad wings and long narrow tail. The adult is grey above with a slender body, long tail and strong legs. It has a grey cap, grey wings, a yellowish face and upper breast, and white underparts.",
+    "colors": "The adult is grey above with a slender body, long tail and strong legs. It has a grey cap, grey wings, a yellowish face and upper breast, and white underparts.",
+    "wings": "This species is slightly larger than the common cuckoo at 35–39 cm (14–15 in) in length, but looks much larger with its broad wings and long narrow tail. It has a grey cap, grey wings, a yellowish face and upper breast, and white underparts."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        35.0,
+        39.0
+      ]
+    },
+    "juvenile": {
+      "notes": "The juveniles have blackish upperparts and cap, and chestnut primary wing feathers."
+    },
+    "chick": null
+  },
+  "behaviour": "=== Breeding === Unlike the common cuckoo, neither the hen nor the hatched chick of this species evict the host's eggs, but the young magpies often die because they cannot compete successfully with the cuckoo for food. However it has been shown that this species' chicks secrete a repellent scent when predators threaten. The repellent protects great spotted cuckoo chicks themselves as well as the host's chicks from predators.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Rift Valley",
+      "Eastern",
+      "Kenya",
+      "Coast",
+      "Nairobi",
+      "Rift Valley Province"
+    ],
+    "gbif_records_in_kenya": 1183
+  },
+  "look_alikes": [
+    {
+      "label": "Buteo_augur",
+      "common_name": "Augur Buzzard",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Dryoscopus_cubla",
+      "common_name": "Black-backed Puffback",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tockus_erythrorhynchus",
+      "common_name": "Northern Red-billed Hornbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tockus_jacksoni",
+      "common_name": "Jackson's Hornbill",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Great spotted cuckoo",
+      "url": "https://en.wikipedia.org/wiki/Great_spotted_cuckoo",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2496464"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

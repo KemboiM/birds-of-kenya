@@ -1,0 +1,76 @@
+{
+  "label": "Poicephalus_gulielmi",
+  "scientific_name": "Poicephalus gulielmi",
+  "common_name": "Red-fronted Parrot",
+  "other_names": {},
+  "family": "Psittacidae",
+  "summary": "The red-fronted parrot (Poicephalus gulielmi), also known as Jardine's parrot, is a medium-sized mainly green parrot distributed across wide areas of Africa. It has three subspecies. The extent and shade of the red or orange plumage on its head, thighs, and bend of wings vary depending on the subspecies.",
+  "appearance": {
+    "description": "The red-fronted parrot is 28 cm (11 in) long. It is mostly green and has a short black squarish tail. Black feathers on the head, neck, back, and wings have lighter green edges giving a scalloped appearance.",
+    "colors": "The red-fronted parrot (Poicephalus gulielmi), also known as Jardine's parrot, is a medium-sized mainly green parrot distributed across wide areas of Africa. The extent and shade of the red or orange plumage on its head, thighs, and bend of wings vary depending on the subspecies.",
+    "wings": "The extent and shade of the red or orange plumage on its head, thighs, and bend of wings vary depending on the subspecies. Black feathers on the head, neck, back, and wings have lighter green edges giving a scalloped appearance."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        28.0,
+        28.0
+      ]
+    },
+    "juvenile": {
+      "notes": "The amount of red or orange on the forecrown, the bend of the wing, and thighs varies in the three subspecies but is absent in all young birds – juveniles having a dark smokey appearance above a paler beak and brown irises."
+    },
+    "chick": null
+  },
+  "behaviour": "=== Breeding === The red-fronted parrot nests in tree cavities. The eggs are white and there are usually three or four in a clutch. The female incubates the eggs for about 27 days and the chicks leave the nest about 80 days after hatching.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Central",
+      "Kenya",
+      "Rift Valley",
+      "Eastern",
+      "Kirinyaga",
+      "Western"
+    ],
+    "gbif_records_in_kenya": 2651
+  },
+  "look_alikes": [
+    {
+      "label": "Falco_tinnunculus",
+      "common_name": "Common Kestrel",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Poicephalus_meyeri",
+      "common_name": "Meyer's Parrot",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Platysteira_cyanea",
+      "common_name": "Brown-throated Wattle-eye",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Red-fronted parrot",
+      "url": "https://en.wikipedia.org/wiki/Red-fronted_parrot",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2479951"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "label": "Andropadus_importunus",
+  "scientific_name": "Andropadus importunus",
+  "common_name": "Sombre Greenbul",
+  "other_names": {},
+  "family": "Pycnonotidae",
+  "summary": "The sombre greenbul (Andropadus importunus) is a member of the bulbul family of passerine birds. It is a resident breeder in coastal bush, evergreen forest and dry shrub land in eastern and southern Africa. It is the only member of the genus Andropadus.",
+  "appearance": {
+    "description": "The sombre greenbul is 15–18 cm long, with mainly dull greyish olive-green plumage, paler on the underparts than above. There are variations in colour based on habitat range. Individuals located in southern Africa tend to be plain, olive-green.",
+    "colors": "The sombre greenbul (Andropadus importunus) is a member of the bulbul family of passerine birds. It is a resident breeder in coastal bush, evergreen forest and dry shrub land in eastern and southern Africa.",
+    "wings": null
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        15.0,
+        18.0
+      ]
+    },
+    "juvenile": {
+      "notes": "The sexes are similar in plumage, but juveniles are even duller than the adult and have dark, grey eyes."
+    },
+    "chick": null
+  },
+  "behaviour": "The sombre greenbul is a common bird, which tends to stay hidden in foliage and is more often heard than seen. It is usually found in pairs or small groups foraging for insects, fruit and small snails.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Kenya",
+      "Coast",
+      "Nairobi",
+      "Rift Valley",
+      "Central",
+      "Eastern"
+    ],
+    "gbif_records_in_kenya": 11022
+  },
+  "look_alikes": [
+    {
+      "label": "Chlorocichla_laetissima",
+      "common_name": "Joyful Greenbul",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Apalis_flavida",
+      "common_name": "Yellow-breasted Apalis",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Corvus_splendens",
+      "common_name": "House Crow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lonchura_cucullata",
+      "common_name": "Bronze Mannikin",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pycnonotus_barbatus",
+      "common_name": "Common Bulbul",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Clamator_jacobinus",
+      "common_name": "Jacobin Cuckoo",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Zosterops_kikuyuensis",
+      "common_name": "Kikuyu White-eye",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Sombre greenbul",
+      "url": "https://en.wikipedia.org/wiki/Sombre_greenbul",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2486162"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

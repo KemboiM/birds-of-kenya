@@ -1,0 +1,77 @@
+{
+  "label": "Motacilla_clara",
+  "scientific_name": "Motacilla clara",
+  "common_name": "Mountain Wagtail",
+  "other_names": {},
+  "family": "Motacillidae",
+  "summary": "The mountain wagtail (Motacilla clara), also known as the long-tailed wagtail or grey-backed wagtail, is a species of wagtail of the family Motacillidae from sub-Saharan Africa.",
+  "appearance": {
+    "description": "A slender, long tailed wagtail with light bluish grey upperparts and white underparts with a narrow black breast band. The wings are black with white feather edges and two white wing covert bars. The outer tail is white and the tail centre is black.",
+    "colors": "The mountain wagtail (Motacilla clara), also known as the long-tailed wagtail or grey-backed wagtail, is a species of wagtail of the family Motacillidae from sub-Saharan Africa. A slender, long tailed wagtail with light bluish grey upperparts and white underparts with a narrow black breast band.",
+    "wings": "The wings are black with white feather edges and two white wing covert bars."
+  },
+  "size": {
+    "adult": null,
+    "juvenile": {
+      "notes": "Juveniles are browner than adults."
+    },
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The mountain wagtail occurs in the Afromontane, from Guinea to Ethiopia south to South Africa. In southern Africa it is locally common in the north and eastern highlands of Zimbabwe and adjoining parts of Mozambique, southwards to the Eastern Cape.",
+    "kenya_regions": [
+      "Central",
+      "Kenya",
+      "Rift Valley",
+      "Nairobi",
+      "Western",
+      "Eastern"
+    ],
+    "gbif_records_in_kenya": 4324
+  },
+  "look_alikes": [
+    {
+      "label": "Onychognathus_morio",
+      "common_name": "Red-winged Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_spekei",
+      "common_name": "Speke's Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Oenanthe_pleschanka",
+      "common_name": "Pied Wheatear",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bycanistes_brevis",
+      "common_name": "Silvery-cheeked Hornbill",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Mountain wagtail",
+      "url": "https://en.wikipedia.org/wiki/Mountain_wagtail",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2490305"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

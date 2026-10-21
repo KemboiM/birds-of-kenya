@@ -1,0 +1,77 @@
+{
+  "label": "Motacilla_capensis",
+  "scientific_name": "Motacilla capensis",
+  "common_name": "Cape Wagtail",
+  "other_names": {},
+  "family": "Motacillidae",
+  "summary": "The Cape wagtail (Motacilla capensis), also known as Wells's wagtail, is a small insectivorous bird which is widespread in southern Africa. It frequents water's edge, lawns and gardens. It is a mostly resident, territorial species, but has been known to undertake limited altitudinal migration or form flocks outside of the breeding season.",
+  "appearance": {
+    "description": "The Cape wagtail has a dull plumage and a relatively short tail, with olive grey breast and face, with a tan supercilium and dark lores. The underparts are creamy white and may show a faint pinkish wash on the lower breast and belly. The breast band is dusky and the sides of the breast and the flanks are olive-grey.",
+    "colors": "The Cape wagtail has a dull plumage and a relatively short tail, with olive grey breast and face, with a tan supercilium and dark lores. The underparts are creamy white and may show a faint pinkish wash on the lower breast and belly.",
+    "wings": "The brownish black wings have pale edges to the feathers and the tail is blackish with the two outer tail feathers being white."
+  },
+  "size": {
+    "adult": null,
+    "juvenile": {
+      "notes": "The juveniles are similar to the adults but browner above and yellower below."
+    },
+    "chick": null
+  },
+  "behaviour": "The Cape wagtail's main food is invertebrates. Foraging occurs mainly on the ground or in shallow water, and they will consume carrion. It has been observed feeding on insects attracted by lights or caught in car radiators.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "Cape wagtails are found in eastern and southern Africa from Uganda, the eastern DRCongo and Kenya, through Zambia and Angola to southern Africa, south to the Western Cape and the Cape of Good Hope. Cape wagtails can be found in almost any habitat that has open ground adjacent to water, and also along the rocky coastline, in farms, villages, cultivated land, parks, gardens and urban centres.",
+    "kenya_regions": [
+      "Central",
+      "Kenya",
+      "Rift Valley",
+      "Nairobi",
+      "Eastern",
+      "Western"
+    ],
+    "gbif_records_in_kenya": 2617
+  },
+  "look_alikes": [
+    {
+      "label": "Bradornis_microrhynchus",
+      "common_name": "African Grey Flycatcher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Oenanthe_oenanthe",
+      "common_name": "Northern Wheatear",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Oenanthe_pleschanka",
+      "common_name": "Pied Wheatear",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Motacilla_flava",
+      "common_name": "Western Yellow Wagtail",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Cape wagtail",
+      "url": "https://en.wikipedia.org/wiki/Cape_wagtail",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2490296"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

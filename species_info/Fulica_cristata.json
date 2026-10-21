@@ -1,0 +1,136 @@
+{
+  "label": "Fulica_cristata",
+  "scientific_name": "Fulica cristata",
+  "common_name": "Red-knobbed Coot",
+  "other_names": {},
+  "family": "Rallidae",
+  "summary": "The red-knobbed coot or crested coot (Fulica cristata) is a member of the rail and crake bird family, the Rallidae. It is a resident breeder across much of Africa and in southernmost Spain on freshwater lakes and ponds. It builds a nest of dead reeds near the water's edge or more commonly afloat, laying about 7 eggs (or more in good conditions).",
+  "appearance": {
+    "description": "The red-knobbed coot is largely black except for the white frontal shield. It is 35–42 cm (14–17 in) long, spans 75–85 cm (30–33 in) across the wings. Males weigh 770–910 g (27–32 oz), females are slightly smaller and weigh 455–790 g (16.0–27.9 oz).",
+    "colors": "The red-knobbed coot or crested coot (Fulica cristata) is a member of the rail and crake bird family, the Rallidae. The red-knobbed coot is largely black except for the white frontal shield.",
+    "wings": "It is 35–42 cm (14–17 in) long, spans 75–85 cm (30–33 in) across the wings."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        35.0,
+        85.0
+      ],
+      "mass_g": [
+        455.0,
+        910.0
+      ]
+    },
+    "juvenile": {
+      "notes": "The juvenile is paler than the adult, has a whitish breast, and lacks the facial shield; the adult's black plumage develops when about 3–4 months old, but the white shield is only fully developed at about one year old, some time later."
+    },
+    "chick": {
+      "notes": "The eggs are incubated by both sexes for 18–25 days and hatch asynchronously. The downy precocial chicks leave the nest after one day and are then fed and cared for by both parents for 55–60 days."
+    }
+  },
+  "behaviour": "The habits of the red-knobbed coot are practically identical to those of the Eurasian coot. It is much less secretive than most of the rail family. Where it is undisturbed it is likely to bully any intruder, even large birds such as Egyptian geese, if they do not defy its challenges.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Rift Valley",
+      "Central",
+      "Kenya",
+      "Nairobi",
+      "Nakuru",
+      "Eastern"
+    ],
+    "gbif_records_in_kenya": 6566
+  },
+  "look_alikes": [
+    {
+      "label": "Ardeola_rufiventris",
+      "common_name": "Rufous-bellied Heron",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Plectropterus_gambensis",
+      "common_name": "Spur-winged Goose",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Laniarius_funebris",
+      "common_name": "Slate-colored Boubou",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tringa_nebularia",
+      "common_name": "Common Greenshank",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Anas_undulata",
+      "common_name": "Yellow-billed Duck",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ortygornis_sephaena",
+      "common_name": "Crested Francolin",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Amaurornis_flavirostra",
+      "common_name": "Black Crake",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Gyps_africanus",
+      "common_name": "White-backed Vulture",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tachybaptus_ruficollis",
+      "common_name": "Little Grebe",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Actitis_hypoleucos",
+      "common_name": "Common Sandpiper",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Microcarbo_africanus",
+      "common_name": "Reed Cormorant",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Phalacrocorax_carbo",
+      "common_name": "Great Cormorant",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Red-knobbed coot",
+      "url": "https://en.wikipedia.org/wiki/Red-knobbed_coot",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2474381"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

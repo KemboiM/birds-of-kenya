@@ -1,0 +1,69 @@
+{
+  "label": "Ploceus_subaureus",
+  "scientific_name": "Ploceus subaureus",
+  "common_name": "Eastern Golden Weaver",
+  "other_names": {},
+  "family": "Ploceidae",
+  "summary": "The eastern golden weaver (Ploceus subaureus) is a species of bird in the family Ploceidae. It is found in eastern and south-eastern Africa. Alternative names used for the eastern golden weaver include yellow weaver, olive-headed golden weaver, and African golden weaver.",
+  "appearance": {
+    "description": null,
+    "colors": "Alternative names used for the eastern golden weaver include yellow weaver, olive-headed golden weaver, and African golden weaver.",
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Coast",
+      "Kenya",
+      "Central",
+      "Eastern",
+      "Nairobi",
+      "Rift Valley"
+    ],
+    "gbif_records_in_kenya": 3862
+  },
+  "look_alikes": [
+    {
+      "label": "Ploceus_cucullatus",
+      "common_name": "Village Weaver",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Ploceus_bojeri",
+      "common_name": "Golden Palm Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_xanthops",
+      "common_name": "Holub's Golden Weaver",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Eastern golden weaver",
+      "url": "https://en.wikipedia.org/wiki/Eastern_golden_weaver",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2494012"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

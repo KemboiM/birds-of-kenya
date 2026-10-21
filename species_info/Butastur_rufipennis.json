@@ -1,0 +1,96 @@
+{
+  "label": "Butastur_rufipennis",
+  "scientific_name": "Butastur rufipennis",
+  "common_name": "Grasshopper Buzzard",
+  "other_names": {},
+  "family": "Accipitridae",
+  "summary": "The grasshopper buzzard (Butastur rufipennis), breeding in sub-Saharan Africa north of the equator.",
+  "appearance": {
+    "description": "The adult grasshopper buzzard is grey brown above with a darker head and dark shaft streaks on all of its feathers. The feathers of the mantle and lesser coverts are narrowly with fringed rufous in fresh plumage, although this wears off. The grey tail has faint brown bars.",
+    "colors": "The adult grasshopper buzzard is grey brown above with a darker head and dark shaft streaks on all of its feathers. The feathers of the mantle and lesser coverts are narrowly with fringed rufous in fresh plumage, although this wears off.",
+    "wings": "The under wing coverts and wing lining are white."
+  },
+  "size": {
+    "adult": {
+      "wingspan_cm": [
+        90.0,
+        90.0
+      ],
+      "length_cm": [
+        30.0,
+        35.0
+      ],
+      "mass_g": [
+        300.0,
+        380.0
+      ]
+    },
+    "juvenile": {
+      "notes": "Juveniles have a bright brownish-red head and nape with dark shaft streaks, and as they age, the crown becomes the same colour as the back, the tail acquires bars, and the rufous edges on the mantle and coverts become less distinct."
+    },
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": "Grasshopper buzzards usually frequent woodland and forest edges, and arid acacia savannahs. It also can be found in marshes' edges and over burnt areas.",
+    "kenya_regions": [
+      "Coast",
+      "Kenya",
+      "Rift Valley",
+      "Eastern",
+      "Taita Taveta",
+      "Kitui"
+    ],
+    "gbif_records_in_kenya": 660
+  },
+  "look_alikes": [
+    {
+      "label": "Aquila_nipalensis",
+      "common_name": "Steppe Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cichladusa_guttata",
+      "common_name": "Spotted Palm Thrush",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Falco_biarmicus",
+      "common_name": "Lanner Falcon",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Gymnoris_pyrgita",
+      "common_name": "Yellow-spotted Bush Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Circus_pygargus",
+      "common_name": "Montagu's Harrier",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Grasshopper buzzard",
+      "url": "https://en.wikipedia.org/wiki/Grasshopper_buzzard",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2480480"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

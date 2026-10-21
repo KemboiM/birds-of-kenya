@@ -1,0 +1,76 @@
+{
+  "label": "Anas_capensis",
+  "scientific_name": "Anas capensis",
+  "common_name": "Cape Teal",
+  "other_names": {},
+  "family": "Anatidae",
+  "summary": "The Cape teal (Anas capensis) also Cape wigeon or Cape widgeon is a 44–46 cm long dabbling duck of open wetlands in sub-Saharan Africa.",
+  "appearance": {
+    "description": "Like many southern ducks, the sexes are similar. It is very pale and mainly grey, with a browner back and pink on the bill (young birds lack the pink). This is a generally quiet species, except during mating displays.",
+    "colors": "It is very pale and mainly grey, with a browner back and pink on the bill (young birds lack the pink).",
+    "wings": null
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        44.0,
+        46.0
+      ]
+    },
+    "juvenile": {
+      "notes": "It is very pale and mainly grey, with a browner back and pink on the bill (young birds lack the pink)."
+    },
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Nakuru",
+      "Central",
+      "Kajiado",
+      "Nairobi"
+    ],
+    "gbif_records_in_kenya": 3069
+  },
+  "look_alikes": [
+    {
+      "label": "Anas_erythrorhyncha",
+      "common_name": "Red-billed Teal",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Buteo_buteo",
+      "common_name": "Common Buzzard",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Himantopus_himantopus",
+      "common_name": "Black-winged Stilt",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Cape teal",
+      "url": "https://en.wikipedia.org/wiki/Cape_teal",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2498094"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

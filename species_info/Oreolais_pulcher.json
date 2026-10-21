@@ -1,0 +1,57 @@
+{
+  "label": "Oreolais_pulcher",
+  "scientific_name": "Oreolais pulcher",
+  "common_name": "Black-collared Apalis",
+  "other_names": {},
+  "family": "Cisticolidae",
+  "summary": "The black-collared apalis (Oreolais pulcher) is a species of bird in the family Cisticolidae. It is found in the Cameroonian Highlands forests, western Kenya and the Albertine rift montane forests. The black-collared apalis was formerly placed in the genus Apalis but was moved to the new genus Oreolais when Apalis was shown to be polyphyletic.",
+  "appearance": {
+    "description": null,
+    "colors": "The black-collared apalis (Oreolais pulcher) is a species of bird in the family Cisticolidae. The black-collared apalis was formerly placed in the genus Apalis but was moved to the new genus Oreolais when Apalis was shown to be polyphyletic.",
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Western",
+      "Kenya",
+      "Central",
+      "Nairobi",
+      "Rift Valley",
+      "Eastern"
+    ],
+    "gbif_records_in_kenya": 3905
+  },
+  "look_alikes": [
+    {
+      "label": "Monticola_rufocinereus",
+      "common_name": "Little Rock Thrush",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Black-collared apalis",
+      "url": "https://en.wikipedia.org/wiki/Black-collared_apalis",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/6100911"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

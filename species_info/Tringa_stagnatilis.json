@@ -1,0 +1,102 @@
+{
+  "label": "Tringa_stagnatilis",
+  "scientific_name": "Tringa stagnatilis",
+  "common_name": "Marsh Sandpiper",
+  "other_names": {
+    "sw": "Chamchanga-wangwa"
+  },
+  "family": "Scolopacidae",
+  "summary": "The marsh sandpiper (Tringa stagnatilis) is a small wader. It is a rather small shank, and breeds in open grassy steppe and taiga wetlands from easternmost Europe to the Russian Far East. The genus name Tringa is the Neo-Latin name given to the green sandpiper by Aldrovandus in 1599 based on Ancient Greek trungas, a thrush-sized, white-rumped, tail-bobbing wading bird mentioned by Aristotle.",
+  "appearance": {
+    "description": "The marsh sandpiper resembles a small elegant greenshank, with a long fine bill and very long yellowish legs. Like the greenshank, it is greyish brown in breeding plumage, paler in winter, and has a white wedge up its back that is visible in flight. However, it is more closely related to the common redshank and the wood sandpiper.",
+    "colors": "The genus name Tringa is the Neo-Latin name given to the green sandpiper by Aldrovandus in 1599 based on Ancient Greek trungas, a thrush-sized, white-rumped, tail-bobbing wading bird mentioned by Aristotle. The marsh sandpiper resembles a small elegant greenshank, with a long fine bill and very long yellowish legs.",
+    "wings": null
+  },
+  "size": {
+    "adult": {
+      "wingspan_cm": [
+        55.0,
+        59.0
+      ],
+      "length_cm": [
+        22.0,
+        26.0
+      ],
+      "mass_g": [
+        45.0,
+        120.0
+      ]
+    },
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The marsh sandpiper breeds in the Palearctic. It is a migratory species, with a majority of birds wintering in Africa and India, and some migrating to Southeast Asia and Australia.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Coast",
+      "Nairobi",
+      "Central",
+      "Eastern"
+    ],
+    "gbif_records_in_kenya": 5635
+  },
+  "look_alikes": [
+    {
+      "label": "Tringa_nebularia",
+      "common_name": "Common Greenshank",
+      "difference": null,
+      "times_confused": 5
+    },
+    {
+      "label": "Tringa_glareola",
+      "common_name": "Wood Sandpiper",
+      "difference": null,
+      "times_confused": 4
+    },
+    {
+      "label": "Himantopus_himantopus",
+      "common_name": "Black-winged Stilt",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Burhinus_capensis",
+      "common_name": "Spotted Thick-knee",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Vanellus_crassirostris",
+      "common_name": "Long-toed Lapwing",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Creatophora_cinerea",
+      "common_name": "Wattled Starling",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Marsh sandpiper",
+      "url": "https://en.wikipedia.org/wiki/Marsh_sandpiper",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2481719"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

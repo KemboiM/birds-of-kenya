@@ -1,0 +1,115 @@
+{
+  "label": "Aquila_spilogaster",
+  "scientific_name": "Aquila spilogaster",
+  "common_name": "African Hawk-eagle",
+  "other_names": {},
+  "family": "Accipitridae",
+  "summary": "The African hawk-eagle (Aquila spilogaster) is a large bird of prey. Like all eagles, it belongs to the family Accipitridae. This species' feathered legs mark it as a member of the Aquilinae subfamily.",
+  "appearance": {
+    "description": "The African hawk-eagle has a somewhat small head but one that protrudes quite well due its quite long neck and relatively prominent beak. Furthermore, the species possesses a longish tail, with long and somewhat slender feathered legs and has large, robust feet. Although African hawk-eagles occasionally take to perching in the open, they usually are somewhat obscured for much of the day within the cover of foliage and often perch relatively low down in tall trees.",
+    "colors": "This species' feathered legs mark it as a member of the Aquilinae subfamily. The species tends to be rare in areas where their preferred habitat type is absent.",
+    "wings": "The wing tips tend to fall a bit short of the tail tip. At a distance, they may appear purely black-and-white but at close range they show sparse but extensive white flecks on the mantle and wing coverts."
+  },
+  "size": {
+    "adult": null,
+    "juvenile": {
+      "notes": "The juvenile of the species is highly distinct from older hawk-eagles. Juveniles are moderately dark brown above with some pale edging, a slightly black-streaked head and a more clearly barred tail than adult hawk-eagles."
+    },
+    "chick": {
+      "notes": "A chick African hawk-eagle may take just under 2 days to hatch. Newly hatched eaglets are covered in dark grey down with whitish down on abdomen and thighs, with dull yellow cere and feet."
+    }
+  },
+  "behaviour": "The African hawk-eagle is an uncommonly aggressive and bold predator. Their primary hunting tool is their powerful feet. In general, their sneaky foraging techniques recall a very large accipitrine hawk, especially in terms of their short-distance flight after prey.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The African hawk-eagle is found across much of sub-Saharan Africa. The farthest north the species ranges is in eastern Eritrea and adjacent areas of Ethiopia, after a substantial gap, the range resumes almost throughout southern Ethiopia.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Coast",
+      "Eastern",
+      "Nairobi",
+      "Central"
+    ],
+    "gbif_records_in_kenya": 4077
+  },
+  "look_alikes": [
+    {
+      "label": "Buteo_augur",
+      "common_name": "Augur Buzzard",
+      "difference": null,
+      "times_confused": 5
+    },
+    {
+      "label": "Aquila_rapax",
+      "common_name": "Tawny Eagle",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Buteo_buteo",
+      "common_name": "Common Buzzard",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Anthreptes_orientalis",
+      "common_name": "Eastern Violet-backed Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Circaetus_cinereus",
+      "common_name": "Brown Snake Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Milvus_migrans",
+      "common_name": "Black Kite",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Nycticorax_nycticorax",
+      "common_name": "Black-crowned Night Heron",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Plectropterus_gambensis",
+      "common_name": "Spur-winged Goose",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lophaetus_occipitalis",
+      "common_name": "Long-crested Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Dicrurus_adsimilis",
+      "common_name": "Fork-tailed Drongo",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "African hawk-eagle",
+      "url": "https://en.wikipedia.org/wiki/African_hawk-eagle",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/6066199"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

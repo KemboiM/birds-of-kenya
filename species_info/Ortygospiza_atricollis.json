@@ -1,0 +1,63 @@
+{
+  "label": "Ortygospiza_atricollis",
+  "scientific_name": "Ortygospiza atricollis",
+  "common_name": "Black-faced Quailfinch",
+  "other_names": {},
+  "family": "Estrildidae",
+  "summary": "The black-faced quailfinch (Ortygospiza atricollis atricollis), is a common subspecies of estrildid finch found in western and central of Africa. Some taxonomists consider it to be conspecific with the African quailfinch, others consider all three species to be conspecific.",
+  "appearance": {
+    "description": null,
+    "colors": "The black-faced quailfinch (Ortygospiza atricollis atricollis), is a common subspecies of estrildid finch found in western and central of Africa.",
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Rift Valley",
+      "Nairobi",
+      "Kenya",
+      "Central",
+      "Eastern",
+      "Western"
+    ],
+    "gbif_records_in_kenya": 2504
+  },
+  "look_alikes": [
+    {
+      "label": "Pternistis_squamatus",
+      "common_name": "Scaly Spurfowl",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Quelea_quelea",
+      "common_name": "Red-billed Quelea",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Black-faced quailfinch",
+      "url": "https://en.wikipedia.org/wiki/Black-faced_quailfinch",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2493711"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

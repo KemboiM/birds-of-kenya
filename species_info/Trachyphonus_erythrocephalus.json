@@ -1,0 +1,101 @@
+{
+  "label": "Trachyphonus_erythrocephalus",
+  "scientific_name": "Trachyphonus erythrocephalus",
+  "common_name": "Red-and-yellow Barbet",
+  "other_names": {},
+  "family": "Lybiidae",
+  "summary": "The red-and-yellow barbet (Trachyphonus erythrocephalus) is a species of African barbet found in eastern Africa. Males have distinctive black (spotted white), red, and yellow plumage; females and juveniles are similar, but less brightly colored. The species lives in broken terrain and nests and roosts in burrows.",
+  "appearance": {
+    "description": "Red-and-yellow barbet adult males have distinctive plumage made up black with spotted white, red and yellow. It has a black forehead and crown with a slight crest. The nape is orange and red with black spots.",
+    "colors": "The red-and-yellow barbet (Trachyphonus erythrocephalus) is a species of African barbet found in eastern Africa. Red-and-yellow barbet adult males have distinctive plumage made up black with spotted white, red and yellow.",
+    "wings": "The wings are black with brown wing feathers. All feathers on the wing have white spots, giving a spotted or banded appearance."
+  },
+  "size": {
+    "adult": null,
+    "juvenile": {
+      "notes": "Young birds are also duller- they typically have less red and orange, as with the female."
+    },
+    "chick": null
+  },
+  "behaviour": "Red-and-yellow barbets are omnivores, feeding on seeds, fruit, and invertebrates.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The nominate subspecies, T. e. erythrocephalus, is found from central Kenya to north-east Tanzania. T. e. versicolor is found in southeast South Sudan, northeast Uganda, southwest Ethiopia and north Kenya.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Eastern",
+      "Coast",
+      "Baringo",
+      "Central"
+    ],
+    "gbif_records_in_kenya": 6986
+  },
+  "look_alikes": [
+    {
+      "label": "Trachyphonus_darnaudii",
+      "common_name": "D'Arnaud's Barbet",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Buphagus_erythrorhynchus",
+      "common_name": "Red-billed Oxpecker",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ispidina_picta",
+      "common_name": "African Pygmy Kingfisher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_cucullatus",
+      "common_name": "Village Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Urocolius_macrourus",
+      "common_name": "Blue-naped Mousebird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Campethera_nubica",
+      "common_name": "Nubian Woodpecker",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Quelea_quelea",
+      "common_name": "Red-billed Quelea",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lamprotornis_hildebrandti",
+      "common_name": "Hildebrandt's Starling",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Red-and-yellow barbet",
+      "url": "https://en.wikipedia.org/wiki/Red-and-yellow_barbet",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2478902"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

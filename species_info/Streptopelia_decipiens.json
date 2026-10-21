@@ -1,0 +1,162 @@
+{
+  "label": "Streptopelia_decipiens",
+  "scientific_name": "Streptopelia decipiens",
+  "common_name": "Mourning Collared Dove",
+  "other_names": {},
+  "family": "Columbidae",
+  "summary": "The mourning collared dove or African mourning dove (Streptopelia decipiens) is a dove which is a widespread resident breeding bird in Africa south of the Sahara. This species is common or abundant near water. It often mingles peacefully with other doves.",
+  "appearance": {
+    "description": "The mourning collared dove is a medium-sized, stocky pigeon, 28–30 cm in length. It has a pale grey head and pinkish-grey body, with a broad black half-collar finely edged in white on the back and sides of the neck. The wings are broad and pointed, pale brown with darker brown flight feathers.",
+    "colors": "The mourning collared dove or African mourning dove (Streptopelia decipiens) is a dove which is a widespread resident breeding bird in Africa south of the Sahara. The mourning collared dove is a medium-sized, stocky pigeon, 28–30 cm in length.",
+    "wings": "The wings are broad and pointed, pale brown with darker brown flight feathers."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        28.0,
+        30.0
+      ]
+    },
+    "juvenile": {
+      "notes": "The sexes are similar, but immatures are duller than adults, and have scalloping on the body feathers."
+    },
+    "chick": {
+      "notes": "The eggs need to be incubated for 13–14 days, which is done by both male and female, with the young fledging after 15–18 days."
+    }
+  },
+  "behaviour": "The flight is quick, with the regular beats and an occasional sharp flick of the wings which are characteristic of pigeons in general. Mourning collared doves eat grass seeds, grain and other vegetation. They are quite terrestrial, and usually forage on the ground.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Eastern",
+      "Coast",
+      "Nyanza",
+      "Kajiado"
+    ],
+    "gbif_records_in_kenya": 12498
+  },
+  "look_alikes": [
+    {
+      "label": "Streptopelia_semitorquata",
+      "common_name": "Red-eyed Dove",
+      "difference": null,
+      "times_confused": 5
+    },
+    {
+      "label": "Streptopelia_capicola",
+      "common_name": "Ring-necked Dove",
+      "difference": null,
+      "times_confused": 4
+    },
+    {
+      "label": "Streptopelia_lugens",
+      "common_name": "Dusky Turtle Dove",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Oena_capensis",
+      "common_name": "Namaqua Dove",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Urocolius_macrourus",
+      "common_name": "Blue-naped Mousebird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Passer_gongonensis",
+      "common_name": "Parrot-billed Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Muscicapa_adusta",
+      "common_name": "African Dusky Flycatcher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ardeola_ralloides",
+      "common_name": "Squacco Heron",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Chroicocephalus_cirrocephalus",
+      "common_name": "Grey-headed Gull",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Leptoptilos_crumenifer",
+      "common_name": "Marabou Stork",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Plocepasser_mahali",
+      "common_name": "White-browed Sparrow-weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Spilopelia_senegalensis",
+      "common_name": "Laughing Dove",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tockus_deckeni",
+      "common_name": "Von Der Decken's Hornbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Melierax_poliopterus",
+      "common_name": "Eastern Chanting Goshawk",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_cucullatus",
+      "common_name": "Village Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Creatophora_cinerea",
+      "common_name": "Wattled Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Elanus_caeruleus",
+      "common_name": "Black-winged Kite",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Mourning collared dove",
+      "url": "https://en.wikipedia.org/wiki/Mourning_collared_dove",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2495674"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

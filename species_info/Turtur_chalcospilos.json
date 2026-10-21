@@ -1,0 +1,130 @@
+{
+  "label": "Turtur_chalcospilos",
+  "scientific_name": "Turtur chalcospilos",
+  "common_name": "Emerald-spotted Wood Dove",
+  "other_names": {},
+  "family": "Columbidae",
+  "summary": "The emerald-spotted wood dove or emerald-spotted dove (Turtur chalcospilos) is a bird of the family Columbidae, resident across eastern and southern Africa. It is a species of open drier deciduous woodland and second growth. It is absent from evergreen rainforests and semidesert areas.",
+  "appearance": {
+    "description": "The emerald-spotted wood dove is a small plump pigeon, typically 20 cm in length. Its back, hindneck, wings, and tail are pale grey-brown, and the folded wings have green metallic patches. There are blackish bands on the lower back and tail.",
+    "colors": "It is absent from evergreen rainforests and semidesert areas. Its back, hindneck, wings, and tail are pale grey-brown, and the folded wings have green metallic patches.",
+    "wings": "Its back, hindneck, wings, and tail are pale grey-brown, and the folded wings have green metallic patches. When flying, the black-billed wood dove is told from this species by its bright chestnut underwings."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        20.0,
+        20.0
+      ]
+    },
+    "juvenile": {
+      "notes": "The immature has duller green spots and buff fringes to the feathers."
+    },
+    "chick": null
+  },
+  "behaviour": "The emerald-spotted wood dove builds a flimsy stick nest in a tree or shrub, and lays two cream-coloured eggs. Both sexes incubate for 13–17 days to hatching, and feed the squabs for 13–17 days to fledging. Many young birds are taken by mongooses and shrikes.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Kenya",
+      "Rift Valley",
+      "Coast",
+      "Eastern",
+      "Nairobi",
+      "Central"
+    ],
+    "gbif_records_in_kenya": 30469
+  },
+  "look_alikes": [
+    {
+      "label": "Turtur_tympanistria",
+      "common_name": "Tambourine Dove",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Oena_capensis",
+      "common_name": "Namaqua Dove",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Nycticorax_nycticorax",
+      "common_name": "Black-crowned Night Heron",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Oenanthe_oenanthe",
+      "common_name": "Northern Wheatear",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Muscicapa_striata",
+      "common_name": "Spotted Flycatcher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Oenanthe_isabellina",
+      "common_name": "Isabelline Wheatear",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Spilopelia_senegalensis",
+      "common_name": "Laughing Dove",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Creatophora_cinerea",
+      "common_name": "Wattled Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Halcyon_senegalensis",
+      "common_name": "Woodland Kingfisher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Upupa_africana",
+      "common_name": "Eurasian Hoopoe",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Uraeginthus_bengalus",
+      "common_name": "Red-cheeked Cordon-bleu",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Leptoptilos_crumenifer",
+      "common_name": "Marabou Stork",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Emerald-spotted wood dove",
+      "url": "https://en.wikipedia.org/wiki/Emerald-spotted_wood_dove",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/5231793"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "label": "Lamprotornis_hildebrandti",
+  "scientific_name": "Lamprotornis hildebrandti",
+  "common_name": "Hildebrandt's Starling",
+  "other_names": {},
+  "family": "Sturnidae",
+  "summary": "Hildebrandt's starling (Lamprotornis hildebrandti) is a species of starling in the family Sturnidae. It forms a superspecies with and has previously been included in the same species as Shelley's starling, a migratory species ranging from Ethiopia and Somalia to Kenya. Both of these species have also been combined into a superspecies with the chestnut-bellied starling of West Africa.",
+  "appearance": {
+    "description": "Hildebrandt's starling is 18 cm (7.1 in) in length and weighs 50 to 69 g (1.8–2.4 oz). The adult has bright iridescent plumage on its upper body and upper surfaces. As in its relatives, this iridescence is derived from the interference of reflected light from regimented microscopic feather structures and not from pigments.",
+    "colors": "Both of these species have also been combined into a superspecies with the chestnut-bellied starling of West Africa. The adult has bright iridescent plumage on its upper body and upper surfaces.",
+    "wings": "The head is blue as are most of the upperparts, the wings are bronze-green with blue primaries, the throat and upper breast are glossy purple, and the tail is glossy blue-green."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        18.0,
+        18.0
+      ],
+      "mass_g": [
+        50.0,
+        69.0
+      ]
+    },
+    "juvenile": {
+      "notes": "The juveniles are quite different, with charcoal grey upperparts and chestnut brown lowerparts."
+    },
+    "chick": null
+  },
+  "behaviour": "The diet of Hildebrandt's starling is a combination of insects and fruit, with insects apparently being the more important constituent. It has been observed feeding on beetles and grasshoppers, as well as hawking for flying termites. Seeds from fruit have also been found in the stomachs of some birds, including those from Carissa edulis, Euclea, Rhus and Apodytes dimidiata.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "Hildebrandt's starling is found in Kenya and Tanzania, where it occupies open country between 500 and 2,200 m (1,600 and 7,200 ft). Its habitat is open woodland and open thornbrush country.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Nairobi",
+      "Eastern",
+      "Coast",
+      "Narok"
+    ],
+    "gbif_records_in_kenya": 11420
+  },
+  "look_alikes": [
+    {
+      "label": "Lamprotornis_superbus",
+      "common_name": "Superb Starling",
+      "difference": null,
+      "times_confused": 6
+    },
+    {
+      "label": "Ploceus_bicolor",
+      "common_name": "Dark-backed Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cecropis_senegalensis",
+      "common_name": "Mosque Swallow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Melaenornis_edolioides",
+      "common_name": "Northern Black Flycatcher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Microcarbo_africanus",
+      "common_name": "Reed Cormorant",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Terpsiphone_viridis",
+      "common_name": "African Paradise Flycatcher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Trachyphonus_erythrocephalus",
+      "common_name": "Red-and-yellow Barbet",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lamprotornis_purpuroptera",
+      "common_name": "Rüppell's Starling",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Hildebrandt's starling",
+      "url": "https://en.wikipedia.org/wiki/Hildebrandt%27s_starling",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2489078"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "label": "Agapornis_fischeri",
+  "scientific_name": "Agapornis fischeri",
+  "common_name": "Fischer's Lovebird",
+  "other_names": {},
+  "family": "Psittacidae",
+  "summary": "Fischer's lovebird (Agapornis fischeri) is a small parrot species of the genus Agapornis. They were originally discovered in the late 19th century. They are named after the 19th century German explorer of East Africa Gustav Fischer.",
+  "appearance": {
+    "description": "The Fischer's lovebird has a green back, chest, and wings. Their necks are a golden yellow and as it progresses upward it becomes darker orange. The top of the head is olive green, and the beak is bright red.",
+    "colors": "They were originally discovered in the late 19th century. The Fischer's lovebird has a green back, chest, and wings.",
+    "wings": "The Fischer's lovebird has a green back, chest, and wings."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        14.0,
+        14.0
+      ],
+      "mass_g": [
+        43.0,
+        58.0
+      ]
+    },
+    "juvenile": {
+      "notes": "Young birds are very similar to the adults, except for the fact that they are duller and the base of their mandible has brown markings."
+    },
+    "chick": {
+      "notes": "The female incubates the eggs for 23 days, and the chicks fledge from the nest about 38–42 days after hatching."
+    }
+  },
+  "behaviour": "Fischer's lovebirds can fly fast, and the sound of their wings flapping as they fly can be heard. Like all Lovebirds, they are very vocal and when they do make noise they have a high-pitched chirp. Fischer's lovebirds eat a wide variety of foods, including seeds and fruit.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "Fischer's lovebird are native to a small area of east-central Africa, south and southeast of Lake Victoria in northern Tanzania. In drought years, some birds move west into Rwanda and Burundi seeking moister conditions.",
+    "kenya_regions": [
+      "Kenya",
+      "Nakuru",
+      "Nairobi",
+      "Kajiado",
+      "Machakos",
+      "Rift Valley"
+    ],
+    "gbif_records_in_kenya": 1868
+  },
+  "look_alikes": [
+    {
+      "label": "Poicephalus_meyeri",
+      "common_name": "Meyer's Parrot",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Fischer's lovebird",
+      "url": "https://en.wikipedia.org/wiki/Fischer%27s_lovebird",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2479544"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

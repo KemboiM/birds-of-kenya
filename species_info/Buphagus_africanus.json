@@ -1,0 +1,87 @@
+{
+  "label": "Buphagus_africanus",
+  "scientific_name": "Buphagus africanus",
+  "common_name": "Yellow-billed Oxpecker",
+  "other_names": {},
+  "family": "Buphagidae",
+  "summary": "The yellow-billed oxpecker (Buphagus africanus) is a passerine bird in the family Buphagidae. It was previously placed in the starling and myna family, Sturnidae. It is native to the savannah of Sub-Saharan Africa from Senegal east to Sudan.",
+  "appearance": {
+    "description": null,
+    "colors": "The yellow-billed oxpecker (Buphagus africanus) is a passerine bird in the family Buphagidae. It is least common in the extreme east of its range where it overlaps with the red-billed oxpecker, despite always dominating that species when feeding.",
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": "The yellow-billed oxpecker nests in tree holes lined with hair plucked from livestock. It lays 2–3 eggs. Outside the breeding season it is fairly gregarious, forming large, chattering flocks.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Nairobi",
+      "Coast",
+      "Eastern",
+      "Narok"
+    ],
+    "gbif_records_in_kenya": 8841
+  },
+  "look_alikes": [
+    {
+      "label": "Buphagus_erythrorhynchus",
+      "common_name": "Red-billed Oxpecker",
+      "difference": null,
+      "times_confused": 7
+    },
+    {
+      "label": "Oenanthe_pileata",
+      "common_name": "Capped Wheatear",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Hirundo_rustica",
+      "common_name": "Barn Swallow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Oriolus_larvatus",
+      "common_name": "Black-headed Oriole",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ptyonoprogne_fuligula",
+      "common_name": "Large Rock Martin",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Hirundo_smithii",
+      "common_name": "Wire-tailed Swallow",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Yellow-billed oxpecker",
+      "url": "https://en.wikipedia.org/wiki/Yellow-billed_oxpecker",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2489053"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

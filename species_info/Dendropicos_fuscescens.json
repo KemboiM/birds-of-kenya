@@ -1,0 +1,115 @@
+{
+  "label": "Dendropicos_fuscescens",
+  "scientific_name": "Dendropicos fuscescens",
+  "common_name": "Cardinal Woodpecker",
+  "other_names": {},
+  "family": "Picidae",
+  "summary": "The cardinal woodpecker (Dendropicos fuscescens) is a widespread and common resident breeder in much of sub-Saharan Africa. It occurs in a wide range of habitats, ranging from dense forest to thorn bush. It is fairly vocal and is easily identified by its call notes.",
+  "appearance": {
+    "description": "Like other woodpeckers, this species has a straight pointed bill, a stiff tail to provide support against tree trunks, and zygodactyl or \"yoked\" feet, with two toes pointing forward, and two backward. The long tongue can be darted forward to capture insects. This is a very small woodpecker.",
+    "colors": "Its back plumage is dull olive in colour, and is marked with paler dots and bands. The underparts are white, heavily streaked with black, and the rump plumage is tawny.",
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": {
+      "notes": "Juvenile males have a red hind crown and black nape."
+    },
+    "chick": {
+      "notes": "The clutch is incubated for about 12 days, and the chicks leave the nest in some 27 days."
+    }
+  },
+  "behaviour": "The cardinal woodpecker often occurs in small family groups or may join small mixed flocks. Forages mainly in the lower storeys of trees and among shrubs and vines, on maize stalks and reeds. Pecks rapidly and probes dense vegetation, clambering along and hanging from small twigs.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The cardinal woodpecker is native to tropical parts of western and central Africa. Its range includes Angola, Benin, Botswana, Burkina Faso, Burundi, Cameroon, Central African Republic, Chad, Congo, Democratic Republic of Congo, Djibouti, Eritrea, Eswatini, Ethiopia, Gabon, Gambia, Ghana, Guinea, Guinea-Bissau, Ivory Coast, Kenya, Lesotho, Malawi, Mali, Mauritania, Mozambique, Namibia, Nigeria, Rwanda, Senegal, Sierra Leone, Somalia, South Africa, South Sudan, Sudan, Tanzania, Togo, Uganda, Zambia and Zimbabwe.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Eastern",
+      "Western",
+      "Coast",
+      "Nairobi"
+    ],
+    "gbif_records_in_kenya": 10751
+  },
+  "look_alikes": [
+    {
+      "label": "Campethera_nubica",
+      "common_name": "Nubian Woodpecker",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Chloropicus_namaquus",
+      "common_name": "Bearded Woodpecker",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Falco_biarmicus",
+      "common_name": "Lanner Falcon",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Glaucidium_perlatum",
+      "common_name": "Pearl-spotted Owlet",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Amadina_fasciata",
+      "common_name": "Cut-throat Finch",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bycanistes_brevis",
+      "common_name": "Silvery-cheeked Hornbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Chrysococcyx_caprius",
+      "common_name": "Diederik Cuckoo",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Erythropygia_leucophrys",
+      "common_name": "White-browed Scrub Robin",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Poicephalus_meyeri",
+      "common_name": "Meyer's Parrot",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tricholaema_diademata",
+      "common_name": "Red-fronted Barbet",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Cardinal woodpecker",
+      "url": "https://en.wikipedia.org/wiki/Cardinal_woodpecker",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2478399"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

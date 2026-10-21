@@ -1,0 +1,105 @@
+{
+  "label": "Oenanthe_isabellina",
+  "scientific_name": "Oenanthe isabellina",
+  "common_name": "Isabelline Wheatear",
+  "other_names": {},
+  "family": "Muscicapidae",
+  "summary": "The isabelline wheatear (Oenanthe isabellina) is a small passerine bird that was formerly classed as a member of the thrush family Turdidae, but is now more generally considered to be an Old World flycatcher in the family Muscicapidae. It is a migratory insectivorous bird. Its habitat is steppe and open countryside and it breeds in southern Russia and Central Asia to northern Pakistan, wintering in Africa and northwestern India.",
+  "appearance": {
+    "description": "Male and female isabelline wheatear are similar in appearance. The upper-parts are a pale sandy brown with an isabelline tinge (isabelline is a pale grey-yellow, fawn, cream-brown or parchment colour). The lower back is isabelline and the rump and upper tail-coverts are white.",
+    "colors": "The isabelline wheatear (Oenanthe isabellina) is a small passerine bird that was formerly classed as a member of the thrush family Turdidae, but is now more generally considered to be an Old World flycatcher in the family Muscicapidae. In colouring it resembles a female northern wheatear but it is larger at 15–16.5 centimetres (5.9–6.5 in) in length, more upright and more tawny in colour, and has more black on its tail.",
+    "wings": "The axillaries and underwing coverts are white, whereas in the commoner bird they are mottled with grey. The under tail-coverts are pale buff and the under wing-coverts and axilliaries white with dark bases."
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": "The isabelline wheatear is an active and restless bird, moving across the ground with long hops, flitting into the air and perching on eminences or small bushes. Its posture is rather upright and it is constantly bobbing about and flaring, raising and lowering its tail. It sometimes flutters into the air to catch insect prey but mostly forages along the ground, probing the soil with its beak.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The isabelline wheatear is a migratory species with an eastern palearctic breeding range. This extends from Southern Russia, the Caspian region, the Kyzyl Kum Desert and Mongolia to Afghanistan, Iran, Iraq, Saudi Arabia, Syria, Jordan and Israel.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Eastern",
+      "Nairobi",
+      "Coast",
+      "Central"
+    ],
+    "gbif_records_in_kenya": 6283
+  },
+  "look_alikes": [
+    {
+      "label": "Oenanthe_oenanthe",
+      "common_name": "Northern Wheatear",
+      "difference": null,
+      "times_confused": 9
+    },
+    {
+      "label": "Bradornis_microrhynchus",
+      "common_name": "African Grey Flycatcher",
+      "difference": null,
+      "times_confused": 3
+    },
+    {
+      "label": "Lamprotornis_fischeri",
+      "common_name": "Fischer's Starling",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Lophoceros_nasutus",
+      "common_name": "African Grey Hornbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Anthus_leucophrys",
+      "common_name": "Plain-backed Pipit",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bradornis_pallidus",
+      "common_name": "Pale Flycatcher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lanius_collurio",
+      "common_name": "Red-backed Shrike",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Turtur_chalcospilos",
+      "common_name": "Emerald-spotted Wood Dove",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Creatophora_cinerea",
+      "common_name": "Wattled Starling",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Isabelline wheatear",
+      "url": "https://en.wikipedia.org/wiki/Isabelline_wheatear",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/5231245"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

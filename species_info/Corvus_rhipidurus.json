@@ -1,0 +1,117 @@
+{
+  "label": "Corvus_rhipidurus",
+  "scientific_name": "Corvus rhipidurus",
+  "common_name": "Fan-tailed Raven",
+  "other_names": {},
+  "family": "Corvidae",
+  "summary": "The fan-tailed raven (Corvus rhipidurus) is a passerine bird of the crow family native to Eastern Africa and the Arabian Peninsula.",
+  "appearance": {
+    "description": "The fan-tailed raven is completely black including bill, legs and feet and the plumage has a purplish-blue gloss in good light. Worn plumage is slightly coppery-brown. The base of the feathers on the upper neck are white and only seen if the bird is inspected or a strong gust blows them the wrong way.",
+    "colors": "The fan-tailed raven is completely black including bill, legs and feet and the plumage has a purplish-blue gloss in good light. Worn plumage is slightly coppery-brown.",
+    "wings": "One of the smaller raven species, it is about the same size or slightly larger than the carrion crow, at 47–51 cm, but with a much thicker bill, shorter tail and much larger wings."
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": "=== Diet === Food is invariably taken on the ground and includes all manner of insects and other invertebrates, grain taken from animal dung, carrion and scraps of human food. It has also been seen taking skin parasites from camels and, where not persecuted, scavenges around rubbish dumps and camp sites. Fruits of all types are eaten readily.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "It occurs in the Middle East, North Africa, Arabia, and south to Sudan and Kenya. It also ranges across the Aïr Massif in the southern Sahara.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Eastern",
+      "Samburu",
+      "Laikipia",
+      "Isiolo"
+    ],
+    "gbif_records_in_kenya": 4565
+  },
+  "look_alikes": [
+    {
+      "label": "Anas_sparsa",
+      "common_name": "African Black Duck",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Aquila_verreauxii",
+      "common_name": "Verreaux's Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Anastomus_lamelligerus",
+      "common_name": "African Openbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Columba_guinea",
+      "common_name": "Speckled Pigeon",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Corvus_albus",
+      "common_name": "Pied Crow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Microcarbo_africanus",
+      "common_name": "Reed Cormorant",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Onychognathus_morio",
+      "common_name": "Red-winged Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Necrosyrtes_monachus",
+      "common_name": "Hooded Vulture",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Gyps_africanus",
+      "common_name": "White-backed Vulture",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lamprotornis_purpuroptera",
+      "common_name": "Rüppell's Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Torgos_tracheliotos",
+      "common_name": "Lappet-faced Vulture",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Fan-tailed raven",
+      "url": "https://en.wikipedia.org/wiki/Fan-tailed_raven",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2482497"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

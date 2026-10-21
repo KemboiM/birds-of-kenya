@@ -1,0 +1,111 @@
+{
+  "label": "Zosterops_kikuyuensis",
+  "scientific_name": "Zosterops kikuyuensis",
+  "common_name": "Kikuyu White-eye",
+  "other_names": {},
+  "family": "Zosteropidae",
+  "summary": "The Kikuyu white-eye (Zosterops kikuyuensis) is a species of bird in the family Zosteropidae. It was formerly considered a subspecies of montane white-eye (Z. poliogastrus). It is found in central Kenya, in the Aberdare Mountains and on Mount Kenya.",
+  "appearance": {
+    "description": null,
+    "colors": "The Kikuyu white-eye (Zosterops kikuyuensis) is a species of bird in the family Zosteropidae. It was formerly considered a subspecies of montane white-eye (Z. poliogastrus).",
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Central",
+      "Nairobi",
+      "Rift Valley",
+      "Eastern",
+      "Kirinyaga",
+      "Nyeri"
+    ],
+    "gbif_records_in_kenya": 6277
+  },
+  "look_alikes": [
+    {
+      "label": "Zosterops_senegalensis",
+      "common_name": "Northern Yellow White-eye",
+      "difference": null,
+      "times_confused": 3
+    },
+    {
+      "label": "Ploceus_insignis",
+      "common_name": "Brown-capped Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Chlorophoneus_sulfureopectus",
+      "common_name": "Orange-breasted Bushshrike",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Turdus_pelios",
+      "common_name": "African Thrush",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Andropadus_importunus",
+      "common_name": "Sombre Greenbul",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Chlorocichla_laetissima",
+      "common_name": "Joyful Greenbul",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Musophaga_rossae",
+      "common_name": "Ross's Turaco",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Oriolus_larvatus",
+      "common_name": "Black-headed Oriole",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Crithagra_mozambica",
+      "common_name": "Yellow-fronted Canary",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_baglafecht",
+      "common_name": "Baglafecht Weaver",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Kikuyu white-eye",
+      "url": "https://en.wikipedia.org/wiki/Kikuyu_white-eye",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/5846029"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

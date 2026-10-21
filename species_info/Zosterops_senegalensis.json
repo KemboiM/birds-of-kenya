@@ -1,0 +1,98 @@
+{
+  "label": "Zosterops_senegalensis",
+  "scientific_name": "Zosterops senegalensis",
+  "common_name": "Northern Yellow White-eye",
+  "other_names": {},
+  "family": "Zosteropidae",
+  "summary": "The northern yellow white-eye (Zosterops senegalensis), formerly the African yellow white-eye, is a species of bird in the family Zosteropidae. It is found across sub-Saharan Africa, from Senegal in the west across to southern Sudan in the east and south to northern Angola. It was formerly considered to be conspecific with the Angola white-eye.",
+  "appearance": {
+    "description": "A small yellow bird with a prominent white eye ring surrounding a dark eye. The underparts and head are yellow, with a black loral stripe, black bill, the flight and tail feathers are brown edged with yellowish olive. Some subspecies are greener, especially those occurring in forest.",
+    "colors": "The northern yellow white-eye (Zosterops senegalensis), formerly the African yellow white-eye, is a species of bird in the family Zosteropidae. It was formerly considered to be conspecific with the Angola white-eye.",
+    "wings": null
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        5.0,
+        5.0
+      ],
+      "mass_g": [
+        6.8,
+        14.1
+      ]
+    },
+    "juvenile": {
+      "notes": "Juveniles are darker."
+    },
+    "chick": null
+  },
+  "behaviour": "The northern yellow white-eye has been recorded as a host of the brood parasite green-backed honeybird. The northern yellow white-eye has a diet that mainly consists of insects; caterpillars, aphids and termite alates have all been recorded, supplemented with some fruit including those of figs and the cabbage tree Cussonia spp. It forages among the canopy of trees, gleaning prey from foliage and bark.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The northern yellow white-eye is widely distributed in sub-Saharan Africa from Senegal, Gambia and Mauritania in the west east to Ethiopia and Eritrea then south to northern Angola.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Western",
+      "Kenya",
+      "Nairobi",
+      "Nyanza",
+      "Central"
+    ],
+    "gbif_records_in_kenya": 5710
+  },
+  "look_alikes": [
+    {
+      "label": "Zosterops_kikuyuensis",
+      "common_name": "Kikuyu White-eye",
+      "difference": null,
+      "times_confused": 3
+    },
+    {
+      "label": "Ploceus_ocularis",
+      "common_name": "Spectacled Weaver",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Apalis_flavida",
+      "common_name": "Yellow-breasted Apalis",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Malaconotus_blanchoti",
+      "common_name": "Grey-headed Bushshrike",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_castaneiceps",
+      "common_name": "Taveta Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Crithagra_mozambica",
+      "common_name": "Yellow-fronted Canary",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Northern yellow white-eye",
+      "url": "https://en.wikipedia.org/wiki/Northern_yellow_white-eye",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2489344"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

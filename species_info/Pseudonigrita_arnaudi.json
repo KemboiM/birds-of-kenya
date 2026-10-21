@@ -1,0 +1,176 @@
+{
+  "label": "Pseudonigrita_arnaudi",
+  "scientific_name": "Pseudonigrita arnaudi",
+  "common_name": "Grey-capped Social Weaver",
+  "other_names": {},
+  "family": "Passeridae",
+  "summary": "The grey-capped social weaver (Pseudonigrita arnaudi) is a sparrow-like liver-colored bird, with a pale grey crown, a dark grey bill, a whitish eye-ring, horn-colored legs, with some black in the wing and a light terminal band in the tail, that builds roofed nests made of straws, breeds in colonies in thorny Acacia trees, and feeds in groups gathering grass seeds and insects. Male and female have near identical plumage. DNA-analysis confirms it is part of the weaver family.",
+  "appearance": {
+    "description": "The grey-capped social weaver is small for a weaver with 11–12 cm (4.3–4.7 in) long, and it weighs 15–26 g (0.53–0.92 oz). It is a sparrow-like liver-colored bird, with a pale grey crown, a dark grey bill, a whitish eye-ring, horn-colored legs, with some black in the wing and a light terminal band in the for a weaver relatively short tail. The tail band is visible during flight.",
+    "colors": "The grey-capped social weaver (Pseudonigrita arnaudi) is a sparrow-like liver-colored bird, with a pale grey crown, a dark grey bill, a whitish eye-ring, horn-colored legs, with some black in the wing and a light terminal band in the tail, that builds roofed nests made of straws, breeds in colonies in thorny Acacia trees, and feeds in groups gathering grass seeds and insects. Male and female have near identical plumage.",
+    "wings": "The grey-capped social weaver (Pseudonigrita arnaudi) is a sparrow-like liver-colored bird, with a pale grey crown, a dark grey bill, a whitish eye-ring, horn-colored legs, with some black in the wing and a light terminal band in the tail, that builds roofed nests made of straws, breeds in colonies in thorny Acacia trees, and feeds in groups gathering grass seeds and insects. It is a sparrow-like liver-colored bird, with a pale grey crown, a dark grey bill, a whitish eye-ring, horn-colored legs, with some black in the wing and a light terminal band in the for a weaver relatively short tail."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        11.0,
+        12.0
+      ],
+      "mass_g": [
+        15.0,
+        26.0
+      ]
+    },
+    "juvenile": null,
+    "chick": {
+      "notes": "One of the two entrances is closed just before the eggs are laid and opened again around the moment of fledging. The eggs hatch after thirteen or fourteen days."
+    }
+  },
+  "behaviour": "The grey-capped social weaver is monogamous and breeds in colonies. Its behavior closely resembles that of the sociable weaver Philetairus socius. In studies conducted in Kenya, some individuals were observed to rest in their nests year round, even outside the breeding periods, with two to five together.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "Three subspecies of the grey-capped social weaver are recognised. The southerly subspecies dorsalis can be distinguished by its bluish grey instead of livery brown back.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Eastern",
+      "Nairobi",
+      "Machakos",
+      "Narok"
+    ],
+    "gbif_records_in_kenya": 7482
+  },
+  "look_alikes": [
+    {
+      "label": "Passer_eminibey",
+      "common_name": "Chestnut Sparrow",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Creatophora_cinerea",
+      "common_name": "Wattled Starling",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Sylvia_boehmi",
+      "common_name": "Banded Parisoma",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Caprimulgus_clarus",
+      "common_name": "Slender-tailed Nightjar",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Indicator_indicator",
+      "common_name": "Greater Honeyguide",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Odontospiza_caniceps",
+      "common_name": "Grey-headed Silverbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Oenanthe_oenanthe",
+      "common_name": "Northern Wheatear",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Eremopterix_leucopareia",
+      "common_name": "Fischer's Sparrow-lark",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Chalcomitra_senegalensis",
+      "common_name": "Scarlet-chested Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lonchura_cucullata",
+      "common_name": "Bronze Mannikin",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Otus_ireneae",
+      "common_name": "Sokoke Scops Owl",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Passer_gongonensis",
+      "common_name": "Parrot-billed Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Passer_griseus",
+      "common_name": "Northern Grey-headed Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_spekei",
+      "common_name": "Speke's Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Turdoides_rubiginosa",
+      "common_name": "Rufous Chatterer",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Turdoides_sharpei",
+      "common_name": "Black-lored Babbler",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Uraeginthus_ianthinogaster",
+      "common_name": "Purple Grenadier",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Dinemellia_dinemelli",
+      "common_name": "White-headed Buffalo Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Passer_rufocinctus",
+      "common_name": "Kenya Sparrow",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Grey-capped social weaver",
+      "url": "https://en.wikipedia.org/wiki/Grey-capped_social_weaver",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2492353"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

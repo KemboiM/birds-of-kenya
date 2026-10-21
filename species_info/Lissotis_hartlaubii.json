@@ -1,0 +1,76 @@
+{
+  "label": "Lissotis_hartlaubii",
+  "scientific_name": "Lissotis hartlaubii",
+  "common_name": "Hartlaub's Bustard",
+  "other_names": {},
+  "family": "Otididae",
+  "summary": "Hartlaub's bustard (Lissotis hartlaubii) is a species of bird in the family Otididae. It is a medium-sized bustard with a long, thick neck, and long legs. It is found in open, tall grassland, range from 1,600 to 2,000 metres (5,250 to 6,560 ft) in Ethiopia, Kenya, Somalia, Sudan, Tanzania, and Uganda.",
+  "appearance": {
+    "description": "A mature Hartlaub's bustard is about 60 centimetres (24 in), recorded weights range from 1,500–1,600 g (3.3–3.5 lb). They are indistinguishable from a far distance, as they are similar to L. melanogaster. The male Hartlaub's bustard has a grayish coloration with a more distinct black stripe on its face, as well as a black stripe running down its neck that connects to its black belly.",
+    "colors": "The male Hartlaub's bustard has a grayish coloration with a more distinct black stripe on its face, as well as a black stripe running down its neck that connects to its black belly. The female is similar in appearance to the male, but with a cream-coloured head and hind neck with dark brown markings, a whitish belly and paler tail.",
+    "wings": "In flight, Hartlaub's bustard shows less black in the wings and a black rump."
+  },
+  "size": {
+    "adult": {
+      "mass_g": [
+        1500.0,
+        1600.0
+      ]
+    },
+    "juvenile": null,
+    "chick": {
+      "notes": "The chicks have creamy buff down, featuring both light and dark markings."
+    }
+  },
+  "behaviour": "The Hartlaub's bustard exhibits a contrasting strategy compared to other species, having presumably attained a balance between improved concealment and the heightened risk of ambush. However, as a smaller bustard, it is more adept at making a rapid take-off in response to a close-range threat. They shows a certain level of sexual size dimorphism, that the female is proportionately smaller and lighter than the males.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The Hartlaub's bustard has a relatively restricted ranges within the Horn of Africa. They are sedentary and nomadic, can be found year-round in Ethiopia, SE Sudan and E South Sudan, NW & S Somalia, NE Uganda, NW & S Kenya and N Tanzania.",
+    "kenya_regions": [
+      "Nairobi",
+      "Rift Valley",
+      "Coast",
+      "Kenya",
+      "Eastern",
+      "Kajiado"
+    ],
+    "gbif_records_in_kenya": 1730
+  },
+  "look_alikes": [
+    {
+      "label": "Lissotis_melanogaster",
+      "common_name": "Black-bellied Bustard",
+      "difference": null,
+      "times_confused": 6
+    },
+    {
+      "label": "Neotis_heuglinii",
+      "common_name": "Heuglin's Bustard",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Colius_striatus",
+      "common_name": "Speckled Mousebird",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Hartlaub's bustard",
+      "url": "https://en.wikipedia.org/wiki/Hartlaub%27s_bustard",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2474848"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

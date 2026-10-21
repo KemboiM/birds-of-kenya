@@ -1,0 +1,100 @@
+{
+  "label": "Lamprotornis_chalybaeus",
+  "scientific_name": "Lamprotornis chalybaeus",
+  "common_name": "Greater Blue-eared Starling",
+  "other_names": {},
+  "family": "Sturnidae",
+  "summary": "The greater blue-eared starling or greater blue-eared glossy-starling (Lamprotornis chalybaeus) is a bird that breeds from Senegal east to Ethiopia and south through eastern Africa to northeastern South Africa and Angola. It is a very common species of open woodland bird, and undertakes some seasonal migration.",
+  "appearance": {
+    "description": "The greater blue-eared starling is a 22 cm long, short tailed bird. This starling is glossy blue-green with a purple-blue belly and blue ear patch. Its iris is bright yellow or orange.",
+    "colors": "The greater blue-eared starling or greater blue-eared glossy-starling (Lamprotornis chalybaeus) is a bird that breeds from Senegal east to Ethiopia and south through eastern Africa to northeastern South Africa and Angola. The greater blue-eared starling is a 22 cm long, short tailed bird.",
+    "wings": null
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        22.0,
+        22.0
+      ]
+    },
+    "juvenile": {
+      "notes": "The sexes are similar, but the juvenile is duller and has blackish brown underparts."
+    },
+    "chick": null
+  },
+  "behaviour": "=== Breeding === The greater blue-eared starling nests in holes in trees, either natural or excavated by woodpeckers or barbets. It will also nest inside the large stick nests of the sacred ibis or Abdim's stork. A nest will include three to five eggs, which are usually greenish-blue with brown or purple spots, and hatch in 13–14 days.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Eastern",
+      "Coast",
+      "Central",
+      "Nairobi"
+    ],
+    "gbif_records_in_kenya": 18365
+  },
+  "look_alikes": [
+    {
+      "label": "Lamprotornis_purpuroptera",
+      "common_name": "Rüppell's Starling",
+      "difference": null,
+      "times_confused": 8
+    },
+    {
+      "label": "Notopholia_corrusca",
+      "common_name": "Black-bellied Starling",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Melaenornis_pammelaina",
+      "common_name": "Southern Black Flycatcher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Chalcomitra_amethystina",
+      "common_name": "Amethyst Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lamprotornis_regius",
+      "common_name": "Golden-breasted Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tricholaema_lacrymosa",
+      "common_name": "Spot-flanked Barbet",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Onychognathus_morio",
+      "common_name": "Red-winged Starling",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Greater blue-eared starling",
+      "url": "https://en.wikipedia.org/wiki/Greater_blue-eared_starling",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2489071"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

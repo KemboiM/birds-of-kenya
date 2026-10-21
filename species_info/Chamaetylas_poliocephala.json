@@ -1,0 +1,69 @@
+{
+  "label": "Chamaetylas_poliocephala",
+  "scientific_name": "Chamaetylas poliocephala",
+  "common_name": "Brown-chested Alethe",
+  "other_names": {},
+  "family": "Muscicapidae",
+  "summary": "The brown-chested alethe (Chamaetylas poliocephala) is a species of bird in the Old World flycatcher family Muscicapidae. It has a discontinuous range of presence across the African tropical rainforest. Its natural habitats are subtropical or tropical moist lowland forest and subtropical or tropical moist montane forest.",
+  "appearance": {
+    "description": null,
+    "colors": "The brown-chested alethe (Chamaetylas poliocephala) is a species of bird in the Old World flycatcher family Muscicapidae.",
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Western",
+      "Central",
+      "Nairobi",
+      "Rift Valley",
+      "Kakamega",
+      "Eastern"
+    ],
+    "gbif_records_in_kenya": 1850
+  },
+  "look_alikes": [
+    {
+      "label": "Hedydipna_collaris",
+      "common_name": "Collared Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Passer_griseus",
+      "common_name": "Northern Grey-headed Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Poicephalus_rufiventris",
+      "common_name": "Red-bellied Parrot",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Brown-chested alethe",
+      "url": "https://en.wikipedia.org/wiki/Brown-chested_alethe",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/9788566"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

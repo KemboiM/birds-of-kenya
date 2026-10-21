@@ -1,0 +1,146 @@
+{
+  "label": "Muscicapa_adusta",
+  "scientific_name": "Muscicapa adusta",
+  "common_name": "African Dusky Flycatcher",
+  "other_names": {},
+  "family": "Muscicapidae",
+  "summary": "The African dusky flycatcher (Muscicapa adusta), also known as the dusky-brown flycatcher or dusky alseonax, is a small passerine bird of the Old World flycatcher family, Muscicapidae. It is a resident breeder in elevated areas of Sub-Saharan Africa (including the Bié and Western High plateaus). It is very common in its woodland habitat, which includes riverine forests, evergreen forest edges and clearings, especially near water bodies such as lakes, dams and streams, and well-wooded suburban gardens.",
+  "appearance": {
+    "description": "The African dusky flycatcher is 13 cm (5.1 in) long and weighs around 11 g (0.39 oz). Its upperparts are plain brown, with the only facial marking being an indistinct narrow eye-ring. The chin is plain pale grey, and the rest of the underparts are grey-brown with indistinct streaks.",
+    "colors": "The African dusky flycatcher (Muscicapa adusta), also known as the dusky-brown flycatcher or dusky alseonax, is a small passerine bird of the Old World flycatcher family, Muscicapidae. It is very common in its woodland habitat, which includes riverine forests, evergreen forest edges and clearings, especially near water bodies such as lakes, dams and streams, and well-wooded suburban gardens.",
+    "wings": null
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        13.0,
+        13.0
+      ],
+      "mass_g": [
+        11.0,
+        11.0
+      ]
+    },
+    "juvenile": {
+      "notes": "The sexes are similar, but the juvenile is spotted with buff above, and is whitish spotted with brown below."
+    },
+    "chick": null
+  },
+  "behaviour": "The African dusky flycatcher builds a cup-shaped nest in a tree cavity a few metres above the ground, and lays two or three green eggs. The hole in the tree is normally reused in the next breeding season. This species is monogamous, mating for life.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Central",
+      "Kenya",
+      "Rift Valley",
+      "Nairobi",
+      "Western",
+      "Eastern"
+    ],
+    "gbif_records_in_kenya": 10745
+  },
+  "look_alikes": [
+    {
+      "label": "Muscicapa_striata",
+      "common_name": "Spotted Flycatcher",
+      "difference": null,
+      "times_confused": 3
+    },
+    {
+      "label": "Bradornis_microrhynchus",
+      "common_name": "African Grey Flycatcher",
+      "difference": null,
+      "times_confused": 3
+    },
+    {
+      "label": "Pinarochroa_sordida",
+      "common_name": "Moorland Chat",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Camaroptera_brachyura",
+      "common_name": "Green-backed Camaroptera",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Saxicola_rubetra",
+      "common_name": "Whinchat",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Eurystomus_glaucurus",
+      "common_name": "Broad-billed Roller",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bradornis_pallidus",
+      "common_name": "Pale Flycatcher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Melaenornis_edolioides",
+      "common_name": "Northern Black Flycatcher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lanius_humeralis",
+      "common_name": "Northern Fiscal",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Passer_rufocinctus",
+      "common_name": "Kenya Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ptyonoprogne_fuligula",
+      "common_name": "Large Rock Martin",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Streptopelia_decipiens",
+      "common_name": "Mourning Collared Dove",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Passer_domesticus",
+      "common_name": "House Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Dicrurus_adsimilis",
+      "common_name": "Fork-tailed Drongo",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "African dusky flycatcher",
+      "url": "https://en.wikipedia.org/wiki/African_dusky_flycatcher",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2492569"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

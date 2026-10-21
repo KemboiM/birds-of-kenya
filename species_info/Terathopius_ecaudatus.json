@@ -1,0 +1,169 @@
+{
+  "label": "Terathopius_ecaudatus",
+  "scientific_name": "Terathopius ecaudatus",
+  "common_name": "Bateleur",
+  "other_names": {},
+  "family": "Accipitridae",
+  "summary": "The bateleur (; Terathopius ecaudatus), also known as the bateleur eagle, is a medium-sized eagle in the family Accipitridae. It is often considered a relative of the snake eagles and, like them, it is classified within the subfamily Circaetinae. It is the only member of the genus Terathopius and may be the origin of the \"Zimbabwe Bird\", the national emblem of Zimbabwe.",
+  "appearance": {
+    "description": "The bateleur is of note for its unique morphology and plumage, with some anatomical similarities to both snake eagles and vultures. The species has a thick neck and a very large, rather conspicuously cowled head with a proportionately short bill, albeit one covered with a very large cere. The cowl is also present on snake eagles but in those it is less dramatically apparent.",
+    "colors": "It is often considered a relative of the snake eagles and, like them, it is classified within the subfamily Circaetinae. Adult bateleurs are generally black in colour with a chestnut colour on the mantle as well as on the rump and tail.",
+    "wings": "Adults also have gray patches about the leading edges of the wings (extending to the secondaries in females) with bright red on their cere and their feet. Adults also show white greater coverts, contrasting with black remiges in males, gray patches on the underwing primaries and black wingtips."
+  },
+  "size": {
+    "adult": null,
+    "juvenile": {
+      "notes": "The juvenile is very distinct from the adults of the species. Juveniles of the bateleur have a longer tail than mature birds."
+    },
+    "chick": {
+      "notes": "It is estimated that the bateleur produces a mean of 0.47 chicks per nest per year."
+    }
+  },
+  "behaviour": "This bateleur is unusually conspicuous due to its propensity for gliding flights over favorable habitats in much of Africa. The bird spends a considerable amount of time on the wing, particularly in low-altitude flights. Due to the conspicuous behaviour and colorful plumage, the bateleur is frequently described in superlatives such as \"one of the most beautiful and spectacular things that flies\".",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The bateleur occupies a very large range through mainly sub-Saharan Africa. The species resides in West Africa from southern Mauritania to Senegal, The Gambia, Guinea-Bissau, Guinea, the northern portions of Sierra Leone, Ivory Coast and much of Ghana through western Burkina Faso, much of Togo and Benin and northern and central Nigeria.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Coast",
+      "Eastern",
+      "Nairobi",
+      "Narok"
+    ],
+    "gbif_records_in_kenya": 14598
+  },
+  "look_alikes": [
+    {
+      "label": "Aquila_rapax",
+      "common_name": "Tawny Eagle",
+      "difference": null,
+      "times_confused": 4
+    },
+    {
+      "label": "Buteo_augur",
+      "common_name": "Augur Buzzard",
+      "difference": null,
+      "times_confused": 3
+    },
+    {
+      "label": "Circaetus_pectoralis",
+      "common_name": "Black-chested Snake Eagle",
+      "difference": null,
+      "times_confused": 3
+    },
+    {
+      "label": "Trigonoceps_occipitalis",
+      "common_name": "White-headed Vulture",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Prionops_scopifrons",
+      "common_name": "Chestnut-fronted Helmetshrike",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lybius_bidentatus",
+      "common_name": "Double-toothed Barbet",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Columba_livia",
+      "common_name": "Rock Dove",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Plectropterus_gambensis",
+      "common_name": "Spur-winged Goose",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bubalornis_niger",
+      "common_name": "Red-billed Buffalo Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Oena_capensis",
+      "common_name": "Namaqua Dove",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Calidris_pugnax",
+      "common_name": "Ruff",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Chalcomitra_senegalensis",
+      "common_name": "Scarlet-chested Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Polyboroides_typus",
+      "common_name": "African Harrier-hawk",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lophaetus_occipitalis",
+      "common_name": "Long-crested Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Buteo_buteo",
+      "common_name": "Common Buzzard",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Circaetus_cinereus",
+      "common_name": "Brown Snake Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tockus_deckeni",
+      "common_name": "Von Der Decken's Hornbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Haliaeetus_vocifer",
+      "common_name": "African Fish Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Milvus_migrans",
+      "common_name": "Black Kite",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Bateleur",
+      "url": "https://en.wikipedia.org/wiki/Bateleur",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2480377"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

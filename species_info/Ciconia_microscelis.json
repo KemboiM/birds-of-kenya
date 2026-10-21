@@ -1,0 +1,113 @@
+{
+  "label": "Ciconia_microscelis",
+  "scientific_name": "Ciconia microscelis",
+  "common_name": "African Woolly-necked Stork",
+  "other_names": {},
+  "family": "Ciconiidae",
+  "summary": "The African woolly-necked stork or African woollyneck (Ciconia microscelis) is a species of large wading bird in the stork family Ciconiidae. It breeds singly, or in small loose colonies. It is distributed in a wide variety of habitats including marshes in forests, agricultural areas, and freshwater wetlands across Africa.",
+  "appearance": {
+    "description": "The African woolly-necked stork is a medium-sized stork at 75–92 cm tall. The iris is deep crimson or wine-red. The stork is glistening black overall with a black \"skull cap\", a downy white neck which gives it its name.",
+    "colors": "The iris is deep crimson or wine-red. The stork is glistening black overall with a black \"skull cap\", a downy white neck which gives it its name.",
+    "wings": "When the wings are opened either during displays or for flight, a narrow band of very bright unfeathered skin is visible along the underside of the forearm. This band has been variously described as being \"neon, orange-red\", \"like a red-gold jewel\", and \"almost glowing\" when seen at close range."
+  },
+  "size": {
+    "adult": null,
+    "juvenile": {
+      "notes": "Juvenile birds are duller versions of the adult with a feathered forehead that is sometimes streaked black-and-white. At fledging age, the immature bird is identical to the adult except for a feathered forehead, much lesser iridescence on feathers, and much longer and fluffier feathers on the neck."
+    },
+    "chick": null
+  },
+  "behaviour": "Several calls by adult birds have been described including bisyllabic whistles given along with displays at the nest, and a fierce hissing sound when a bird was attacked by a trained falcon. The African woolly-necked stork is a broad winged soaring bird, which relies on moving between thermals of hot air for sustained long distance flight. Like all storks, it flies with its neck outstretched.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "It is a widespread tropical species which breeds across much of western, eastern and south-central Africa. It is a resident breeder building nests on trees located on agricultural fields or wetlands, on natural cliffs, and on cell phone towers.",
+    "kenya_regions": [
+      "Coast",
+      "Rift Valley",
+      "Eastern",
+      "Narok",
+      "Nairobi",
+      "Kilifi"
+    ],
+    "gbif_records_in_kenya": 4241
+  },
+  "look_alikes": [
+    {
+      "label": "Corvus_albus",
+      "common_name": "Pied Crow",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Bubulcus_ibis",
+      "common_name": "Western Cattle Egret",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bucorvus_leadbeateri",
+      "common_name": "Southern Ground Hornbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Leptoptilos_crumenifer",
+      "common_name": "Marabou Stork",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Mycteria_ibis",
+      "common_name": "Yellow-billed Stork",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Plegadis_falcinellus",
+      "common_name": "Glossy Ibis",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Threskiornis_aethiopicus",
+      "common_name": "African Sacred Ibis",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Himantopus_himantopus",
+      "common_name": "Black-winged Stilt",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Haliaeetus_vocifer",
+      "common_name": "African Fish Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lanius_excubitoroides",
+      "common_name": "Grey-backed Fiscal",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "African woolly-necked stork",
+      "url": "https://en.wikipedia.org/wiki/African_woolly-necked_stork",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/10891903"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "label": "Pternistis_squamatus",
+  "scientific_name": "Pternistis squamatus",
+  "common_name": "Scaly Spurfowl",
+  "other_names": {},
+  "family": "Phasianidae",
+  "summary": "The scaly spurfowl (Pternistis squamatus) is a species of bird in the family Phasianidae. It is found in Angola, Burundi, Cameroon, Central African Republic, Republic of the Congo, Democratic Republic of the Congo, Equatorial Guinea, Ethiopia, Gabon, Kenya, Malawi, Nigeria, Rwanda, São Tomé and Príncipe, Sudan, Tanzania, and Uganda.",
+  "appearance": {
+    "description": null,
+    "colors": null,
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Central",
+      "Kenya",
+      "Rift Valley",
+      "Nairobi",
+      "Eastern",
+      "Nyanza"
+    ],
+    "gbif_records_in_kenya": 2602
+  },
+  "look_alikes": [
+    {
+      "label": "Ortygospiza_atricollis",
+      "common_name": "Black-faced Quailfinch",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pternistis_jacksoni",
+      "common_name": "Jackson's Spurfowl",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Turdoides_hypoleuca",
+      "common_name": "Northern Pied Babbler",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Scaly spurfowl",
+      "url": "https://en.wikipedia.org/wiki/Scaly_spurfowl",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2473828"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

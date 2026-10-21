@@ -1,0 +1,87 @@
+{
+  "label": "Chlorophoneus_sulfureopectus",
+  "scientific_name": "Chlorophoneus sulfureopectus",
+  "common_name": "Orange-breasted Bushshrike",
+  "other_names": {},
+  "family": "Malaconotidae",
+  "summary": "The orange-breasted bushshrike or sulphur-breasted bushshrike (Chlorophoneus sulfureopectus) is a species of bird in the family Malaconotidae. Another bird, Braun's bushshrike, is also sometimes called the orange-breasted bushshrike.",
+  "appearance": {
+    "description": null,
+    "colors": "The orange-breasted bushshrike or sulphur-breasted bushshrike (Chlorophoneus sulfureopectus) is a species of bird in the family Malaconotidae. Another bird, Braun's bushshrike, is also sometimes called the orange-breasted bushshrike.",
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": "The bushshrike eats mainly insects, such as beetles, caterpillars, bees, ants, and wasps.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The orange-breasted bushshrike is widespread throughout Sub-Saharan Africa (relatively absent from most of Central, Southern and the Horn of Africa). Its natural habitats are subtropical or tropical dry forests, dry savanna and moist savanna.",
+    "kenya_regions": [
+      "Kenya",
+      "Rift Valley",
+      "Nairobi",
+      "Coast",
+      "Eastern",
+      "Central"
+    ],
+    "gbif_records_in_kenya": 7444
+  },
+  "look_alikes": [
+    {
+      "label": "Malaconotus_blanchoti",
+      "common_name": "Grey-headed Bushshrike",
+      "difference": null,
+      "times_confused": 3
+    },
+    {
+      "label": "Ploceus_ocularis",
+      "common_name": "Spectacled Weaver",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Hedydipna_collaris",
+      "common_name": "Collared Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Merops_oreobates",
+      "common_name": "Cinnamon-chested Bee-eater",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Zosterops_kikuyuensis",
+      "common_name": "Kikuyu White-eye",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Emberiza_flaviventris",
+      "common_name": "Golden-breasted Bunting",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Orange-breasted bushshrike",
+      "url": "https://en.wikipedia.org/wiki/Orange-breasted_bushshrike",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/5845131"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "label": "Motacilla_flava",
+  "scientific_name": "Motacilla flava",
+  "common_name": "Western Yellow Wagtail",
+  "other_names": {},
+  "family": "Motacillidae",
+  "summary": "The western yellow wagtail (Motacilla flava) is a small passerine bird in the wagtail family Motacillidae, which also includes the pipits and longclaws. This species breeds in much of temperate Europe and Asia. Most populations are migratory, moving south to tropical Africa and southern Asia for the winter; the small population breeding in Egypt is however resident there.",
+  "appearance": {
+    "description": null,
+    "colors": "The western yellow wagtail (Motacilla flava) is a small passerine bird in the wagtail family Motacillidae, which also includes the pipits and longclaws. The breeding adult male is basically olive above and yellow below.",
+    "wings": null
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        15.0,
+        16.0
+      ]
+    },
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Central",
+      "Nairobi",
+      "Coast",
+      "Eastern"
+    ],
+    "gbif_records_in_kenya": 9454
+  },
+  "look_alikes": [
+    {
+      "label": "Tmetothylacus_tenellus",
+      "common_name": "Golden Pipit",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Creatophora_cinerea",
+      "common_name": "Wattled Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Himantopus_himantopus",
+      "common_name": "Black-winged Stilt",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Motacilla_capensis",
+      "common_name": "Cape Wagtail",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_nigricollis",
+      "common_name": "Black-necked Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Oenanthe_oenanthe",
+      "common_name": "Northern Wheatear",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Crithagra_sulphurata",
+      "common_name": "Brimstone Canary",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Macronyx_croceus",
+      "common_name": "Yellow-throated Longclaw",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Western yellow wagtail",
+      "url": "https://en.wikipedia.org/wiki/Western_yellow_wagtail",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/9701857"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

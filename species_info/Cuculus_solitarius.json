@@ -1,0 +1,116 @@
+{
+  "label": "Cuculus_solitarius",
+  "scientific_name": "Cuculus solitarius",
+  "common_name": "Red-chested Cuckoo",
+  "other_names": {},
+  "family": "Cuculidae",
+  "summary": "The red-chested cuckoo (Cuculus solitarius) is a species of cuckoo in the family Cuculidae. It is a medium-sized bird found in Africa, south of the Sahara. In Afrikaans, it is known as \"Piet-my-vrou\", after its call.",
+  "appearance": {
+    "description": "The red-chested cuckoo is a medium-size cuckoo about 31 cm (12.2 in) in length. The male has slate-grey upper parts, pale grey throat and sides of head and dark grey tail tipped with white. The breast is rufous or cinnamon, often with barring, and the belly is creamy-white or pale buff.",
+    "colors": "The red-chested cuckoo (Cuculus solitarius) is a species of cuckoo in the family Cuculidae. The red-chested cuckoo is a medium-size cuckoo about 31 cm (12.2 in) in length.",
+    "wings": null
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        31.0,
+        31.0
+      ]
+    },
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": "It is usually solitary and highly vocal and lives on forests and plantations. It eats insects including hairy caterpillars, spiders, centipedes, millipedes, slugs, snails, small vertebrates and berries. The red-chested cuckoo takes on more than a single mate (it is polygamous).",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "It is found in Angola, Benin, Botswana, Burundi, Cameroon, Central African Republic, Chad, Republic of the Congo, Democratic Republic of the Congo, Ivory Coast, Equatorial Guinea, Eswatini, Ethiopia, Gabon, Gambia, Ghana, Guinea, Guinea-Bissau, Kenya, Lesotho, Liberia, Malawi, Mali, Mozambique, Namibia, Nigeria, Rwanda, Senegal, Sierra Leone, Somalia, South Africa, Sudan, Tanzania, Togo, Uganda, Zambia, and Zimbabwe. In Southern Africa it is a common breeding migrant, found throughout the area except for the drier west.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Nairobi",
+      "Western",
+      "Central",
+      "Coast"
+    ],
+    "gbif_records_in_kenya": 11493
+  },
+  "look_alikes": [
+    {
+      "label": "Falco_naumanni",
+      "common_name": "Lesser Kestrel",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Amblyospiza_albifrons",
+      "common_name": "Thick-billed Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bubo_africanus",
+      "common_name": "Spotted Eagle-owl",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Buteo_augur",
+      "common_name": "Augur Buzzard",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Campephaga_flava",
+      "common_name": "Black Cuckooshrike",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Corythaeola_cristata",
+      "common_name": "Great Blue Turaco",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Hedydipna_collaris",
+      "common_name": "Collared Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Melaenornis_edolioides",
+      "common_name": "Northern Black Flycatcher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Parus_albiventris",
+      "common_name": "White-bellied Tit",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Hirundo_rustica",
+      "common_name": "Barn Swallow",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Red-chested cuckoo",
+      "url": "https://en.wikipedia.org/wiki/Red-chested_cuckoo",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/5231903"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

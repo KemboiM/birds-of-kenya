@@ -1,0 +1,81 @@
+{
+  "label": "Plocepasser_donaldsoni",
+  "scientific_name": "Plocepasser donaldsoni",
+  "common_name": "Donaldson Smith's Sparrow-weaver",
+  "other_names": {},
+  "family": "Passeridae",
+  "summary": "Donaldson Smith's sparrow-weaver (Plocepasser donaldsoni) is a species of bird in the family Ploceidae. It is found in Africa from southern Ethiopia to central Kenya and southern Somalia. It was named in honor of the 19th-century American explorer Arthur Donaldson Smith.",
+  "appearance": {
+    "description": null,
+    "colors": null,
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Eastern",
+      "Rift Valley",
+      "Kenya",
+      "Isiolo",
+      "Samburu",
+      "North-Eastern"
+    ],
+    "gbif_records_in_kenya": 2754
+  },
+  "look_alikes": [
+    {
+      "label": "Calendulauda_poecilosterna",
+      "common_name": "Pink-breasted Lark",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Crithagra_reichenowi",
+      "common_name": "Reichenow's Seedeater",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Macronyx_croceus",
+      "common_name": "Yellow-throated Longclaw",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Passer_domesticus",
+      "common_name": "House Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Turdoides_hypoleuca",
+      "common_name": "Northern Pied Babbler",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Donaldson Smith's sparrow-weaver",
+      "url": "https://en.wikipedia.org/wiki/Donaldson_Smith%27s_sparrow-weaver",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2492360"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

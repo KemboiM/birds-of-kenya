@@ -1,0 +1,124 @@
+{
+  "label": "Uraeginthus_bengalus",
+  "scientific_name": "Uraeginthus bengalus",
+  "common_name": "Red-cheeked Cordon-bleu",
+  "other_names": {},
+  "family": "Estrildidae",
+  "summary": "The red-cheeked cordon-bleu or red-cheeked cordonbleu (Uraeginthus bengalus) is a small passerine bird in the family Estrildidae. This estrildid finch is a resident breeding bird in drier regions of tropical Sub-Saharan Africa. Red-cheeked cordon-bleu has an estimated global extent of occurrence of 7,700,000 km2.",
+  "appearance": {
+    "description": "Like other members of its genus, the red-cheeked cordon-bleu is a very small finch, measuring only 12.5–13 cm (4.9–5.1 in) in length. It weighs 9.9 g (0.35 oz) on average, with known extremes in wild populations ranging from 8.9–11 g (0.31–0.39 oz). The adult male has a blue continuous coloration from its face to its breast and flanks, then onto its rump and to the tip of its long, thin, pointed tail.",
+    "colors": "The red-cheeked cordon-bleu or red-cheeked cordonbleu (Uraeginthus bengalus) is a small passerine bird in the family Estrildidae. Red-cheeked cordon-bleu has an estimated global extent of occurrence of 7,700,000 km2.",
+    "wings": "The wings are light brown as the bottom of the belly."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        12.5,
+        13.0
+      ],
+      "mass_g": [
+        8.9,
+        11.0
+      ]
+    },
+    "juvenile": {
+      "notes": "Immature birds are like the female, but with blue restricted to the face and throat."
+    },
+    "chick": {
+      "notes": "The nest is a large domed grass structure with a side entrance in a tree, bush or thatch into which 4–5 white eggs are laid."
+    }
+  },
+  "behaviour": "Its contact call is a thin, high-pitched piping, often repeated, and variously transcribed as siii siii or tsee tsee. The song is more complex, consisting of 4–6 high-pitched notes, the last of which is longer, lower and more burry. Described as \"rhythmic but lazy\", it has been transcribed as wit-sit-diddley-diddley-ee-ee.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The red-cheeked cordon-bleu is common and widespread across much of central and eastern Africa. Its range stretches from the West African countries of Senegal, Gambia and southwestern Mauritania east through southern Mali, southern Niger, southern Chad and southern Sudan to Ethiopia and northwestern and southwestern Somalia, and then south to southern Democratic Republic of the Congo, eastern Angola, northern and western Zambia, southern Tanzania and northern Mozambique.",
+    "kenya_regions": [
+      "Kenya",
+      "Rift Valley",
+      "Coast",
+      "Nairobi",
+      "Eastern",
+      "Central"
+    ],
+    "gbif_records_in_kenya": 29761
+  },
+  "look_alikes": [
+    {
+      "label": "Uraeginthus_ianthinogaster",
+      "common_name": "Purple Grenadier",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Coracias_garrulus",
+      "common_name": "European Roller",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Burhinus_vermiculatus",
+      "common_name": "Water Thick-knee",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Halcyon_leucocephala",
+      "common_name": "Grey-headed Kingfisher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Turtur_chalcospilos",
+      "common_name": "Emerald-spotted Wood Dove",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Gallinula_chloropus",
+      "common_name": "Common Moorhen",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Halcyon_senegalensis",
+      "common_name": "Woodland Kingfisher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lagonosticta_senegala",
+      "common_name": "Red-billed Firefinch",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Terpsiphone_viridis",
+      "common_name": "African Paradise Flycatcher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Uraeginthus_cyanocephalus",
+      "common_name": "Blue-capped Cordon-bleu",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Red-cheeked cordon-bleu",
+      "url": "https://en.wikipedia.org/wiki/Red-cheeked_cordon-bleu",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2493723"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

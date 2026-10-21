@@ -1,0 +1,89 @@
+{
+  "label": "Halcyon_chelicuti",
+  "scientific_name": "Halcyon chelicuti",
+  "common_name": "Striped Kingfisher",
+  "other_names": {},
+  "family": "Alcedinidae",
+  "summary": "The striped kingfisher (Halcyon chelicuti) is a species of bird in the tree kingfisher subfamily. It was first described by Edward, Lord Stanley, in Salt's Voyage to Abyssinia in 1814 as \"Chelicut kingfisher\" Alaudo Chelicuti. The genus name Halcyon comes from a bird in Greek legend generally associated with the kingfisher.",
+  "appearance": {
+    "description": "The striped kingfisher of the nominate subspecies H. c. chelicuti averages 16 to 18 cm (about 6.5 in) from beak to tail. Perched adults look mostly greyish brown on the upper part of the body. The lower back, secondary flight feathers, and tail are metallic blue; this colour is much more visible when the bird flies than when it is perched, as is a white patch at the base of the primary flight feathers.",
+    "colors": "Perched adults look mostly greyish brown on the upper part of the body. The lower back, secondary flight feathers, and tail are metallic blue; this colour is much more visible when the bird flies than when it is perched, as is a white patch at the base of the primary flight feathers.",
+    "wings": "The wing linings are white with a black border, and in males a black bar at the base of the primaries. It has less blue on the wings, a darker crown, dusky tips to the breast feathers, and dull red on the lower mandible."
+  },
+  "size": {
+    "adult": null,
+    "juvenile": {
+      "notes": "The juvenile resembles the adult but is paler."
+    },
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": "This species occurs in Sub-Saharan Africa except in dense forests (especially near the Congo River), the Horn of Africa, the Namib Desert and South Africa. It prefers woodland, thorn scrub (thornveld), dry bush, and open savanna, but avoids intensively farmed land.",
+    "kenya_regions": [
+      "Kenya",
+      "Rift Valley",
+      "Coast",
+      "Nairobi",
+      "Eastern",
+      "Western"
+    ],
+    "gbif_records_in_kenya": 9350
+  },
+  "look_alikes": [
+    {
+      "label": "Indicator_indicator",
+      "common_name": "Greater Honeyguide",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Merops_persicus",
+      "common_name": "Blue-cheeked Bee-eater",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cinnyricinclus_leucogaster",
+      "common_name": "Violet-backed Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Halcyon_senegalensis",
+      "common_name": "Woodland Kingfisher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Merops_albicollis",
+      "common_name": "White-throated Bee-eater",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Trachyphonus_darnaudii",
+      "common_name": "D'Arnaud's Barbet",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Striped kingfisher",
+      "url": "https://en.wikipedia.org/wiki/Striped_kingfisher",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/5228300"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

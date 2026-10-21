@@ -1,0 +1,69 @@
+{
+  "label": "Gymnobucco_bonapartei",
+  "scientific_name": "Gymnobucco bonapartei",
+  "common_name": "Grey-throated Barbet",
+  "other_names": {},
+  "family": "Lybiidae",
+  "summary": "The grey-throated barbet (Gymnobucco bonapartei) is a species of bird in the Lybiidae family (African barbets). It is found in Angola, Cameroon, Central African Republic, Republic of the Congo, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Kenya, Rwanda, South Sudan, Tanzania, and Uganda.",
+  "appearance": {
+    "description": "The Grey-throated Barbet is a dark, robust bird with a distinctive tuft of feathers on its forehead. Its eye color varies across its range, appearing pale in the eastern regions and dark in the west. This species is commonly observed in small groups, often around dead trees in humid forests and areas of secondary growth.",
+    "colors": "The grey-throated barbet (Gymnobucco bonapartei) is a species of bird in the Lybiidae family (African barbets). The Grey-throated Barbet is a dark, robust bird with a distinctive tuft of feathers on its forehead.",
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": "It eats a diverse group of fruits, including Allophyllus, figs, and Musanga.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Western",
+      "Kenya",
+      "Rift Valley",
+      "Kakamega",
+      "Western Province",
+      "Narok"
+    ],
+    "gbif_records_in_kenya": 3368
+  },
+  "look_alikes": [
+    {
+      "label": "Bubo_africanus",
+      "common_name": "Spotted Eagle-owl",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Necrosyrtes_monachus",
+      "common_name": "Hooded Vulture",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Chalcomitra_amethystina",
+      "common_name": "Amethyst Sunbird",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Grey-throated barbet",
+      "url": "https://en.wikipedia.org/wiki/Grey-throated_barbet",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2478747"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

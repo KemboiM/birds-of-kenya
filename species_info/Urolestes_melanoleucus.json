@@ -1,0 +1,62 @@
+{
+  "label": "Urolestes_melanoleucus",
+  "scientific_name": "Urolestes melanoleucus",
+  "common_name": "Magpie Shrike",
+  "other_names": {},
+  "family": "Laniidae",
+  "summary": "The magpie shrike (Urolestes melanoleucus), also known as the African long-tailed shrike, is a species of bird in the family Laniidae. It is the only species placed in the genus Urolestes. It is native to the grasslands of eastern and southeastern Africa, where its natural habitats are dry savannah, moist savannah, and subtropical or tropical dry shrubland.",
+  "appearance": {
+    "description": null,
+    "colors": null,
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": "The magpie shrike is a gregarious species and usually occurs in noisy groups of about a dozen birds occupying a home range of several tens of hectares. It may associate with other birds such as the white-headed buffalo weaver (Dinemellia dinemelli). The birds nest cooperatively during the rainy season, and their breeding territory is about three hectares and defended from other groups.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The magpie shrike is found in Angola, Botswana, Eswatini, Kenya, Mozambique, Namibia, South Africa, Tanzania, Zambia, and Zimbabwe. It inhabits open savannah with scattered acacia trees, close-grazed turf and bare ground, in parts of southern and central Africa where precipitation mainly occurs between November and April.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Narok",
+      "Meru",
+      "Rift Valley Province"
+    ],
+    "gbif_records_in_kenya": 915
+  },
+  "look_alikes": [
+    {
+      "label": "Mycteria_ibis",
+      "common_name": "Yellow-billed Stork",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Vidua_macroura",
+      "common_name": "Pin-tailed Whydah",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Magpie shrike",
+      "url": "https://en.wikipedia.org/wiki/Magpie_shrike",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/5789240"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

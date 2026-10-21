@@ -1,0 +1,135 @@
+{
+  "label": "Oriolus_larvatus",
+  "scientific_name": "Oriolus larvatus",
+  "common_name": "Black-headed Oriole",
+  "other_names": {},
+  "family": "Oriolidae",
+  "summary": "The black-headed oriole (Oriolus larvatus) is a species of bird in the family Oriolidae. It is found in Africa and has a very striking appearance with a bright yellow body, contrasting black head and flesh-coloured beak.",
+  "appearance": {
+    "description": "The black-headed oriole has a bright yellow body, contrasting black head and flesh-coloured beak. The voice is a liquid-sounding warble, accompanied by imitations and whistles.",
+    "colors": "The black-headed oriole (Oriolus larvatus) is a species of bird in the family Oriolidae. It is found in Africa and has a very striking appearance with a bright yellow body, contrasting black head and flesh-coloured beak.",
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": "The black-headed oriole forages in the canopy, feeding on small fruit as well as large insects. The young are fed mostly with caterpillars.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "It breeds in much of sub-Saharan Africa from South Sudan and Ethiopia in the north to South Africa in the south. It inhabits dry tropical forests, especially acacia and broad-leaved woodlands, and dense shrubland areas, where it is more often heard than seen despite the brightness of its plumage.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Coast",
+      "Eastern",
+      "Nairobi",
+      "Central"
+    ],
+    "gbif_records_in_kenya": 18622
+  },
+  "look_alikes": [
+    {
+      "label": "Ploceus_cucullatus",
+      "common_name": "Village Weaver",
+      "difference": null,
+      "times_confused": 4
+    },
+    {
+      "label": "Ploceus_nigricollis",
+      "common_name": "Black-necked Weaver",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Ploceus_baglafecht",
+      "common_name": "Baglafecht Weaver",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Nigrita_canicapillus",
+      "common_name": "Grey-headed Nigrita",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_insignis",
+      "common_name": "Brown-capped Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Euplectes_macroura",
+      "common_name": "Yellow-mantled Widowbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Zosterops_kikuyuensis",
+      "common_name": "Kikuyu White-eye",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Treron_calvus",
+      "common_name": "African Green Pigeon",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_vitellinus",
+      "common_name": "Vitelline Masked Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_xanthops",
+      "common_name": "Holub's Golden Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_bicolor",
+      "common_name": "Dark-backed Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_spekei",
+      "common_name": "Speke's Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Buphagus_africanus",
+      "common_name": "Yellow-billed Oxpecker",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Vidua_macroura",
+      "common_name": "Pin-tailed Whydah",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Black-headed oriole",
+      "url": "https://en.wikipedia.org/wiki/Black-headed_oriole",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2488966"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

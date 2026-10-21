@@ -1,0 +1,108 @@
+{
+  "label": "Dinemellia_dinemelli",
+  "scientific_name": "Dinemellia dinemelli",
+  "common_name": "White-headed Buffalo Weaver",
+  "other_names": {},
+  "family": "Ploceidae",
+  "summary": "The white-headed buffalo weaver or white-faced buffalo-weaver (Dinemellia dinemelli) is a species of passerine bird in the family Ploceidae native to East Africa. The buffalo part of its name derives from its habit of following the African buffalo, feeding on disturbed insects. Two subspecies are recognized.",
+  "appearance": {
+    "description": "The white-headed buffalo weaver is 170 to 190 mm (6.7–7.5 in) in length and 57 to 85 g (2.0–3.0 oz) in weight. In addition to its white head and underparts, the white-headed buffalo weaver has a vividly orange-red rump and undertail coverts. Its thighs are dark brown.",
+    "colors": "The white-headed buffalo weaver or white-faced buffalo-weaver (Dinemellia dinemelli) is a species of passerine bird in the family Ploceidae native to East Africa. The buffalo part of its name derives from its habit of following the African buffalo, feeding on disturbed insects.",
+    "wings": "The buffalo part of its name derives from its habit of following the African buffalo, feeding on disturbed insects. Narrow white bands can be found on the wings especially when stretch his wings sideways."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        17.0,
+        19.0
+      ],
+      "mass_g": [
+        57.0,
+        85.0
+      ]
+    },
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": "Like most weavers, it is a gregarious bird which forages on the ground for insects, especially beetles and butterflies, fruits, and seeds, often in company with starlings. Foraging is often done in groups of 3–6 birds. It has various calls and the sound is sometimes parrot-like: \"skwieeer\", \"kiiyerr\", a ringing and repetitious \"tew\".",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The white-headed buffalo weaver is native to the African countries of Ethiopia, Kenya, Somalia, Sudan, Tanzania, and Uganda. It prefers habitats such as savanna, and shrublands, but especially dry brush and acacia thickets.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Eastern",
+      "Kenya",
+      "Coast",
+      "Kajiado",
+      "Isiolo"
+    ],
+    "gbif_records_in_kenya": 14703
+  },
+  "look_alikes": [
+    {
+      "label": "Lybius_bidentatus",
+      "common_name": "Double-toothed Barbet",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Macronyx_ameliae",
+      "common_name": "Rosy-throated Longclaw",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tockus_deckeni",
+      "common_name": "Von Der Decken's Hornbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Buphagus_erythrorhynchus",
+      "common_name": "Red-billed Oxpecker",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bycanistes_subcylindricus",
+      "common_name": "Black-and-white-casqued Hornbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pseudonigrita_arnaudi",
+      "common_name": "Grey-capped Social Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Streptopelia_capicola",
+      "common_name": "Ring-necked Dove",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Turdoides_sharpei",
+      "common_name": "Black-lored Babbler",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "White-headed buffalo weaver",
+      "url": "https://en.wikipedia.org/wiki/White-headed_buffalo_weaver",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2493991"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

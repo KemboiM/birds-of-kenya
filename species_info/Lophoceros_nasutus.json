@@ -1,0 +1,112 @@
+{
+  "label": "Lophoceros_nasutus",
+  "scientific_name": "Lophoceros nasutus",
+  "common_name": "African Grey Hornbill",
+  "other_names": {},
+  "family": "Bucerotidae",
+  "summary": "The African grey hornbill (Lophoceros nasutus) is a member of the hornbill family of mainly tropical birds found in the Old World. It is a widespread resident breeder in much of sub-Saharan Africa and the southwest of the Arabian Peninsula. The African grey hornbill has escaped or been deliberately released into Florida, USA, but there is no evidence that the population is breeding and may only persist due to continuing releases or escapes.",
+  "appearance": {
+    "description": "At 45–51 cm (18–20 in) in length, the African grey hornbill is a large bird, although it is one of the smaller hornbills. Its plumage is grey and brown, with the head, flight feathers and long tail being of a darker shade. There is a white line down each side of the crown and another down the back which is only visible in flight.",
+    "colors": "The African grey hornbill (Lophoceros nasutus) is a member of the hornbill family of mainly tropical birds found in the Old World. The African grey hornbill has escaped or been deliberately released into Florida, USA, but there is no evidence that the population is breeding and may only persist due to continuing releases or escapes.",
+    "wings": null
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        45.0,
+        51.0
+      ]
+    },
+    "juvenile": {
+      "notes": "That of juveniles doesn't differ much from adults, but their bills are initially uniformly blackish."
+    },
+    "chick": null
+  },
+  "behaviour": "=== Breeding === The female lays two to four white eggs in a tree hollow, which is blocked off during incubation with a cement made of mud, droppings and fruit pulp. However, due to climate change, increased air temperatures can affect the reproduction of the African Grey Hornbill's likelihood to be able to hatch. There is only one narrow aperture, just large enough for the male to transfer food to the mother and the chicks.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "African grey hornbill is widespread over much of sub-Saharan Africa. It prefers open woodland and savannah.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Coast",
+      "Eastern",
+      "Nairobi",
+      "Nyanza"
+    ],
+    "gbif_records_in_kenya": 10469
+  },
+  "look_alikes": [
+    {
+      "label": "Lophoceros_hemprichii",
+      "common_name": "Hemprich's Hornbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Chrysococcyx_caprius",
+      "common_name": "Diederik Cuckoo",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Creatophora_cinerea",
+      "common_name": "Wattled Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Gyps_africanus",
+      "common_name": "White-backed Vulture",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lissotis_melanogaster",
+      "common_name": "Black-bellied Bustard",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Oenanthe_isabellina",
+      "common_name": "Isabelline Wheatear",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tockus_deckeni",
+      "common_name": "Von Der Decken's Hornbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tockus_erythrorhynchus",
+      "common_name": "Northern Red-billed Hornbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Trigonoceps_occipitalis",
+      "common_name": "White-headed Vulture",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "African grey hornbill",
+      "url": "https://en.wikipedia.org/wiki/African_grey_hornbill",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/8101752"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

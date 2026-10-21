@@ -1,0 +1,96 @@
+{
+  "label": "Coracias_naevius",
+  "scientific_name": "Coracias naevius",
+  "common_name": "Purple Roller",
+  "other_names": {},
+  "family": "Coraciidae",
+  "summary": "The name \"purple roller\" can also refer to the azure dollarbird (Eurystomus azureus) of Indonesia. The purple roller (Coracias naevius), or rufous-crowned roller, is a medium-sized bird widespread in sub-Saharan Africa. Compared with other rollers its colours are rather dull and its voice harsh and grating.",
+  "appearance": {
+    "description": "The purple roller is the largest of the rollers, growing to a length of 35 to 40 cm (14 to 16 in). Adults weigh from 145 to 200 g (5.1 to 7.1 oz) with an average weight of 168 g (5.9 oz). From a distance it appears a dull brownish bird with a white stripe over the eye, a patch of white on the nape and a dark tail.",
+    "colors": "The name \"purple roller\" can also refer to the azure dollarbird (Eurystomus azureus) of Indonesia. The purple roller (Coracias naevius), or rufous-crowned roller, is a medium-sized bird widespread in sub-Saharan Africa.",
+    "wings": "The purple roller is the largest of the rollers, growing to a length of 35 to 40 cm (14 to 16 in). The wings are long and rounded while the tail is square-cut."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        35.0,
+        40.0
+      ],
+      "mass_g": [
+        145.0,
+        200.0
+      ]
+    },
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": "Its preferred habitat is dry thornveld where it spends long periods perched at the top of thorn trees or poles, watching for food items such as insects, spiders, scorpions and small lizards on the ground. It rocks to-and-fro about its longitudinal axis during display flights, calling raucously all the while; starting from above the treetops it plummets towards the ground in rolling flight. It is territorial, and during the breeding season will drive off other rollers, small hawks and crows.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Eastern",
+      "Coast",
+      "Nairobi",
+      "Laikipia"
+    ],
+    "gbif_records_in_kenya": 3518
+  },
+  "look_alikes": [
+    {
+      "label": "Coracias_caudatus",
+      "common_name": "Lilac-breasted Roller",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Cecropis_senegalensis",
+      "common_name": "Mosque Swallow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Centropus_superciliosus",
+      "common_name": "White-browed Coucal",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Merops_nubicus",
+      "common_name": "Northern Carmine Bee-eater",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Sporopipes_frontalis",
+      "common_name": "Speckle-fronted Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Turdoides_hypoleuca",
+      "common_name": "Northern Pied Babbler",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Purple roller",
+      "url": "https://en.wikipedia.org/wiki/Purple_roller",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2475375"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

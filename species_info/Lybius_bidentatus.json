@@ -1,0 +1,73 @@
+{
+  "label": "Lybius_bidentatus",
+  "scientific_name": "Lybius bidentatus",
+  "common_name": "Double-toothed Barbet",
+  "other_names": {},
+  "family": "Lybiidae",
+  "summary": "The double-toothed barbet (Pogonornis bidentatus) is a species of bird in the family Lybiidae. It is found in Angola, Benin, Burundi, Cameroon, Central African Republic, Republic of the Congo, Democratic Republic of the Congo, Ivory Coast, Equatorial Guinea, Ethiopia, Gabon, Ghana, Guinea, Guinea-Bissau, Kenya, Liberia, Mali, Nigeria, Rwanda, Sierra Leone, South Sudan, Tanzania, Togo, and Uganda. Within Pogonornis bidentatus, there are two subspecies: Pogonornis bidentatus bidentatus and Pogonornis bidentatus aequatorialis.",
+  "appearance": {
+    "description": "Pogonornis bidentatus is a barbet with black and red coloring. Its bill is large and off-white, and the skin around its eyes is yellow. The double-toothed barbet is black on the top side of its body with a patch of white feathers on its back.",
+    "colors": "Pogonornis bidentatus is a barbet with black and red coloring. Its bill is large and off-white, and the skin around its eyes is yellow.",
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": {
+      "notes": "Juveniles of the species are duller; their feathers are dark grey."
+    },
+    "chick": {
+      "notes": "At first, adult birds feed the hatchlings insects, then later mostly fruit. The hatchlings' parents and the helpers remove faeces from the nest."
+    }
+  },
+  "behaviour": "Pogonornis bidentatus eats fruits and insects. They search in the foliage for food, usually staying below ten meters. Of insects, they eat beetles, termites, ants, and Hemiptera, which they find in the tree bark or in clusters of leaves.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "Pogonornis bidentatus is a barbet with black and red coloring. Its bill is large and off-white, and the skin around its eyes is yellow.",
+    "kenya_regions": [
+      "Nyanza",
+      "Rift Valley",
+      "Kenya",
+      "Western",
+      "Kisumu",
+      "Narok"
+    ],
+    "gbif_records_in_kenya": 1756
+  },
+  "look_alikes": [
+    {
+      "label": "Dinemellia_dinemelli",
+      "common_name": "White-headed Buffalo Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Laniarius_erythrogaster",
+      "common_name": "Black-headed Gonolek",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Terathopius_ecaudatus",
+      "common_name": "Bateleur",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Double-toothed barbet",
+      "url": "https://en.wikipedia.org/wiki/Double-toothed_barbet",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2479015"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

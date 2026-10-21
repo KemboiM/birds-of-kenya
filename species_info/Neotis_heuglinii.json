@@ -1,0 +1,72 @@
+{
+  "label": "Neotis_heuglinii",
+  "scientific_name": "Neotis heuglinii",
+  "common_name": "Heuglin's Bustard",
+  "other_names": {},
+  "family": "Otididae",
+  "summary": "Heuglin's bustard (Neotis heuglinii) is a species of bird in the bustard family. The bird was initially described by Theodor von Heuglin and Gustav Hartlaub, although only Hartlaub is normally credited as the author. Hartlaub, a curator at the Bremen Museum of Natural History, coined the species epithet for Heuglin, who collected the specimens and made measurements in the field near Somalia.",
+  "appearance": {
+    "description": "It is a fairly large species, at up to 89 cm (35 in) in length. The males weigh 4–8 kg (8.8–17.6 lb) and the much smaller females weigh 2.6–3 kg (5.7–6.6 lb). Other than size, sexes differ considerably in appearance.",
+    "colors": "The bird was initially described by Theodor von Heuglin and Gustav Hartlaub, although only Hartlaub is normally credited as the author. The striking male has a large back marking over the crown down the face to the chin with a bluish-grey neck.",
+    "wings": "In flight, the species reveals a white primary wedge on the otherwise dark upperwing, a feature obscured when the species is standing."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        89.0,
+        89.0
+      ],
+      "mass_g": [
+        2600.0,
+        8000.0
+      ]
+    },
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Eastern",
+      "Coast",
+      "Marsabit",
+      "Kenya",
+      "North-Eastern",
+      "Rift Valley"
+    ],
+    "gbif_records_in_kenya": 281
+  },
+  "look_alikes": [
+    {
+      "label": "Lissotis_hartlaubii",
+      "common_name": "Hartlaub's Bustard",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Pandion_haliaetus",
+      "common_name": "Osprey",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Heuglin's bustard",
+      "url": "https://en.wikipedia.org/wiki/Heuglin%27s_bustard",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2474873"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

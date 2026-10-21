@@ -1,0 +1,99 @@
+{
+  "label": "Psalidoprocne_albiceps",
+  "scientific_name": "Psalidoprocne albiceps",
+  "common_name": "White-headed Saw-wing",
+  "other_names": {},
+  "family": "Hirundinidae",
+  "summary": "The white-headed saw-wing (Psalidoprocne albiceps), also known as the white-headed rough-winged swallow, is a species of bird in the family Hirundinidae. It is found in Angola, Burundi, Democratic Republic of the Congo, Ethiopia, Kenya, Malawi, Rwanda, South Sudan, Tanzania, Uganda, and Zambia.",
+  "appearance": {
+    "description": null,
+    "colors": "The white-headed saw-wing (Psalidoprocne albiceps), also known as the white-headed rough-winged swallow, is a species of bird in the family Hirundinidae.",
+    "wings": "The white-headed saw-wing (Psalidoprocne albiceps), also known as the white-headed rough-winged swallow, is a species of bird in the family Hirundinidae."
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Rift Valley",
+      "Western",
+      "Kenya",
+      "Nyanza",
+      "Central",
+      "Eastern"
+    ],
+    "gbif_records_in_kenya": 6046
+  },
+  "look_alikes": [
+    {
+      "label": "Aquila_rapax",
+      "common_name": "Tawny Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Colius_striatus",
+      "common_name": "Speckled Mousebird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Eurocephalus_ruppelli",
+      "common_name": "Northern White-crowned Shrike",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lonchura_cucullata",
+      "common_name": "Bronze Mannikin",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Psalidoprocne_pristoptera",
+      "common_name": "Black Saw-wing",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ichthyaetus_hemprichii",
+      "common_name": "Sooty Gull",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Merops_albicollis",
+      "common_name": "White-throated Bee-eater",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lanius_cabanisi",
+      "common_name": "Long-tailed Fiscal",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "White-headed saw-wing",
+      "url": "https://en.wikipedia.org/wiki/White-headed_saw-wing",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2489150"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

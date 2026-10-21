@@ -1,0 +1,75 @@
+{
+  "label": "Tmetothylacus_tenellus",
+  "scientific_name": "Tmetothylacus tenellus",
+  "common_name": "Golden Pipit",
+  "other_names": {},
+  "family": "Motacillidae",
+  "summary": "The golden pipit (Tmetothylacus tenellus) is a distinctive pipit of dry country grassland, savanna and shrubland in eastern Africa. It is native to Ethiopia, Kenya, Somalia, South Sudan, Tanzania and Uganda, and has occurred as a vagrant to Oman, South Africa and Zimbabwe. The adult male, unlike most pipits, is very easy to identify.",
+  "appearance": {
+    "description": null,
+    "colors": "It is native to Ethiopia, Kenya, Somalia, South Sudan, Tanzania and Uganda, and has occurred as a vagrant to Oman, South Africa and Zimbabwe. It is yellow below and yellow in the wings.",
+    "wings": "It is yellow below and yellow in the wings. From the front the yellow throat and breast with the dark band does resemble the yellow-throated longclaw or Pangani longclaw, but neither have yellow wings (very obvious in flight) and both have a black line in the face."
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Coast",
+      "Kenya",
+      "Eastern",
+      "Rift Valley",
+      "Taita Taveta",
+      "Coast prov"
+    ],
+    "gbif_records_in_kenya": 3680
+  },
+  "look_alikes": [
+    {
+      "label": "Macronyx_croceus",
+      "common_name": "Yellow-throated Longclaw",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Corvus_albus",
+      "common_name": "Pied Crow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Motacilla_flava",
+      "common_name": "Western Yellow Wagtail",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Calendulauda_poecilosterna",
+      "common_name": "Pink-breasted Lark",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Golden pipit",
+      "url": "https://en.wikipedia.org/wiki/Golden_pipit",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2490294"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

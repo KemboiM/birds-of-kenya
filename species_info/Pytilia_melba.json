@@ -1,0 +1,50 @@
+{
+  "label": "Pytilia_melba",
+  "scientific_name": "Pytilia melba",
+  "common_name": "Green-winged Pytilia",
+  "other_names": {},
+  "family": "Estrildidae",
+  "summary": "The green-winged pytilia (Pytilia melba) is a small colourful seed-eating bird in the family Estrildidae. It is widespread throughout Sub-Saharan Africa, though it is more rarely seen in central, far southern and coastal western parts of the continent.",
+  "appearance": {
+    "description": null,
+    "colors": "The green-winged pytilia (Pytilia melba) is a small colourful seed-eating bird in the family Estrildidae.",
+    "wings": "The green-winged pytilia (Pytilia melba) is a small colourful seed-eating bird in the family Estrildidae."
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Rift Valley",
+      "Coast",
+      "Kenya",
+      "Eastern",
+      "Nyanza",
+      "Baringo"
+    ],
+    "gbif_records_in_kenya": 4541
+  },
+  "look_alikes": [],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Green-winged pytilia",
+      "url": "https://en.wikipedia.org/wiki/Green-winged_pytilia",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2493716"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

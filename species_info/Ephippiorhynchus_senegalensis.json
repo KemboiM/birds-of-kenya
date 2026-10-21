@@ -1,0 +1,106 @@
+{
+  "label": "Ephippiorhynchus_senegalensis",
+  "scientific_name": "Ephippiorhynchus senegalensis",
+  "common_name": "Saddle-billed Stork",
+  "other_names": {},
+  "family": "Ciconiidae",
+  "summary": "The saddle-billed stork or saddlebill (Ephippiorhynchus senegalensis) is a large wading bird in the stork family, Ciconiidae. It is a widespread species which is a resident breeder in sub-Saharan Africa from Sudan, Ethiopia, and Kenya south to South Africa and in the Gambia, Senegal, Côte d'Ivoire, and Chad in west Africa. It is considered endangered in South Africa.",
+  "appearance": {
+    "description": "The saddle-billed stork is a huge bird that regularly attains a height of 145 to 150 cm (4 ft 9 in to 4 ft 11 in), a length of 142 cm (4 ft 8 in), and a 2.4 to 2.7 m (7 ft 10 in to 8 ft 10 in) wingspan. While heights published have been in the aforementioned narrow range, reportedly adult saddle-billed storks in captivity can attain a height of up to 150 to 180 cm (4 ft 11 in to 5 ft 11 in). The male is larger and heavier than the female, with a range of 5.1–7.52 kg (11.2–16.6 lb), with a mean mass of 6.38 kg (14.1 lb).",
+    "colors": "It is considered endangered in South Africa. It is a close relative of the widespread Asian and Australian black-necked stork, the only other member of the genus Ephippiorhynchus.",
+    "wings": "The head, neck, back, wings, and tail are iridescent black, with the rest of the body and the primary flight feathers being white."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        142.0,
+        270.0
+      ],
+      "mass_g": [
+        5100.0,
+        7520.0
+      ]
+    },
+    "juvenile": {
+      "notes": "Juveniles are browner grey in plumage."
+    },
+    "chick": {
+      "notes": "The incubation period is 30–35 days, with another 70–100 days before the chicks fledge, with the young often remaining in the parents' territory until the next breeding season."
+    }
+  },
+  "behaviour": "The saddle-billed stork is silent except for bill-clattering at the nest. Like most storks, it flies with its neck outstretched, not retracted like a heron; in flight, the large, heavy bill is kept drooping somewhat below belly height, giving it a distinctive appearance. This makes it easily recognizable, even if seen from a distance.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "At the continental scale, the saddle-billed stork prefers protected areas that have a higher extent of open water compared to areas without other storks. Some of these trends may, however, be due to a bias in coverage by ornithologists of safer areas such as national parks and protected swamps that afford easier accessibility and comforts.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Nairobi",
+      "Coast",
+      "Narok",
+      "Kajiado"
+    ],
+    "gbif_records_in_kenya": 4551
+  },
+  "look_alikes": [
+    {
+      "label": "Ciconia_ciconia",
+      "common_name": "White Stork",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Calidris_pugnax",
+      "common_name": "Ruff",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Hirundo_smithii",
+      "common_name": "Wire-tailed Swallow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pternistis_afer",
+      "common_name": "Red-necked Spurfowl",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tauraco_hartlaubi",
+      "common_name": "Hartlaub's Turaco",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pelecanus_onocrotalus",
+      "common_name": "Great White Pelican",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lanius_excubitoroides",
+      "common_name": "Grey-backed Fiscal",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Saddle-billed stork",
+      "url": "https://en.wikipedia.org/wiki/Saddle-billed_stork",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2481904"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

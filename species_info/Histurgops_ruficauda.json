@@ -1,0 +1,66 @@
+{
+  "label": "Histurgops_ruficauda",
+  "scientific_name": "Histurgops ruficauda",
+  "common_name": "Rufous-tailed Weaver",
+  "other_names": {},
+  "family": "Passeridae",
+  "summary": "The rufous-tailed weaver (Histurgops ruficauda) is a species of songbird found in Tanzania. It is included in the weaver family (Ploceidae), but many authors included it in the Old World sparrow family Passeridae when Old World sparrows were separated from the weavers proper. It is placed in the monotypic genus Histurgops.",
+  "appearance": {
+    "description": null,
+    "colors": "The rufous-tailed weaver (Histurgops ruficauda) is a species of songbird found in Tanzania.",
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Rift Valley",
+      "Narok",
+      "Kenya"
+    ],
+    "gbif_records_in_kenya": 401
+  },
+  "look_alikes": [
+    {
+      "label": "Calendulauda_poecilosterna",
+      "common_name": "Pink-breasted Lark",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pinarochroa_sordida",
+      "common_name": "Moorland Chat",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Scopus_umbretta",
+      "common_name": "Hamerkop",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Rufous-tailed weaver",
+      "url": "https://en.wikipedia.org/wiki/Rufous-tailed_weaver",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2492355"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

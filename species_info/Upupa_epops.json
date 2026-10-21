@@ -1,0 +1,118 @@
+{
+  "label": "Upupa_epops",
+  "scientific_name": "Upupa epops",
+  "common_name": "Eurasian Hoopoe",
+  "other_names": {
+    "sw": "Hudihudi"
+  },
+  "family": "Upupidae",
+  "summary": "The Eurasian hoopoe or common hoopoe (Upupa epops) is the most widespread species of hoopoe. It is a distinctive cinnamon coloured bird with black and white wings, a tall erectile crest, a broad white band across a black tail, and a long narrow downcurved bill. Its call is a soft \"oop-oop-oop\".",
+  "appearance": {
+    "description": "The Eurasian hoopoe is a medium-sized bird, 25–32 cm (10–13 in) long, with a 44–48 cm (17–19 in) wingspan. It weighs 46–89 g (1.6–3.1 oz). The species is highly distinctive, with a long, thin tapering bill that is black with a fawn base.",
+    "colors": "It is a distinctive cinnamon coloured bird with black and white wings, a tall erectile crest, a broad white band across a black tail, and a long narrow downcurved bill. The species is highly distinctive, with a long, thin tapering bill that is black with a fawn base.",
+    "wings": "It is a distinctive cinnamon coloured bird with black and white wings, a tall erectile crest, a broad white band across a black tail, and a long narrow downcurved bill. The hoopoe has broad and rounded wings capable of strong flight; these are larger in the northern migratory subspecies."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        25.0,
+        48.0
+      ],
+      "mass_g": [
+        46.0,
+        89.0
+      ]
+    },
+    "juvenile": null,
+    "chick": {
+      "notes": "Incubation begins as soon as the first egg is laid, so the chicks are born asynchronously. The chicks hatch with a covering of downy feathers."
+    }
+  },
+  "behaviour": "In what was long thought to be a defensive posture, hoopoes sunbathe by spreading out their wings and tail low against the ground and tilting their head up; they often fold their wings and preen halfway through. They also enjoy taking dust and sand baths. The diet of the Eurasian hoopoe is mostly composed of insects, although small reptiles, frogs and plant matter such as seeds and berries are sometimes taken as well.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The Eurasian hoopoe is widespread in Europe, Asia, and North Africa and northern Sub-Saharan Africa. Most European and north Asian birds migrate to the tropics in winter.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Eastern",
+      "Coast",
+      "Kenya",
+      "Nairobi",
+      "Central"
+    ],
+    "gbif_records_in_kenya": 10717
+  },
+  "look_alikes": [
+    {
+      "label": "Upupa_africana",
+      "common_name": "Eurasian Hoopoe",
+      "difference": null,
+      "times_confused": 15
+    },
+    {
+      "label": "Turdoides_rubiginosa",
+      "common_name": "Rufous Chatterer",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Serinus_flavivertex",
+      "common_name": "Yellow-crowned Canary",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Anaplectes_rubriceps",
+      "common_name": "Red-headed Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Aquila_rapax",
+      "common_name": "Tawny Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cinnyricinclus_leucogaster",
+      "common_name": "Violet-backed Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Euplectes_axillaris",
+      "common_name": "Fan-tailed Widowbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Quelea_quelea",
+      "common_name": "Red-billed Quelea",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Plocepasser_mahali",
+      "common_name": "White-browed Sparrow-weaver",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Eurasian hoopoe",
+      "url": "https://en.wikipedia.org/wiki/Eurasian_hoopoe",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2498415"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

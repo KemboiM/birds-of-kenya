@@ -1,0 +1,57 @@
+{
+  "label": "Pternistis_jacksoni",
+  "scientific_name": "Pternistis jacksoni",
+  "common_name": "Jackson's Spurfowl",
+  "other_names": {},
+  "family": "Phasianidae",
+  "summary": "Jackson's spurfowl or Jackson's francolin (Pternistis jacksoni) is a species of bird in the family Phasianidae. It is found in the highlands of Kenya and Uganda. Its preferred habitats include mountainous forests and stands of bamboo above 2000 m.",
+  "appearance": {
+    "description": "Jackson's spurfowl has distinctive red bill and legs which sets it apart from the moorland francolin which overlaps in range and the smaller scaly spurfowl is unmarked on the underside. The feather edges on the underside of Jackson's spurfowl are white, marking out the chestnut feathers. They are said to be monogamous and they breed in December-February in the dry season.",
+    "colors": "Its preferred habitats include mountainous forests and stands of bamboo above 2000 m. Males and females are similar in plumage but males have spurs on their legs and tend to be larger.",
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": "Jackson's spurfowl is found mainly above 2000 m on moorland, forest edge, Podocarpus, and bamboo in Kenya in the Aberdare range, Mount Kenya, the Mau Escarpment and Cherangani. The distribution extends into the borders of Uganda in Kapkwata at the edge of Mount Elgon.",
+    "kenya_regions": [
+      "Central",
+      "Kenya",
+      "Eastern",
+      "Nyeri",
+      "Meru",
+      "Nyandurua"
+    ],
+    "gbif_records_in_kenya": 1700
+  },
+  "look_alikes": [
+    {
+      "label": "Pternistis_squamatus",
+      "common_name": "Scaly Spurfowl",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Jackson's spurfowl",
+      "url": "https://en.wikipedia.org/wiki/Jackson%27s_spurfowl",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2473782"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "label": "Treron_calvus",
+  "scientific_name": "Treron calvus",
+  "common_name": "African Green Pigeon",
+  "other_names": {},
+  "family": "Columbidae",
+  "summary": "The African green pigeon (Treron calvus) is a species of bird in the family Columbidae, and one of 5 green pigeon species in the Afrotropics. The species has a wide range in Sub-Saharan Africa with around 17 accepted races.",
+  "appearance": {
+    "description": "Adult African green pigeons have maroon patches on the top of their wings and the juveniles have an olive color. The upperparts are grayish-green to yellowish-green; the thighs are yellow; and the feet and bill are red with the bill having a white tip.",
+    "colors": "The African green pigeon (Treron calvus) is a species of bird in the family Columbidae, and one of 5 green pigeon species in the Afrotropics. The upperparts are grayish-green to yellowish-green; the thighs are yellow; and the feet and bill are red with the bill having a white tip.",
+    "wings": "Adult African green pigeons have maroon patches on the top of their wings and the juveniles have an olive color."
+  },
+  "size": {
+    "adult": null,
+    "juvenile": {
+      "notes": "Adult African green pigeons have maroon patches on the top of their wings and the juveniles have an olive color."
+    },
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": "They may occur and breed in high densities but are prone to regular local movements. Their range includes Angola, Benin, Botswana, Burkina Faso, Burundi, Cameroon, Central African Republic, Chad, Republic of the Congo, Democratic Republic of the Congo, Ivory Coast, Equatorial Guinea, Eswatini, Ethiopia, Gabon, Gambia, Ghana, Guinea, Guinea-Bissau, Kenya, Liberia, Malawi, Mali, Mauritania, Mozambique, Namibia, Niger, Nigeria, Rwanda, São Tomé and Príncipe, Senegal, Sierra Leone, Somalia, South Africa, South Sudan, Tanzania, Togo, Uganda, Zambia and Zimbabwe.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Western",
+      "Central",
+      "Coast",
+      "Nairobi"
+    ],
+    "gbif_records_in_kenya": 7385
+  },
+  "look_alikes": [
+    {
+      "label": "Poicephalus_meyeri",
+      "common_name": "Meyer's Parrot",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Dioptrornis_fischeri",
+      "common_name": "White-eyed Slaty Flycatcher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Oriolus_larvatus",
+      "common_name": "Black-headed Oriole",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_baglafecht",
+      "common_name": "Baglafecht Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Poicephalus_rufiventris",
+      "common_name": "Red-bellied Parrot",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "African green pigeon",
+      "url": "https://en.wikipedia.org/wiki/African_green_pigeon",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2495783"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

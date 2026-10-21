@@ -1,0 +1,118 @@
+{
+  "label": "Crithagra_sulphurata",
+  "scientific_name": "Crithagra sulphurata",
+  "common_name": "Brimstone Canary",
+  "other_names": {},
+  "family": "Fringillidae",
+  "summary": "The brimstone canary or bully canary (Crithagra sulphurata) is a small passerine bird in the finch family. It is a resident breeder in central and southern Africa. This species is found in open, lightly wooded habitats, such as hillsides with trees or scrub and forest edges.",
+  "appearance": {
+    "description": "The brimstone canary is 15–16 cm in length with a heavy bill, which is short, conical and very stout at the base. The bill is light brown with a pinkish or yellowish base. The legs and feet are pinkish-brown.",
+    "colors": "The bill is light brown with a pinkish or yellowish base. The legs and feet are pinkish-brown.",
+    "wings": "It has yellow-green upper parts with dark green streaking, yellow-green ear coverts and malar stripe, and two yellow wing bars. The sexes are similar, but the male is brighter, with a bigger bill, better defined face pattern, brighter yellow wing bars and a greenish rump."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        15.0,
+        16.0
+      ]
+    },
+    "juvenile": {
+      "notes": "Young birds are duller, greyer and less yellow below than the adults."
+    },
+    "chick": null
+  },
+  "behaviour": "=== Breeding === The brimstone canary breeds from August to October. The nest is an open cup built from thin stems and other plant material and lined with plant down. It is placed in a leafy bush or a tree.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Nairobi",
+      "Central",
+      "Eastern",
+      "Nyanza"
+    ],
+    "gbif_records_in_kenya": 9352
+  },
+  "look_alikes": [
+    {
+      "label": "Crithagra_mozambica",
+      "common_name": "Yellow-fronted Canary",
+      "difference": null,
+      "times_confused": 3
+    },
+    {
+      "label": "Crithagra_citrinelloides",
+      "common_name": "African Citril",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Crithagra_dorsostriata",
+      "common_name": "White-bellied Canary",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Ploceus_xanthops",
+      "common_name": "Holub's Golden Weaver",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Creatophora_cinerea",
+      "common_name": "Wattled Starling",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Turdoides_rubiginosa",
+      "common_name": "Rufous Chatterer",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Motacilla_flava",
+      "common_name": "Western Yellow Wagtail",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_ocularis",
+      "common_name": "Spectacled Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_spekei",
+      "common_name": "Speke's Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Turdus_abyssinicus",
+      "common_name": "Abyssinian Thrush",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Brimstone canary",
+      "url": "https://en.wikipedia.org/wiki/Brimstone_canary",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/6100973"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

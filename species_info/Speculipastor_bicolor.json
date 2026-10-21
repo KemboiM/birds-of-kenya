@@ -1,0 +1,88 @@
+{
+  "label": "Speculipastor_bicolor",
+  "scientific_name": "Speculipastor bicolor",
+  "common_name": "Magpie Starling",
+  "other_names": {},
+  "family": "Sturnidae",
+  "summary": "The magpie starling (Speculipastor bicolor) is a member of the starling family from eastern Africa.",
+  "appearance": {
+    "description": "The magpie starling is about 16–19 cm (6.5–7.5 in) in length. The white patches at base of primaries are obvious in flight. The male is a shiny blue-black on upperparts, head and upper breast, with mostly white below and bloodred eyes.",
+    "colors": "The magpie starling (Speculipastor bicolor) is a member of the starling family from eastern Africa. The white patches at base of primaries are obvious in flight.",
+    "wings": null
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        16.0,
+        19.0
+      ]
+    },
+    "juvenile": {
+      "notes": "The Juvenile is brown with a white belly; eyes brown, becoming orange-red in as the bird matures. Exceptional young birds are entirely white below, including chin and throat."
+    },
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": "It is a gregarious nomadic pied starling of dry brush and thorn-scrub in northern and eastern Kenya. It is also found in Ethiopia, Somalia, South Sudan, Tanzania, and Uganda.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Eastern",
+      "Kenya",
+      "Coast",
+      "Baringo",
+      "North-Eastern"
+    ],
+    "gbif_records_in_kenya": 1599
+  },
+  "look_alikes": [
+    {
+      "label": "Bubalornis_niger",
+      "common_name": "Red-billed Buffalo Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Buphagus_erythrorhynchus",
+      "common_name": "Red-billed Oxpecker",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bycanistes_bucinator",
+      "common_name": "Trumpeter Hornbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Turtur_tympanistria",
+      "common_name": "Tambourine Dove",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Corvus_albus",
+      "common_name": "Pied Crow",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Magpie starling",
+      "url": "https://en.wikipedia.org/wiki/Magpie_starling",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2489091"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

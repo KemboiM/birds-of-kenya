@@ -1,0 +1,150 @@
+{
+  "label": "Spilopelia_senegalensis",
+  "scientific_name": "Spilopelia senegalensis",
+  "common_name": "Laughing Dove",
+  "other_names": {
+    "sw": "Fumvu"
+  },
+  "family": "Columbidae",
+  "summary": "The laughing dove (Spilopelia senegalensis) is a small pigeon that is a resident breeder in Africa, the Middle East, South Asia, and Western Australia where it has established itself in the wild after being released from Perth Zoo in 1898. This small long-tailed dove is found in dry scrub and semi-desert habitats where pairs can often be seen feeding on the ground. It is closely related to the spotted dove (Spilopelia chinensis) which is distinguished by a white and black chequered necklace.",
+  "appearance": {
+    "description": "The laughing dove is a long-tailed, slim pigeon, typically 25 cm (9.8 in) in length. It is pinkish brown on the underside with a lilac tinged head and neck. The head and underparts are pinkish, shading to buff on the lower abdomen.",
+    "colors": "It is closely related to the spotted dove (Spilopelia chinensis) which is distinguished by a white and black chequered necklace. Other names include laughing turtle dove, palm dove and Senegal dove while in Asia the name little brown dove is often used.",
+    "wings": "The upper parts are brownish with a bluish-grey band along the wing. The African populations S. s. senegalensis and S. s. phoenicophila have a bluish grey rump and upper tail coverts but differ in the shades of the neck and wing feathers while S. s. aegyptiaca is larger and the head and nape are vinous and upper wing coverts are rufous."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        25.0,
+        25.0
+      ]
+    },
+    "juvenile": {
+      "notes": "Young birds lack the chequered neck markings."
+    },
+    "chick": null
+  },
+  "behaviour": "The species is usually seen in pairs or small parties and only rarely in larger groups. Larger groups are formed especially when drinking at waterholes in arid regions. Small numbers assemble on trees near waterholes before flying to the water's edge where they are able to suck up water like other members of the pigeon family.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "It is a common and widespread species in scrub, dry farmland, and in areas of human habitation, often becoming very tame. Its range includes much of Sub-Saharan Africa, Saudi Arabia, Iran, Kyrgyzstan, Kazakhstan, Iraq, Afghanistan, Pakistan, and India.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Eastern",
+      "Coast",
+      "Nairobi",
+      "Nyanza"
+    ],
+    "gbif_records_in_kenya": 24113
+  },
+  "look_alikes": [
+    {
+      "label": "Oena_capensis",
+      "common_name": "Namaqua Dove",
+      "difference": null,
+      "times_confused": 3
+    },
+    {
+      "label": "Passer_gongonensis",
+      "common_name": "Parrot-billed Sparrow",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Falco_naumanni",
+      "common_name": "Lesser Kestrel",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Uraeginthus_cyanocephalus",
+      "common_name": "Blue-capped Cordon-bleu",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Coracias_garrulus",
+      "common_name": "European Roller",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Urocolius_macrourus",
+      "common_name": "Blue-naped Mousebird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Calidris_minuta",
+      "common_name": "Little Stint",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Corythaixoides_personatus",
+      "common_name": "Bare-faced Go-away-bird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Corythaixoides_leucogaster",
+      "common_name": "White-bellied Go-away-bird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Dioptrornis_fischeri",
+      "common_name": "White-eyed Slaty Flycatcher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lamprotornis_fischeri",
+      "common_name": "Fischer's Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Thalassornis_leuconotus",
+      "common_name": "White-backed Duck",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Turtur_chalcospilos",
+      "common_name": "Emerald-spotted Wood Dove",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Streptopelia_decipiens",
+      "common_name": "Mourning Collared Dove",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Streptopelia_semitorquata",
+      "common_name": "Red-eyed Dove",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Laughing dove",
+      "url": "https://en.wikipedia.org/wiki/Laughing_dove",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/6101223"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "label": "Aquila_rapax",
+  "scientific_name": "Aquila rapax",
+  "common_name": "Tawny Eagle",
+  "other_names": {},
+  "family": "Accipitridae",
+  "summary": "The tawny eagle (Aquila rapax) is a large bird of prey. Like all eagles, it belongs to the family Accipitridae. Its heavily feathered legs mark it as a member of the subfamily Aquilinae, also known as booted eagles.",
+  "appearance": {
+    "description": "The tawny eagle is considered to appear \"inelegant, scruffy-looking\" but has a fairly characteristic aquiline silhouette. The species has a fairly long neck and long deep bill with a gape line level with the eye, moderately long wings with fairly pronounced \"fingers\" and a slightly rounded to almost square-ended and shortish tail, which can be more reminiscent of the tail of a vulture than that of other eagles. The feathering on the legs is extensive and can appear almost baggy-looking.",
+    "colors": "Its heavily feathered legs mark it as a member of the subfamily Aquilinae, also known as booted eagles. The tawny eagle is perhaps the most highly opportunistic of all Aquilinae, and often scavenges on carrion or engages in kleptoparasitism towards other carnivorous animals but is also a bold and active predator, often of relatively large and diverse prey.",
+    "wings": "The species has a fairly long neck and long deep bill with a gape line level with the eye, moderately long wings with fairly pronounced \"fingers\" and a slightly rounded to almost square-ended and shortish tail, which can be more reminiscent of the tail of a vulture than that of other eagles. The wingtips when perched are roughly even with the tip of the tail."
+  },
+  "size": {
+    "adult": null,
+    "juvenile": {
+      "notes": "Adults have variably colored eyes, ranging from yellow to pale brown to yellow brown, while those of juveniles are dark brown. Dark morph juvenile tawny eagles are generally light rufous to rufous brown with creamier lower back to upper tail coverts."
+    },
+    "chick": {
+      "notes": "In India, tawny eagles pairs seem to adapt to suboptimal overly sandy habitats by more dispersing nests, and can show similar productivity of chicks per nest as a result. In Hwange National Park, 72.4% of pairs present were thought to breed on average in the course of a year, with an average of 0.61 fledglings produced per effort."
+    }
+  },
+  "behaviour": "Tawny eagles are generally silent in most of their range. However, unlike steppe eagles, which are almost always silent away from their breeding grounds, they are said to occasionally vocalize in any season. They are also more vocal when not breeding than the spotted eagles.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "Tawny eagles have an extremely extensive natural distribution. The African population can be found in three, fairly discrete populations.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Eastern",
+      "Coast",
+      "Nairobi",
+      "Narok"
+    ],
+    "gbif_records_in_kenya": 18081
+  },
+  "look_alikes": [
+    {
+      "label": "Hieraaetus_wahlbergi",
+      "common_name": "Wahlberg's Eagle",
+      "difference": null,
+      "times_confused": 8
+    },
+    {
+      "label": "Aquila_nipalensis",
+      "common_name": "Steppe Eagle",
+      "difference": null,
+      "times_confused": 6
+    },
+    {
+      "label": "Polyboroides_typus",
+      "common_name": "African Harrier-hawk",
+      "difference": null,
+      "times_confused": 4
+    },
+    {
+      "label": "Terathopius_ecaudatus",
+      "common_name": "Bateleur",
+      "difference": null,
+      "times_confused": 4
+    },
+    {
+      "label": "Aquila_spilogaster",
+      "common_name": "African Hawk-eagle",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Gypohierax_angolensis",
+      "common_name": "Palm-nut Vulture",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Milvus_migrans",
+      "common_name": "Black Kite",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Buteo_buteo",
+      "common_name": "Common Buzzard",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Gyps_rueppellii",
+      "common_name": "Rüppell's Vulture",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Torgos_tracheliotos",
+      "common_name": "Lappet-faced Vulture",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Psalidoprocne_albiceps",
+      "common_name": "White-headed Saw-wing",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Falco_tinnunculus",
+      "common_name": "Common Kestrel",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Circus_macrourus",
+      "common_name": "Pallid Harrier",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Upupa_epops",
+      "common_name": "Eurasian Hoopoe",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Circaetus_cinereus",
+      "common_name": "Brown Snake Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Burhinus_vermiculatus",
+      "common_name": "Water Thick-knee",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Buteo_augur",
+      "common_name": "Augur Buzzard",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Centropus_superciliosus",
+      "common_name": "White-browed Coucal",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Elanus_caeruleus",
+      "common_name": "Black-winged Kite",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Glareola_pratincola",
+      "common_name": "Collared Pratincole",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Neophron_percnopterus",
+      "common_name": "Egyptian Vulture",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Circaetus_pectoralis",
+      "common_name": "Black-chested Snake Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bostrychia_hagedash",
+      "common_name": "Hadada Ibis",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Tawny eagle",
+      "url": "https://en.wikipedia.org/wiki/Tawny_eagle",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2480514"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "label": "Dendrocygna_viduata",
+  "scientific_name": "Dendrocygna viduata",
+  "common_name": "White-faced Whistling Duck",
+  "other_names": {},
+  "family": "Anatidae",
+  "summary": "The white-faced whistling duck (Dendrocygna viduata) is a whistling duck that breeds in sub-Saharan Africa and much of South America. This species is gregarious, and the flocks of a thousand or more arrive at dawn at favored sites. As the name implies, these are noisy birds with a clear three-note whistling call.",
+  "appearance": {
+    "description": "The white-faced whistling duck has a long grey bill, a long head, and longish legs. It has a black neck and head, and a distinctive white face that gives it its name, though the amount of white color visible has regional variations among the species. For example, the white-faced whistling ducks with more black coloration are commonly found in western Africa where rainfall supersedes the dry season.",
+    "colors": "The white-faced whistling duck (Dendrocygna viduata) is a whistling duck that breeds in sub-Saharan Africa and much of South America. This species is gregarious, and the flocks of a thousand or more arrive at dawn at favored sites.",
+    "wings": "The back and wings are dark brown to black, and the underparts are black with a fine white barring on the flanks."
+  },
+  "size": {
+    "adult": null,
+    "juvenile": {
+      "notes": "Juveniles are similar in color to adults but have a much less contrasted head pattern."
+    },
+    "chick": {
+      "notes": "The eggs hatch after 26 to 28 days. The chicks have dark down above and yellow down below."
+    }
+  },
+  "behaviour": "This is an abundant species. It is largely resident, apart from local movements which can be 100 km or more.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The white-faced whistling duck has a peculiar disjunctive distribution, occurring in Africa and South America. It has been suggested that they may have been transported to new locations worldwide by humans.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Coast",
+      "Nairobi",
+      "Central",
+      "Nyanza"
+    ],
+    "gbif_records_in_kenya": 9866
+  },
+  "look_alikes": [
+    {
+      "label": "Cossypha_semirufa",
+      "common_name": "Rüppell's Robin-chat",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Vidua_fischeri",
+      "common_name": "Straw-tailed Whydah",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lanius_collurio",
+      "common_name": "Red-backed Shrike",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Parus_albiventris",
+      "common_name": "White-bellied Tit",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Oenanthe_lugubris",
+      "common_name": "Abyssinian Wheatear",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Amaurornis_flavirostra",
+      "common_name": "Black Crake",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Calidris_pugnax",
+      "common_name": "Ruff",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Vanellus_crassirostris",
+      "common_name": "Long-toed Lapwing",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Anas_undulata",
+      "common_name": "Yellow-billed Duck",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Calidris_ferruginea",
+      "common_name": "Curlew Sandpiper",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Calidris_minuta",
+      "common_name": "Little Stint",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Dendrocygna_bicolor",
+      "common_name": "Fulvous Whistling Duck",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Scopus_umbretta",
+      "common_name": "Hamerkop",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Uraeginthus_ianthinogaster",
+      "common_name": "Purple Grenadier",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Corvus_albus",
+      "common_name": "Pied Crow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lophaetus_occipitalis",
+      "common_name": "Long-crested Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Actophilornis_africanus",
+      "common_name": "African Jacana",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "White-faced whistling duck",
+      "url": "https://en.wikipedia.org/wiki/White-faced_whistling_duck",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2498396"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

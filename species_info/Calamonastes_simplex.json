@@ -1,0 +1,63 @@
+{
+  "label": "Calamonastes_simplex",
+  "scientific_name": "Calamonastes simplex",
+  "common_name": "Grey Wren-warbler",
+  "other_names": {},
+  "family": "Cisticolidae",
+  "summary": "The grey wren-warbler (Calamonastes simplex) is a species of bird in the family Cisticolidae. It is found in Angola, Burundi, Democratic Republic of the Congo, Ethiopia, Kenya, Malawi, Rwanda, Somalia, South Sudan, Tanzania, Uganda, and Zambia. Its natural habitat is dry savanna.",
+  "appearance": {
+    "description": null,
+    "colors": "The grey wren-warbler (Calamonastes simplex) is a species of bird in the family Cisticolidae. The grey wren-warbler is a shy bird found in dense bush and undergrowth.",
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Coast",
+      "Eastern",
+      "Baringo",
+      "North-Eastern"
+    ],
+    "gbif_records_in_kenya": 8099
+  },
+  "look_alikes": [
+    {
+      "label": "Camaroptera_brachyura",
+      "common_name": "Green-backed Camaroptera",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Passer_griseus",
+      "common_name": "Northern Grey-headed Sparrow",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Grey wren-warbler",
+      "url": "https://en.wikipedia.org/wiki/Grey_wren-warbler",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2492742"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "label": "Saxicola_rubetra",
+  "scientific_name": "Saxicola rubetra",
+  "common_name": "Whinchat",
+  "other_names": {},
+  "family": "Muscicapidae",
+  "summary": "The whinchat (Saxicola rubetra) is a small migratory passerine bird breeding in Europe and western Asia and wintering in central Africa. At one time considered to be in the thrush family, Turdidae, it is now placed in the Old World flycatcher family, Muscicapidae. Both sexes have a strong supercilium, brownish upper parts mottled darker, a pale throat and breast, a pale buff to whitish belly, and a blackish tail with white bases to the outer tail feathers, but in the breeding season, the male has an orange-buff throat and breast.",
+  "appearance": {
+    "description": "The whinchat is a short-tailed bird, moving on the ground with small, rapid hops and frequently bobbing and flicking its wings and tail. It is similar in size to its relative the European robin (Erithacus rubecula), being 12 to 14 cm (4.7 to 5.5 in) long and weighing 13 to 26 g (0.46 to 0.92 oz). Both sexes have brownish upperparts mottled darker, a buff throat and breast, a pale buff to whitish belly, and a blackish tail with white bases to the outer tail feathers.",
+    "colors": "At one time considered to be in the thrush family, Turdidae, it is now placed in the Old World flycatcher family, Muscicapidae. Both sexes have a strong supercilium, brownish upper parts mottled darker, a pale throat and breast, a pale buff to whitish belly, and a blackish tail with white bases to the outer tail feathers, but in the breeding season, the male has an orange-buff throat and breast.",
+    "wings": "The whinchat is a short-tailed bird, moving on the ground with small, rapid hops and frequently bobbing and flicking its wings and tail. The male in breeding plumage has a blackish face mask almost encircled by a strong white supercilium and malar stripe, a bright orange-buff throat and breast, and small white wing patches on the greater coverts and inner median coverts."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        12.0,
+        14.0
+      ],
+      "mass_g": [
+        13.0,
+        26.0
+      ]
+    },
+    "juvenile": {
+      "notes": "Males in immature and winter plumage are similar to females, except that adult males retain the white wing patches all year round. Though fairly similar to females and immatures of the European stonechat (S. rubicola), the whinchat can readily be distinguished by its conspicuous supercilium and whiter belly, and also in western Europe, by being paler overall than the western European stonechat subspecies S. rubicola hibernans."
+    },
+    "chick": null
+  },
+  "behaviour": "The whinchat is a largely solitary bird though it may form small family groups in autumn. It favours rough low vegetation habitats such as open rough pasture or similar minimally cultivated grassland with scattered small shrubs such as hawthorn (Crataegus monogyna), and bracken (Pteridium aquilinum) or heather (Calluna vulgaris) stands on rock-strewn ground. It also commonly inhabits new and clear-felled conifer plantations until the new tree crop is about five to six years old and a metre or two tall.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The whinchat is a migratory species breeding in Europe and western Asia from Ireland and northern Portugal east to the Ob River basin near Novosibirsk, and from northern Norway south to central Spain, central Italy, northern Greece, and the Caucasus Mountains. Birds arrive on the breeding grounds between the end of April and mid-May, and depart between mid-August and mid-September (odd birds lingering to October).",
+    "kenya_regions": [
+      "Rift Valley",
+      "Nairobi",
+      "Kenya",
+      "Western",
+      "Nyanza",
+      "Central"
+    ],
+    "gbif_records_in_kenya": 1955
+  },
+  "look_alikes": [
+    {
+      "label": "Oenanthe_pileata",
+      "common_name": "Capped Wheatear",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Muscicapa_adusta",
+      "common_name": "African Dusky Flycatcher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Oenanthe_oenanthe",
+      "common_name": "Northern Wheatear",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Passer_rufocinctus",
+      "common_name": "Kenya Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Batis_molitor",
+      "common_name": "Chinspot Batis",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Whinchat",
+      "url": "https://en.wikipedia.org/wiki/Whinchat",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2492521"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

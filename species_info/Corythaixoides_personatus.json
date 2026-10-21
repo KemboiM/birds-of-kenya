@@ -1,0 +1,116 @@
+{
+  "label": "Corythaixoides_personatus",
+  "scientific_name": "Corythaixoides personatus",
+  "common_name": "Bare-faced Go-away-bird",
+  "other_names": {},
+  "family": "Musophagidae",
+  "summary": "The bare-faced go-away-bird (Crinifer personatus) is a species of bird in the family Musophagidae which is native to the eastern Afrotropics. It is named for its distinctive and uniquely bare, black face.",
+  "appearance": {
+    "description": "The sexes are similar, other than the female's green beak. It is 48 cm (19 in) long beak to tail, and weighs approximately 210 to 300 grams. Its call is a double or repetitive kow-kow.",
+    "colors": "It is named for its distinctive and uniquely bare, black face. The sexes are similar, other than the female's green beak.",
+    "wings": null
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        48.0,
+        48.0
+      ]
+    },
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": "The bare-faced go-away-bird is a noisy and restless species, that moves about singly or in groups. These birds primarily eat fruits, leaf buds, and seeds.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The bare-faced go-away-bird is found in two disjunct areas in Africa: one in Ethiopia, and the other in Burundi, DRC, Kenya, Malawi, Rwanda, Tanzania, Uganda and Zambia. It occurs in open woodland, thickets and in cultivation with scattered trees.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Nyanza",
+      "Narok",
+      "Eastern",
+      "Homa Bay"
+    ],
+    "gbif_records_in_kenya": 4126
+  },
+  "look_alikes": [
+    {
+      "label": "Colius_leucocephalus",
+      "common_name": "White-headed Mousebird",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Streptopelia_semitorquata",
+      "common_name": "Red-eyed Dove",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Parus_albiventris",
+      "common_name": "White-bellied Tit",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Poicephalus_rufiventris",
+      "common_name": "Red-bellied Parrot",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Prinia_subflava",
+      "common_name": "Tawny-flanked Prinia",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Corythaixoides_leucogaster",
+      "common_name": "White-bellied Go-away-bird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Necrosyrtes_monachus",
+      "common_name": "Hooded Vulture",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Oena_capensis",
+      "common_name": "Namaqua Dove",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pycnonotus_barbatus",
+      "common_name": "Common Bulbul",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Spilopelia_senegalensis",
+      "common_name": "Laughing Dove",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Bare-faced go-away-bird",
+      "url": "https://en.wikipedia.org/wiki/Bare-faced_go-away-bird",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2475265"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

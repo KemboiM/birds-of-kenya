@@ -1,0 +1,76 @@
+{
+  "label": "Eurystomus_glaucurus",
+  "scientific_name": "Eurystomus glaucurus",
+  "common_name": "Broad-billed Roller",
+  "other_names": {},
+  "family": "Coraciidae",
+  "summary": "The broad-billed roller (Eurystomus glaucurus) is a member of the roller family of birds which breeds across tropical Africa and Madagascar in all but the driest regions. It is a wet season breeder, which migrates from the northern and southern areas of its range towards the moister equatorial belt in the dry season.",
+  "appearance": {
+    "description": "The broad-billed roller is 29–30 cm in length. It has a warm back and head, lilac foreneck and breast, with the rest of the plumage mainly brown. The broad bill is bright yellow.",
+    "colors": "It has a warm back and head, lilac foreneck and breast, with the rest of the plumage mainly brown. The broad bill is bright yellow.",
+    "wings": "The broad-billed roller is striking in its strong direct flight, with the brilliant blues of the wings and tail contrasting with the brown back."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        29.0,
+        30.0
+      ]
+    },
+    "juvenile": {
+      "notes": "Sexes are similar, but the juvenile is a drabber version of the adult, with a pale breast."
+    },
+    "chick": null
+  },
+  "behaviour": "They are inactive for most of the day, apart from chasing intruders, but in late afternoon they hunt for the swarming ants and termites on which they feed, sometimes in groups of 100 or more rollers. They drink like swallows, dipping their bills into water in flight. This bird nests in an unlined hole in a tree cavity, laying 2-3 eggs.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "This is a species of open woodland with some tall trees, preferably near water. These rollers often perch prominently on trees, posts or overhead wires, like giant shrikes.",
+    "kenya_regions": [
+      "Kenya",
+      "Rift Valley",
+      "Coast",
+      "Nyanza",
+      "Eastern",
+      "Western"
+    ],
+    "gbif_records_in_kenya": 2147
+  },
+  "look_alikes": [
+    {
+      "label": "Merops_oreobates",
+      "common_name": "Cinnamon-chested Bee-eater",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Muscicapa_adusta",
+      "common_name": "African Dusky Flycatcher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Torgos_tracheliotos",
+      "common_name": "Lappet-faced Vulture",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Broad-billed roller",
+      "url": "https://en.wikipedia.org/wiki/Broad-billed_roller",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/5228294"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

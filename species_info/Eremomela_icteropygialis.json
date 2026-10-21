@@ -1,0 +1,74 @@
+{
+  "label": "Eremomela_icteropygialis",
+  "scientific_name": "Eremomela icteropygialis",
+  "common_name": "Yellow-bellied Eremomela",
+  "other_names": {},
+  "family": "Cisticolidae",
+  "summary": "The yellow-bellied eremomela (Eremomela icteropygialis) is an Old World warbler. However, the taxonomy of the \"African warblers\", an assemblage of usually species-poor and apparently rather ancient \"odd warblers\" from Africa is currently in a state of flux. Today, most taxonomists consider members in this genus members of the family Cisticolidae.",
+  "appearance": {
+    "description": "The yellow-bellied eremomela is a very small bird 10 cm long and weighing around 9 g. Its upperparts are grey, becoming darker and more olive on the wings and tail. There is a thin pale grey supercilium and a blackish stripe through the eye.",
+    "colors": "The yellow-bellied eremomela (Eremomela icteropygialis) is an Old World warbler. The yellow-bellied eremomela is a common breeding species in Africa south of the Sahara in its habitat of open woodland, savannah, and dry scrub.",
+    "wings": "Its upperparts are grey, becoming darker and more olive on the wings and tail."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        10.0,
+        10.0
+      ],
+      "mass_g": [
+        9.0,
+        9.0
+      ]
+    },
+    "juvenile": {
+      "notes": "The sexes are similar, but the juvenile has duller yellow underparts than the adult."
+    },
+    "chick": null
+  },
+  "behaviour": "The yellow-bellied eremomela builds a cup nest in the branches of a tree or shrub, and lays two to four white eggs. This territorial species is monogamous, pairing for life. This bird is usually seen alone, in pairs, or in family groups as it forages on the ground or in foliage for insects and other small invertebrates",
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Eastern",
+      "Nairobi",
+      "Coast",
+      "Central"
+    ],
+    "gbif_records_in_kenya": 2800
+  },
+  "look_alikes": [
+    {
+      "label": "Coccopygia_quartinia",
+      "common_name": "Yellow-bellied Waxbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Dioptrornis_fischeri",
+      "common_name": "White-eyed Slaty Flycatcher",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Yellow-bellied eremomela",
+      "url": "https://en.wikipedia.org/wiki/Yellow-bellied_eremomela",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2492977"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

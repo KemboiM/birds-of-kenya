@@ -1,0 +1,61 @@
+{
+  "label": "Elminia_longicauda",
+  "scientific_name": "Elminia longicauda",
+  "common_name": "African Blue Flycatcher",
+  "other_names": {},
+  "family": "Stenostiridae",
+  "summary": "The African blue flycatcher or blue-crested flycatcher (Elminia longicauda) is a species of bird in the family Stenostiridae found in parts of West, Central and East Africa.",
+  "appearance": {
+    "description": "The African blue flycatcher is a dainty, pale, bright blue flycatcher with a short crest and long tail. The entire upper parts and tail are bright blue, shading between blue and cyan, with black lores and black flight feathers edged with blue, the underparts are greyish blue fading to whitish on the belly. The bill and legs are black.",
+    "colors": "The African blue flycatcher or blue-crested flycatcher (Elminia longicauda) is a species of bird in the family Stenostiridae found in parts of West, Central and East Africa. The African blue flycatcher is a dainty, pale, bright blue flycatcher with a short crest and long tail.",
+    "wings": "Juveniles are duller with faint greyish spotting on the head and wing coverts."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        15.0,
+        18.0
+      ],
+      "mass_g": [
+        7.0,
+        12.0
+      ]
+    },
+    "juvenile": {
+      "notes": "Juveniles are duller with faint greyish spotting on the head and wing coverts."
+    },
+    "chick": null
+  },
+  "behaviour": "The song of the African blue flycatcher is a series of slow, rather random and tuneless sibilant notes strung together in no particular order. Call is a quiet \"tsip\".",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The African blue flycatcher occurs from Mauritania, Senegal and Gambia east discontinuously to Kenya and south through the eastern Democratic Republic of Congo to northern Angola. Its natural habitats are moist lowland forests, mangrove forests, gallery forest, montane forests, gardens, wooded farmland and moist savanna.",
+    "kenya_regions": [
+      "Western",
+      "Rift Valley",
+      "Kenya",
+      "Nyanza",
+      "Kakamega",
+      "Narok"
+    ],
+    "gbif_records_in_kenya": 4651
+  },
+  "look_alikes": [],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "African blue flycatcher",
+      "url": "https://en.wikipedia.org/wiki/African_blue_flycatcher",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2486690"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

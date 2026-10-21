@@ -1,0 +1,57 @@
+{
+  "label": "Prionops_plumatus",
+  "scientific_name": "Prionops plumatus",
+  "common_name": "White-crested Helmetshrike",
+  "other_names": {},
+  "family": "Prionopidae",
+  "summary": "The white-crested helmetshrike (Prionops plumatus), also known as the white helmetshrike, is a species of passerine bird in the Vanga family Vangidae, formerly usually included in the Malaconotidae.",
+  "appearance": {
+    "description": null,
+    "colors": "The white-crested helmetshrike (Prionops plumatus), also known as the white helmetshrike, is a species of passerine bird in the Vanga family Vangidae, formerly usually included in the Malaconotidae.",
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": "It is a gregarious bird and is found in small, active parties that are always on the move as they forage among the foliage or on the ground. They chatter noisily to one another as they move through their territory.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "It is found in Angola, Benin, Botswana, Burkina Faso, Burundi, Cameroon, Central African Republic, Chad, Democratic Republic of the Congo, Ivory Coast, Eritrea, Eswatini, Ethiopia, Gambia, Ghana, Guinea, Guinea-Bissau, Kenya, Malawi, Mali, Mauritania, Mozambique, Namibia, Niger, Nigeria, Rwanda, Senegal, Sierra Leone, Somalia, South Africa, Sudan, Tanzania, Togo, Uganda, Zambia, and Zimbabwe. Its natural habitats are subtropical or tropical dry forests, dry savanna, moist savanna, and subtropical or tropical dry shrubland.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Coast",
+      "Eastern",
+      "Nairobi",
+      "Central"
+    ],
+    "gbif_records_in_kenya": 2850
+  },
+  "look_alikes": [
+    {
+      "label": "Creatophora_cinerea",
+      "common_name": "Wattled Starling",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "White-crested helmetshrike",
+      "url": "https://en.wikipedia.org/wiki/White-crested_helmetshrike",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2484841"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "label": "Cossypha_semirufa",
+  "scientific_name": "Cossypha semirufa",
+  "common_name": "Rüppell's Robin-chat",
+  "other_names": {},
+  "family": "Muscicapidae",
+  "summary": "Rüppell's robin-chat (Cossypha semirufa) is a species of bird in the family Muscicapidae, that is native to the Afrotropics. It is named for the German naturalist Eduard Rüppell.",
+  "appearance": {
+    "description": "It is a smaller version of the White-browed robin-chat, measuring 18 cm rather than 20 cm, with darker, blackish central tail feathers, and in some races a more constricted supercilium behind the eye.",
+    "colors": "It is a smaller version of the White-browed robin-chat, measuring 18 cm rather than 20 cm, with darker, blackish central tail feathers, and in some races a more constricted supercilium behind the eye.",
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": "It is native to Eritrea, Ethiopia, Kenya, South Sudan and Tanzania. It is found in subtropical or tropical moist montane forests, including Juniper and Podocarpus forest, and in subtropical or tropical moist shrubland and gardens.",
+    "kenya_regions": [
+      "Nairobi",
+      "Kenya",
+      "Central",
+      "Rift Valley",
+      "Eastern",
+      "Coast"
+    ],
+    "gbif_records_in_kenya": 11934
+  },
+  "look_alikes": [
+    {
+      "label": "Cossypha_heuglini",
+      "common_name": "White-browed Robin-chat",
+      "difference": null,
+      "times_confused": 5
+    },
+    {
+      "label": "Dendrocygna_viduata",
+      "common_name": "White-faced Whistling Duck",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Dessonornis_caffer",
+      "common_name": "Cape Robin-chat",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Thamnolaea_cinnamomeiventris",
+      "common_name": "Mocking Cliff Chat",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Poicephalus_rufiventris",
+      "common_name": "Red-bellied Parrot",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Rüppell's robin-chat",
+      "url": "https://en.wikipedia.org/wiki/R%C3%BCppell%27s_robin-chat",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2492595"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

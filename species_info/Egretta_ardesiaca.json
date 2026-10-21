@@ -1,0 +1,92 @@
+{
+  "label": "Egretta_ardesiaca",
+  "scientific_name": "Egretta ardesiaca",
+  "common_name": "Black Heron",
+  "other_names": {},
+  "family": "Ardeidae",
+  "summary": "The black heron (Egretta ardesiaca), also known as the black egret, is an African heron. It uses its wings to form a canopy when fishing.",
+  "appearance": {
+    "description": "The black heron is a medium-sized bird, with a typical height range of 42.5 to 66 cm (16.7 to 26.0 in). Their weight can range from 0.27 to 0.39 kg (0.60 to 0.86 lb). They are known for their black plumage, black bill, and yellow feet.",
+    "colors": "The black heron (Egretta ardesiaca), also known as the black egret, is an African heron. The black heron is a medium-sized bird, with a typical height range of 42.5 to 66 cm (16.7 to 26.0 in).",
+    "wings": "It uses its wings to form a canopy when fishing."
+  },
+  "size": {
+    "adult": {
+      "mass_g": [
+        270.0,
+        390.0
+      ]
+    },
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The black heron occurs patchily through Sub-Saharan Africa, from Senegal and Sudan to South Africa, but is found mainly on the eastern half of the continent and in Madagascar. It has also been observed in Greece and Italy.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Coast",
+      "Nakuru",
+      "Kajiado",
+      "Nyanza"
+    ],
+    "gbif_records_in_kenya": 1743
+  },
+  "look_alikes": [
+    {
+      "label": "Ardea_goliath",
+      "common_name": "Goliath Heron",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ardeola_rufiventris",
+      "common_name": "Rufous-bellied Heron",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Guttera_pucherani",
+      "common_name": "Eastern Crested Guinea Fowl",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pelecanus_onocrotalus",
+      "common_name": "Great White Pelican",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Plegadis_falcinellus",
+      "common_name": "Glossy Ibis",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ardeola_ralloides",
+      "common_name": "Squacco Heron",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Black heron",
+      "url": "https://en.wikipedia.org/wiki/Black_heron",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2480878"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

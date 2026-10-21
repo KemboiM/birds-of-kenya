@@ -1,0 +1,112 @@
+{
+  "label": "Pandion_haliaetus",
+  "scientific_name": "Pandion haliaetus",
+  "common_name": "Osprey",
+  "other_names": {
+    "sw": "Koho"
+  },
+  "family": "Pandionidae",
+  "summary": "The osprey (Pandion haliaetus; ), historically known as sea hawk, river hawk, and fish hawk, is a diurnal, fish-eating bird of prey with a cosmopolitan range. It is a large raptor, reaching more than 60 cm (24 in) in length and a wingspan of 180 cm (71 in). It is brown on the upperparts and predominantly greyish on the head and underparts.",
+  "appearance": {
+    "description": "The osprey differs in several respects from other diurnal birds of prey. Its toes are of equal length, its tarsi are reticulated, and its talons are rounded, rather than grooved. The osprey and owls are the only raptors whose outer toes are reversible, allowing them to grasp their prey with two toes in front and two behind.",
+    "colors": "It is brown on the upperparts and predominantly greyish on the head and underparts. The upperparts are a deep, glossy brown, while the breast is white, sometimes streaked with brown, and the underparts are pure white.",
+    "wings": "The osprey and owls are the only raptors whose outer toes are reversible, allowing them to grasp their prey with two toes in front and two behind. The wing chord measures 38 to 52 cm (15 to 20 in), the tail measures 16.5 to 24 cm (6.5 to 9.4 in), and the tarsus is 5.2–6.6 cm (2.0–2.6 in)."
+  },
+  "size": {
+    "adult": {
+      "wingspan_cm": [
+        180.0,
+        180.0
+      ],
+      "length_cm": [
+        60.0,
+        60.0
+      ],
+      "mass_g": [
+        900.0,
+        2100.0
+      ]
+    },
+    "juvenile": {
+      "notes": "The juvenile osprey may be identified by buff fringes to the plumage of the upperparts, a buff tone to the underparts, and streaked feathers on the head. During spring, barring on the underwings and flight feathers is a better indicator of a young bird, due to wear on the upperparts."
+    },
+    "chick": {
+      "notes": "The eggs are incubated for about 35–43 days to hatching. The newly hatched chicks weigh only 50–60 g (1.8–2.1 oz), but fledge in 8–10 weeks."
+    }
+  },
+  "behaviour": "=== Diet === The osprey is piscivorous, with fish making up 99% of its diet. It typically takes live fish weighing 150–300 g (5.3–10.6 oz) and about 25–35 cm (9.8–13.8 in) in length, but virtually any type of fish from 50 g (1.8 oz) to 2 kg (4.4 lb) can be taken. Even larger 2.8 kg (6.2 lb) northern pike (Esox lucius) have been taken in Russia.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The osprey is the second-most widely distributed raptor species, after the peregrine falcon, and is one of only six land birds with a worldwide distribution. It is found in temperate and tropical regions of all continents, except Antarctica.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Coast",
+      "Nyanza",
+      "Central",
+      "Eastern"
+    ],
+    "gbif_records_in_kenya": 3305
+  },
+  "look_alikes": [
+    {
+      "label": "Riparia_cincta",
+      "common_name": "Banded Martin",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Neotis_heuglinii",
+      "common_name": "Heuglin's Bustard",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Polemaetus_bellicosus",
+      "common_name": "Martial Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ptyonoprogne_fuligula",
+      "common_name": "Large Rock Martin",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tockus_erythrorhynchus",
+      "common_name": "Northern Red-billed Hornbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Circaetus_cinereus",
+      "common_name": "Brown Snake Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Buteo_augur",
+      "common_name": "Augur Buzzard",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Osprey",
+      "url": "https://en.wikipedia.org/wiki/Osprey",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2480726"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

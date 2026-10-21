@@ -1,0 +1,125 @@
+{
+  "label": "Ichthyaetus_hemprichii",
+  "scientific_name": "Ichthyaetus hemprichii",
+  "common_name": "Sooty Gull",
+  "other_names": {
+    "sw": "Shakwe kijivucheusi"
+  },
+  "family": "Laridae",
+  "summary": "The sooty gull (Ichthyaetus hemprichii) is a species of gull in the family Laridae, also known as the Aden gull or Hemprich's gull. It is found in Bahrain, Djibouti, Egypt, Eritrea, India, Iran, Israel, Jordan, Kenya, Lebanon, Maldives, Mozambique, Oman, Pakistan, Palestine, Qatar, Saudi Arabia, Somalia, Sri Lanka, Sudan, Tanzania, United Arab Emirates, and Yemen. As is the case with many gulls, it has traditionally been placed in the genus Larus.",
+  "appearance": {
+    "description": null,
+    "colors": null,
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": "The sooty gull is a predator and scavenger. It feeds on discarded fish and fish offal, other small fish that it catches itself, prawns, newly hatched turtles and the eggs and chicks of other sea birds. Breeding takes place during the summer.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The sooty gull is native to the Red Sea, the Gulf of Aden, the Gulf of Oman, the Persian Gulf and its range extends as far east as Pakistan. It is also native to the east coast of Africa as far south as Tanzania and Mozambique.",
+    "kenya_regions": [
+      "Coast",
+      "Kenya",
+      "Kilifi",
+      "Kwale",
+      "Mombasa",
+      "Lamu"
+    ],
+    "gbif_records_in_kenya": 2561
+  },
+  "look_alikes": [
+    {
+      "label": "Thalasseus_bengalensis",
+      "common_name": "Lesser Crested Tern",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Aquila_verreauxii",
+      "common_name": "Verreaux's Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Numenius_phaeopus",
+      "common_name": "Eurasian Whimbrel",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ardea_cinerea",
+      "common_name": "Grey Heron",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Chroicocephalus_cirrocephalus",
+      "common_name": "Grey-headed Gull",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Circus_pygargus",
+      "common_name": "Montagu's Harrier",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Psalidoprocne_albiceps",
+      "common_name": "White-headed Saw-wing",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Plectropterus_gambensis",
+      "common_name": "Spur-winged Goose",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Anas_erythrorhyncha",
+      "common_name": "Red-billed Teal",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Calidris_pugnax",
+      "common_name": "Ruff",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Actitis_hypoleucos",
+      "common_name": "Common Sandpiper",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Circaetus_pectoralis",
+      "common_name": "Black-chested Snake Eagle",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Sooty gull",
+      "url": "https://en.wikipedia.org/wiki/Sooty_gull",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/8303453"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

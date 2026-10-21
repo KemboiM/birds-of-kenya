@@ -1,0 +1,112 @@
+{
+  "label": "Myrmecocichla_nigra",
+  "scientific_name": "Myrmecocichla nigra",
+  "common_name": "Sooty Chat",
+  "other_names": {
+    "sw": "Chati Bega-jeupe"
+  },
+  "family": "Muscicapidae",
+  "summary": "The sooty chat (Myrmecocichla nigra) is an African songbird of the chat subfamily.",
+  "appearance": {
+    "description": "It is 15 to 16 cm (6 to 6.25 inches) long, stocky and relatively short-tailed for a chat. The adult male's plumage is glossy black except for white patches on the upper wings that are usually visible or only partly concealed (as in the photograph at upper right) when the bird is at rest. The female and young are very dark brown.",
+    "colors": "The adult male's plumage is glossy black except for white patches on the upper wings that are usually visible or only partly concealed (as in the photograph at upper right) when the bird is at rest. The female and young are very dark brown.",
+    "wings": "The adult male's plumage is glossy black except for white patches on the upper wings that are usually visible or only partly concealed (as in the photograph at upper right) when the bird is at rest."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        15.0,
+        16.0
+      ]
+    },
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": "It occurs widely but discontinuously in African grasslands, from Senegal east to Kenya and south to Angola and Zambia. Its range is estimated at 3,400,000 km2, and it is considered \"frequent\" in at least parts of that area.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Narok",
+      "Laikipia",
+      "Rift Valley Province",
+      "Rift valley prov"
+    ],
+    "gbif_records_in_kenya": 4752
+  },
+  "look_alikes": [
+    {
+      "label": "Myrmecocichla_aethiops",
+      "common_name": "Anteater Chat",
+      "difference": null,
+      "times_confused": 6
+    },
+    {
+      "label": "Euplectes_albonotatus",
+      "common_name": "White-winged Widowbird",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Dicrurus_adsimilis",
+      "common_name": "Fork-tailed Drongo",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Notopholia_corrusca",
+      "common_name": "Black-bellied Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Melaenornis_edolioides",
+      "common_name": "Northern Black Flycatcher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Campephaga_flava",
+      "common_name": "Black Cuckooshrike",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lamprotornis_purpuroptera",
+      "common_name": "Rüppell's Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Melaenornis_pammelaina",
+      "common_name": "Southern Black Flycatcher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Necrosyrtes_monachus",
+      "common_name": "Hooded Vulture",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Sooty chat",
+      "url": "https://en.wikipedia.org/wiki/Sooty_chat",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2492696"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

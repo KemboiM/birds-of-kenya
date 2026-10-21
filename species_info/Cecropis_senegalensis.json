@@ -1,0 +1,112 @@
+{
+  "label": "Cecropis_senegalensis",
+  "scientific_name": "Cecropis senegalensis",
+  "common_name": "Mosque Swallow",
+  "other_names": {},
+  "family": "Hirundinidae",
+  "summary": "The mosque swallow (Cecropis senegalensis) is a large species of swallow. It is a resident breeder in much of sub-Saharan Africa, although most common in the west. It does not migrate but follows the rains to some extent.",
+  "appearance": {
+    "description": "The mosque swallow is the largest and heaviest species of African swallow, resembling a big red-rumped swallow Cecropis daurica. The crown, upperparts, and tail are glossy dark blue, and the lores and sides of the head are whitish forming a collar. The rump is dark rufous, while the throat and upper breast are pale rufous, shading to dark rufous on the remainder of the underparts.",
+    "colors": "The mosque swallow is the largest and heaviest species of African swallow, resembling a big red-rumped swallow Cecropis daurica. The crown, upperparts, and tail are glossy dark blue, and the lores and sides of the head are whitish forming a collar.",
+    "wings": "Very pale underwing coverts contrast with the dark flight feathers."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        21.0,
+        23.0
+      ]
+    },
+    "juvenile": {
+      "notes": "Juveniles are browner."
+    },
+    "chick": null
+  },
+  "behaviour": "The mosque swallow feeds on flying insects such as ants, termite alates and flies, normally foraging 2–30 m (6 ft 7 in – 98 ft 5 in) above the ground. It is attracted to termite emergence events and bushfires when it can gather in flocks of up to 30 birds, It has a slow rather falcon-like flight with a lot of gliding and often forages high above the woodland canopy in association with other hirundines and swifts. The mosque swallow nests either solitarily or in small groups.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The mosque swallow is found from southern Mauritania and Senegal east to western South Sudan then south to Namibia, northern Botswana, Zimbabwe, Mozambique, and north-eastern South Africa. In southern Africa the mosque swallow is a woodland bird, preferring dense broad-leaved woodland with mopane (Colosphermum mopane) but also miombo (Brachystegia spp), with scattered baobabs (Adansonia digitata) and leadwoods (Combretum imberbe).",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Central",
+      "Coast",
+      "Eastern",
+      "Western"
+    ],
+    "gbif_records_in_kenya": 4672
+  },
+  "look_alikes": [
+    {
+      "label": "Riparia_cincta",
+      "common_name": "Banded Martin",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Falco_biarmicus",
+      "common_name": "Lanner Falcon",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Coracias_naevius",
+      "common_name": "Purple Roller",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Crithagra_mozambica",
+      "common_name": "Yellow-fronted Canary",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Turdus_abyssinicus",
+      "common_name": "Abyssinian Thrush",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Vidua_fischeri",
+      "common_name": "Straw-tailed Whydah",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Hirundo_rustica",
+      "common_name": "Barn Swallow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lamprotornis_hildebrandti",
+      "common_name": "Hildebrandt's Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lanius_excubitoroides",
+      "common_name": "Grey-backed Fiscal",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Mosque swallow",
+      "url": "https://en.wikipedia.org/wiki/Mosque_swallow",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/7342250"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

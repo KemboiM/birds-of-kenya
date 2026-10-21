@@ -1,0 +1,90 @@
+{
+  "label": "Bubo_cinerascens",
+  "scientific_name": "Bubo cinerascens",
+  "common_name": "Greyish Eagle-owl",
+  "other_names": {},
+  "family": "Strigidae",
+  "summary": "The greyish eagle-owl or vermiculated eagle-owl (Bubo cinerascens) is a rather large owl of the northern part of sub-Saharan Africa. It was previously regarded as the northern subspecies of the spotted eagle-owl (Bubo africanus).",
+  "appearance": {
+    "description": "This species is about 43 cm (17 in) long and weighs about 500 g (18 oz). Like the spotted eagle-owl, the greyish eagle-owl has mottled dark brown, buff, and white upperparts and finely barred (vermiculated) underparts giving a greyish-brown appearance. It differs from the spotted eagle-owl in having dark brown (not yellow) eyes and a brownish facial disk marked with a heavy brown circle around each eye.",
+    "colors": "The greyish eagle-owl or vermiculated eagle-owl (Bubo cinerascens) is a rather large owl of the northern part of sub-Saharan Africa. Like the spotted eagle-owl, the greyish eagle-owl has mottled dark brown, buff, and white upperparts and finely barred (vermiculated) underparts giving a greyish-brown appearance.",
+    "wings": null
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        43.0,
+        43.0
+      ],
+      "mass_g": [
+        500.0,
+        500.0
+      ]
+    },
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": "As the greyish eagle-owl was considered the northern form of the spotted eagle-owl until recently their vocalisations have not been well studied. The call of the male recorded in West Africa consisted of two clear syllables and has been rendered as \"koo-whoo\" where the \"koo\" part is rather explosive and the \"whoo\" is somewhat downward inflected, lower pitched and extended. This call is made every few seconds and is thus not similar to that of the spotted eagle-owl.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "It is found in the northern part of sub-Saharan Africa from Mauritania and Liberia east to Sudan and Somalia. Its habitats include dry rocky deserts and open savannah, as well as lowland forests in Somalia.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Baringo",
+      "Eastern",
+      "Coast",
+      "Laikipia"
+    ],
+    "gbif_records_in_kenya": 910
+  },
+  "look_alikes": [
+    {
+      "label": "Bubo_africanus",
+      "common_name": "Spotted Eagle-owl",
+      "difference": null,
+      "times_confused": 5
+    },
+    {
+      "label": "Bubo_lacteus",
+      "common_name": "Verreaux's Eagle-owl",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Strix_woodfordii",
+      "common_name": "African Wood Owl",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ptilopsis_leucotis",
+      "common_name": "Northern White-faced Owl",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Otus_ireneae",
+      "common_name": "Sokoke Scops Owl",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Greyish eagle-owl",
+      "url": "https://en.wikipedia.org/wiki/Greyish_eagle-owl",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/5959117"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

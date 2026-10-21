@@ -1,0 +1,78 @@
+{
+  "label": "Nectarinia_famosa",
+  "scientific_name": "Nectarinia famosa",
+  "common_name": "Malachite Sunbird",
+  "other_names": {},
+  "family": "Nectariniidae",
+  "summary": "The malachite sunbird (Nectarinia famosa) is a small nectarivorous bird found from the highlands of Ethiopia southwards to South Africa. They pollinate many flowering plants, particularly those with long corolla tubes, in the Fynbos.",
+  "appearance": {
+    "description": "The breeding male malachite sunbird, which has very long central tail feathers, is 25 cm long, and the shorter-tailed female 15 cm. The adult male is metallic green when breeding, with blackish-green wings with small yellow pectoral patches. In non-breeding (eclipse) plumage, the male's upperparts are brown apart from the green wings and tail, the latter retaining the elongated feathers.",
+    "colors": "The adult male is metallic green when breeding, with blackish-green wings with small yellow pectoral patches. In non-breeding (eclipse) plumage, the male's upperparts are brown apart from the green wings and tail, the latter retaining the elongated feathers.",
+    "wings": "The adult male is metallic green when breeding, with blackish-green wings with small yellow pectoral patches. In non-breeding (eclipse) plumage, the male's upperparts are brown apart from the green wings and tail, the latter retaining the elongated feathers."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        15.0,
+        25.0
+      ]
+    },
+    "juvenile": {
+      "notes": "The juvenile resembles the female."
+    },
+    "chick": {
+      "notes": "The chicks are fed by both parents until fledging time, and the chicks will for a time return to the nest to roost."
+    }
+  },
+  "behaviour": "This species is monogamous. The oval nest is usually suspended, as with most sunbirds, or constructed inside a bush. The female incubates one to three dark-blotched, greenish eggs for two weeks.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "This large sunbird is found in hilly fynbos (including Protea stands as well as areas with aloes) and cool montane and coastal scrub, up to 2,800m altitude in South Africa. It also occurs in parks and gardens (often nesting within those located in the Highveld).",
+    "kenya_regions": [
+      "Central",
+      "Rift Valley",
+      "Kenya",
+      "Eastern",
+      "Central prov",
+      "Nairobi"
+    ],
+    "gbif_records_in_kenya": 1568
+  },
+  "look_alikes": [
+    {
+      "label": "Nectarinia_kilimensis",
+      "common_name": "Bronze Sunbird",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Chalcomitra_amethystina",
+      "common_name": "Amethyst Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Merops_revoilii",
+      "common_name": "Somali Bee-eater",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Malachite sunbird",
+      "url": "https://en.wikipedia.org/wiki/Malachite_sunbird",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/5229971"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

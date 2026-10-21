@@ -1,0 +1,98 @@
+{
+  "label": "Megaceryle_maxima",
+  "scientific_name": "Megaceryle maxima",
+  "common_name": "Giant Kingfisher",
+  "other_names": {},
+  "family": "Alcedinidae",
+  "summary": "The giant kingfisher (Megaceryle maxima) is the largest kingfisher in Africa, where it is a resident breeding bird over most of the continent south of the Sahara Desert, other than the arid southwest.",
+  "appearance": {
+    "description": "The giant kingfisher is 42–46 cm (16.5–18 in) long, with a large shaggy crest, a large black bill and fine white spots on black upperparts. The male has a chestnut breast band and otherwise white underparts with dark flank barring. The female has a white-spotted black breast band and a chestnut belly.",
+    "colors": "The giant kingfisher is 42–46 cm (16.5–18 in) long, with a large shaggy crest, a large black bill and fine white spots on black upperparts. The male has a chestnut breast band and otherwise white underparts with dark flank barring.",
+    "wings": null
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        42.0,
+        46.0
+      ]
+    },
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": "=== Breeding === In South Africa breeding takes place between September and January, in Zimbabwe from August to March, in Zambia March to April and in Liberia December to January. The giant kingfisher is monogamous and a solitary breeder. The nest is a long horizontal tunnel that is excavated into a river bank by both sexes using their feet and bills.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Central",
+      "Nairobi",
+      "Nakuru",
+      "Coast"
+    ],
+    "gbif_records_in_kenya": 5308
+  },
+  "look_alikes": [
+    {
+      "label": "Kaupifalco_monogrammicus",
+      "common_name": "Lizard Buzzard",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Buteo_augur",
+      "common_name": "Augur Buzzard",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Campethera_nubica",
+      "common_name": "Nubian Woodpecker",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Colius_striatus",
+      "common_name": "Speckled Mousebird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Microcarbo_africanus",
+      "common_name": "Reed Cormorant",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Dioptrornis_fischeri",
+      "common_name": "White-eyed Slaty Flycatcher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pycnonotus_barbatus",
+      "common_name": "Common Bulbul",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Giant kingfisher",
+      "url": "https://en.wikipedia.org/wiki/Giant_kingfisher",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2475463"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

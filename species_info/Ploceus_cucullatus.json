@@ -1,0 +1,161 @@
+{
+  "label": "Ploceus_cucullatus",
+  "scientific_name": "Ploceus cucullatus",
+  "common_name": "Village Weaver",
+  "other_names": {},
+  "family": "Ploceidae",
+  "summary": "The village weaver (Ploceus cucullatus), also known as the spotted-backed weaver or black-headed weaver (the latter leading to easy confusion with P. melanocephalus), is a bird species in the family Ploceidae found in much of sub-Saharan Africa. It has also been introduced to Portugal and Venezuela as well as to the islands of Hispaniola, Martinique, Puerto Rico, Mauritius and Réunion. This often abundant species occurs in a wide range of open or semi-open habitats, including woodlands and human habitation, and frequently forms large noisy colonies in towns, villages, and hotel grounds.",
+  "appearance": {
+    "description": "The village weaver is a stocky, 15–17 cm (5.9–6.7 in) bird with a strong conical bill and dark reddish eyes. In the northern part of its range, the breeding male has a black head edged by chestnut (typically most distinct on the nape and chest). Towards the southern part of its range, the amount of black and chestnut diminish, and the breeding males of the southernmost subspecies only have a black face and throat, while the nape and crown are yellow.",
+    "colors": "The village weaver (Ploceus cucullatus), also known as the spotted-backed weaver or black-headed weaver (the latter leading to easy confusion with P. melanocephalus), is a bird species in the family Ploceidae found in much of sub-Saharan Africa. Village weavers feed principally on seeds and grain, and can be a crop pest, but readily take insects, especially when feeding young, which partially redresses the damage to agriculture.",
+    "wings": "In all subspecies, the breeding male has a black bill, black and yellow upperparts and wings, and yellow underparts. The wings remain yellow and black."
+  },
+  "size": {
+    "adult": null,
+    "juvenile": {
+      "notes": "Young birds are like the female, but browner on the back."
+    },
+    "chick": null
+  },
+  "behaviour": "Village weavers forage and roost in large groups, often with other weaver species. In some areas, they move periodically along fixed routes. The birds look for food on the ground, but also look up to search vegetation and trees.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The village weaver is among the more common weaver species, and is widespread in sub-Saharan Africa, but is absent from the arid regions in the southwest and northeast. It has been introduced to islands in the Indian Ocean and the Caribbean, where it has adapted well to the climates similar to its original range.",
+    "kenya_regions": [
+      "Kenya",
+      "Rift Valley",
+      "Coast",
+      "Nairobi",
+      "Nyanza",
+      "Central"
+    ],
+    "gbif_records_in_kenya": 20854
+  },
+  "look_alikes": [
+    {
+      "label": "Oriolus_larvatus",
+      "common_name": "Black-headed Oriole",
+      "difference": null,
+      "times_confused": 4
+    },
+    {
+      "label": "Ploceus_vitellinus",
+      "common_name": "Vitelline Masked Weaver",
+      "difference": null,
+      "times_confused": 3
+    },
+    {
+      "label": "Ploceus_subaureus",
+      "common_name": "Eastern Golden Weaver",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Ploceus_intermedius",
+      "common_name": "Lesser Masked Weaver",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Ploceus_xanthops",
+      "common_name": "Holub's Golden Weaver",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Serinus_flavivertex",
+      "common_name": "Yellow-crowned Canary",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Ploceus_jacksoni",
+      "common_name": "Golden-backed Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_insignis",
+      "common_name": "Brown-capped Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_nigricollis",
+      "common_name": "Black-necked Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_castaneiceps",
+      "common_name": "Taveta Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Trachyphonus_erythrocephalus",
+      "common_name": "Red-and-yellow Barbet",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Hedydipna_collaris",
+      "common_name": "Collared Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Macronyx_croceus",
+      "common_name": "Yellow-throated Longclaw",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_bicolor",
+      "common_name": "Dark-backed Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_spekei",
+      "common_name": "Speke's Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pseudonigrita_cabanisi",
+      "common_name": "Black-capped Social Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Quelea_quelea",
+      "common_name": "Red-billed Quelea",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Streptopelia_decipiens",
+      "common_name": "Mourning Collared Dove",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Village weaver",
+      "url": "https://en.wikipedia.org/wiki/Village_weaver",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2494058"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

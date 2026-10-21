@@ -1,0 +1,93 @@
+{
+  "label": "Coccopygia_quartinia",
+  "scientific_name": "Coccopygia quartinia",
+  "common_name": "Yellow-bellied Waxbill",
+  "other_names": {},
+  "family": "Estrildidae",
+  "summary": "The yellow-bellied waxbill (Coccopygia quartinia) is a species of estrildid finch native to East Africa. The bird is now named yellow-bellied swee. It breeds in east central and south-eastern Africa.",
+  "appearance": {
+    "description": null,
+    "colors": "The yellow-bellied waxbill (Coccopygia quartinia) is a species of estrildid finch native to East Africa. The bird is now named yellow-bellied swee.",
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Central",
+      "Kenya",
+      "Rift Valley",
+      "Nairobi",
+      "Coast",
+      "Eastern"
+    ],
+    "gbif_records_in_kenya": 2830
+  },
+  "look_alikes": [
+    {
+      "label": "Eremomela_icteropygialis",
+      "common_name": "Yellow-bellied Eremomela",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Poicephalus_rufiventris",
+      "common_name": "Red-bellied Parrot",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Quelea_quelea",
+      "common_name": "Red-billed Quelea",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Turdus_abyssinicus",
+      "common_name": "Abyssinian Thrush",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Uraeginthus_ianthinogaster",
+      "common_name": "Purple Grenadier",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Anaplectes_rubriceps",
+      "common_name": "Red-headed Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Dendropicos_spodocephalus",
+      "common_name": "Eastern Grey Woodpecker",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Yellow-bellied waxbill",
+      "url": "https://en.wikipedia.org/wiki/Yellow-bellied_waxbill",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/7340714"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

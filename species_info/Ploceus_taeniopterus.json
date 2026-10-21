@@ -1,0 +1,69 @@
+{
+  "label": "Ploceus_taeniopterus",
+  "scientific_name": "Ploceus taeniopterus",
+  "common_name": "Northern Masked Weaver",
+  "other_names": {},
+  "family": "Ploceidae",
+  "summary": "The northern masked weaver (Ploceus taeniopterus) is a species of bird in the family Ploceidae. It is found in Democratic Republic of the Congo, Ethiopia, Kenya, and Sudan. All recent sightings in East Africa have been on the shores of Lake Baringo, Kenya.",
+  "appearance": {
+    "description": null,
+    "colors": null,
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Baringo",
+      "Rift Valley Province",
+      "Eastern",
+      "Baringo County"
+    ],
+    "gbif_records_in_kenya": 1676
+  },
+  "look_alikes": [
+    {
+      "label": "Dicrurus_adsimilis",
+      "common_name": "Fork-tailed Drongo",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_spekei",
+      "common_name": "Speke's Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_vitellinus",
+      "common_name": "Vitelline Masked Weaver",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Northern masked weaver",
+      "url": "https://en.wikipedia.org/wiki/Northern_masked_weaver",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2494043"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "label": "Pterocles_exustus",
+  "scientific_name": "Pterocles exustus",
+  "common_name": "Chestnut-bellied Sandgrouse",
+  "other_names": {},
+  "family": "Pteroclididae",
+  "summary": "The chestnut-bellied sandgrouse or common sandgrouse (Pterocles exustus) is a species of sandgrouse. It is a sedentary and nomadic species that ranges from northern and central Africa and further east towards western and southern Asia. There are six recognized subspecies.",
+  "appearance": {
+    "description": "The birds appear as small to medium-sized, brownish sandgrouses with an elongated and pointed tail when in flight. When grounded, they appear as very short-legged birds, with a small head. They will stretch out their long necks when wary.",
+    "colors": "The chestnut-bellied sandgrouse or common sandgrouse (Pterocles exustus) is a species of sandgrouse. The chestnut-bellied sandgrouse is sexually dimorphic in plumage colouration and varies in overall plumage colouration between the six subspecies.",
+    "wings": "The subspecies that inhabits the Nile Valley (P. e. floweri) have darker and greyer colouration on their heads, mantle and breasts and have less yellowish colouration on the upper wing-coverts and scapulars than the nominate subspecies, Pterocles exustus exustus (Senegal, Gambia, Mauritania and Sudan). P. e. olivascens (South Sudan to Northern Tanzania) has distinct greyer olive colouration on their upperparts and wings, with females having more heavily barred and streaked underparts than the nominate subspecies."
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": {
+      "notes": "Chestnut-bellied sandgrouse are sexually mature after one year following hatching. In captivity, incubation is done mainly by the female, with all the young hatching simultaneously after the end of the incubation period."
+    }
+  },
+  "behaviour": "The chestnut-bellied sandgrouse is sedentary, unlike most species of sandgrouse who are migratory. However, the species exhibits extensive local movements. During the summer, when water is scarce, the birds will move to nearby areas where water is still available.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The chestnut-bellied sandgrouse is found across most of northern and central Africa and further east towards western and southern Asia. These birds are wide-stretching, inhibiting mostly the Afrotropic and Indomalayan biogeographic realms.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Eastern",
+      "Kenya",
+      "Coast",
+      "Kajiado",
+      "Isiolo"
+    ],
+    "gbif_records_in_kenya": 3887
+  },
+  "look_alikes": [
+    {
+      "label": "Pterocles_decoratus",
+      "common_name": "Black-faced Sandgrouse",
+      "difference": null,
+      "times_confused": 5
+    },
+    {
+      "label": "Charadrius_hiaticula",
+      "common_name": "Common Ringed Plover",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Crithagra_dorsostriata",
+      "common_name": "White-bellied Canary",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Campocolinus_coqui",
+      "common_name": "Coqui Francolin",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ortygornis_sephaena",
+      "common_name": "Crested Francolin",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pternistis_leucoscepus",
+      "common_name": "Yellow-necked Spurfowl",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Chestnut-bellied sandgrouse",
+      "url": "https://en.wikipedia.org/wiki/Chestnut-bellied_sandgrouse",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/9522580"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

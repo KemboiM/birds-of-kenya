@@ -1,0 +1,59 @@
+{
+  "label": "Dromas_ardeola",
+  "scientific_name": "Dromas ardeola",
+  "common_name": "Crab-plover",
+  "other_names": {},
+  "family": "Dromadidae",
+  "summary": "The crab-plover or crab plover (Dromas ardeola) is a coastal wader (shorebird). It is the only member of the genus Dromas and the family Dromadidae. It is unique among waders in making use of ground warmth to aid the incubation of its eggs.",
+  "appearance": {
+    "description": "This bird resembles a plover, but has very long bluish-grey legs and a strong heavy black bill. Its pied plumage and long-necked upright posture with heavy bill makes it distinctive and unmistakable; apart from the massive bill, the plumage pattern is most reminiscent of a pied avocet. Its bill is unique among waders, and specialised for eating crabs.",
+    "colors": "This bird resembles a plover, but has very long bluish-grey legs and a strong heavy black bill. Its pied plumage and long-necked upright posture with heavy bill makes it distinctive and unmistakable; apart from the massive bill, the plumage pattern is most reminiscent of a pied avocet.",
+    "wings": "The plumage is white except for black on its back and in the primary feathers of the wings; in breeding plumage, the head is white apart from the small black eye patch, while in non-breeding plumage, the head is streaked grey."
+  },
+  "size": {
+    "adult": null,
+    "juvenile": {
+      "notes": "Juveniles have the mantle grey rather than black, and remain in this plumage for a year."
+    },
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": "It is resident on the coasts and islands of the Indian Ocean, where it feeds on crabs and other small animals. They are gregarious and will feed in large groups, at night and during dawn and dusk as well as during the day; this crepuscular and nocturnal behaviour is more common during the breeding season.",
+    "kenya_regions": [
+      "Coast",
+      "Kenya",
+      "Kilifi",
+      "Coast prov",
+      "Kwale",
+      "Lamu"
+    ],
+    "gbif_records_in_kenya": 2343
+  },
+  "look_alikes": [
+    {
+      "label": "Chlidonias_hybrida",
+      "common_name": "Whiskered Tern",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Crab-plover",
+      "url": "https://en.wikipedia.org/wiki/Crab-plover",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/5229199"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

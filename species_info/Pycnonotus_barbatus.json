@@ -1,0 +1,174 @@
+{
+  "label": "Pycnonotus_barbatus",
+  "scientific_name": "Pycnonotus barbatus",
+  "common_name": "Common Bulbul",
+  "other_names": {
+    "sw": "Shore"
+  },
+  "family": "Pycnonotidae",
+  "summary": "The common bulbul (Pycnonotus barbatus) is a member of the bulbul family of passerine birds. It is widespread throughout most of Africa except for the very arid areas, and has recently begun breeding in southernmost Spain. Ten subspecies are recognised based on the geographical variation in plumage.",
+  "appearance": {
+    "description": "The common bulbul is 18–20 cm (7.1–7.9 in) in length, with a long tail. The sexes are similar in plumage but the male is on average larger. It has a dark brown head and brown upperparts.",
+    "colors": "Ten subspecies are recognised based on the geographical variation in plumage. Some of these were formerly considered as separate species: Dodson's bulbul, the Somali bulbul and the dark-capped bulbul.",
+    "wings": null
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        18.0,
+        20.0
+      ]
+    },
+    "juvenile": null,
+    "chick": {
+      "notes": "These are incubated by the female starting when the clutch is complete and hatch after 12–15 days. The chicks are fed by both parents and leave the nest after 13–16 days although at this age they can barely fly."
+    }
+  },
+  "behaviour": "The common bulbul is usually seen in pairs or small groups. It is a conspicuous bird, which tends to sit at the top of a bush. As with other bulbuls they are active and noisy birds.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "It is a common resident breeder in much of Africa, and it has been found breeding in southern Spain at Tarifa. It is found in woodland, coastal bush, forest edges, riverine bush, montane scrub, and in mixed farming habitats.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Nairobi",
+      "Coast",
+      "Central",
+      "Eastern",
+      "Western"
+    ],
+    "gbif_records_in_kenya": 54057
+  },
+  "look_alikes": [
+    {
+      "label": "Indicator_indicator",
+      "common_name": "Greater Honeyguide",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Turdoides_hypoleuca",
+      "common_name": "Northern Pied Babbler",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Lonchura_cucullata",
+      "common_name": "Bronze Mannikin",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Andropadus_importunus",
+      "common_name": "Sombre Greenbul",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cisticola_chiniana",
+      "common_name": "Rattling Cisticola",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Calendulauda_poecilosterna",
+      "common_name": "Pink-breasted Lark",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Gymnoris_pyrgita",
+      "common_name": "Yellow-spotted Bush Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Muscicapa_striata",
+      "common_name": "Spotted Flycatcher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Prinia_subflava",
+      "common_name": "Tawny-flanked Prinia",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Corythaixoides_personatus",
+      "common_name": "Bare-faced Go-away-bird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Microcarbo_africanus",
+      "common_name": "Reed Cormorant",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Colius_striatus",
+      "common_name": "Speckled Mousebird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bradornis_microrhynchus",
+      "common_name": "African Grey Flycatcher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bubo_lacteus",
+      "common_name": "Verreaux's Eagle-owl",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Corvus_splendens",
+      "common_name": "House Crow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Creatophora_cinerea",
+      "common_name": "Wattled Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Laniarius_funebris",
+      "common_name": "Slate-colored Boubou",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Megaceryle_maxima",
+      "common_name": "Giant Kingfisher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Urocolius_macrourus",
+      "common_name": "Blue-naped Mousebird",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Common bulbul",
+      "url": "https://en.wikipedia.org/wiki/Common_bulbul",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2486147"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

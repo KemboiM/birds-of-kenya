@@ -1,0 +1,75 @@
+{
+  "label": "Chlorocichla_laetissima",
+  "scientific_name": "Chlorocichla laetissima",
+  "common_name": "Joyful Greenbul",
+  "other_names": {},
+  "family": "Pycnonotidae",
+  "summary": "The joyful greenbul (Chlorocichla laetissima) or joyful bulbul, is a species of songbird in the bulbul family, Pycnonotidae. It is found in east-central Africa. Its natural habitats are boreal forests and subtropical or tropical moist montane forests.",
+  "appearance": {
+    "description": null,
+    "colors": "The joyful greenbul (Chlorocichla laetissima) or joyful bulbul, is a species of songbird in the bulbul family, Pycnonotidae.",
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Western",
+      "Kenya",
+      "Rift Valley",
+      "Kakamega",
+      "Nyanza Province",
+      "Nandi"
+    ],
+    "gbif_records_in_kenya": 3054
+  },
+  "look_alikes": [
+    {
+      "label": "Andropadus_importunus",
+      "common_name": "Sombre Greenbul",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_xanthops",
+      "common_name": "Holub's Golden Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Eurillas_latirostris",
+      "common_name": "Yellow-whiskered Greenbul",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Zosterops_kikuyuensis",
+      "common_name": "Kikuyu White-eye",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Joyful greenbul",
+      "url": "https://en.wikipedia.org/wiki/Joyful_greenbul",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2486174"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "label": "Anthus_cinnamomeus",
+  "scientific_name": "Anthus cinnamomeus",
+  "common_name": "African Pipit",
+  "other_names": {},
+  "family": "Motacillidae",
+  "summary": "The African pipit (Anthus cinnamomeus) is a fairly small passerine bird belonging to the pipit genus Anthus in the family Motacillidae. It is also known as the grassveld pipit or grassland pipit. It was formerly lumped together with the Richard's, Australian, mountain and paddyfield pipits in a single species, Richard's pipit (Anthus novaeseelandiae), but is now often treated as a species in its own right.",
+  "appearance": {
+    "description": "The African pipit is 15 to 17 cm (5.9 to 6.7 in) long and is a slender bird with an erect stance. It is buffy-brown above with darker streaks. The underparts are white or pale buff with a streaked breast and plain belly and flanks.",
+    "colors": "It has some defining characteristics, such as light brown feathers on the head and back, dark brown feathers on the lower back and tail, and a white chest. It is buffy-brown above with darker streaks.",
+    "wings": null
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        15.0,
+        17.0
+      ]
+    },
+    "juvenile": {
+      "notes": "Juvenile birds have a blotched breast, scalloping on the upperparts and some streaking on the flanks."
+    },
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": "It occurs in grassland and fields in Southern, Central and East Africa, south-east of a line from Angola through the DRCongo to Sudan. It is also found in south-western Arabia.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Nairobi",
+      "Coast",
+      "Central",
+      "Eastern"
+    ],
+    "gbif_records_in_kenya": 14371
+  },
+  "look_alikes": [
+    {
+      "label": "Anthus_leucophrys",
+      "common_name": "Plain-backed Pipit",
+      "difference": null,
+      "times_confused": 6
+    },
+    {
+      "label": "Macronyx_ameliae",
+      "common_name": "Rosy-throated Longclaw",
+      "difference": null,
+      "times_confused": 3
+    },
+    {
+      "label": "Euplectes_progne",
+      "common_name": "Long-tailed Widowbird",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Cisticola_natalensis",
+      "common_name": "Croaking Cisticola",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Glareola_pratincola",
+      "common_name": "Collared Pratincole",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Calendulauda_africanoides",
+      "common_name": "Fawn-coloured Lark",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Calendulauda_poecilosterna",
+      "common_name": "Pink-breasted Lark",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Calandrella_cinerea",
+      "common_name": "Red-capped Lark",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Eremopterix_leucopareia",
+      "common_name": "Fischer's Sparrow-lark",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Gymnoris_pyrgita",
+      "common_name": "Yellow-spotted Bush Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Oenanthe_lugubris",
+      "common_name": "Abyssinian Wheatear",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "African pipit",
+      "url": "https://en.wikipedia.org/wiki/African_pipit",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2490276"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

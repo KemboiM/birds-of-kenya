@@ -1,0 +1,174 @@
+{
+  "label": "Circaetus_cinereus",
+  "scientific_name": "Circaetus cinereus",
+  "common_name": "Brown Snake Eagle",
+  "other_names": {},
+  "family": "Accipitridae",
+  "summary": "The brown snake eagle (Circaetus cinereus) is a fairly large species of bird of prey in the family Accipitridae. It is found in West, East and southern Africa. This species is an almost obligate predator of a variety of snakes.",
+  "appearance": {
+    "description": "Their plumage about the body is entirely a fairly dark, hazel brown, with some claims of a purplish sheen in certain light conditions. The body colour extends to the wings but for their contrasting unmarked flight feathers which are whitish-grey. The shortish tail, which is most easily seen in flight, is at all ages barred brown and grayish cream.",
+    "colors": "The brown snake eagle (Circaetus cinereus) is a fairly large species of bird of prey in the family Accipitridae. This species is an almost obligate predator of a variety of snakes.",
+    "wings": "The body colour extends to the wings but for their contrasting unmarked flight feathers which are whitish-grey. The juvenile is similar in appearance and colour but tends to have very sparse white feather bases, with birds from south of the range apparently showing heavier white speckling, especially on the abdomen and head."
+  },
+  "size": {
+    "adult": {
+      "wingspan_cm": [
+        160.0,
+        185.0
+      ],
+      "length_cm": [
+        66.0,
+        78.0
+      ],
+      "mass_g": [
+        2050.0,
+        2500.0
+      ]
+    },
+    "juvenile": {
+      "notes": "The juvenile is similar in appearance and colour but tends to have very sparse white feather bases, with birds from south of the range apparently showing heavier white speckling, especially on the abdomen and head. This species has a large head and bare legs, which serve to distinguish it from other brownish medium-sized eagles in Africa, although a juvenile bateleur could be confused with one in poor light, but its colour is more varying, its eyes brown and the species has a shorter tail and shorter legs."
+    },
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": "This species is distributed widely in Africa. In west Africa, ranges from southeastern Mauritania, Senegal, The Gambia, Guinea-Bissau, eastern and western Guinea, Sierra Leone, the northern, inland parts of Liberia, Ivory Coast, Ghana, Togo, Benin, Nigeria as well as inland in Mali and Niger.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Coast",
+      "Kenya",
+      "Eastern",
+      "Nairobi",
+      "Taita Taveta"
+    ],
+    "gbif_records_in_kenya": 4869
+  },
+  "look_alikes": [
+    {
+      "label": "Aquila_nipalensis",
+      "common_name": "Steppe Eagle",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Hieraaetus_wahlbergi",
+      "common_name": "Wahlberg's Eagle",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Circus_macrourus",
+      "common_name": "Pallid Harrier",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pinarochroa_sordida",
+      "common_name": "Moorland Chat",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Aquila_spilogaster",
+      "common_name": "African Hawk-eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Micronisus_gabar",
+      "common_name": "Gabar Goshawk",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Burhinus_vermiculatus",
+      "common_name": "Water Thick-knee",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Quelea_quelea",
+      "common_name": "Red-billed Quelea",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Aquila_rapax",
+      "common_name": "Tawny Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bubo_lacteus",
+      "common_name": "Verreaux's Eagle-owl",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Buteo_augur",
+      "common_name": "Augur Buzzard",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pandion_haliaetus",
+      "common_name": "Osprey",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Polyboroides_typus",
+      "common_name": "African Harrier-hawk",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Turdoides_jardineii",
+      "common_name": "Arrow-marked Babbler",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Circaetus_pectoralis",
+      "common_name": "Black-chested Snake Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Gyps_rueppellii",
+      "common_name": "Rüppell's Vulture",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Polemaetus_bellicosus",
+      "common_name": "Martial Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Terathopius_ecaudatus",
+      "common_name": "Bateleur",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Brown snake eagle",
+      "url": "https://en.wikipedia.org/wiki/Brown_snake_eagle",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2480665"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

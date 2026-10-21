@@ -1,0 +1,105 @@
+{
+  "label": "Cichladusa_guttata",
+  "scientific_name": "Cichladusa guttata",
+  "common_name": "Spotted Palm Thrush",
+  "other_names": {},
+  "family": "Muscicapidae",
+  "summary": "The spotted palm thrush (Cichladusa guttata), also known as the spotted morning-thrush, is a species of bird in the Muscicapidae family. They are small birds mostly consisting of the colors brown, black, and cream. They can be found in eastern African countries such as Ethiopia, Kenya, Somalia, Sudan, Tanzania, and Uganda.",
+  "appearance": {
+    "description": "The spotted palm thrush measures around 16-17 centimeters (6.3-6.7 inches) long and weighs around 17-30 grams (<0.1 pounds). This bird features a warm brown color from crown to back and wings, with a dark brown eye stripe, and black-arrowed, creamy white underparts. The males and females are monomorphic, having little variance in their appearance regardless of sex.",
+    "colors": "They are small birds mostly consisting of the colors brown, black, and cream. This bird features a warm brown color from crown to back and wings, with a dark brown eye stripe, and black-arrowed, creamy white underparts.",
+    "wings": "This bird features a warm brown color from crown to back and wings, with a dark brown eye stripe, and black-arrowed, creamy white underparts."
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": "The spotted palm thrush has a diet consisting of invertebrates, such as small snails, and cordia fruits. At an early age, a spotted palm thrush will mostly eat bush-cricket nymphs, beetle larvae, lampyrinae larvae, and moth caterpillars. Spotted palm thrushes get their food by foraging on the ground, both single and in pairs, in human populated areas near game-park lodges and gardens.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The spotted palm thrush is located in most parts of Ethiopia, South Sudan, Uganda, Kenya, Somalia, and Tanzania. They can also be found in the easternmost parts of the Democratic Republic of the Congo, and the southernmost parts of Sudan.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Eastern",
+      "Coast",
+      "Nairobi",
+      "Central"
+    ],
+    "gbif_records_in_kenya": 13297
+  },
+  "look_alikes": [
+    {
+      "label": "Crithagra_striolata",
+      "common_name": "Streaky Seedeater",
+      "difference": null,
+      "times_confused": 3
+    },
+    {
+      "label": "Erythropygia_leucophrys",
+      "common_name": "White-browed Scrub Robin",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Butastur_rufipennis",
+      "common_name": "Grasshopper Buzzard",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Monticola_saxatilis",
+      "common_name": "Common Rock Thrush",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cinnyris_mariquensis",
+      "common_name": "Marico Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Colius_striatus",
+      "common_name": "Speckled Mousebird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Riparia_paludicola",
+      "common_name": "Brown-throated Martin",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Turdoides_sharpei",
+      "common_name": "Black-lored Babbler",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cecropis_abyssinica",
+      "common_name": "Lesser Striped Swallow",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Spotted palm thrush",
+      "url": "https://en.wikipedia.org/wiki/Spotted_palm_thrush",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2492647"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "label": "Monticola_rufocinereus",
+  "scientific_name": "Monticola rufocinereus",
+  "common_name": "Little Rock Thrush",
+  "other_names": {},
+  "family": "Muscicapidae",
+  "summary": "The little rock thrush (Monticola rufocinereus) is a species of passerine bird in the family Muscicapidae. It is found in Eritrea, Ethiopia, Kenya, Oman, Saudi Arabia, Somalia, South Sudan, Tanzania, Uganda, and Yemen. It is found in rocky (inland cliffs and mountain peaks) areas with some trees, and sometimes near settlements.",
+  "appearance": {
+    "description": null,
+    "colors": "The male has the head, throat and upper mantle blue-grey, the underparts orange-red, except for the center blackish center tail and tips which form an inverted T shape. It is readily mistaken for a redstart because of its habit of trembling its tail.",
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Central",
+      "Eastern",
+      "Nakuru",
+      "Western"
+    ],
+    "gbif_records_in_kenya": 1659
+  },
+  "look_alikes": [
+    {
+      "label": "Oreolais_pulcher",
+      "common_name": "Black-collared Apalis",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Thamnolaea_cinnamomeiventris",
+      "common_name": "Mocking Cliff Chat",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Little rock thrush",
+      "url": "https://en.wikipedia.org/wiki/Little_rock_thrush",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/5231008"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

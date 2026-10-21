@@ -1,0 +1,112 @@
+{
+  "label": "Lanius_dorsalis",
+  "scientific_name": "Lanius dorsalis",
+  "common_name": "Taita Fiscal",
+  "other_names": {},
+  "family": "Laniidae",
+  "summary": "The Taita fiscal or Teita fiscal (Lanius dorsalis) is a member of the shrike family found in east Africa from southeastern South Sudan, southern Ethiopia, and western Somalia to northeastern Tanzania. Its habitat is dry open thornbush and acacia and other dry open woodland.",
+  "appearance": {
+    "description": "This is a fairly distinctive 21 cm (8.3 in)-long passerine with white underparts and a black crown, hindneck and wings. The back is grey with a characteristic white 'V' and the rump is white. The tail is relatively long and black with white outer feathers.",
+    "colors": "This is a fairly distinctive 21 cm (8.3 in)-long passerine with white underparts and a black crown, hindneck and wings. The back is grey with a characteristic white 'V' and the rump is white.",
+    "wings": "This is a fairly distinctive 21 cm (8.3 in)-long passerine with white underparts and a black crown, hindneck and wings. There is a small white patch on the wings."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        21.0,
+        21.0
+      ]
+    },
+    "juvenile": {
+      "notes": "The juvenile is mainly brown–black above, with barring on the head and buff tips to the shoulder feathers."
+    },
+    "chick": null
+  },
+  "behaviour": "The Taita fiscal is usually solitary and hunts insects and small vertebrates from an exposed perch or the tops of shrubs. The nest is a twig and grass cup built in a thorn tree. Three or four white eggs blotched with grey or white is the typical clutch.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The Taita fiscal has a restricted range in East Africa which overlaps with the range of the Somali fiscal (Lanius somalicus). It is present in most of Kenya, only being absent from the coastal strip and the Highlands.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Eastern",
+      "Kenya",
+      "Coast",
+      "Nairobi",
+      "Samburu"
+    ],
+    "gbif_records_in_kenya": 7719
+  },
+  "look_alikes": [
+    {
+      "label": "Lanius_humeralis",
+      "common_name": "Northern Fiscal",
+      "difference": null,
+      "times_confused": 5
+    },
+    {
+      "label": "Lanius_cabanisi",
+      "common_name": "Long-tailed Fiscal",
+      "difference": null,
+      "times_confused": 4
+    },
+    {
+      "label": "Gymnoris_pyrgita",
+      "common_name": "Yellow-spotted Bush Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Anastomus_lamelligerus",
+      "common_name": "African Openbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Leptoptilos_crumenifer",
+      "common_name": "Marabou Stork",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Vanellus_armatus",
+      "common_name": "Blacksmith Lapwing",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Corvus_albus",
+      "common_name": "Pied Crow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Elanus_caeruleus",
+      "common_name": "Black-winged Kite",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lanius_excubitoroides",
+      "common_name": "Grey-backed Fiscal",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Taita fiscal",
+      "url": "https://en.wikipedia.org/wiki/Taita_fiscal",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2492864"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

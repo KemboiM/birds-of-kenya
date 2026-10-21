@@ -1,0 +1,70 @@
+{
+  "label": "Rhinopomastus_cyanomelas",
+  "scientific_name": "Rhinopomastus cyanomelas",
+  "common_name": "Common Scimitarbill",
+  "other_names": {},
+  "family": "Phoeniculidae",
+  "summary": "The common scimitarbill (Rhinopomastus cyanomelas) is a species of bird in the family Phoeniculidae. It is found in Angola, Botswana, Burundi, Democratic Republic of the Congo, Eswatini, Kenya, Malawi, Mozambique, Namibia, Rwanda, Somalia, South Africa, Tanzania, Uganda, Zambia, and Zimbabwe.",
+  "appearance": {
+    "description": "Adults weigh roughly 35 grams and 26 cm in length. As adults, their beaks are black but as juveniles, their beaks are grey. Females and juveniles are more brown on the front of their body.",
+    "colors": null,
+    "wings": null
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        26.0,
+        26.0
+      ]
+    },
+    "juvenile": {
+      "notes": "As adults, their beaks are black but as juveniles, their beaks are grey. Females and juveniles are more brown on the front of their body."
+    },
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Kenya",
+      "Rift Valley",
+      "Coast",
+      "Central",
+      "Eastern",
+      "Western"
+    ],
+    "gbif_records_in_kenya": 3697
+  },
+  "look_alikes": [
+    {
+      "label": "Anhinga_rufa",
+      "common_name": "African Darter",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Corvus_albus",
+      "common_name": "Pied Crow",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Common scimitarbill",
+      "url": "https://en.wikipedia.org/wiki/Common_scimitarbill",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2498426"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

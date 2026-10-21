@@ -1,0 +1,117 @@
+{
+  "label": "Aquila_nipalensis",
+  "scientific_name": "Aquila nipalensis",
+  "common_name": "Steppe Eagle",
+  "other_names": {
+    "sw": "Tai-nyika"
+  },
+  "family": "Accipitridae",
+  "summary": "The steppe eagle (Aquila nipalensis) is a large bird of prey. Like all eagles, it belongs to the family Accipitridae. The steppe eagle's well-feathered legs illustrate it to be a member of the subfamily Aquilinae, also known as the \"Booted eagles\".",
+  "appearance": {
+    "description": "The steppe eagle is a large, bulky and robust-looking eagle. It is mainly dark brown in color with a longish but very thick neck and a relatively small head that nonetheless features a strong bill and long gape-line. It appears long-winged and has a longish and rather rounded tail and markedly well-feathered (almost with disheveled looking feathers) legs.",
+    "colors": "The steppe eagle's well-feathered legs illustrate it to be a member of the subfamily Aquilinae, also known as the \"Booted eagles\". This species was once considered to be closely related to the sedentary tawny eagle (Aquila rapax) and the two forms have previously been treated as conspecific.",
+    "wings": "It appears long-winged and has a longish and rather rounded tail and markedly well-feathered (almost with disheveled looking feathers) legs. The species often is seen on the ground where may stand for long periods of the day and walk with horizontal posture and with wingtips just exceed the tail-tip."
+  },
+  "size": {
+    "adult": null,
+    "juvenile": {
+      "notes": "Steppe eagle juveniles are almost invariably paler than adults, with some ranging overall from umber-brown to tawny-buff but then some are darker and more deeply brown. Juveniles tend to be brown to grey-brown on the upperparts but for generally rufous-buff nape patch (more so on the eastern population)."
+    },
+    "chick": {
+      "notes": "In several parts of Africa, steppe eagles may routinely visit and feed off of the colonies of the super-abundant bird, the red-billed quelea (Quelea quelea), with a noted focus on picking off the seemingly innumerous nestlings and fledglings of this small passerine. The steppe eagles seldom actively hunted, instead alternating between capturing nestlings from the heronries, especially nearly fledgling-age young of late nesting painted storks (Mycteria leucocephala), and engaging in kleptoparasitism towards other birds of prey, often doing so in groups of about three to nine eagles."
+    }
+  },
+  "behaviour": "The steppe eagle is sometimes regarded as solitary but is frequently seen in the company of conspecifics throughout the year. Besides the obvious breeding pair, they often flock during migration and aggregate in occasionally ample numbers during non-breeding times, usually at fruitful feeding sites, sometimes briefly cooperating with one another especially to klepoparasitize other birds of prey. Steppe eagles fly with slow, deep and stiff-looking wing beats, holding wings fully extend on upstrokes, rendering a heavier flight pattern than spotted eagles.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "=== Breeding range === Although the breeding range is rather extensive, the steppe eagle is essentially confined to nesting in only four large nations: Russia, Kazakhstan, Mongolia and China. However, the steppe eagle once bred in Europe.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Coast",
+      "Eastern",
+      "Nairobi",
+      "Central"
+    ],
+    "gbif_records_in_kenya": 3733
+  },
+  "look_alikes": [
+    {
+      "label": "Aquila_rapax",
+      "common_name": "Tawny Eagle",
+      "difference": null,
+      "times_confused": 6
+    },
+    {
+      "label": "Hieraaetus_wahlbergi",
+      "common_name": "Wahlberg's Eagle",
+      "difference": null,
+      "times_confused": 4
+    },
+    {
+      "label": "Circus_aeruginosus",
+      "common_name": "Western Marsh Harrier",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Circaetus_cinereus",
+      "common_name": "Brown Snake Eagle",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Butastur_rufipennis",
+      "common_name": "Grasshopper Buzzard",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Gyps_rueppellii",
+      "common_name": "Rüppell's Vulture",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Polyboroides_typus",
+      "common_name": "African Harrier-hawk",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Circaetus_pectoralis",
+      "common_name": "Black-chested Snake Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lophaetus_occipitalis",
+      "common_name": "Long-crested Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Milvus_migrans",
+      "common_name": "Black Kite",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Steppe eagle",
+      "url": "https://en.wikipedia.org/wiki/Steppe_eagle",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2480513"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "label": "Cossypha_natalensis",
+  "scientific_name": "Cossypha natalensis",
+  "common_name": "Red-capped Robin-chat",
+  "other_names": {},
+  "family": "Muscicapidae",
+  "summary": "The red-capped robin-chat or Natal robin (Cossypha natalensis) is a species of passerine bird belonging to the family Muscicapidae. This species is found in central and eastern Sub-Saharan Africa.",
+  "appearance": {
+    "description": "The red-capped robin-chat is a relatively large species of robin-chat with a length of 15.5 to 19 cm (6.1 to 7.5 in). The adults have an orange-rufous head, face, breast and belly with a large dark eye. The overall appearance of the head is of a plain face with the dark eye in its centre.",
+    "colors": "The red-capped robin-chat or Natal robin (Cossypha natalensis) is a species of passerine bird belonging to the family Muscicapidae. The red-capped robin-chat is a relatively large species of robin-chat with a length of 15.5 to 19 cm (6.1 to 7.5 in).",
+    "wings": "The wings and upperparts of the body are dusky and these contrast with the dark central and bright orange outer tail feathers."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        15.5,
+        19.0
+      ]
+    },
+    "juvenile": {
+      "notes": "The juveniles are a mottled dark brown with rufous-brown spots on the head."
+    },
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": "=== Range === The red-capped robin-chat has a wide distribution in eastern and southern Africa. C. n. larischi is found in central and south eastern Nigeria, near Yaoundé in Cameroon, southwestern Gabon and southern Republic of Congo as far north as the Téké Plateau and south into northern and western Angola.",
+    "kenya_regions": [
+      "Coast",
+      "Kenya",
+      "Rift Valley",
+      "Coast prov",
+      "Nyanza",
+      "Eastern"
+    ],
+    "gbif_records_in_kenya": 5199
+  },
+  "look_alikes": [
+    {
+      "label": "Ispidina_picta",
+      "common_name": "African Pygmy Kingfisher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Onychognathus_morio",
+      "common_name": "Red-winged Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tockus_erythrorhynchus",
+      "common_name": "Northern Red-billed Hornbill",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Red-capped robin-chat",
+      "url": "https://en.wikipedia.org/wiki/Red-capped_robin-chat",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2492593"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

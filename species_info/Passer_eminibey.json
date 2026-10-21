@@ -1,0 +1,126 @@
+{
+  "label": "Passer_eminibey",
+  "scientific_name": "Passer eminibey",
+  "common_name": "Chestnut Sparrow",
+  "other_names": {},
+  "family": "Passeridae",
+  "summary": "The chestnut sparrow (Passer eminibey) is a species of passerine bird in the sparrow family Passeridae. It is the smallest member of the sparrow family, at about 11 cm (4.3 in) long. The breeding male has deep chestnut plumage and the female and juvenile are coloured a duller grey with some chestnut markings.",
+  "appearance": {
+    "description": "Like the other members of the sparrow family, the chestnut sparrow is a small, chunky songbird with a thick bill suited to its diet of seeds. At 10.5 to 11.5 cm (4.1–4.5 in) in length, it is the smallest member of the sparrow family. It weighs between 12 grams (0.42 oz) and 17 grams (0.60 oz).",
+    "colors": "The chestnut sparrow (Passer eminibey) is a species of passerine bird in the sparrow family Passeridae. Like the other members of the sparrow family, the chestnut sparrow is a small, chunky songbird with a thick bill suited to its diet of seeds.",
+    "wings": "Wing length ranges from 6.0 to 6.5 cm (2.4–2.6 in) in males and from 5.7 to 6.0 cm (2.2–2.4 in) in females. The plumage of the breeding male is mostly a deep shade of chestnut in colour with black colouration on the face, wings, and tail."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        11.0,
+        11.0
+      ]
+    },
+    "juvenile": {
+      "notes": "Juveniles are dull grey with a brown back, a pale yellow supercilium, and a pale horn bill. Females and juveniles have hints of chestnut on their supercilium, shoulders, and throat, by which they may be distinguished from other sparrows, such as the Kenya sparrow and the other rufous sparrows, which are common in much of the chestnut sparrow's range; or the house sparrow, which also occurs in parts of its range."
+    },
+    "chick": {
+      "notes": "Little is recorded of incubation and fledging periods in the wild. Some observations indicate that nestlings are fed by the female alone."
+    }
+  },
+  "behaviour": "Chestnut sparrows are gregarious, and are only occasionally found away from flocks. They frequently associate with queleas and other weavers. Adults feed on grass seeds, and those near human habitations will also eat crumbs and other household scraps.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The chestnut sparrow is found in East Africa in mostly lower country from Darfur through Kordofan, South Sudan, Somalia, Uganda, and Kenya to north-central Tanzania. Its range also extends northeast into the southwest and Great Rift Valley of Ethiopia.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Eastern",
+      "Coast",
+      "Nairobi",
+      "Samburu"
+    ],
+    "gbif_records_in_kenya": 5131
+  },
+  "look_alikes": [
+    {
+      "label": "Amblyospiza_albifrons",
+      "common_name": "Thick-billed Weaver",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Pseudonigrita_arnaudi",
+      "common_name": "Grey-capped Social Weaver",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Otus_ireneae",
+      "common_name": "Sokoke Scops Owl",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pseudonigrita_cabanisi",
+      "common_name": "Black-capped Social Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Gymnoris_pyrgita",
+      "common_name": "Yellow-spotted Bush Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lonchura_cucullata",
+      "common_name": "Bronze Mannikin",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_rubiginosus",
+      "common_name": "Chestnut Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Turdoides_hypoleuca",
+      "common_name": "Northern Pied Babbler",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Anaplectes_rubriceps",
+      "common_name": "Red-headed Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bubalornis_niger",
+      "common_name": "Red-billed Buffalo Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Coracias_caudatus",
+      "common_name": "Lilac-breasted Roller",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Chestnut sparrow",
+      "url": "https://en.wikipedia.org/wiki/Chestnut_sparrow",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/5231200"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

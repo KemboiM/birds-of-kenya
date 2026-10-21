@@ -1,0 +1,106 @@
+{
+  "label": "Lamprotornis_superbus",
+  "scientific_name": "Lamprotornis superbus",
+  "common_name": "Superb Starling",
+  "other_names": {},
+  "family": "Sturnidae",
+  "summary": "The superb starling (Lamprotornis superbus) is a member of the starling family of birds.",
+  "appearance": {
+    "description": "This species is 18 to 19 cm (7.1 to 7.5 in) long. These small short-tailed starlings have a long narrow bill, robust bodies, strong feet and a distinctive plumage pattern. Adults have black heads and iridescent blue-to-green back, upper breast, wings, and tail.",
+    "colors": "These small short-tailed starlings have a long narrow bill, robust bodies, strong feet and a distinctive plumage pattern. Adults have black heads and iridescent blue-to-green back, upper breast, wings, and tail.",
+    "wings": "Adults have black heads and iridescent blue-to-green back, upper breast, wings, and tail. The undertail coverts and the wing linings are white."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        18.0,
+        19.0
+      ]
+    },
+    "juvenile": {
+      "notes": "Juveniles have duller plumage with no more than a suggestion of the white breast band."
+    },
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": "This species has a very large range and can commonly be found in East Africa, including Ethiopia, Somalia, Uganda, Kenya, Sudan, and Tanzania. The superb starling lives in savanna, in thornbush and acacia arid areas, open woodland, lakeshore woodlands, gardens and cultivated fields, at altitudes of 0–2,650 metres (0–8,690 ft) above sea level.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Eastern",
+      "Nairobi",
+      "Coast",
+      "Central"
+    ],
+    "gbif_records_in_kenya": 53736
+  },
+  "look_alikes": [
+    {
+      "label": "Lamprotornis_hildebrandti",
+      "common_name": "Hildebrandt's Starling",
+      "difference": null,
+      "times_confused": 6
+    },
+    {
+      "label": "Lamprotornis_purpuroptera",
+      "common_name": "Rüppell's Starling",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Empidornis_semipartitus",
+      "common_name": "Silverbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Corythornis_cristatus",
+      "common_name": "Malachite Kingfisher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Coracias_caudatus",
+      "common_name": "Lilac-breasted Roller",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Gallinula_chloropus",
+      "common_name": "Common Moorhen",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Hirundo_rustica",
+      "common_name": "Barn Swallow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tockus_deckeni",
+      "common_name": "Von Der Decken's Hornbill",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Superb starling",
+      "url": "https://en.wikipedia.org/wiki/Superb_starling",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2489075"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

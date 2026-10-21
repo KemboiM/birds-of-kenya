@@ -1,0 +1,75 @@
+{
+  "label": "Trigonoceps_occipitalis",
+  "scientific_name": "Trigonoceps occipitalis",
+  "common_name": "White-headed Vulture",
+  "other_names": {},
+  "family": "Accipitridae",
+  "summary": "The white-headed vulture (Trigonoceps occipitalis) is an Old World vulture endemic to Africa. Populations have been declining steeply in recent years due to habitat degradation and poisoning of vultures at carcasses. An extinct relative was also present in the Indonesian island of Flores during the Late Pleistocene, indicating that the genus was more widespread in the past.",
+  "appearance": {
+    "description": "The white-headed vulture is a medium-sized vulture, 72–85 centimetres (28–33 in) in length and with a wingspan of 207–230 centimetres (81–91 in). Females have an average weight of 4.7 kilograms (10 lb), while males are generally lighter at 4 kilograms (8.8 lb) or less. This species is unique among African vultures as it shows a degree of reversed sexual dimorphism, where females are somewhat larger than males.",
+    "colors": "The white-headed vulture (Trigonoceps occipitalis) is an Old World vulture endemic to Africa. The white-headed vulture is a medium-sized vulture, 72–85 centimetres (28–33 in) in length and with a wingspan of 207–230 centimetres (81–91 in).",
+    "wings": "Individual white-headed vultures can also be reliably identified based on a unique pattern in their median wing coverts."
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": "=== Reproduction and lifecycle === The species is long-lived and appears to be loyal to a territory where it remains resident. It builds nests in trees (mostly acacias or baobabs). Senegalia species are also preferred, with nests occurring on the top of the canopy in low relief, flatter areas.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The white-headed vulture is widely spread throughout sub-Saharan Africa, occurring from Senegal and Gambia east to Somalia and south to South Africa and Eswatini. It is locally uncommon to common.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Coast",
+      "Kenya",
+      "Eastern",
+      "Narok",
+      "Taita Taveta"
+    ],
+    "gbif_records_in_kenya": 1945
+  },
+  "look_alikes": [
+    {
+      "label": "Terathopius_ecaudatus",
+      "common_name": "Bateleur",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Torgos_tracheliotos",
+      "common_name": "Lappet-faced Vulture",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Gyps_africanus",
+      "common_name": "White-backed Vulture",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lophoceros_nasutus",
+      "common_name": "African Grey Hornbill",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "White-headed vulture",
+      "url": "https://en.wikipedia.org/wiki/White-headed_vulture",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2480408"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

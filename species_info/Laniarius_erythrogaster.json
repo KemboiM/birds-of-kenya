@@ -1,0 +1,81 @@
+{
+  "label": "Laniarius_erythrogaster",
+  "scientific_name": "Laniarius erythrogaster",
+  "common_name": "Black-headed Gonolek",
+  "other_names": {},
+  "family": "Malaconotidae",
+  "summary": "The black-headed gonolek (Laniarius erythrogaster) is a species of bird in the family Malaconotidae. It is found in the African countries of Burundi, Cameroon, Central African Republic, Chad, Democratic Republic of the Congo, Eritrea, Ethiopia, Kenya, Nigeria, Rwanda, South Sudan, Sudan, Tanzania, and Uganda. Its natural habitats are dry savanna, subtropical or tropical moist shrubland, and subtropical or tropical seasonally wet or flooded lowland grassland.",
+  "appearance": {
+    "description": null,
+    "colors": "The black-headed gonolek (Laniarius erythrogaster) is a species of bird in the family Malaconotidae. The black-headed gonolek is a distinctively coloured bush-shrike though it is generally shy and retiring.",
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Nyanza",
+      "Kenya",
+      "Rift Valley",
+      "Western",
+      "Kisumu",
+      "Homa Bay"
+    ],
+    "gbif_records_in_kenya": 2819
+  },
+  "look_alikes": [
+    {
+      "label": "Cinnyris_venustus",
+      "common_name": "Variable Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pternistis_afer",
+      "common_name": "Red-necked Spurfowl",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lybius_bidentatus",
+      "common_name": "Double-toothed Barbet",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Apaloderma_narina",
+      "common_name": "Narina Trogon",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Anaplectes_rubriceps",
+      "common_name": "Red-headed Weaver",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Black-headed gonolek",
+      "url": "https://en.wikipedia.org/wiki/Black-headed_gonolek",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2484871"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

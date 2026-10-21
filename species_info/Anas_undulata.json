@@ -1,0 +1,106 @@
+{
+  "label": "Anas_undulata",
+  "scientific_name": "Anas undulata",
+  "common_name": "Yellow-billed Duck",
+  "other_names": {},
+  "family": "Anatidae",
+  "summary": "The yellow-billed duck (Anas undulata) is a 51–58 cm long dabbling duck which is an abundant resident breeder in southern and eastern Africa. This duck is not migratory, but wanders in the dry season to find suitable waters. It is highly gregarious outside the breeding season and forms large flocks.",
+  "appearance": {
+    "description": "These are mallard-sized mainly grey ducks with a darker head and bright yellow bill. The wings are whitish below, and from above show a white-bordered green speculum. Sexes are similar, and juveniles are slightly duller than adults.",
+    "colors": "The yellow-billed duck (Anas undulata) is a 51–58 cm long dabbling duck which is an abundant resident breeder in southern and eastern Africa. These are mallard-sized mainly grey ducks with a darker head and bright yellow bill.",
+    "wings": "The wings are whitish below, and from above show a white-bordered green speculum."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        51.0,
+        58.0
+      ]
+    },
+    "juvenile": {
+      "notes": "Sexes are similar, and juveniles are slightly duller than adults."
+    },
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Central",
+      "Nairobi",
+      "Eastern",
+      "Nakuru"
+    ],
+    "gbif_records_in_kenya": 9954
+  },
+  "look_alikes": [
+    {
+      "label": "Anas_erythrorhyncha",
+      "common_name": "Red-billed Teal",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Plectropterus_gambensis",
+      "common_name": "Spur-winged Goose",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Spatula_hottentota",
+      "common_name": "Blue-billed Teal",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Fulica_cristata",
+      "common_name": "Red-knobbed Coot",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Mycteria_ibis",
+      "common_name": "Yellow-billed Stork",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tachybaptus_ruficollis",
+      "common_name": "Little Grebe",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Dendrocygna_viduata",
+      "common_name": "White-faced Whistling Duck",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Gyps_rueppellii",
+      "common_name": "Rüppell's Vulture",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Yellow-billed duck",
+      "url": "https://en.wikipedia.org/wiki/Yellow-billed_duck",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2498156"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

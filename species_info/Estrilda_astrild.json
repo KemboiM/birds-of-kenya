@@ -1,0 +1,106 @@
+{
+  "label": "Estrilda_astrild",
+  "scientific_name": "Estrilda astrild",
+  "common_name": "Common Waxbill",
+  "other_names": {},
+  "family": "Estrildidae",
+  "summary": "The common waxbill (Estrilda astrild), also known as the St Helena waxbill, is a small passerine bird belonging to the estrildid finch family. It is native to sub-Saharan Africa but has been introduced to many other regions of the world and now has an estimated global extent of occurrence of 10,000,000 km2. It is popular and easy to keep in captivity.",
+  "appearance": {
+    "description": "It is a small bird, 9.5–13 centimetres (3.7–5.1 in) long and weighing 6–11 g (0.21–0.39 oz). It has a slender body with short rounded wings and a long graduated tail. The bright red bill of the adult is the colour of sealing wax giving the bird its name.",
+    "colors": "The bright red bill of the adult is the colour of sealing wax giving the bird its name. The plumage is mostly grey-brown, finely barred with dark brown.",
+    "wings": "It has a slender body with short rounded wings and a long graduated tail. The crimson-rumped waxbill has a dark bill, red rump and some red on the wings and tail."
+  },
+  "size": {
+    "adult": {
+      "mass_g": [
+        6.0,
+        11.0
+      ]
+    },
+    "juvenile": {
+      "notes": "Juveniles are duller with little or no red on the belly, fainter dark barring and a black bill."
+    },
+    "chick": null
+  },
+  "behaviour": "=== Breeding === The nest is a large ball of criss-crossed grass stems with a long downward-pointing entrance tube on one side. It is built in a cavity, usually low down amongst dense vegetation. A rudimentary second nest (\"cock's nest\") may be built on top where the male sleeps.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "=== Native range === There are about 15 subspecies distributed widely across much of Africa south of the Sahara. They are present in most parts of East, Central and Southern Africa except for regions of desert or dense forest.",
+    "kenya_regions": [
+      "Kenya",
+      "Rift Valley",
+      "Nairobi",
+      "Central",
+      "Coast",
+      "Western"
+    ],
+    "gbif_records_in_kenya": 12542
+  },
+  "look_alikes": [
+    {
+      "label": "Estrilda_rhodopyga",
+      "common_name": "Crimson-rumped Waxbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Chalcomitra_senegalensis",
+      "common_name": "Scarlet-chested Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Gallinula_chloropus",
+      "common_name": "Common Moorhen",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lanius_excubitoroides",
+      "common_name": "Grey-backed Fiscal",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lonchura_bicolor",
+      "common_name": "Black-and-white Mannikin",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Micronisus_gabar",
+      "common_name": "Gabar Goshawk",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Nectarinia_kilimensis",
+      "common_name": "Bronze Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Prinia_subflava",
+      "common_name": "Tawny-flanked Prinia",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Common waxbill",
+      "url": "https://en.wikipedia.org/wiki/Common_waxbill",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2493660"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

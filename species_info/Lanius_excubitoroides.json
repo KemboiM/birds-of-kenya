@@ -1,0 +1,148 @@
+{
+  "label": "Lanius_excubitoroides",
+  "scientific_name": "Lanius excubitoroides",
+  "common_name": "Grey-backed Fiscal",
+  "other_names": {},
+  "family": "Laniidae",
+  "summary": "The grey-backed fiscal (Lanius excubitoroides) is a species of bird in the family Laniidae. It is found in Burundi, Cameroon, Central African Republic, Chad, Democratic Republic of the Congo, Ethiopia, Kenya, Mali, Mauritania, Nigeria, Rwanda, Sudan, Tanzania, and Uganda. Its natural habitats are dry savanna and subtropical or tropical dry lowland grassland.",
+  "appearance": {
+    "description": "This is a large shrike with a length of about 25 cm (10 in). The head of the male has a grey crown, a white supercilium and a large black mask. The upper parts are medium grey, the rump is white, the wings are blackish, with a white patch which is conspicuous in flight, and the long tail has a white base and a black tip.",
+    "colors": "The grey-backed fiscal (Lanius excubitoroides) is a species of bird in the family Laniidae. The head of the male has a grey crown, a white supercilium and a large black mask.",
+    "wings": "The upper parts are medium grey, the rump is white, the wings are blackish, with a white patch which is conspicuous in flight, and the long tail has a white base and a black tip. The juvenile is brownish with brown wings and tail and is heavily barred with grey."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        25.0,
+        25.0
+      ]
+    },
+    "juvenile": {
+      "notes": "The juvenile is brownish with brown wings and tail and is heavily barred with grey."
+    },
+    "chick": null
+  },
+  "behaviour": "The grey-backed fiscal is a sociable bird and is often found in wooded grassland, gardens and damp acacia scrub. It is often seen in pairs or small groups on tree stumps, wires and branches, engaged in wing fluttering, tail waving and noisy babble. It is a gregarious, cooperative breeder.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Nyanza",
+      "Narok",
+      "Nakuru",
+      "Western"
+    ],
+    "gbif_records_in_kenya": 10708
+  },
+  "look_alikes": [
+    {
+      "label": "Lanius_cabanisi",
+      "common_name": "Long-tailed Fiscal",
+      "difference": null,
+      "times_confused": 10
+    },
+    {
+      "label": "Vanellus_armatus",
+      "common_name": "Blacksmith Lapwing",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Lanius_humeralis",
+      "common_name": "Northern Fiscal",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Estrilda_astrild",
+      "common_name": "Common Waxbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Motacilla_aguimp",
+      "common_name": "African Pied Wagtail",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Anastomus_lamelligerus",
+      "common_name": "African Openbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Calidris_pugnax",
+      "common_name": "Ruff",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cecropis_senegalensis",
+      "common_name": "Mosque Swallow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Charadrius_hiaticula",
+      "common_name": "Common Ringed Plover",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ciconia_microscelis",
+      "common_name": "African Woolly-necked Stork",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ephippiorhynchus_senegalensis",
+      "common_name": "Saddle-billed Stork",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Eurocephalus_ruppelli",
+      "common_name": "Northern White-crowned Shrike",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Hirundo_smithii",
+      "common_name": "Wire-tailed Swallow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lanius_dorsalis",
+      "common_name": "Taita Fiscal",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Merops_albicollis",
+      "common_name": "White-throated Bee-eater",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Grey-backed fiscal",
+      "url": "https://en.wikipedia.org/wiki/Grey-backed_fiscal",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2492853"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

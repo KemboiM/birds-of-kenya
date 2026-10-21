@@ -1,0 +1,116 @@
+{
+  "label": "Bubulcus_ibis",
+  "scientific_name": "Bubulcus ibis",
+  "common_name": "Western Cattle Egret",
+  "other_names": {},
+  "family": "Ardeidae",
+  "summary": "The western cattle egret (Ardea ibis) is a species of heron (family Ardeidae) found in the tropics, subtropics and warm temperate zones. Formerly, most taxonomic authorities lumped this species and the eastern cattle egret together (called the cattle egret), but the two cattle egrets are now treated as separate species. Despite the similarities in plumage to the egrets of the genus Egretta, it is more closely related to the herons of Ardea.",
+  "appearance": {
+    "description": "The cattle egret is a stocky heron with an 88–96 cm (35–38 in) wingspan; it is 46–56 cm (18–22 in) long and weighs 270–512 g (9.5–18.1 oz). It has a relatively short thick neck, a sturdy bill, and a hunched posture. The non-breeding adult has mainly white plumage, a yellow bill and greyish-yellow legs.",
+    "colors": "Despite the similarities in plumage to the egrets of the genus Egretta, it is more closely related to the herons of Ardea. It is a white bird adorned with buff plumes in the breeding season.",
+    "wings": null
+  },
+  "size": {
+    "adult": {
+      "wingspan_cm": [
+        46.0,
+        56.0
+      ],
+      "length_cm": [
+        88.0,
+        96.0
+      ],
+      "mass_g": [
+        270.0,
+        512.0
+      ]
+    },
+    "juvenile": {
+      "notes": "The sexes are similar, but the male is marginally larger and has slightly longer breeding plumes than the female; juvenile birds lack coloured plumes and have a black bill."
+    },
+    "chick": {
+      "notes": "The chicks are partly covered with down at hatching, but are not capable of fending for themselves; they become capable of regulating their temperature at 9–12 days and are fully feathered in 13–21 days. They begin to leave the nest and climb around at 2 weeks, fledge at 30 days and become independent at around the 45th day."
+    }
+  },
+  "behaviour": "The cattle egret feeds on a wide range of prey, particularly insects, especially grasshoppers, crickets, flies (adults and maggots), and moths, as well as spiders, frogs, and earthworms. In a rare instance they have been observed foraging along the branches of a banyan tree for ripe figs. The species is usually found with cattle and other large grazing and browsing animals, and catches small creatures disturbed by the mammals.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The cattle egret has undergone one of the most rapid and wide reaching natural expansions of any bird species. It was originally native to parts of southern Spain and Portugal, tropical and subtropical Africa and western Asia.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Nairobi",
+      "Eastern",
+      "Coast",
+      "Central"
+    ],
+    "gbif_records_in_kenya": 28078
+  },
+  "look_alikes": [
+    {
+      "label": "Egretta_intermedia",
+      "common_name": "Medium Egret",
+      "difference": null,
+      "times_confused": 6
+    },
+    {
+      "label": "Ardea_alba",
+      "common_name": "Great Egret",
+      "difference": null,
+      "times_confused": 3
+    },
+    {
+      "label": "Chroicocephalus_cirrocephalus",
+      "common_name": "Grey-headed Gull",
+      "difference": null,
+      "times_confused": 3
+    },
+    {
+      "label": "Ardeola_ralloides",
+      "common_name": "Squacco Heron",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Platalea_alba",
+      "common_name": "African Spoonbill",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Ciconia_microscelis",
+      "common_name": "African Woolly-necked Stork",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Phalacrocorax_carbo",
+      "common_name": "Great Cormorant",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Egretta_garzetta",
+      "common_name": "Little Egret",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Western cattle egret",
+      "url": "https://en.wikipedia.org/wiki/Western_cattle_egret",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2480830"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

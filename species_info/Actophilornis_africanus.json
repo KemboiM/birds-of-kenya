@@ -1,0 +1,124 @@
+{
+  "label": "Actophilornis_africanus",
+  "scientific_name": "Actophilornis africanus",
+  "common_name": "African Jacana",
+  "other_names": {},
+  "family": "Jacanidae",
+  "summary": "The African jacana (Actophilornis africanus) is a wader in the family Jacanidae. It has long toes and long claws that enable it to walk on floating vegetation in shallow lakes, its preferred habitat. It is widely distributed in sub-Saharan Africa.",
+  "appearance": {
+    "description": "The African jacana is a conspicuous and unmistakable bird. It measures 23 to 31 cm (9.1 to 12.2 in) in overall length. As in other jacanas, the female is on average larger than the male.",
+    "colors": "It has long toes and long claws that enable it to walk on floating vegetation in shallow lakes, its preferred habitat. They have chestnut upperparts with black wingtips, rear neck, and eyestripe.",
+    "wings": "They have chestnut upperparts with black wingtips, rear neck, and eyestripe."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        23.0,
+        31.0
+      ],
+      "mass_g": [
+        115.0,
+        290.0
+      ]
+    },
+    "juvenile": {
+      "notes": "The underparts are also chestnut in the adults, only in juveniles they are white with a chestnut belly patch."
+    },
+    "chick": {
+      "notes": "The jacana has evolved a highly unusual polyandrous mating system, meaning that one female mates with multiple males and the male alone cares for the chicks. This means that the rate-limiting factor of the jacana's breeding is the rate at which the males can raise and care for the chicks."
+    }
+  },
+  "behaviour": "=== Food and feeding === African jacanas feed on insects and other invertebrates picked from the floating vegetations or the surface of the water.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Coast",
+      "Central",
+      "Nairobi",
+      "Nyanza"
+    ],
+    "gbif_records_in_kenya": 14396
+  },
+  "look_alikes": [
+    {
+      "label": "Columba_livia",
+      "common_name": "Rock Dove",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cursorius_temminckii",
+      "common_name": "Temminck's Courser",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Anthreptes_orientalis",
+      "common_name": "Eastern Violet-backed Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Hedydipna_collaris",
+      "common_name": "Collared Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Laniarius_major",
+      "common_name": "Tropical Boubou",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Passer_domesticus",
+      "common_name": "House Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ardeola_ralloides",
+      "common_name": "Squacco Heron",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Dendrocygna_viduata",
+      "common_name": "White-faced Whistling Duck",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Phoeniconaias_minor",
+      "common_name": "Lesser Flamingo",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Vanellus_spinosus",
+      "common_name": "Spur-winged Lapwing",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "African jacana",
+      "url": "https://en.wikipedia.org/wiki/African_jacana",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2481853"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

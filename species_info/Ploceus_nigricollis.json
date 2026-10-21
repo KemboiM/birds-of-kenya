@@ -1,0 +1,99 @@
+{
+  "label": "Ploceus_nigricollis",
+  "scientific_name": "Ploceus nigricollis",
+  "common_name": "Black-necked Weaver",
+  "other_names": {},
+  "family": "Ploceidae",
+  "summary": "The black-necked weaver (Ploceus nigricollis) is a resident breeding bird species in much of central Africa from Cameroon in the west to Kenya and southern Somalia in the east.",
+  "appearance": {
+    "description": "The black-necked weaver is a stocky 16 cm bird with a strong conical bill. The adult male of the northern race has olive upper-parts and wings, and yellow underparts and head. It has a black eye-mask and bib, and a pale yellow iris.",
+    "colors": "The black-necked weaver (Ploceus nigricollis) is a resident breeding bird species in much of central Africa from Cameroon in the west to Kenya and southern Somalia in the east. The black-necked weaver is a stocky 16 cm bird with a strong conical bill.",
+    "wings": "The adult male of the northern race has olive upper-parts and wings, and yellow underparts and head. The wings remain yellow and black."
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": "It builds a large coarsely woven nest made of grass and creepers with a 15 cm downward facing entrance tunnel hanging from the globular egg chamber. The nest is suspended from a branch in a tree and 2-3 eggs are laid. It nests in pairs but forms small flocks when not breeding.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "This weaver occurs in forests, especially in wet habitats.",
+    "kenya_regions": [
+      "Kenya",
+      "Western",
+      "Rift Valley",
+      "Coast",
+      "Eastern",
+      "Nyanza"
+    ],
+    "gbif_records_in_kenya": 4257
+  },
+  "look_alikes": [
+    {
+      "label": "Oriolus_larvatus",
+      "common_name": "Black-headed Oriole",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Ploceus_bicolor",
+      "common_name": "Dark-backed Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lamprotornis_regius",
+      "common_name": "Golden-breasted Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lonchura_cucullata",
+      "common_name": "Bronze Mannikin",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_cucullatus",
+      "common_name": "Village Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_ocularis",
+      "common_name": "Spectacled Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Poicephalus_meyeri",
+      "common_name": "Meyer's Parrot",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Motacilla_flava",
+      "common_name": "Western Yellow Wagtail",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Black-necked weaver",
+      "url": "https://en.wikipedia.org/wiki/Black-necked_weaver",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2494053"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

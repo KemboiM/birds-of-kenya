@@ -1,0 +1,113 @@
+{
+  "label": "Chlidonias_leucopterus",
+  "scientific_name": "Chlidonias leucopterus",
+  "common_name": "White-winged Tern",
+  "other_names": {},
+  "family": "Laridae",
+  "summary": "The white-winged tern or white-winged black tern (Chlidonias leucopterus) is a species of tern in the family Laridae. It is a small species generally found in or near bodies of fresh water across much of the world, including Europe, Africa, Asia, and Australia. The genus name is from Ancient Greek khelidonios, \"swallow-like\", from khelidon, \"swallow\".",
+  "appearance": {
+    "description": "Adult birds in summer have short red legs and a short black bill (small and stubby, measuring 22–25 mm from the feathers, decidedly shorter than the head), a black neck (often with a pale gray back) and belly, very dark grey back, with a white rump and light grey (almost white) tail, which often looks 'square' in juveniles. The face is tinged yellowish. The wings, as the name implies, are mainly white.",
+    "colors": "The white-winged tern or white-winged black tern (Chlidonias leucopterus) is a species of tern in the family Laridae. The name 'white-winged tern' is the standard in most English-speaking countries; in the United Kingdom, this name is also the one used by the formal ornithological recording authorities, but the older alternative 'white-winged black tern' is still frequent in popular use.",
+    "wings": "The white-winged tern or white-winged black tern (Chlidonias leucopterus) is a species of tern in the family Laridae. The name 'white-winged tern' is the standard in most English-speaking countries; in the United Kingdom, this name is also the one used by the formal ornithological recording authorities, but the older alternative 'white-winged black tern' is still frequent in popular use."
+  },
+  "size": {
+    "adult": null,
+    "juvenile": {
+      "notes": "Adult birds in summer have short red legs and a short black bill (small and stubby, measuring 22–25 mm from the feathers, decidedly shorter than the head), a black neck (often with a pale gray back) and belly, very dark grey back, with a white rump and light grey (almost white) tail, which often looks 'square' in juveniles. In juveniles and moulting adults, the rump is pale gray, becoming grey in both phases late in the year."
+    },
+    "chick": null
+  },
+  "behaviour": "Like the other \"marsh\" terns (Chlidonias), and unlike the \"white\" (Sterna) terns, these birds do not dive for fish, but fly slowly over the water to surface-pick items and catch insects in flight. They mainly eat insects and small fish. In flight, the wing-beats are shallow and leisurely.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "Their breeding habitat is freshwater marshes across from southeast Europe to Central Asia and the Russian Far East. They usually nest either on floating vegetation in a marsh or on the ground very close to water, laying 2–4 eggs in a nest built of small reed stems and other vegetation.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Coast",
+      "Nyanza",
+      "Central",
+      "Nairobi"
+    ],
+    "gbif_records_in_kenya": 4558
+  },
+  "look_alikes": [
+    {
+      "label": "Chlidonias_hybrida",
+      "common_name": "Whiskered Tern",
+      "difference": null,
+      "times_confused": 4
+    },
+    {
+      "label": "Elanus_caeruleus",
+      "common_name": "Black-winged Kite",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Pluvialis_squatarola",
+      "common_name": "Grey Plover",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Actitis_hypoleucos",
+      "common_name": "Common Sandpiper",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Alopochen_aegyptiaca",
+      "common_name": "Egyptian Goose",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cypsiurus_parvus",
+      "common_name": "African Palm Swift",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pelecanus_onocrotalus",
+      "common_name": "Great White Pelican",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tringa_glareola",
+      "common_name": "Wood Sandpiper",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Riparia_paludicola",
+      "common_name": "Brown-throated Martin",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pelecanus_rufescens",
+      "common_name": "Pink-backed Pelican",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "White-winged tern",
+      "url": "https://en.wikipedia.org/wiki/White-winged_tern",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2481120"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

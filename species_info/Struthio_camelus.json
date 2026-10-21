@@ -1,0 +1,100 @@
+{
+  "label": "Struthio_camelus",
+  "scientific_name": "Struthio camelus",
+  "common_name": "Common Ostrich",
+  "other_names": {
+    "sw": "Mbuni"
+  },
+  "family": "Struthionidae",
+  "summary": "The common ostrich (Struthio camelus), or simply ostrich, is a species of flightless bird native to certain areas of Africa (and historically, Arabia) and is the largest living species of bird. The common ostrich is one of two extant species of ostriches, the only living members of the genus Struthio in the ratite group of birds. The other is the Somali ostrich (Struthio molybdophanes), which has been recognised as a distinct species by BirdLife International since 2014, having been previously considered a distinctive subspecies of ostrich.",
+  "appearance": {
+    "description": "The common ostrich is the tallest and heaviest living bird. Males stand 2.1 to 2.75 m (6 ft 11 in to 9 ft 0 in) tall and weigh 100 to 130 kg (220 to 290 lb), whereas females are about 1.75 to 1.9 m (5 ft 9 in to 6 ft 3 in) tall and weigh 90 to 120 kg (200 to 260 lb). While exceptional male ostriches (in the nominate subspecies) can weigh up to 156.8 kg (346 lb), some specimens in South Africa can only weigh between 59.5 to 81.3 kg (131 to 179 lb).",
+    "colors": "The other is the Somali ostrich (Struthio molybdophanes), which has been recognised as a distinct species by BirdLife International since 2014, having been previously considered a distinctive subspecies of ostrich. If cornered, it can attack with a kick of its powerful legs.",
+    "wings": "The wings reach a span of about 2 m (6 ft 7 in), and the wing chord measurement of 90 cm (35 in) is around the same size as for the largest flying birds. For example, they use their wings to cover the naked skin of the upper legs and flanks to conserve heat, or leave these areas bare to release heat."
+  },
+  "size": {
+    "adult": {
+      "mass_g": [
+        90000.0,
+        130000.0
+      ],
+      "length_cm": [
+        5.0,
+        280.0
+      ]
+    },
+    "juvenile": {
+      "notes": "After three months they start to gain their juvenile plumage, which is steadily replaced by adult-like plumage during their second year."
+    },
+    "chick": null
+  },
+  "behaviour": "Common ostriches normally spend the winter months in pairs or alone. Only 16 percent of common ostrich sightings were of more than two birds. During breeding season and sometimes during extreme rainless periods ostriches live in nomadic groups of five to 100 birds (led by a top hen) that often travel together with other grazing animals, such as zebras or antelopes.",
+  "can_fly": false,
+  "where_found": {
+    "habitat": "Common ostriches formerly occupied Africa north and south of the Sahara, East Africa, Africa south of the rainforest belt, and much of Asia Minor. Today common ostriches prefer open land and are native to the savannas and Sahel of Africa, both north and south of the equatorial forest zone.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Nairobi",
+      "Kenya",
+      "Coast",
+      "Narok",
+      "Eastern"
+    ],
+    "gbif_records_in_kenya": 18606
+  },
+  "look_alikes": [
+    {
+      "label": "Struthio_molybdophanes",
+      "common_name": "Somali Ostrich",
+      "difference": null,
+      "times_confused": 10
+    },
+    {
+      "label": "Leptoptilos_crumenifer",
+      "common_name": "Marabou Stork",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Anastomus_lamelligerus",
+      "common_name": "African Openbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Calidris_minuta",
+      "common_name": "Little Stint",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ardeotis_kori",
+      "common_name": "Kori Bustard",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Torgos_tracheliotos",
+      "common_name": "Lappet-faced Vulture",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Common ostrich",
+      "url": "https://en.wikipedia.org/wiki/Common_ostrich",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2495150"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

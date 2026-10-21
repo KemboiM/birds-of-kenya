@@ -1,0 +1,92 @@
+{
+  "label": "Falco_ardosiaceus",
+  "scientific_name": "Falco ardosiaceus",
+  "common_name": "Grey Kestrel",
+  "other_names": {},
+  "family": "Falconidae",
+  "summary": "The grey kestrel (Falco ardosiaceus) is an African bird of prey belonging to the falcon family Falconidae. Its closest relatives are the banded kestrel and Dickinson's kestrel and the three are sometimes placed in the subgenus Dissodectes.",
+  "appearance": {
+    "description": "It is a fairly small, stocky kestrel with a large, flat-topped head and fairly short wings that don't reach past the tip of the tail when at rest. It is 28–33 cm long with a wingspan of 58–72 cm and a weight of up to 300 grams. The female is 4-11% larger and 5-11% heavier than the male.",
+    "colors": "The grey kestrel (Falco ardosiaceus) is an African bird of prey belonging to the falcon family Falconidae. The plumage of the adult is uniformly dark grey apart from darker wingtips, faint dark streaking on the body and slightly barred flight feathers.",
+    "wings": "It is a fairly small, stocky kestrel with a large, flat-topped head and fairly short wings that don't reach past the tip of the tail when at rest. The plumage of the adult is uniformly dark grey apart from darker wingtips, faint dark streaking on the body and slightly barred flight feathers."
+  },
+  "size": {
+    "adult": {
+      "wingspan_cm": [
+        58.0,
+        72.0
+      ],
+      "length_cm": [
+        28.0,
+        33.0
+      ]
+    },
+    "juvenile": {
+      "notes": "Juvenile grey kestrels are browner than the adults with a greenish cere and greenish around the eye. Juvenile Dickinson's kestrels are similar but have a barred tail and a more strongly barred underwing."
+    },
+    "chick": null
+  },
+  "behaviour": "It is a crepuscular bird, most active at dawn and dusk. It generally hunts from a high perch but occasionally hovers. It feeds mainly on insects, lizards and small mammals such as bats but will also take birds, amphibians and worms.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "It inhabits savannas, open woodland and forest clearings. It favours areas with palm trees, especially near water.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Narok",
+      "Nyanza",
+      "Western",
+      "Eastern"
+    ],
+    "gbif_records_in_kenya": 1910
+  },
+  "look_alikes": [
+    {
+      "label": "Falco_naumanni",
+      "common_name": "Lesser Kestrel",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Aquila_verreauxii",
+      "common_name": "Verreaux's Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Turdus_abyssinicus",
+      "common_name": "Abyssinian Thrush",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Circus_macrourus",
+      "common_name": "Pallid Harrier",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Polyboroides_typus",
+      "common_name": "African Harrier-hawk",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Grey kestrel",
+      "url": "https://en.wikipedia.org/wiki/Grey_kestrel",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2481031"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

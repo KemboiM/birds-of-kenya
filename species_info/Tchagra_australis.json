@@ -1,0 +1,105 @@
+{
+  "label": "Tchagra_australis",
+  "scientific_name": "Tchagra australis",
+  "common_name": "Brown-crowned Tchagra",
+  "other_names": {},
+  "family": "Malaconotidae",
+  "summary": "The brown-crowned tchagra (Tchagra australis) is a species of bird in the family Malaconotidae.",
+  "appearance": {
+    "description": null,
+    "colors": "The brown-crowned tchagra (Tchagra australis) is a species of bird in the family Malaconotidae.",
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": "It is found in Angola, Benin, Botswana, Burundi, Cameroon, Central African Republic, Republic of the Congo, DRC, Eswatini, Ivory Coast, Gabon, Ghana, Guinea, Kenya, Liberia, Malawi, Mali, Mozambique, Namibia, Nigeria, Rwanda, Sierra Leone, South Africa, South Sudan, Tanzania, Togo, Uganda, Zambia, and Zimbabwe. Its natural habitats are subtropical or tropical dry forests and dry savanna.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Nairobi",
+      "Central",
+      "Eastern",
+      "Western"
+    ],
+    "gbif_records_in_kenya": 7796
+  },
+  "look_alikes": [
+    {
+      "label": "Tchagra_senegalus",
+      "common_name": "Black-crowned Tchagra",
+      "difference": null,
+      "times_confused": 4
+    },
+    {
+      "label": "Emberiza_tahapisi",
+      "common_name": "Cinnamon-breasted Bunting",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Merops_bullockoides",
+      "common_name": "White-fronted Bee-eater",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Muscicapa_striata",
+      "common_name": "Spotted Flycatcher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Passer_griseus",
+      "common_name": "Northern Grey-headed Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_rubiginosus",
+      "common_name": "Chestnut Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Prinia_subflava",
+      "common_name": "Tawny-flanked Prinia",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Quelea_quelea",
+      "common_name": "Red-billed Quelea",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Telophorus_cruentus",
+      "common_name": "Rosy-patched Bushshrike",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Brown-crowned tchagra",
+      "url": "https://en.wikipedia.org/wiki/Brown-crowned_tchagra",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2484826"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

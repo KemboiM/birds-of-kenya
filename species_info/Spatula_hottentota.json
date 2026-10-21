@@ -1,0 +1,97 @@
+{
+  "label": "Spatula_hottentota",
+  "scientific_name": "Spatula hottentota",
+  "common_name": "Blue-billed Teal",
+  "other_names": {
+    "sw": "Bata Domo-buluu"
+  },
+  "family": "Anatidae",
+  "summary": "The blue-billed teal (Spatula hottentota), also sometimes called spotted teal and formerly Hottentot teal, is a species of dabbling duck of the genus Spatula. It is resident in eastern, southern, and western Africa, from Sudan and Ethiopia west to Niger and Nigeria, and south to South Africa and Namibia, and also in Madagascar. It is generally sedentary, but shows nomadic behaviour in response to water requirements, moving away if drought causes wetlands to dry out.",
+  "appearance": {
+    "description": "=== Identification === Adult males have dark brown crown contrasting with paler face, throat, breast and side except for a blackish thumb-shaped patch on the ear region. The back of the neck is spotted with black and this spotting extends down through the neck and become intensively spotted on the breast, the spots appear to be larger and less obvious on the light brown flanks and abdomen, and the posterior underparts and under tail coverts becoming vermiculated with black.",
+    "colors": "The blue-billed teal (Spatula hottentota), also sometimes called spotted teal and formerly Hottentot teal, is a species of dabbling duck of the genus Spatula. The blue-billed teal breeds year round, depending on rainfall, and stays in small groups or pairs.",
+    "wings": "The scapulars and tail are dark brown to black, the upper wing surface is blackish as well, with the coverts giving a greenish gloss. Females have browner crowns, they have less contrasting facial markings and more rounded scapulars, the under tail coverts are not vermiculated, and the wing is less glossy and colourful than that of the adult male."
+  },
+  "size": {
+    "adult": null,
+    "juvenile": {
+      "notes": "Juveniles resemble adult females but are duller throughout the body and less distinctively marked with spots."
+    },
+    "chick": null
+  },
+  "behaviour": "The blue-billed teal is sedentary in West Africa and Madagascar but partly migratory elsewhere, following regular but unpredictable short-distance migration routes, up to 700 km (430 mi), in southern and eastern Africa in response to changing water levels. The blue-billed teal prefers feeding at muddy edges, it will also feed on lands and flooded fields like rice paddies, and in waterside that is disturbed heavily by livestock. It feeds in well-vegetated areas by dabbling, swimming or on foot.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The range of the blue-billed teal extends in Africa from Angola, Zambia, eastern Congo, Malawi, northern Mozambique, Tanzania, Kenya, Uganda, southern Ethiopia, Sudan and Madagascar. They are mainly found in tropical eastern Africa: Ethiopia to Cape Province, westward to northern Botswana and Namibia, and Madagascar.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Central",
+      "Nairobi",
+      "Nakuru",
+      "Kajiado"
+    ],
+    "gbif_records_in_kenya": 4115
+  },
+  "look_alikes": [
+    {
+      "label": "Vidua_paradisaea",
+      "common_name": "Long-tailed Paradise Whydah",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Anas_undulata",
+      "common_name": "Yellow-billed Duck",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Corythaixoides_leucogaster",
+      "common_name": "White-bellied Go-away-bird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Gelochelidon_nilotica",
+      "common_name": "Gull-billed Tern",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pelecanus_rufescens",
+      "common_name": "Pink-backed Pelican",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pterocles_decoratus",
+      "common_name": "Black-faced Sandgrouse",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Anas_erythrorhyncha",
+      "common_name": "Red-billed Teal",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Blue-billed teal",
+      "url": "https://en.wikipedia.org/wiki/Blue-billed_teal",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/9496048"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

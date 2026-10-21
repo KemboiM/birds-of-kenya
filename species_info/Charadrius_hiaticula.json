@@ -1,0 +1,112 @@
+{
+  "label": "Charadrius_hiaticula",
+  "scientific_name": "Charadrius hiaticula",
+  "common_name": "Common Ringed Plover",
+  "other_names": {},
+  "family": "Charadriidae",
+  "summary": "The common ringed plover, great ringed plover or ringed plover (Charadrius hiaticula) is a species of bird in the family Charadriidae. It breeds across much of northern Eurasia, as well as Greenland.",
+  "appearance": {
+    "description": "Adults are 17–19.5 cm (6.7–7.7 in) in length with a 35–41 cm (14–16 in) wingspan. They have a grey-brown back and wings, a white belly, and a white breast with one black neckband. They have a brown cap, a white forehead, a black mask around the eyes and a short orange and black bill.",
+    "colors": "It breeds across much of northern Eurasia, as well as Greenland. They have a grey-brown back and wings, a white belly, and a white breast with one black neckband.",
+    "wings": "They have a grey-brown back and wings, a white belly, and a white breast with one black neckband."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        17.0,
+        41.0
+      ]
+    },
+    "juvenile": {
+      "notes": "Juvenile ringed plovers are duller than the adults in colour, with an often incomplete grey-brown breast band, a dark bill and dull yellowish-grey legs."
+    },
+    "chick": null
+  },
+  "behaviour": "=== Breeding === Common ringed plovers breed from one year of age. They are seasonally monogamous and the pair-bond is sometimes maintained from one year to the next. They are solitary nesters and are territorial.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The common ringed plover's breeding habitat is open ground on beaches or flats across northern Eurosiberia and in Arctic northeast Canada. Some birds breed inland, and in western Europe they nest as far south as northern France.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Coast",
+      "Kenya",
+      "Nairobi",
+      "Eastern",
+      "Central"
+    ],
+    "gbif_records_in_kenya": 6944
+  },
+  "look_alikes": [
+    {
+      "label": "Muscicapa_aquatica",
+      "common_name": "Swamp Flycatcher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Chlidonias_hybrida",
+      "common_name": "Whiskered Tern",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Actitis_hypoleucos",
+      "common_name": "Common Sandpiper",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Calidris_pugnax",
+      "common_name": "Ruff",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Elanus_caeruleus",
+      "common_name": "Black-winged Kite",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pterocles_exustus",
+      "common_name": "Chestnut-bellied Sandgrouse",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Vanellus_melanopterus",
+      "common_name": "Black-winged Lapwing",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Calidris_minuta",
+      "common_name": "Little Stint",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lanius_excubitoroides",
+      "common_name": "Grey-backed Fiscal",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Common ringed plover",
+      "url": "https://en.wikipedia.org/wiki/Common_ringed_plover",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/9566659"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

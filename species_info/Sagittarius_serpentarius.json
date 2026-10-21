@@ -1,0 +1,122 @@
+{
+  "label": "Sagittarius_serpentarius",
+  "scientific_name": "Sagittarius serpentarius",
+  "common_name": "Secretarybird",
+  "other_names": {},
+  "family": "Sagittariidae",
+  "summary": "The secretarybird or secretary bird (Sagittarius serpentarius) is a large bird of prey that is endemic to Africa. It is mostly terrestrial, spending most of its time on the ground, and is usually found in the open grasslands and savanna of the sub-Saharan region. John Frederick Miller described the species in 1779.",
+  "appearance": {
+    "description": "The secretarybird is instantly recognisable as a very large terrestrial bird with an eagle-like head and body on crane-like legs. It stands about 1.3 m (4 ft 3 in) tall. It has a length of between 1.1 and 1.5 m (3 ft 7 in and 4 ft 11 in) and a wingspan between 1.9 and 2.1 m (6 ft 3 in and 6 ft 11 in).",
+    "colors": "John Frederick Miller described the species in 1779. Adults have a featherless, red-orange face and predominantly grey plumage, with a flattened dark crest and black flight feathers and thighs.",
+    "wings": "The plumage of the crown, upperparts, and lesser and median wing coverts is blue-grey, and the underparts and underwing coverts are lighter grey to grey-white. Secretarybirds make this sound when greeting their mates or in a threat display or fight against other birds, sometimes throwing their head backwards at the same time."
+  },
+  "size": {
+    "adult": {
+      "wingspan_cm": [
+        210.0,
+        210.0
+      ],
+      "length_cm": [
+        150.0,
+        150.0
+      ],
+      "mass_g": [
+        3740.0,
+        4270.0
+      ]
+    },
+    "juvenile": {
+      "notes": "Immature birds have yellow rather than orange bare skin on their faces, more brownish plumage, shorter tail feathers, and greyish rather than brown irises."
+    },
+    "chick": {
+      "notes": "The eggs hatch after around 45 days at intervals of 2–3 days. The adults regurgitate food onto the floor of the nest and then pick up items and pass them to the chicks."
+    }
+  },
+  "behaviour": "Secretarybirds are not generally gregarious aside from pairs and their offspring. They usually roost in trees of the genus Acacia or Balanites, or even introduced pine trees in South Africa. They set off 1–2 hours after dawn, generally after spending some time preening.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The secretarybird is endemic to sub-Saharan Africa and is generally nonmigratory, though it may be locally nomadic, as it follows rainfall and the resulting abundance of prey. Its range extends from Senegal to Somalia and south to Western Cape, South Africa.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Nairobi",
+      "Eastern",
+      "Coast",
+      "Narok"
+    ],
+    "gbif_records_in_kenya": 13136
+  },
+  "look_alikes": [
+    {
+      "label": "Neophron_percnopterus",
+      "common_name": "Egyptian Vulture",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Gypohierax_angolensis",
+      "common_name": "Palm-nut Vulture",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Corythaixoides_leucogaster",
+      "common_name": "White-bellied Go-away-bird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Amadina_fasciata",
+      "common_name": "Cut-throat Finch",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Necrosyrtes_monachus",
+      "common_name": "Hooded Vulture",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Polyboroides_typus",
+      "common_name": "African Harrier-hawk",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Quelea_quelea",
+      "common_name": "Red-billed Quelea",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Vanellus_senegallus",
+      "common_name": "African Wattled Lapwing",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Mycteria_ibis",
+      "common_name": "Yellow-billed Stork",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Secretarybird",
+      "url": "https://en.wikipedia.org/wiki/Secretarybird",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/5229409"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

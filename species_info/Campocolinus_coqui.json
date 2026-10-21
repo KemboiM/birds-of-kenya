@@ -1,0 +1,57 @@
+{
+  "label": "Campocolinus_coqui",
+  "scientific_name": "Campocolinus coqui",
+  "common_name": "Coqui Francolin",
+  "other_names": {},
+  "family": "Phasianidae",
+  "summary": "The Coqui francolin (Campocolinus coqui) is a species of bird in the family Phasianidae.",
+  "appearance": {
+    "description": null,
+    "colors": null,
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": "It is mainly found in Africa's southern half but is also sparsely present in the western Sahel and Ethiopia. It is believed to be the most widespread francolin in Africa.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Coast",
+      "Narok",
+      "Nakuru",
+      "Nyanza"
+    ],
+    "gbif_records_in_kenya": 4080
+  },
+  "look_alikes": [
+    {
+      "label": "Pterocles_exustus",
+      "common_name": "Chestnut-bellied Sandgrouse",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Coqui francolin",
+      "url": "https://en.wikipedia.org/wiki/Coqui_francolin",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/11251051"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "label": "Circaetus_pectoralis",
+  "scientific_name": "Circaetus pectoralis",
+  "common_name": "Black-chested Snake Eagle",
+  "other_names": {},
+  "family": "Accipitridae",
+  "summary": "The black-chested snake eagle or black-breasted snake eagle (Circaetus pectoralis) is a large African bird of prey of the family Accipitridae. It resembles other snake eagles and was formerly considered conspecific with the short-toed and Beaudouin's snake eagles, to which it is closely related.",
+  "appearance": {
+    "description": "The main identifying character of this bird is its dark brown-black head and chest, to which it owes its name. It is distinguished from the short-toed and Beaudouin's snake eagles by its uniform white lower underparts, in contrast to the darkly blotched belly of the short-toed snake eagle and narrowly barred lower underparts of the Beaudouin's. In flight, the dark head and chest contrast with the lower underparts and underwings, which are both white except for three narrow black terminal bars on the underwings.",
+    "colors": "The black-chested snake eagle or black-breasted snake eagle (Circaetus pectoralis) is a large African bird of prey of the family Accipitridae. It resembles other snake eagles and was formerly considered conspecific with the short-toed and Beaudouin's snake eagles, to which it is closely related.",
+    "wings": "In flight, the dark head and chest contrast with the lower underparts and underwings, which are both white except for three narrow black terminal bars on the underwings. In the field the species may also be confused with the martial eagle (Polemaetus bellicosus); however, it is distinguished from this species by its smaller size, unmarked (not spotted) breast, and white (not brown-black) underwings."
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": {
+      "notes": "After hatching, the chick remains in the nest for approximately 3 months (90 days)."
+    }
+  },
+  "behaviour": "As its name indicates, this bird feeds mostly on snakes (particularly venomous snakes up to 80 cm. in length), but will also prey on lizards, insects, small mammals and frogs. It mainly hunts from a perch or by hovering or searching the ground, stalking prey on the wing and then parachuting slowly to the ground to capture its prey. The species has also been found to be highly dependent on seasonal fluctuations in small mammal prey availability, with its numbers increasing in accordance with booms in small mammal abundance in the Serengeti National Park.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "This species has an Afrotropical distribution and can be found throughout southern and East Africa, from Ethiopia and Sudan in the north to South Africa (north of 26S) in the south, ranging as far west as the southern Democratic Republic of the Congo and southeastern Gabon. It is a partial migrant, with many populations in southern Africa and East Africa appearing to be resident year-round, while the species has only ever been recorded as a breeding visitor in Sudan and as a largely non-breeding visitor in Ethiopia and the former Transvaal, where it is considered locally nomadic.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Coast",
+      "Eastern",
+      "Nairobi",
+      "Narok"
+    ],
+    "gbif_records_in_kenya": 6119
+  },
+  "look_alikes": [
+    {
+      "label": "Buteo_augur",
+      "common_name": "Augur Buzzard",
+      "difference": null,
+      "times_confused": 3
+    },
+    {
+      "label": "Terathopius_ecaudatus",
+      "common_name": "Bateleur",
+      "difference": null,
+      "times_confused": 3
+    },
+    {
+      "label": "Elanus_caeruleus",
+      "common_name": "Black-winged Kite",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Hieraaetus_wahlbergi",
+      "common_name": "Wahlberg's Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Aquila_nipalensis",
+      "common_name": "Steppe Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Aquila_rapax",
+      "common_name": "Tawny Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Circaetus_cinereus",
+      "common_name": "Brown Snake Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Circus_macrourus",
+      "common_name": "Pallid Harrier",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Circus_pygargus",
+      "common_name": "Montagu's Harrier",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Falco_naumanni",
+      "common_name": "Lesser Kestrel",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Hirundo_smithii",
+      "common_name": "Wire-tailed Swallow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ichthyaetus_hemprichii",
+      "common_name": "Sooty Gull",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lanius_cabanisi",
+      "common_name": "Long-tailed Fiscal",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Passer_rufocinctus",
+      "common_name": "Kenya Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Turdoides_plebejus",
+      "common_name": "Brown Babbler",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Melierax_poliopterus",
+      "common_name": "Eastern Chanting Goshawk",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Polemaetus_bellicosus",
+      "common_name": "Martial Eagle",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Black-chested snake eagle",
+      "url": "https://en.wikipedia.org/wiki/Black-chested_snake_eagle",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2480662"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

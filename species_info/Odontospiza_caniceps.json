@@ -1,0 +1,82 @@
+{
+  "label": "Odontospiza_caniceps",
+  "scientific_name": "Odontospiza caniceps",
+  "common_name": "Grey-headed Silverbill",
+  "other_names": {},
+  "family": "Estrildidae",
+  "summary": "The grey-headed silverbill (Spermestes griseicapilla), also known as pearl-headed mannikin, is a species of estrildid finch found in eastern Africa, Ethiopia, Kenya, South Sudan, and Tanzania. It has an estimated global extent of occurrence of 400,000 km2 (150,000 sq mi). It was formerly usually placed in the monotypic genus Odontospiza as Odontospiza caniceps and sometimes placed in the genus Lonchura.",
+  "appearance": {
+    "description": "The grey-headed silverbill is a stocky bird with a grey head studded with white dots. Its body is greyish-brown with partly black wings and tail and a white rump. The juvenile can be told by its white rump.",
+    "colors": "The grey-headed silverbill (Spermestes griseicapilla), also known as pearl-headed mannikin, is a species of estrildid finch found in eastern Africa, Ethiopia, Kenya, South Sudan, and Tanzania. The grey-headed silverbill is a stocky bird with a grey head studded with white dots.",
+    "wings": "Its body is greyish-brown with partly black wings and tail and a white rump. Adult male is approximately 11.5 cm (4.5 in) in length with wing length 6.5 cm (2.6 in)."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        6.5,
+        11.5
+      ]
+    },
+    "juvenile": {
+      "notes": "The juvenile can be told by its white rump."
+    },
+    "chick": null
+  },
+  "behaviour": "The grey-headed silverbill is gregarious, moving in small flocks and often mixing with African silverbill. The grey-headed silverbill feeds mostly on grass seeds. But it has been suggested that the species also feed on insects which are more a source of moisture than dry seeds.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The grey-headed silverbill is commonly found in dry savanna habitat but never too far away from water. It wanders widely, influenced by weather and shifting availability of sources of water.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Eastern",
+      "Coast",
+      "Nairobi",
+      "Coast Province"
+    ],
+    "gbif_records_in_kenya": 1695
+  },
+  "look_alikes": [
+    {
+      "label": "Nectarinia_kilimensis",
+      "common_name": "Bronze Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pseudonigrita_arnaudi",
+      "common_name": "Grey-capped Social Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Calendulauda_africanoides",
+      "common_name": "Fawn-coloured Lark",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Coracias_garrulus",
+      "common_name": "European Roller",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Grey-headed silverbill",
+      "url": "https://en.wikipedia.org/wiki/Grey-headed_silverbill",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/5845608"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

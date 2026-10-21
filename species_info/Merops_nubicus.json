@@ -1,0 +1,83 @@
+{
+  "label": "Merops_nubicus",
+  "scientific_name": "Merops nubicus",
+  "common_name": "Northern Carmine Bee-eater",
+  "other_names": {},
+  "family": "Meropidae",
+  "summary": "The northern carmine bee-eater (Merops nubicus) is a brightly-coloured bird in the bee-eater family, Meropidae. It is found across northern tropical Africa, from Senegal eastwards to Somalia, Ethiopia and Kenya. It was formerly considered to be conspecific with the southern carmine bee-eater which has a carmine coloured throat rather than the blue throat of the northern species.",
+  "appearance": {
+    "description": "This species, like other bee-eaters, is a richly colored, slender bird, predominantly carmine in color, except for a greenish blue head and throat and distinctive black mask. This species has red eyes, a black, pointed, decurved beak, and elongated central tail feathers. The sexes are similar in appearance, and the juveniles can be distinguished from adults by their lack of elongated central tail feathers and the pinkish brown coloration of their mantle, chest to belly, and flanks.",
+    "colors": "The northern carmine bee-eater (Merops nubicus) is a brightly-coloured bird in the bee-eater family, Meropidae. It was formerly considered to be conspecific with the southern carmine bee-eater which has a carmine coloured throat rather than the blue throat of the northern species.",
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": {
+      "notes": "The sexes are similar in appearance, and the juveniles can be distinguished from adults by their lack of elongated central tail feathers and the pinkish brown coloration of their mantle, chest to belly, and flanks."
+    },
+    "chick": null
+  },
+  "behaviour": "=== Breeding === They nest in large colonies in cliffs, usually near river banks, where they use their bills to dig long horizontal nesting tunnels, often eight feet or more in length. Some colonies may consist of just a few nests while others accommodate hundreds of breeding birds. The same site may be used for several years and then the colony may all move to another location.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "It is native to Benin, Burkina Faso, Cameroon, the Central African Republic, Chad, the Democratic Republic of the Congo, Côte d'Ivoire, Eritrea, Ethiopia, Gambia, Ghana, Guinea, Guinea-Bissau, Kenya, Liberia, Mali, Mauritania, Niger, Nigeria, Senegal, Sierra Leone, Somalia, Sudan, Tanzania, Togo and Uganda. It occurs as a vagrant in Burundi.",
+    "kenya_regions": [
+      "Coast",
+      "Kenya",
+      "Rift Valley",
+      "Eastern",
+      "Kilifi",
+      "Taita Taveta"
+    ],
+    "gbif_records_in_kenya": 4273
+  },
+  "look_alikes": [
+    {
+      "label": "Coracias_naevius",
+      "common_name": "Purple Roller",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Amadina_fasciata",
+      "common_name": "Cut-throat Finch",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ceryle_rudis",
+      "common_name": "Pied Kingfisher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Coracias_garrulus",
+      "common_name": "European Roller",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Merops_bullockoides",
+      "common_name": "White-fronted Bee-eater",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Northern carmine bee-eater",
+      "url": "https://en.wikipedia.org/wiki/Northern_carmine_bee-eater",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2475396"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

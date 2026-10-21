@@ -1,0 +1,157 @@
+{
+  "label": "Tringa_glareola",
+  "scientific_name": "Tringa glareola",
+  "common_name": "Wood Sandpiper",
+  "other_names": {
+    "sw": "Chamchanga-mtoni"
+  },
+  "family": "Scolopacidae",
+  "summary": "The wood sandpiper (Tringa glareola) is a small wader belonging to the sandpiper family Scolopacidae. A Eurasian species, it is the smallest of the shanks, a genus of mid-sized, long-legged waders that largely inhabit freshwater and wetland environments, as opposed to the maritime or coastal habitats of other, similar species.",
+  "appearance": {
+    "description": "The wood sandpiper resembles a longer-legged, more delicate form of the aforementioned green sandpiper (T. ochropus), or a solitary sandpiper (T. solitaria), albeit with a shorter, finer bill, brown back and longer yellowish legs. The wood sandpiper differs from the green by having a smaller, less contrasting white rump-patch, while the solitary sandpiper has no rump-patch, at all. However, the wood sandpiper is not closely related to these two species; its closest relative is the common redshank (T. totanus), with which it shares a sister relationship with the marsh sandpiper (T. stagnatilis).",
+    "colors": "The wood sandpiper differs from the green by having a smaller, less contrasting white rump-patch, while the solitary sandpiper has no rump-patch, at all. However, the wood sandpiper is not closely related to these two species; its closest relative is the common redshank (T. totanus), with which it shares a sister relationship with the marsh sandpiper (T. stagnatilis).",
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": {
+      "notes": "They hatch after 22 to 23 days. The young fledge when aged around 30 days."
+    }
+  },
+  "behaviour": "Mature wood sandpipers moult all of their primary feathers between August and December, whilst juvenile birds shed a varying number of outer primaries between December and April, much closer to their departure from Africa. Immature birds are also much more flexible than older birds regarding the timing (and rate) of their moult and refueling. Adults and immatures which accumulate fuel loads of c.50% of their lean body mass can potentially cross distances of 2397–4490 km in one non-stop flight.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The wood sandpiper breeds in subarctic wetlands, from the Scottish Highlands in the west, east across Eurasia and the Palearctic. They will migrate to Africa, South Asia (particularly India) and Australia.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Nairobi",
+      "Coast",
+      "Central",
+      "Eastern"
+    ],
+    "gbif_records_in_kenya": 13164
+  },
+  "look_alikes": [
+    {
+      "label": "Tringa_stagnatilis",
+      "common_name": "Marsh Sandpiper",
+      "difference": null,
+      "times_confused": 4
+    },
+    {
+      "label": "Numenius_phaeopus",
+      "common_name": "Eurasian Whimbrel",
+      "difference": null,
+      "times_confused": 3
+    },
+    {
+      "label": "Tringa_ochropus",
+      "common_name": "Green Sandpiper",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Actitis_hypoleucos",
+      "common_name": "Common Sandpiper",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Chlidonias_leucopterus",
+      "common_name": "White-winged Tern",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lamprotornis_fischeri",
+      "common_name": "Fischer's Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bycanistes_brevis",
+      "common_name": "Silvery-cheeked Hornbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Calidris_minuta",
+      "common_name": "Little Stint",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Quelea_quelea",
+      "common_name": "Red-billed Quelea",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Calidris_pugnax",
+      "common_name": "Ruff",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Plegadis_falcinellus",
+      "common_name": "Glossy Ibis",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Monticola_saxatilis",
+      "common_name": "Common Rock Thrush",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pelecanus_rufescens",
+      "common_name": "Pink-backed Pelican",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Chroicocephalus_cirrocephalus",
+      "common_name": "Grey-headed Gull",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Vanellus_armatus",
+      "common_name": "Blacksmith Lapwing",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Turdus_abyssinicus",
+      "common_name": "Abyssinian Thrush",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Vanellus_coronatus",
+      "common_name": "Crowned Lapwing",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Wood sandpiper",
+      "url": "https://en.wikipedia.org/wiki/Wood_sandpiper",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2481713"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}
