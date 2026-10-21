@@ -78,10 +78,11 @@ canvas#view { display: block; width: 100%; height: auto; max-width: 100%; }
 
 .birds { list-style: none; margin: 0; padding: 0; display: grid; gap: 1px; background: var(--line); border: 1px solid var(--line); border-radius: 14px; overflow: hidden; }
 .bird { background: var(--surface); padding: 12px 14px; display: grid; grid-template-columns: auto 1fr; gap: 4px 12px; }
-.num { grid-row: span 3; width: 28px; height: 28px; border-radius: 7px; background: var(--mark); color: var(--mark-ink); font: 600 0.85rem var(--mono); display: grid; place-items: center; }
+.num { grid-row: 1 / span 4; width: 28px; height: 28px; border-radius: 7px; background: var(--mark); color: var(--mark-ink); font: 600 0.85rem var(--mono); display: grid; place-items: center; }
 .bird.unsure .num { background: var(--line); color: var(--ink); }
-.name { font-family: var(--display); font-style: italic; font-size: 1.35rem; line-height: 1.15; min-width: 0; }
-.bird.unsure .name { font-style: normal; color: var(--warn); }
+.bird > :not(.num) { grid-column: 2; }
+.name { font-family: var(--display); font-size: 1.35rem; line-height: 1.15; min-width: 0; }
+.bird.unsure .name { color: var(--warn); }
 .meta { font-family: var(--mono); font-size: 0.78rem; color: var(--muted); font-variant-numeric: tabular-nums; min-width: 0; }
 .alts { font-size: 0.82rem; color: var(--muted); min-width: 0; }
 .alts i { color: var(--ink); }
