@@ -11,6 +11,7 @@ Outputs (for --version 1.0):
 """
 
 import argparse
+import csv
 import json
 import os
 import shutil
@@ -22,7 +23,7 @@ REPORT_FILES = ['metrics.json', 'per_species_2x2.csv', 'most_confused_pairs.csv'
 
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'
 
-from src.data.loader import prepare_dataset, save_split_lists
+from src.data.loader import prepare_crop_dataset, prepare_dataset, save_split_lists
 from src.evaluation.report import write_evaluation
 from src.models.train import predict_dataset, train_model, train_model_cached
 from src.utils.helpers import log_training, save_label_list
@@ -46,6 +47,12 @@ def parse_args():
     p.add_argument('--cached-features', action='store_true',
                    help='fast CPU training: compute MobileNetV2 features once (photo + mirrored copy) '
                         'and train only the classifier head; no fine-tuning')
+    p.add_argument('--from-annotations', action='store_true',
+                   help='train on the boxed birds in data/annotations instead of whole photos')
+    p.add_argument('--split-from', default='1.0',
+                   help='with --from-annotations: reuse this version\'s train/val/test photo split')
+    p.add_argument('--exclude', default=None,
+                   help='CSV with an "image" column of photos to leave out (e.g. non-bird images)')
     p.add_argument('--copy-correct', action='store_true',
                    help='also copy correctly classified test images into correct/')
     p.add_argument('--no-pretrained', action='store_true',
@@ -77,8 +84,17 @@ def main():
         return
 
     print("\nStep 1: Loading images...")
-    splits = prepare_dataset(data_dir, img_size=(args.img_size, args.img_size),
-                             batch_size=args.batch_size, min_images=args.min_images)
+    if args.from_annotations:
+        exclude = []
+        if args.exclude:
+            with open(args.exclude, newline='') as f:
+                exclude = [row['image'] for row in csv.DictReader(f)]
+        splits = prepare_crop_dataset(args.data_root, args.split_from,
+                                      img_size=(args.img_size, args.img_size),
+                                      batch_size=args.batch_size, exclude=exclude)
+    else:
+        splits = prepare_dataset(data_dir, img_size=(args.img_size, args.img_size),
+                                 batch_size=args.batch_size, min_images=args.min_images)
     names = splits.class_names
     save_label_list(names, config_dir, PROJECT, v)
     for path in save_split_lists(splits, os.path.join(args.data_root, 'training_data', 'trainvals'),

@@ -5,15 +5,16 @@ names the species, counts them ("12 Marabou Storks, 3 Hadada Ibises"), describes
 species, and estimates how far away the birds are. It runs on a computer or, through the
 web app, on Android and iOS phones.
 
-**Status (October 2026):** version 1.0 covers 467 species with 44.9% test accuracy
-(top-5 69.3%), trained without fine-tuning. Version 0.9 (50 species, 72.2%) is kept as a
-baseline. Results for each version are in [reports/](reports/).
+**Status (October 2026):** version 1.1 covers 467 species with 63.2% test accuracy
+(top-5 83.0%). It is trained on the birds boxed in each photo, with fine-tuning, and
+improves on 1.0 (45.2% on the same test photos). Results for each version are in
+[reports/](reports/).
 
 ## How it works
 
 1. **Find the birds.** YOLO11n, pretrained on COCO, draws a box around every bird.
-2. **Name each bird.** A MobileNetV2 classifier trained on GBIF photos of Kenyan species
-   classifies each box.
+2. **Name each bird.** A MobileNetV2 classifier, trained on the birds boxed in GBIF photos
+   of Kenyan species, classifies each box.
 3. **Describe the species.** `species_info/<Scientific_name>.json` holds the common names,
    bio, colours, wings, sizes by life stage, behaviour, where it occurs in Kenya, whether it
    flies, and look-alike species.
@@ -29,6 +30,7 @@ birds-of-kenya/
 │   ├── images/sorted_data/<Species>/<Species>_1.jpg ...   training photos
 │   ├── images/images_from_field/                          your own photos
 │   ├── gbif_metadata.csv       license and photographer for every training photo
+│   ├── annotations/<Species>/<photo>.xml   bird boxes (Pascal VOC, opens in LabelImg)
 │   ├── training_data/trainvals/{train,val,test}_birds_<version>.txt
 │   └── validation_data/<version>/<version>_results/       full evaluation incl. misclassified/
 ├── docs/mobile.md              running the models in Android and iOS apps
@@ -37,7 +39,7 @@ birds-of-kenya/
 │   └── model_assets/           trained_checkpoints/<version>/, tflite_models/
 ├── protocols/                  naming and sourcing, annotation, field testing
 ├── reports/<version>/          results committed to git (metrics, confusion matrix, ...)
-├── scripts/                    download data, build species info, export models
+├── scripts/                    download data, annotate birds, build species info, export models
 ├── species_info/               species knowledge base, one JSON per species
 ├── src/                        data loading, training, evaluation, identification
 ├── main.py                     train a version
@@ -68,14 +70,33 @@ photos are kept (`--license commercial` keeps only the first three). No-derivati
 all-rights-reserved photos, and sound spectrograms listed as images, are skipped.
 Re-running resumes where it stopped.
 
-## 2. Train
+## 2. Annotate the birds
 
 ```bash
-python3 main.py --version 1.0
+python3 scripts/annotate_birds.py
 ```
 
-Training writes the model to `model/model_assets/trained_checkpoints/1.0/` and the full
-evaluation to `data/validation_data/1.0/1.0_results/`:
+Draws a box around every bird in every training photo and saves one Pascal VOC XML file per
+photo in `data/annotations/<Species>/`, labelled with the scientific name. A second, stronger
+pass looks again at photos where nothing was found (birds in flight, camouflaged, on nests,
+small birds in flocks). `annotation_summary.csv` gives each photo a status and `review.csv`
+lists the photos to check by hand. Photos with no usable bird (feathers, eggs, empty nests,
+other animals, landscapes) go in `data/annotations/exclude.csv` and are left out of training.
+The script uses the Apple Silicon GPU when available and resumes where it stopped.
+
+## 3. Train
+
+```bash
+python3 main.py --version 1.1 --from-annotations --split-from 1.0 \
+    --exclude data/annotations/exclude.csv --epochs 10 --fine-tune-epochs 10
+```
+
+`--from-annotations` trains on the boxed birds instead of whole photos, matching how the app
+classifies each box; `--split-from 1.0` reuses 1.0's train/validation/test photos so versions
+compare directly. Without these options, `python3 main.py --version <v>` trains on whole photos.
+
+Training writes the model to `model/model_assets/trained_checkpoints/<version>/` and the full
+evaluation to `data/validation_data/<version>/<version>_results/`:
 
 | Output | Contents |
 |---|---|
@@ -88,7 +109,7 @@ evaluation to `data/validation_data/1.0/1.0_results/`:
 | `misclassified.csv` | the same list with the top 3 guesses and GBIF source links |
 | `training_curves.png` | accuracy and loss per epoch |
 
-The small files are also copied to `reports/1.0/` for git. Add `--copy-correct` to also
+The small files are also copied to `reports/<version>/` for git. Add `--copy-correct` to also
 save correctly classified photos. Use a new `--version` for every run.
 
 On a computer without a GPU, add `--cached-features`: MobileNetV2 features are computed
@@ -96,31 +117,31 @@ once per photo (plus a mirrored copy) and only the classifier head is trained, w
 minutes instead of hours. It skips fine-tuning, so a GPU run without the flag usually
 scores a few points higher.
 
-## 3. Build the species knowledge base
+## 4. Build the species knowledge base
 
 ```bash
 python3 scripts/build_species_info.py \
-    --confusion data/validation_data/1.0/1.0_results/most_confused_pairs.csv
+    --confusion data/validation_data/1.1/1.1_results/most_confused_pairs.csv
 ```
 
 Fills each species file from GBIF and Wikipedia and adds look-alikes from the confusion
 matrix. Check sizes against a field guide (distance depends on them), write how to tell
 each look-alike apart, then set `review.verified_by`. See [species_info/README.md](species_info/README.md).
 
-## 4. Identify birds
+## 5. Identify birds
 
 ```bash
-python3 identify.py photo.jpg --version 1.0
-python3 identify.py flock.jpg --version 1.0 --tile     # large flocks, distant birds
+python3 identify.py photo.jpg --version 1.1
+python3 identify.py flock.jpg --version 1.1 --tile     # large flocks, distant birds
 ```
 
 Saves `outputs/identify/<photo>_identified.jpg` (numbered boxes), `.json` and `.txt`.
 
-## 5. Phones
+## 6. Phones
 
-- **Web app, Android and iOS:** `python3 scripts/export_web.py --version 1.0`, then publish
+- **Web app, Android and iOS:** `python3 scripts/export_web.py --version 1.1`, then publish
   `app/web/` ([app/web/README.md](app/web/README.md)).
-- **Native apps:** `python3 scripts/export_tflite.py --version 1.0 --detector` ([docs/mobile.md](docs/mobile.md)).
+- **Native apps:** `python3 scripts/export_tflite.py --version 1.1 --detector` ([docs/mobile.md](docs/mobile.md)).
 
 Exports need `pip install -r requirements-export.txt`.
 

@@ -98,16 +98,10 @@ def _feature_extractor(img_size, weights):
     return keras.Model(inputs, layers.GlobalAveragePooling2D()(x))
 
 
-def _features(extractor, paths, img_size, flip=False, batch_size=64):
-    import tensorflow as tf
-    from src.data.loader import _load_image
-    ds = tf.data.Dataset.from_tensor_slices((paths, [0] * len(paths)))
-    ds = ds.map(lambda p, l: _load_image(p, l, (img_size, img_size)),
-                num_parallel_calls=tf.data.AUTOTUNE)
-    if flip:
-        ds = ds.map(lambda x, l: (tf.image.flip_left_right(x), l))
-    ds = ds.batch(batch_size).prefetch(tf.data.AUTOTUNE)
-    return extractor.predict(ds.map(lambda x, l: x), verbose=1)
+def _features(extractor, paths, img_size, flip=False, batch_size=64, boxes=None):
+    from src.data.loader import image_dataset
+    ds = image_dataset(paths, (img_size, img_size), boxes=boxes, flip=flip, batch_size=batch_size)
+    return extractor.predict(ds, verbose=1)
 
 
 def train_model_cached(splits, num_classes, epochs=40, patience=6, weights='imagenet',
@@ -130,11 +124,12 @@ def train_model_cached(splits, num_classes, epochs=40, patience=6, weights='imag
         x_tr, y_tr, x_va = c['x_tr'], c['y_tr'], c['x_va']
     else:
         extractor = _feature_extractor(img_size, weights)
-        print(f"  Computing features: {len(tr_p)} training photos x 2 views, {len(va_p)} validation")
-        x_tr = np.concatenate([_features(extractor, tr_p, img_size),
-                               _features(extractor, tr_p, img_size, flip=True)])
+        print(f"  Computing features: {len(tr_p)} training images x 2 views, {len(va_p)} validation")
+        tr_b, va_b = splits.boxes.get('train'), splits.boxes.get('val')
+        x_tr = np.concatenate([_features(extractor, tr_p, img_size, boxes=tr_b),
+                               _features(extractor, tr_p, img_size, flip=True, boxes=tr_b)])
         y_tr = np.concatenate([tr_y, tr_y])
-        x_va = _features(extractor, va_p, img_size)
+        x_va = _features(extractor, va_p, img_size, boxes=va_b)
         if cache_path:
             os.makedirs(os.path.dirname(cache_path), exist_ok=True)
             np.savez(cache_path, x_tr=x_tr, y_tr=y_tr, x_va=x_va)

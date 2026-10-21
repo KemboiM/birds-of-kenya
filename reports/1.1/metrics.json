@@ -1,0 +1,9 @@
+{
+  "num_classes": 467,
+  "test_images": 7199,
+  "accuracy": 0.6323100430615364,
+  "top5_accuracy": 0.830393110154188,
+  "f1_macro": 0.5692512105576165,
+  "f1_weighted": 0.6266244816527927,
+  "misclassified_images": 2647
+}
