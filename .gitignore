@@ -45,3 +45,13 @@ results/
 logs/
 outputs/
 .DS_Store
+
+# Kedro pipelines and MLflow (docs/pipelines.md): local settings, tracking database and artifacts
+/conf/local/*
+!/conf/local/.gitkeep
+/mlflow.db
+/mlruns/
+/mlartifacts/
+/.pytest_cache/
+/.viz/
+/build/

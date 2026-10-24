@@ -1,0 +1,5 @@
+# Model version the pipelines work on. Change it here, or for one run only:
+#   kedro run --pipelines evaluation --params version=2.2
+# 2.0 and 2.1 are trained on the photos downloaded again in October 2026; 1.0 and 1.1 are kept
+# in reports/ as earlier results.
+version: "2.1"

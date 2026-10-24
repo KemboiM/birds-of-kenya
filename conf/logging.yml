@@ -1,0 +1,21 @@
+# Logging for `kedro run`: the pipelines' own messages, without one line for each file loaded or saved.
+version: 1
+disable_existing_loggers: False
+
+handlers:
+  rich:
+    class: kedro.logging.RichHandler
+    rich_tracebacks: True
+
+loggers:
+  kedro:
+    level: INFO
+  kedro.io:
+    level: WARNING
+  kedro.pipeline:
+    level: WARNING
+  bok_pipelines:
+    level: INFO
+
+root:
+  handlers: [rich]

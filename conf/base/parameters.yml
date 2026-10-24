@@ -1,0 +1,89 @@
+# Settings for the Kedro pipelines. docs/pipelines.md explains each one.
+# Any value can be changed for one run, e.g.
+#   kedro run --pipeline evaluation --params version=1.2
+#   kedro run --pipeline data_checks --params data_checks.max_images_per_label=20
+
+version: ${runtime_params:version,${globals:version}}
+
+paths:
+  data_root: data
+  images: data/images/sorted_data
+  annotations: data/annotations
+  exclude: data/annotations/exclude.csv          # photos left out of training ("image" column)
+  metadata: data/gbif_metadata.csv               # license and photographer of every training photo
+  splits: splits
+  labels: model/configs_and_labels
+  checkpoints: model/model_assets/trained_checkpoints
+  identify_outputs: outputs/identify             # JSON files written by identify.py
+  review_queue: outputs/review/review_queue.csv
+
+# 1. Data checks, before training
+data_checks:
+  splits_version: null          # null = the split the next training run uses (training.split_from)
+  min_width: 64                 # pixels; smaller photos are reported
+  min_height: 64
+  min_images_per_label: 10      # same as main.py --min-images
+  box_tolerance_px: 2           # boxes may overrun the photo edge by this much
+  allowed_licenses: [CC0, CC-BY, CC-BY-SA, CC-BY-NC, CC-BY-NC-SA]
+  blocking:                     # a failure in any of these stops training and promotion
+    - metadata_table
+    - unreadable_images
+    - conflicting_labels
+    - licenses
+    - annotations
+    - split_integrity
+  max_images_per_label: null    # e.g. 20 for a quick trial run; null = every photo
+  workers: 8
+
+# 2. Training: the options passed to main.py
+training:
+  require_data_checks: true     # refuse to train when a blocking data check failed
+  from_annotations: true
+  split_from: "2.0"
+  exclude: data/annotations/exclude.csv
+  epochs: 10
+  fine_tune_epochs: 10
+  batch_size: 32
+  img_size: 224
+  min_images: 10
+  cached_features: false
+  extra_args: []                # any other main.py options, e.g. ["--copy-correct"]
+
+# 3. Evaluation
+evaluation:
+  source: auto                  # auto: re-run the model on the test photos when the model file
+                                # is on this computer, otherwise read reports/<version>/;
+                                # predict | reports to force one
+  rare_max_train: 20            # species with this many training photos or fewer count as rare
+  confidence_cutoff: 0.5        # same as identify.py --min-confidence
+  calibration_bins: 10
+  top_k: 5
+  batch_size: 64
+
+# 4. Promotion: a new version replaces the one in use only when it is better
+promotion:
+  baseline: production          # production = the version now in use (reports/production.json), or a version, e.g. "2.0"
+  fallback_baseline: "2.0"      # used when no version is in production yet
+  require_data_checks: true
+  metric: accuracy
+  min_gain: 0.0                 # the new version must at least match the one in use
+  max_macro_f1_drop: 0.0
+  max_rare_accuracy_drop: 0.0   # accuracy on rare species must not fall
+  max_label_recall_drop: 0.20   # a species "regresses" when its recall falls by more than this
+  min_test_images: 15           # only species with at least this many test photos are compared
+  max_regressed_labels: 0
+
+# 5. Review and monitoring of photos identified in the field
+review:
+  min_confidence: 0.5           # birds below this confidence go to the review queue
+  drift_features: [brightness, contrast, aspect_ratio]
+  psi_warn: 0.1
+  psi_alert: 0.25
+  min_photos: 30                # fewer field photos than this: drift levels are only indicative
+
+mlflow:
+  enabled: true
+  tracking_uri: sqlite:///mlflow.db
+  experiment: birds-of-kenya
+  registered_model: birds-of-kenya-classifier
+  log_model: true               # register the .keras model in the MLflow model registry

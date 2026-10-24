@@ -26,13 +26,14 @@ improves on 1.0 (45.2% on the same test photos). Results for each version are in
 ```
 birds-of-kenya/
 ├── app/web/                    phone web app (Android and iOS)
+├── conf/                       pipeline settings: model version, checks, promotion rules
 ├── data/                       on your computer only (not in git)
 │   ├── images/sorted_data/<Species>/<Species>_1.jpg ...   training photos
 │   ├── images/images_from_field/                          your own photos
 │   ├── gbif_metadata.csv       license and photographer for every training photo
 │   ├── annotations/<Species>/<photo>.xml   bird boxes (Pascal VOC, opens in LabelImg)
 │   └── validation_data/<version>/<version>_results/       full evaluation incl. misclassified/
-├── docs/mobile.md              running the models in Android and iOS apps
+├── docs/                       mobile.md (Android and iOS apps), pipelines.md (Kedro and MLflow)
 ├── model/
 │   ├── configs_and_labels/     label lists and training settings per version
 │   └── model_assets/           trained_checkpoints/<version>/, tflite_models/
@@ -42,6 +43,8 @@ birds-of-kenya/
 ├── scripts/                    download data, annotate birds, build species info, export models
 ├── species_info/               species knowledge base, one JSON per species
 ├── src/                        data loading, training, evaluation, identification
+│   └── bok_pipelines/          Kedro pipelines and reusable data and model checks
+├── tests/                      tests for the checks
 ├── main.py                     train a version
 └── identify.py                 identify, count and describe birds in photos
 ```
@@ -73,6 +76,7 @@ Re-running resumes where it stopped.
 ## 2. Annotate the birds
 
 ```bash
+python3 scripts/fix_orientation.py    # turn sideways-stored photos upright first
 python3 scripts/annotate_birds.py
 ```
 
@@ -145,6 +149,24 @@ Saves `outputs/identify/<photo>_identified.jpg` (numbered boxes), `.json` and `.
 
 Exports need `pip install -r requirements-export.txt`.
 
+## 7. Pipelines: data checks, evaluation, promotion and monitoring
+
+```bash
+pip install -r requirements-pipelines.txt
+kedro run                                            # check data, evaluate and promote the version in globals.yml
+kedro run --pipelines release --params version=1.2   # new version: check, train, evaluate, promote
+kedro run --pipelines review                         # after identify.py: review queue and drift
+mlflow ui --backend-store-uri sqlite:///mlflow.db    # runs and registered models
+```
+
+[Kedro](https://kedro.org) runs the project as pipelines, [MLflow](https://mlflow.org) tracks every
+evaluation and holds the model registry, and [Pandera](https://pandera.readthedocs.io) checks the
+tables. Before training, every photo is checked for readability, license, box errors, duplicates
+across species and leaks between train and test. After training, each version gets one standard
+evaluation report (including calibration and rare-species accuracy) and replaces the version in use
+only when it is better; on the committed reports, 1.1 clears every rule against 1.0. Uncertain birds from field photos go to a review
+queue, and field photos are checked for drift. See [docs/pipelines.md](docs/pipelines.md).
+
 ## Limits
 
 - Distance is an estimate, often off by 30–50%. Pose, partly hidden birds, digital zoom
@@ -164,6 +186,7 @@ Exports need `pip install -r requirements-export.txt`.
 | MobileNetV2 starting weights | Keras Applications (Apache 2.0), trained on ImageNet |
 | `species_info/` text | Wikipedia text is CC BY-SA 4.0; GBIF data as stated per dataset; sources linked in each file |
 | Phone app runtime | ONNX Runtime Web, MIT |
+| Pipeline tools | Kedro and MLflow (Apache 2.0), Pandera (MIT) |
 
 ## Credits
 

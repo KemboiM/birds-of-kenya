@@ -1,0 +1,8 @@
+# Pipelines: data checks, evaluation, promotion and monitoring (docs/pipelines.md)
+-r requirements.txt
+kedro>=1.7,<2.0
+kedro-datasets[pandas-csvdataset,json-jsondataset]>=9.0
+mlflow>=3.0
+pandera>=0.24
+pandas>=2.1
+pytest>=8.0

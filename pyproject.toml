@@ -1,0 +1,7 @@
+# Kedro reads this table to find the pipelines in src/bok_pipelines (see docs/pipelines.md).
+# Training, evaluation and identification still run directly with main.py and identify.py.
+[tool.kedro]
+package_name = "bok_pipelines"
+project_name = "Birds of Kenya"
+kedro_init_version = "1.7.0"
+source_dir = "src"

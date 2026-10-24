@@ -1,0 +1,67 @@
+# Files the pipelines read and write. ${_v} is the model version (globals.yml or --params version=...).
+# reports/<version>/ is committed to git; data/ and outputs/ stay on this computer.
+
+_v: ${runtime_params:version,${globals:version}}
+
+# 1. Data checks
+image_index:
+  type: pandas.CSVDataset
+  filepath: data/pipeline/${_v}/image_index.csv
+  save_args: {index: false}
+
+data_check_issues:
+  type: pandas.CSVDataset
+  filepath: data/pipeline/${_v}/data_check_issues.csv
+  save_args: {index: false}
+
+data_checks_summary:
+  type: json.JSONDataset
+  filepath: reports/${_v}/data_checks.json
+
+# 2. Training (main.py writes this file; Kedro reads it back)
+train_config:
+  type: json.JSONDataset
+  filepath: model/configs_and_labels/train_config_${_v}.json
+
+# 3. Evaluation
+evaluation_report:
+  type: json.JSONDataset
+  filepath: reports/${_v}/evaluation_report.json
+
+evaluation_per_label:
+  type: pandas.CSVDataset
+  filepath: reports/${_v}/evaluation_per_species.csv
+  save_args: {index: false, float_format: "%.4f"}
+
+test_predictions:
+  type: pandas.CSVDataset
+  filepath: data/pipeline/${_v}/test_predictions.csv
+  save_args: {index: false}
+
+mlflow_run:
+  type: json.JSONDataset
+  filepath: data/pipeline/${_v}/mlflow_run.json
+
+# 4. Promotion
+promotion_decision:
+  type: json.JSONDataset
+  filepath: reports/${_v}/promotion_decision.json
+
+production_model:
+  type: json.JSONDataset
+  filepath: reports/production.json
+
+# 5. Review and monitoring
+field_predictions:
+  type: pandas.CSVDataset
+  filepath: outputs/review/field_predictions.csv
+  save_args: {index: false}
+
+review_queue:
+  type: pandas.CSVDataset
+  filepath: outputs/review/review_queue.csv
+  save_args: {index: false}
+
+monitoring_report:
+  type: json.JSONDataset
+  filepath: outputs/review/monitoring_report.json
