@@ -84,17 +84,20 @@ def main():
         return
 
     print("\nStep 1: Loading images...")
+    exclude = []
+    if args.exclude:
+        with open(args.exclude, newline='') as f:
+            exclude = [row['image'] for row in csv.DictReader(f)]
     if args.from_annotations:
-        exclude = []
-        if args.exclude:
-            with open(args.exclude, newline='') as f:
-                exclude = [row['image'] for row in csv.DictReader(f)]
         splits = prepare_crop_dataset(args.data_root, args.split_from,
                                       img_size=(args.img_size, args.img_size),
                                       batch_size=args.batch_size, exclude=exclude)
     else:
+        if exclude:
+            print(f"  Leaving out {len(exclude)} photos listed in {args.exclude}")
         splits = prepare_dataset(data_dir, img_size=(args.img_size, args.img_size),
-                                 batch_size=args.batch_size, min_images=args.min_images)
+                                 batch_size=args.batch_size, min_images=args.min_images,
+                                 exclude=[os.path.join(args.data_root, e) for e in exclude])
     names = splits.class_names
     save_label_list(names, config_dir, PROJECT, v)
     for path in save_split_lists(splits, 'splits',

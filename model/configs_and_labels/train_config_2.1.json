@@ -1,0 +1,20 @@
+{
+  "version": "2.1",
+  "data_root": "data",
+  "data_dir": null,
+  "epochs": 10,
+  "fine_tune_epochs": 10,
+  "batch_size": 32,
+  "img_size": 224,
+  "min_images": 10,
+  "cached_features": false,
+  "from_annotations": true,
+  "split_from": "2.0",
+  "exclude": "data/annotations/exclude.csv",
+  "copy_correct": false,
+  "no_pretrained": false,
+  "num_classes": 547,
+  "model_path": "model/model_assets/trained_checkpoints/2.1/birds_classify_2.1.keras",
+  "base_model": "MobileNetV2",
+  "created": "2026-10-24T12:41:52.251993"
+}

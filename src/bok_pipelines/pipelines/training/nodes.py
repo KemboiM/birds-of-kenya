@@ -17,8 +17,8 @@ def main_py_args(version, t):
             "--min-images", str(t["min_images"])]
     if t.get("from_annotations"):
         args += ["--from-annotations", "--split-from", as_version(t["split_from"])]
-        if t.get("exclude") and os.path.exists(t["exclude"]):
-            args += ["--exclude", t["exclude"]]
+    if t.get("exclude") and os.path.exists(t["exclude"]):
+        args += ["--exclude", t["exclude"]]
     if t.get("cached_features"):
         args.append("--cached-features")
     return args + [str(a) for a in t.get("extra_args", [])]

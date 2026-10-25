@@ -1,0 +1,8 @@
+{
+  "version": "2.1",
+  "promoted_on": "2026-10-24",
+  "replaces": "2.0",
+  "decision": "reports/2.1/promotion_decision.json",
+  "mlflow_model": "birds-of-kenya-classifier",
+  "mlflow_model_version": 2
+}

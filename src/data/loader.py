@@ -32,8 +32,9 @@ def _is_valid_image(path):
         return False
 
 
-def list_images(data_dir, min_images=10, verify=True):
-    """Return (paths, labels, class_names) for every class with enough images."""
+def list_images(data_dir, min_images=10, verify=True, exclude=()):
+    """Return (paths, labels, class_names) for every class with enough images.
+    Paths in `exclude` (same form as data_dir/<class>/<file>) are left out."""
     if not os.path.isdir(data_dir):
         raise FileNotFoundError(f"Data directory not found: {data_dir}")
 
@@ -49,6 +50,8 @@ def list_images(data_dir, min_images=10, verify=True):
             os.path.join(folder, f) for f in os.listdir(folder)
             if f.lower().endswith(IMAGE_EXTENSIONS)
         )
+        if exclude:
+            files = [f for f in files if os.path.normpath(f) not in exclude]
         if verify:
             files = [f for f in files if _is_valid_image(f)]
         if len(files) < min_images:
@@ -137,13 +140,14 @@ def save_split_lists(splits, out_dir, name, version, data_dir):
 
 
 def prepare_dataset(data_dir, img_size=(224, 224), batch_size=32,
-                    val_split=0.15, test_split=0.15, min_images=10, seed=42):
+                    val_split=0.15, test_split=0.15, min_images=10, seed=42, exclude=()):
     """Build stratified train/val/test datasets.
 
     Returns a Splits object: batched tf.data.Dataset of (image, label) for each
     split, class_names (species folder names, index = label) and the file lists.
     """
-    paths, labels, class_names = list_images(data_dir, min_images=min_images)
+    exclude = {os.path.normpath(p) for p in exclude}
+    paths, labels, class_names = list_images(data_dir, min_images=min_images, exclude=exclude)
 
     train_p, rest_p, train_y, rest_y = train_test_split(
         paths, labels, test_size=val_split + test_split,

@@ -99,7 +99,9 @@ training:
 | labels_with_too_few_images | fewer usable photos than `main.py --min-images` | no, warning |
 
 Photos in `data/annotations/exclude.csv` are left out, as in training. Which checks block is set
-under `data_checks.blocking`.
+under `data_checks.blocking`. When `conflicting_labels` or `duplicate_images` fails, run
+`python3 scripts/exclude_duplicates.py`: it lists every copy of a photo filed under two species, and
+the extra copies of a photo saved twice under one species, in `exclude.csv`.
 
 ## 3. Evaluation
 

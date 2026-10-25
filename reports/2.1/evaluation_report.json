@@ -1,0 +1,82 @@
+{
+  "version": "2.1",
+  "source": "model re-run on the test photos",
+  "trained_on": "2026-10-24T12:41:52.251993",
+  "num_classes": 547,
+  "test_images": 7815,
+  "accuracy": 0.6078055022392834,
+  "top5_accuracy": 0.8038387715930903,
+  "f1_macro": 0.4938691570864815,
+  "f1_weighted": 0.5992962387792498,
+  "expected_calibration_error": 0.09843269145153155,
+  "accuracy_at_confidence_0.5": 0.7548726953467955,
+  "coverage_at_confidence_0.5": 0.7287268074216251,
+  "rare_label_rule": "<= 20 training images",
+  "rare_labels": 131,
+  "accuracy_rare_labels": 0.22486772486772486,
+  "accuracy_common_labels": 0.627269060104881,
+  "worst_labels": [
+    {
+      "label": "Zosterops_silvanus",
+      "test_images": 2,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "label": "Emberiza_poliopleura",
+      "test_images": 3,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "label": "Ploceus_pelzelni",
+      "test_images": 2,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "label": "Ploceus_taeniopterus",
+      "test_images": 3,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "label": "Dendropicos_goertae",
+      "test_images": 3,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "label": "Psalidoprocne_pristoptera",
+      "test_images": 5,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "label": "Crithagra_burtoni",
+      "test_images": 3,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "label": "Cossypha_niveicapilla",
+      "test_images": 2,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "label": "Corvus_edithae",
+      "test_images": 3,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "label": "Rhinopomastus_minor",
+      "test_images": 7,
+      "recall": 0.0,
+      "f1": 0.0
+    }
+  ],
+  "accuracy_in_training_report": 0.6078055022392834,
+  "matches_training_report": true
+}

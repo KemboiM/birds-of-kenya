@@ -1,0 +1,82 @@
+{
+  "version": "2.0",
+  "source": "model re-run on the test photos",
+  "trained_on": "2026-10-24T12:35:28.115369",
+  "num_classes": 547,
+  "test_images": 7815,
+  "accuracy": 0.4491362763915547,
+  "top5_accuracy": 0.692514395393474,
+  "f1_macro": 0.3476639336739432,
+  "f1_weighted": 0.44292067859728734,
+  "expected_calibration_error": 0.03885137336382254,
+  "accuracy_at_confidence_0.5": 0.7330052291602583,
+  "coverage_at_confidence_0.5": 0.4159948816378759,
+  "rare_label_rule": "<= 20 training images",
+  "rare_labels": 131,
+  "accuracy_rare_labels": 0.16666666666666666,
+  "accuracy_common_labels": 0.463493344090359,
+  "worst_labels": [
+    {
+      "label": "Falco_peregrinus",
+      "test_images": 2,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "label": "Charadrius_asiaticus",
+      "test_images": 3,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "label": "Ploceus_pelzelni",
+      "test_images": 2,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "label": "Turdus_helleri",
+      "test_images": 3,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "label": "Chalcomitra_hunteri",
+      "test_images": 5,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "label": "Dendropicos_goertae",
+      "test_images": 3,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "label": "Phyllastrephus_cabanisi",
+      "test_images": 1,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "label": "Sylvia_lugens",
+      "test_images": 3,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "label": "Tauraco_leucolophus",
+      "test_images": 3,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "label": "Cecropis_semirufa",
+      "test_images": 3,
+      "recall": 0.0,
+      "f1": 0.0
+    }
+  ],
+  "accuracy_in_training_report": 0.4491362763915547,
+  "matches_training_report": true
+}

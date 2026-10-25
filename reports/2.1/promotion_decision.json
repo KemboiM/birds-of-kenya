@@ -1,0 +1,68 @@
+{
+  "candidate": "2.1",
+  "promote": true,
+  "baseline": {
+    "version": "2.0",
+    "source": "reports/production.json"
+  },
+  "decided_on": "2026-10-24",
+  "reasons": [
+    "compared with version 2.0 (reports/production.json)",
+    "PASS data checks passed",
+    "PASS accuracy 0.6078 vs 0.4491 for the baseline (change +0.1587, required at least +0.0000)",
+    "PASS macro F1 0.4939 vs 0.3477 (fall -0.1462, allowed +0.0000)",
+    "PASS accuracy on rare labels (<= 20 training images) 0.2249 vs 0.1667 (fall -0.0582, allowed +0.0000)",
+    "PASS 1 label(s) lost more than 20% recall (labels with 15+ test images; allowed 1)"
+  ],
+  "rules": {
+    "require_data_checks": true,
+    "metric": "accuracy",
+    "min_gain": 0.0,
+    "max_macro_f1_drop": 0.0,
+    "max_rare_accuracy_drop": 0.0,
+    "max_label_recall_drop": 0.2,
+    "min_test_images": 15,
+    "max_regressed_labels": 1
+  },
+  "checks": {
+    "data_checks": {
+      "blocking_failures": [],
+      "passed": true
+    },
+    "metric_gain": {
+      "metric": "accuracy",
+      "candidate": 0.6078055022392834,
+      "baseline": 0.4491362763915547,
+      "gain": 0.15866922584772875,
+      "required": 0.0,
+      "passed": true
+    },
+    "macro_f1": {
+      "candidate": 0.4938691570864815,
+      "baseline": 0.3476639336739432,
+      "drop": -0.14620522341253828,
+      "allowed": 0.0,
+      "passed": true
+    },
+    "rare_labels": {
+      "candidate": 0.22486772486772486,
+      "baseline": 0.16666666666666666,
+      "drop": -0.0582010582010582,
+      "allowed": 0.0,
+      "passed": true
+    },
+    "label_regressions": {
+      "labels": [
+        {
+          "label": "Upupa_epops",
+          "test_images": 24,
+          "baseline_recall": 0.5,
+          "candidate_recall": 0.2917,
+          "fall": 0.2083
+        }
+      ],
+      "allowed": 1,
+      "passed": true
+    }
+  }
+}

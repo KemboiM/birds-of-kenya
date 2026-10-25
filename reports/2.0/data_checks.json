@@ -1,0 +1,86 @@
+{
+  "version": "2.0",
+  "images_checked": 52247,
+  "excluded_photos": 189,
+  "labels": 570,
+  "subset": null,
+  "passed": true,
+  "blocking_failures": [],
+  "warnings": [
+    "labels_with_too_few_images"
+  ],
+  "checks": [
+    {
+      "check": "metadata_table",
+      "passed": true,
+      "issues": 0,
+      "blocking": true,
+      "skipped": false,
+      "note": "52436 rows"
+    },
+    {
+      "check": "unreadable_images",
+      "passed": true,
+      "issues": 0,
+      "blocking": true,
+      "skipped": false,
+      "note": ""
+    },
+    {
+      "check": "too_small_images",
+      "passed": true,
+      "issues": 0,
+      "blocking": false,
+      "skipped": false,
+      "note": "smaller than 64x64 px"
+    },
+    {
+      "check": "duplicate_images",
+      "passed": true,
+      "issues": 0,
+      "blocking": false,
+      "skipped": false,
+      "note": ""
+    },
+    {
+      "check": "conflicting_labels",
+      "passed": true,
+      "issues": 0,
+      "blocking": true,
+      "skipped": false,
+      "note": ""
+    },
+    {
+      "check": "labels_with_too_few_images",
+      "passed": false,
+      "issues": 23,
+      "blocking": false,
+      "skipped": false,
+      "note": "these labels are left out of training"
+    },
+    {
+      "check": "licenses",
+      "passed": true,
+      "issues": 0,
+      "blocking": true,
+      "skipped": false,
+      "note": "allowed: CC0, CC-BY, CC-BY-SA, CC-BY-NC, CC-BY-NC-SA"
+    },
+    {
+      "check": "annotations",
+      "passed": true,
+      "issues": 0,
+      "blocking": true,
+      "skipped": false,
+      "note": "52247 photos with box files, 0 without (used whole)"
+    },
+    {
+      "check": "split_integrity",
+      "passed": true,
+      "issues": 0,
+      "blocking": true,
+      "skipped": true,
+      "note": "split of version 2.0: no split lists for this version yet"
+    }
+  ]
+}

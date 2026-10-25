@@ -78,6 +78,7 @@ Re-running resumes where it stopped.
 ```bash
 python3 scripts/fix_orientation.py    # turn sideways-stored photos upright first
 python3 scripts/annotate_birds.py
+python3 scripts/exclude_duplicates.py # leave out photos saved twice or filed under two species
 ```
 
 Draws a box around every bird in every training photo and saves one Pascal VOC XML file per

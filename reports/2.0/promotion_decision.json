@@ -1,0 +1,30 @@
+{
+  "candidate": "2.0",
+  "promote": true,
+  "baseline": {
+    "version": "2.0",
+    "source": "fallback_baseline: nothing is in production yet"
+  },
+  "decided_on": "2026-10-24",
+  "reasons": [
+    "version 2.0 is already the baseline (fallback_baseline: nothing is in production yet)",
+    "PASS data checks passed",
+    "no other version to compare with, so only the data checks decide"
+  ],
+  "rules": {
+    "require_data_checks": true,
+    "metric": "accuracy",
+    "min_gain": 0.0,
+    "max_macro_f1_drop": 0.0,
+    "max_rare_accuracy_drop": 0.0,
+    "max_label_recall_drop": 0.2,
+    "min_test_images": 15,
+    "max_regressed_labels": 0
+  },
+  "checks": {
+    "data_checks": {
+      "blocking_failures": [],
+      "passed": true
+    }
+  }
+}
