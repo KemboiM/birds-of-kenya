@@ -5,10 +5,13 @@ names the species, counts them ("12 Marabou Storks, 3 Hadada Ibises"), describes
 species, and estimates how far away the birds are. It runs on a computer or, through the
 web app, on Android and iOS phones.
 
-**Status (October 2026):** version 1.1 covers 467 species with 63.2% test accuracy
-(top-5 83.0%). It is trained on the birds boxed in each photo, with fine-tuning, and
-improves on 1.0 (45.2% on the same test photos). Results for each version are in
-[reports/](reports/).
+**Status (October 2026):** version 2.1 is in use. It covers 547 species with 60.8% accuracy
+(top-5 80.4%) on 7,815 held-out test photos. It is trained on the birds boxed in each photo,
+with fine-tuning, and replaced 2.0 (44.9% on the same test photos) under the promotion rules
+in [docs/pipelines.md](docs/pipelines.md); the decision is in
+[reports/2.1/promotion_decision.json](reports/2.1/promotion_decision.json). Version 1.1
+covered 467 species with 63.2% (top-5 83.0%) on its own test photos. Results for each version
+are in [reports/](reports/).
 
 ## How it works
 
@@ -165,7 +168,7 @@ evaluation and holds the model registry, and [Pandera](https://pandera.readthedo
 tables. Before training, every photo is checked for readability, license, box errors, duplicates
 across species and leaks between train and test. After training, each version gets one standard
 evaluation report (including calibration and rare-species accuracy) and replaces the version in use
-only when it is better; on the committed reports, 1.1 clears every rule against 1.0. Uncertain birds from field photos go to a review
+only when it is better; on the committed reports, 1.1 clears every rule against 1.0, and 2.1 replaced 2.0 after one species' drop in recall was accepted ([reports/2.1/promotion_decision.json](reports/2.1/promotion_decision.json)). Uncertain birds from field photos go to a review
 queue, and field photos are checked for drift. See [docs/pipelines.md](docs/pipelines.md).
 
 ## Limits
