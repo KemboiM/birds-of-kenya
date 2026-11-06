@@ -103,10 +103,10 @@ a { color: var(--accent); }
     <h1>Birds of <span>Kenya</span></h1>
     <p class="lede">Photograph birds and get a count by species. Everything runs on your phone; photos are never uploaded.</p>
     <div class="chips">
-      <span class="chip">Classifier v1.1</span>
-      <span class="chip">467 species</span>
-      <span class="chip">Test accuracy 63.2%</span>
-      <span class="chip">Top-5 83.0%</span>
+      <span class="chip">Classifier v2.1</span>
+      <span class="chip">547 species</span>
+      <span class="chip">Test accuracy 60.8%</span>
+      <span class="chip">Top-5 80.4%</span>
     </div>
   </header>
 
@@ -132,7 +132,7 @@ a { color: var(--accent); }
   <div class="stage">
     <canvas id="view" width="640" height="380" aria-label="Photo with numbered boxes around each bird"></canvas>
     <div class="status" id="status">
-      <span id="statusText">Loading the two models (about 22 MB, first time only)…</span>
+      <span id="statusText">Loading the two models (about 23 MB, first time only)…</span>
       <div class="bar"><i id="progress"></i></div>
     </div>
   </div>
@@ -148,7 +148,7 @@ a { color: var(--accent); }
     <summary>How it works and its limits</summary>
     <p>A YOLO11n detector finds every bird, then a MobileNetV2 classifier names each one. Birds below 50% confidence are listed as unidentified with the model's best guesses.</p>
     <ul>
-      <li>This test build knows 467 species. Birds outside that list get the closest wrong answer.</li>
+      <li>This test build knows 547 species. Birds outside that list get the closest wrong answer.</li>
       <li>Dense flocks are undercounted; tile scanning helps with large photos.</li>
       <li>Distance, common names and species notes appear once the species knowledge base is built.</li>
     </ul>
@@ -217,8 +217,8 @@ a { color: var(--accent); }
     ort.env.wasm.numThreads = 1;
     const labelText = await findBase();
     ort.env.wasm.wasmPaths = url("ort/");
-    const TOTAL = 10.77e6 + 11.30e6; let got = 0;
-    const tick = (n) => { got += n; status("Loading the two models (about 22 MB, first time only)…", Math.min(got / TOTAL, 0.98)); };
+    const TOTAL = 10.77e6 + 11.71e6; let got = 0;
+    const tick = (n) => { got += n; status("Loading the two models (about 23 MB, first time only)…", Math.min(got / TOTAL, 0.98)); };
     const [d, c] = await Promise.all([
       fetchWithProgress(url("models/detector.onnx"), tick),
       fetchWithProgress(url("models/classifier.onnx"), tick),
