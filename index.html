@@ -64,6 +64,13 @@ h1 span { font-style: italic; color: var(--accent); }
 .btn:focus-visible, .sample:focus-visible, input:focus-visible + span { outline: 3px solid var(--mark); outline-offset: 2px; }
 .btn[aria-disabled="true"] { opacity: 0.55; pointer-events: none; }
 .btn svg { width: 20px; height: 20px; flex: none; }
+.install { position: relative; background: var(--surface); border: 1px solid var(--line); border-left: 4px solid var(--accent); border-radius: 14px; padding: 14px 16px; display: grid; gap: 10px; }
+.install h2 { font: 400 1.5rem/1.1 var(--display); margin: 0; padding-right: 32px; }
+.install p, .install ol { margin: 0; color: var(--muted); font-size: 0.92rem; line-height: 1.45; }
+.install ol { padding-left: 1.2rem; display: grid; gap: 6px; }
+.install ol b { color: var(--ink); }
+.install .ico { display: inline-block; width: 18px; height: 18px; vertical-align: -3px; color: var(--accent); }
+.install .close { position: absolute; top: 8px; right: 8px; width: 36px; height: 36px; border: 0; background: none; color: var(--muted); font-size: 1.4rem; cursor: pointer; border-radius: 8px; }
 input[type=file] { position: absolute; width: 1px; height: 1px; opacity: 0; pointer-events: none; }
 .samples { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.85rem; color: var(--muted); }
 .sample { font: 500 0.85rem var(--body); color: var(--accent); background: none; border: 0; padding: 4px 2px; text-decoration: underline; text-underline-offset: 3px; cursor: pointer; }
@@ -115,6 +122,29 @@ a { color: var(--accent); }
       <span class="chip">Top-5 80.4%</span>
     </div>
   </header>
+
+  <section class="install" id="installBox" hidden aria-live="polite">
+    <button class="close" id="installClose" aria-label="Close">×</button>
+    <h2 id="installTitle">Install Birdiie</h2>
+    <div id="installAndroid" hidden>
+      <p id="installAndroidText">Add Birdiie to your home screen. It opens like an app and works offline.</p>
+      <button class="btn primary" id="installBtn" hidden>Install Birdiie</button>
+      <ol id="installAndroidSteps" hidden>
+        <li>Tap <b>⋮</b> at the top right of Chrome.</li>
+        <li>Tap <b>Install app</b> (or <b>Add to Home screen</b>).</li>
+        <li>Tap <b>Install</b>. Birdiie appears on your home screen.</li>
+      </ol>
+    </div>
+    <div id="installIos" hidden>
+      <ol>
+        <li>Tap <b>Share</b> <svg class="ico" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M12 3v12M8 7l4-4 4 4"/><path d="M6 11H5v10h14V11h-1"/></svg> at the bottom of Safari (top right on iPad).</li>
+        <li>Scroll down and tap <b>Add to Home Screen</b> <svg class="ico" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><rect x="4" y="4" width="16" height="16" rx="3"/><path d="M12 8v8M8 12h8"/></svg>.</li>
+        <li>Tap <b>Add</b>. Birdiie appears on your home screen.</li>
+      </ol>
+      <p id="installIosNote" hidden>Open this page in <b>Safari</b> first: other iPhone browsers may not offer Add to Home Screen.</p>
+    </div>
+    <p id="installDone" hidden>Birdiie is already installed. Open it from your home screen.</p>
+  </section>
 
   <div class="actions">
     <label class="btn primary" id="takeBtn" aria-disabled="true">
@@ -413,6 +443,50 @@ a { color: var(--accent); }
 if ("serviceWorker" in navigator) {
   window.addEventListener("load", () => navigator.serviceWorker.register("sw.js").catch(() => {}));
 }
+// Install box: shown when opened from an install QR code (?install=android or ?install=ios).
+(() => {
+  const $ = (id) => document.getElementById(id);
+  const want = new URLSearchParams(location.search).get("install");
+  const ua = navigator.userAgent;
+  const isIos = /iPhone|iPad|iPod/.test(ua) || (navigator.platform === "MacIntel" && navigator.maxTouchPoints > 1);
+  const installed = matchMedia("(display-mode: standalone)").matches || navigator.standalone === true;
+  let deferred = null;
+
+  function show() {
+    $("installBox").hidden = false;
+    if (installed) { $("installDone").hidden = false; return; }
+    const ios = want === "ios" || (want !== "android" && isIos);
+    if (ios) {
+      $("installTitle").textContent = "Install Birdiie on iPhone";
+      $("installIos").hidden = false;
+      $("installIosNote").hidden = !/CriOS|FxiOS|EdgiOS|OPiOS/.test(ua);
+    } else {
+      $("installTitle").textContent = "Install Birdiie";
+      $("installAndroid").hidden = false;
+      $("installBtn").hidden = !deferred;
+      $("installAndroidSteps").hidden = !!deferred;
+    }
+  }
+
+  window.addEventListener("beforeinstallprompt", (e) => {
+    e.preventDefault(); deferred = e;
+    if (!$("installBox").hidden) show();
+  });
+  $("installBtn").addEventListener("click", async () => {
+    if (!deferred) return;
+    deferred.prompt();
+    const { outcome } = await deferred.userChoice;
+    deferred = null;
+    if (outcome === "accepted") { $("installAndroid").hidden = true; $("installDone").hidden = false; }
+    else show();
+  });
+  window.addEventListener("appinstalled", () => { $("installAndroid").hidden = true; $("installDone").hidden = false; });
+  $("installClose").addEventListener("click", () => {
+    $("installBox").hidden = true;
+    history.replaceState(null, "", location.pathname);
+  });
+  if (want) show();
+})();
 </script>
 </body>
 </html>
