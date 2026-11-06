@@ -14,8 +14,9 @@
     "adult": {
       "length_cm": [
         12.0,
-        20.0
-      ]
+        13.0
+      ],
+      "notes": "Breeding males have a tail about 20 cm longer."
     },
     "juvenile": {
       "notes": "Immature birds are like the female but plainer and with a greyish bill."

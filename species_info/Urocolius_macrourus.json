@@ -13,13 +13,14 @@
   "size": {
     "adult": {
       "length_cm": [
-        20.0,
+        33.0,
         38.0
       ],
       "mass_g": [
         34.0,
         65.0
-      ]
+      ],
+      "notes": "Length includes the long tail."
     },
     "juvenile": {
       "notes": "Juveniles lack the blue on nape, and have pink facial skin and greenish bills, as well as shorter crest."
