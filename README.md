@@ -129,12 +129,18 @@ scores a few points higher.
 
 ```bash
 python3 scripts/build_species_info.py \
-    --confusion data/validation_data/1.1/1.1_results/most_confused_pairs.csv
+    --labels model/configs_and_labels/birds_label_list_2.1.txt \
+    --confusion data/validation_data/2.1/2.1_results/most_confused_pairs.csv
+python3 scripts/species_review_list.py --version 2.1
 ```
 
 Fills each species file from GBIF and Wikipedia and adds look-alikes from the confusion
 matrix. Check sizes against a field guide (distance depends on them), write how to tell
 each look-alike apart, then set `review.verified_by`. See [species_info/README.md](species_info/README.md).
+
+`species_review_list.py` writes `species_info/review_priority.csv`: every species, the most
+photographed in Kenya first, with what still needs fixing (missing or implausible adult
+length, no wingspan, look-alikes without a written difference).
 
 ## 5. Identify birds
 
