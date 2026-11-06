@@ -47,11 +47,23 @@
       "label": "Phalacrocorax_carbo",
       "common_name": "Great Cormorant",
       "difference": null,
-      "times_confused": 4
+      "times_confused": 7
     },
     {
       "label": "Anhinga_rufa",
       "common_name": "African Darter",
+      "difference": null,
+      "times_confused": 4
+    },
+    {
+      "label": "Ceryle_rudis",
+      "common_name": "Pied Kingfisher",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Polemaetus_bellicosus",
+      "common_name": "Martial Eagle",
       "difference": null,
       "times_confused": 2
     },
@@ -118,6 +130,78 @@
     {
       "label": "Pycnonotus_barbatus",
       "common_name": "Common Bulbul",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Rostratula_benghalensis",
+      "common_name": "Greater Painted-snipe",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Chrysococcyx_caprius",
+      "common_name": "Diederik Cuckoo",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Euplectes_ardens",
+      "common_name": "Red-collared Widowbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pinarochroa_sordida",
+      "common_name": "Moorland Chat",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Passer_gongonensis",
+      "common_name": "Parrot-billed Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tachybaptus_ruficollis",
+      "common_name": "Little Grebe",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Campethera_nubica",
+      "common_name": "Nubian Woodpecker",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ardeotis_kori",
+      "common_name": "Kori Bustard",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Chroicocephalus_cirrocephalus",
+      "common_name": "Grey-headed Gull",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Aquila_verreauxii",
+      "common_name": "Verreaux's Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Stephanoaetus_coronatus",
+      "common_name": "Crowned Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Milvus_migrans",
+      "common_name": "Black Kite",
       "difference": null,
       "times_confused": 1
     }

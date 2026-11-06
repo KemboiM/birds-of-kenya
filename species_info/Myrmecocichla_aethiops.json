@@ -37,6 +37,18 @@
       "times_confused": 6
     },
     {
+      "label": "Melaenornis_edolioides",
+      "common_name": "Northern Black Flycatcher",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Monticola_saxatilis",
+      "common_name": "Common Rock Thrush",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
       "label": "Chalcomitra_amethystina",
       "common_name": "Amethyst Sunbird",
       "difference": null,
@@ -99,6 +111,96 @@
     {
       "label": "Necrosyrtes_monachus",
       "common_name": "Hooded Vulture",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Euplectes_albonotatus",
+      "common_name": "White-winged Widowbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Plocepasser_donaldsoni",
+      "common_name": "Donaldson Smith's Sparrow-weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Apus_affinis",
+      "common_name": "Little Swift",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Passer_eminibey",
+      "common_name": "Chestnut Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Onychognathus_morio",
+      "common_name": "Red-winged Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Muscicapa_adusta",
+      "common_name": "African Dusky Flycatcher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bradornis_microrhynchus",
+      "common_name": "African Grey Flycatcher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Dicrurus_adsimilis",
+      "common_name": "Fork-tailed Drongo",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bubo_lacteus",
+      "common_name": "Verreaux's Eagle-owl",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Corythaixoides_leucogaster",
+      "common_name": "White-bellied Go-away-bird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Gymnoris_pyrgita",
+      "common_name": "Yellow-spotted Bush Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Melaenornis_pammelaina",
+      "common_name": "Southern Black Flycatcher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Milvus_migrans",
+      "common_name": "Black Kite",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Quelea_quelea",
+      "common_name": "Red-billed Quelea",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Torgos_tracheliotos",
+      "common_name": "Lappet-faced Vulture",
       "difference": null,
       "times_confused": 1
     }

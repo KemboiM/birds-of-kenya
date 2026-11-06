@@ -71,6 +71,60 @@
       "common_name": "White-browed Coucal",
       "difference": null,
       "times_confused": 1
+    },
+    {
+      "label": "Bycanistes_bucinator",
+      "common_name": "Trumpeter Hornbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Chrysococcyx_klaas",
+      "common_name": "Klaas's Cuckoo",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Corvus_albus",
+      "common_name": "Pied Crow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Hirundo_smithii",
+      "common_name": "Wire-tailed Swallow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lanius_excubitoroides",
+      "common_name": "Grey-backed Fiscal",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Poicephalus_meyeri",
+      "common_name": "Meyer's Parrot",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Turdoides_hypoleuca",
+      "common_name": "Northern Pied Babbler",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Oenanthe_lugubris",
+      "common_name": "Abyssinian Wheatear",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Corythaixoides_personatus",
+      "common_name": "Bare-faced Go-away-bird",
+      "difference": null,
+      "times_confused": 1
     }
   ],
   "sources": [

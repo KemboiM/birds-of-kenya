@@ -53,7 +53,7 @@
       "label": "Turdoides_rubiginosa",
       "common_name": "Rufous Chatterer",
       "difference": null,
-      "times_confused": 2
+      "times_confused": 1
     },
     {
       "label": "Serinus_flavivertex",
@@ -94,6 +94,42 @@
     {
       "label": "Plocepasser_mahali",
       "common_name": "White-browed Sparrow-weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Chloropicus_namaquus",
+      "common_name": "Bearded Woodpecker",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Otus_ireneae",
+      "common_name": "Sokoke Scops Owl",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Calandrella_cinerea",
+      "common_name": "Red-capped Lark",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lamprotornis_fischeri",
+      "common_name": "Fischer's Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Telophorus_cruentus",
+      "common_name": "Rosy-patched Bushshrike",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tockus_erythrorhynchus",
+      "common_name": "Northern Red-billed Hornbill",
       "difference": null,
       "times_confused": 1
     }

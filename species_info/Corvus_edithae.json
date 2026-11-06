@@ -1,0 +1,68 @@
+{
+  "label": "Corvus_edithae",
+  "scientific_name": "Corvus edithae",
+  "common_name": "Somali Crow",
+  "other_names": {},
+  "family": "Corvidae",
+  "summary": "The Somali crow, or dwarf raven (Corvus edithae), is approximately the size (44–46 cm in length) of the carrion crow, Corvus corone but with a longer bill and a somewhat more brownish cast to the feathers, especially when worn.",
+  "appearance": {
+    "description": null,
+    "colors": "The Somali crow, or dwarf raven (Corvus edithae), is approximately the size (44–46 cm in length) of the carrion crow, Corvus corone but with a longer bill and a somewhat more brownish cast to the feathers, especially when worn.",
+    "wings": null
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        44.0,
+        46.0
+      ]
+    },
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": "This species occurs principally in Somalia, Djibouti, the Ogaden and the Northern Frontier District in the Horn of Africa, and can be distinguished from the larger brown-necked raven C. ruficollis by its call, appearance and differences in its behaviour. It was formerly considered a subspecies of the larger brown-necked raven (C. ruficollis), but is now considered to be a distinct species.",
+    "kenya_regions": [
+      "Kenya",
+      "Eastern",
+      "Rift Valley",
+      "Marsabit",
+      "Northern Frontier Province",
+      "Turkana"
+    ],
+    "gbif_records_in_kenya": 705
+  },
+  "look_alikes": [
+    {
+      "label": "Corvus_splendens",
+      "common_name": "House Crow",
+      "difference": null,
+      "times_confused": 3
+    },
+    {
+      "label": "Apus_affinis",
+      "common_name": "Little Swift",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Somali crow",
+      "url": "https://en.wikipedia.org/wiki/Somali_crow",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/5788768"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

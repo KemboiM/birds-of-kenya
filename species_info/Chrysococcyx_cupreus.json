@@ -1,0 +1,65 @@
+{
+  "label": "Chrysococcyx_cupreus",
+  "scientific_name": "Chrysococcyx cupreus",
+  "common_name": "African Emerald Cuckoo",
+  "other_names": {},
+  "family": "Cuculidae",
+  "summary": "The African emerald cuckoo (Chrysococcyx cupreus) is a species of cuckoo that is native to Africa.",
+  "appearance": {
+    "description": "The African emerald cuckoo is sexually dimorphic. The males have a green back and head with a yellow breast. Females are barred green and brown on their backs and green and white on their breasts.",
+    "colors": "The males have a green back and head with a yellow breast. Females are barred green and brown on their backs and green and white on their breasts.",
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": {
+      "notes": "Even though the cuckoos do not need territory to feed fledglings, male African emerald cuckoos still maintain territories to display themselves to potential mates."
+    }
+  },
+  "behaviour": "The cuckoo's diet consists mainly of insects like caterpillars and ants. The diet can be supplemented with some fruit, and the African emerald cuckoo often forages in the middle and top layers of the canopy.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "Its range covers most of sub-Saharan Africa, including Angola, Botswana, Burundi, Cameroon, Central African Republic, Republic of the Congo, DRC, Ivory Coast, Equatorial Guinea, Eritrea, Eswatini, Ethiopia, Gabon, Gambia, Ghana, Guinea, Guinea-Bissau, Kenya, Liberia, Malawi, Mali, Mozambique, Namibia, Nigeria, Rwanda, São Tomé and Príncipe, Senegal, Sierra Leone, South Africa, South Sudan, Tanzania, Togo, Uganda, Zambia, and Zimbabwe.",
+    "kenya_regions": [
+      "Kenya",
+      "Western",
+      "Central",
+      "Nairobi",
+      "Rift Valley",
+      "Coast"
+    ],
+    "gbif_records_in_kenya": 2929
+  },
+  "look_alikes": [
+    {
+      "label": "Drepanorhynchus_reichenowi",
+      "common_name": "Golden-winged Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Nectarinia_kilimensis",
+      "common_name": "Bronze Sunbird",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "African emerald cuckoo",
+      "url": "https://en.wikipedia.org/wiki/African_emerald_cuckoo",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2496324"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "label": "Euodice_cantans",
+  "scientific_name": "Euodice cantans",
+  "common_name": "African Silverbill",
+  "other_names": {},
+  "family": "Estrildidae",
+  "summary": "The African silverbill (Euodice cantans) is a small passerine bird formerly considered conspecific with the Asian species Indian silverbill, (Euodice malabarica). This estrildid finch is a common resident breeding bird in dry savanna habitat, south of the Sahara Desert. This species has also been introduced to other countries such as Portugal, Qatar and United States.",
+  "appearance": {
+    "description": "The African silverbill is approximately 10 cm (3.9 in) in length with a long black pointed tail. The adult has a stubby silver-blue bill, finely vermiculated light-brown upper parts, whitish underparts, black rump and black wings. The sexes are similar, but immatures lack the vermiculations.",
+    "colors": "The African silverbill (Euodice cantans) is a small passerine bird formerly considered conspecific with the Asian species Indian silverbill, (Euodice malabarica). The African silverbill is approximately 10 cm (3.9 in) in length with a long black pointed tail.",
+    "wings": "The adult has a stubby silver-blue bill, finely vermiculated light-brown upper parts, whitish underparts, black rump and black wings."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        10.0,
+        10.0
+      ]
+    },
+    "juvenile": {
+      "notes": "The sexes are similar, but immatures lack the vermiculations."
+    },
+    "chick": {
+      "notes": "The incubation period is about eleven to thirteen days average, and the young fledging in about twenty-one days and becoming independent within a month of fledging. Newly hatched young are dark and have waxy-looking yellow gape swellings."
+    }
+  },
+  "behaviour": "The African silverbill is tame and sociable, often found perching in trees in dense flocks, touching one another. However, it is a particularly inactive bird, sitting huddled together for a long period of time. It stays in flocks all year round and usually breeds in loose colony.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The species is widespread in savanna country, arid landscape with thorn bush, and grasslands with acacias or dry grassland. It may also be found in cultivated areas and dry grassland.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Eastern",
+      "Kenya",
+      "Coast",
+      "Nairobi",
+      "Kajiado"
+    ],
+    "gbif_records_in_kenya": 1287
+  },
+  "look_alikes": [
+    {
+      "label": "Lanius_humeralis",
+      "common_name": "Northern Fiscal",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Passer_griseus",
+      "common_name": "Northern Grey-headed Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Turdoides_sharpei",
+      "common_name": "Black-lored Babbler",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "African silverbill",
+      "url": "https://en.wikipedia.org/wiki/African_silverbill",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/7340335"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

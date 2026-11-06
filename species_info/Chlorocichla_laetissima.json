@@ -53,6 +53,30 @@
       "common_name": "Kikuyu White-eye",
       "difference": null,
       "times_confused": 1
+    },
+    {
+      "label": "Iduna_natalensis",
+      "common_name": "African Yellow Warbler",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Nectarinia_kilimensis",
+      "common_name": "Bronze Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_spekei",
+      "common_name": "Speke's Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Malaconotus_blanchoti",
+      "common_name": "Grey-headed Bushshrike",
+      "difference": null,
+      "times_confused": 1
     }
   ],
   "sources": [

@@ -43,7 +43,7 @@
       "label": "Nectarinia_kilimensis",
       "common_name": "Bronze Sunbird",
       "difference": null,
-      "times_confused": 2
+      "times_confused": 1
     },
     {
       "label": "Chalcomitra_amethystina",
@@ -54,6 +54,30 @@
     {
       "label": "Merops_revoilii",
       "common_name": "Somali Bee-eater",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cinnyris_mariquensis",
+      "common_name": "Marico Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Phoeniculus_purpureus",
+      "common_name": "Green Wood Hoopoe",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_subaureus",
+      "common_name": "Eastern Golden Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cinnyris_reichenowi",
+      "common_name": "Northern Double-collared Sunbird",
       "difference": null,
       "times_confused": 1
     }

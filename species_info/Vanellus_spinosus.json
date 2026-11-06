@@ -61,6 +61,48 @@
       "common_name": "Crowned Lapwing",
       "difference": null,
       "times_confused": 1
+    },
+    {
+      "label": "Phoeniconaias_minor",
+      "common_name": "Lesser Flamingo",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Corvus_albus",
+      "common_name": "Pied Crow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Alopochen_aegyptiaca",
+      "common_name": "Egyptian Goose",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Hirundo_smithii",
+      "common_name": "Wire-tailed Swallow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ortygornis_sephaena",
+      "common_name": "Crested Francolin",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pseudonigrita_cabanisi",
+      "common_name": "Black-capped Social Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Uraeginthus_cyanocephalus",
+      "common_name": "Blue-capped Cordon-bleu",
+      "difference": null,
+      "times_confused": 1
     }
   ],
   "sources": [

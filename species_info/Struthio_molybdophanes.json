@@ -42,6 +42,12 @@
       "times_confused": 10
     },
     {
+      "label": "Ardeotis_kori",
+      "common_name": "Kori Bustard",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
       "label": "Oenanthe_lugubris",
       "common_name": "Abyssinian Wheatear",
       "difference": null,
@@ -62,6 +68,30 @@
     {
       "label": "Lophotis_gindiana",
       "common_name": "Buff-crested Bustard",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Monticola_saxatilis",
+      "common_name": "Common Rock Thrush",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Circus_pygargus",
+      "common_name": "Montagu's Harrier",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Plectropterus_gambensis",
+      "common_name": "Spur-winged Goose",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Circaetus_pectoralis",
+      "common_name": "Black-chested Snake Eagle",
       "difference": null,
       "times_confused": 1
     }

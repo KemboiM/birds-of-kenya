@@ -46,6 +46,18 @@
       "common_name": "Northern Red-billed Hornbill",
       "difference": null,
       "times_confused": 1
+    },
+    {
+      "label": "Lophoceros_alboterminatus",
+      "common_name": "Crowned Hornbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pogoniulus_bilineatus",
+      "common_name": "Yellow-rumped Tinkerbird",
+      "difference": null,
+      "times_confused": 1
     }
   ],
   "sources": [

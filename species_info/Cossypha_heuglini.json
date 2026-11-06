@@ -45,13 +45,31 @@
       "label": "Cossypha_semirufa",
       "common_name": "Rüppell's Robin-chat",
       "difference": null,
-      "times_confused": 5
+      "times_confused": 7
     },
     {
       "label": "Dessonornis_caffer",
       "common_name": "Cape Robin-chat",
       "difference": null,
-      "times_confused": 4
+      "times_confused": 3
+    },
+    {
+      "label": "Cossypha_niveicapilla",
+      "common_name": "Snowy-crowned Robin-chat",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Lamprotornis_superbus",
+      "common_name": "Superb Starling",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Terpsiphone_viridis",
+      "common_name": "African Paradise Flycatcher",
+      "difference": null,
+      "times_confused": 2
     },
     {
       "label": "Pogoniulus_bilineatus",
@@ -92,6 +110,60 @@
     {
       "label": "Ploceus_ocularis",
       "common_name": "Spectacled Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Monticola_rufocinereus",
+      "common_name": "Little Rock Thrush",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tchagra_australis",
+      "common_name": "Brown-crowned Tchagra",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_castaneiceps",
+      "common_name": "Taveta Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Sylvietta_whytii",
+      "common_name": "Red-faced Crombec",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Oriolus_larvatus",
+      "common_name": "Black-headed Oriole",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cinnyris_venustus",
+      "common_name": "Variable Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lamprotornis_hildebrandti",
+      "common_name": "Hildebrandt's Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_baglafecht",
+      "common_name": "Baglafecht Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Turdus_abyssinicus",
+      "common_name": "Abyssinian Thrush",
       "difference": null,
       "times_confused": 1
     }

@@ -1,0 +1,68 @@
+{
+  "label": "Macronyx_sharpei",
+  "scientific_name": "Macronyx sharpei",
+  "common_name": "Sharpe's Longclaw",
+  "other_names": {},
+  "family": "Motacillidae",
+  "summary": "Sharpe's longclaw (Macronyx sharpei) is a passerine bird in the longclaw family Motacillidae, which also includes the pipits and wagtails. It is endemic to Kenya. It is 16–17 cm long, with upperparts heavily marked with buff and rufous streaks, yellow underparts, and white outer tail feathers in flight.",
+  "appearance": {
+    "description": null,
+    "colors": "It is 16–17 cm long, with upperparts heavily marked with buff and rufous streaks, yellow underparts, and white outer tail feathers in flight. This bird is endangered, with an estimated population of less than 20,000.",
+    "wings": null
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        16.0,
+        17.0
+      ]
+    },
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": "=== Diet and feeding === The Sharpe's longclaw feeds on insects, particularly grasshoppers and beetles. Other invertebrates are taken as well. Within its range it has a higher feeding rate in grasslands with tussocks.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The Sharpe's longclaw is found in the highlands of west and central Kenya. It has a restricted distribution, occurring on the northern slopes of Mount Kenya, the southern slopes of the Aberdares, on the Gishu, Mau and Kinangop Plateaus around the Rift Valley, and the Kenyan slopes of Mount Elgon (possibly the Ugandan slopes as well).",
+    "kenya_regions": [
+      "Central",
+      "Kenya",
+      "Rift Valley",
+      "Nyandurua",
+      "Nyandarua",
+      "Central Province"
+    ],
+    "gbif_records_in_kenya": 1018
+  },
+  "look_alikes": [
+    {
+      "label": "Macronyx_aurantiigula",
+      "common_name": "Pangani Longclaw",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_castaneiceps",
+      "common_name": "Taveta Weaver",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Sharpe's longclaw",
+      "url": "https://en.wikipedia.org/wiki/Sharpe%27s_longclaw",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/5789212"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

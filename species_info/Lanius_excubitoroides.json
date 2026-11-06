@@ -41,7 +41,13 @@
       "label": "Lanius_cabanisi",
       "common_name": "Long-tailed Fiscal",
       "difference": null,
-      "times_confused": 10
+      "times_confused": 6
+    },
+    {
+      "label": "Lanius_dorsalis",
+      "common_name": "Taita Fiscal",
+      "difference": null,
+      "times_confused": 3
     },
     {
       "label": "Vanellus_armatus",
@@ -116,14 +122,44 @@
       "times_confused": 1
     },
     {
-      "label": "Lanius_dorsalis",
-      "common_name": "Taita Fiscal",
+      "label": "Merops_albicollis",
+      "common_name": "White-throated Bee-eater",
       "difference": null,
       "times_confused": 1
     },
     {
-      "label": "Merops_albicollis",
-      "common_name": "White-throated Bee-eater",
+      "label": "Clamator_jacobinus",
+      "common_name": "Jacobin Cuckoo",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Chroicocephalus_cirrocephalus",
+      "common_name": "Grey-headed Gull",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Halcyon_senegalensis",
+      "common_name": "Woodland Kingfisher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Sagittarius_serpentarius",
+      "common_name": "Secretarybird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Spilopelia_senegalensis",
+      "common_name": "Laughing Dove",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Vidua_macroura",
+      "common_name": "Pin-tailed Whydah",
       "difference": null,
       "times_confused": 1
     }

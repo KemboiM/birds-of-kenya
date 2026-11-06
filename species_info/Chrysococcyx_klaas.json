@@ -88,6 +88,54 @@
       "common_name": "Red-eyed Dove",
       "difference": null,
       "times_confused": 1
+    },
+    {
+      "label": "Clamator_jacobinus",
+      "common_name": "Jacobin Cuckoo",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Apaloderma_narina",
+      "common_name": "Narina Trogon",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cinnyris_venustus",
+      "common_name": "Variable Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Micronisus_gabar",
+      "common_name": "Gabar Goshawk",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Passer_griseus",
+      "common_name": "Northern Grey-headed Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Poicephalus_meyeri",
+      "common_name": "Meyer's Parrot",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bycanistes_subcylindricus",
+      "common_name": "Black-and-white-casqued Hornbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Chrysococcyx_caprius",
+      "common_name": "Diederik Cuckoo",
+      "difference": null,
+      "times_confused": 1
     }
   ],
   "sources": [

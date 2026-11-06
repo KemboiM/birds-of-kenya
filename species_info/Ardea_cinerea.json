@@ -49,19 +49,25 @@
       "label": "Ardea_melanocephala",
       "common_name": "Black-headed Heron",
       "difference": null,
-      "times_confused": 4
-    },
-    {
-      "label": "Ardea_alba",
-      "common_name": "Great Egret",
-      "difference": null,
-      "times_confused": 3
+      "times_confused": 7
     },
     {
       "label": "Pelecanus_rufescens",
       "common_name": "Pink-backed Pelican",
       "difference": null,
       "times_confused": 2
+    },
+    {
+      "label": "Ciconia_microscelis",
+      "common_name": "African Woolly-necked Stork",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Ardea_alba",
+      "common_name": "Great Egret",
+      "difference": null,
+      "times_confused": 1
     },
     {
       "label": "Egretta_dimorpha",
@@ -114,6 +120,84 @@
     {
       "label": "Vanellus_senegallus",
       "common_name": "African Wattled Lapwing",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Egretta_ardesiaca",
+      "common_name": "Black Heron",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Plegadis_falcinellus",
+      "common_name": "Glossy Ibis",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bubulcus_ibis",
+      "common_name": "Western Cattle Egret",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Calidris_pugnax",
+      "common_name": "Ruff",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Egretta_garzetta",
+      "common_name": "Little Egret",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Himantopus_himantopus",
+      "common_name": "Black-winged Stilt",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Oena_capensis",
+      "common_name": "Namaqua Dove",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Threskiornis_aethiopicus",
+      "common_name": "African Sacred Ibis",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Vanellus_melanopterus",
+      "common_name": "Black-winged Lapwing",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ceryle_rudis",
+      "common_name": "Pied Kingfisher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Elanus_caeruleus",
+      "common_name": "Black-winged Kite",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lanius_cabanisi",
+      "common_name": "Long-tailed Fiscal",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Phoenicopterus_roseus",
+      "common_name": "Greater Flamingo",
       "difference": null,
       "times_confused": 1
     }

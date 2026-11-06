@@ -34,11 +34,17 @@
       "label": "Pternistis_afer",
       "common_name": "Red-necked Spurfowl",
       "difference": null,
-      "times_confused": 3
+      "times_confused": 4
     },
     {
       "label": "Amadina_fasciata",
       "common_name": "Cut-throat Finch",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pternistis_squamatus",
+      "common_name": "Scaly Spurfowl",
       "difference": null,
       "times_confused": 1
     }

@@ -1,0 +1,57 @@
+{
+  "label": "Apalis_jacksoni",
+  "scientific_name": "Apalis jacksoni",
+  "common_name": "Black-throated Apalis",
+  "other_names": {},
+  "family": "Cisticolidae",
+  "summary": "The black-throated apalis (Apalis jacksoni) is a species of bird in the family Cisticolidae. It is native to the Western High Plateau, the Albertine Rift montane forests and the east African montane forests and isolated lowland areas of Cameroon, the DRC and Angola.",
+  "appearance": {
+    "description": null,
+    "colors": "The black-throated apalis (Apalis jacksoni) is a species of bird in the family Cisticolidae.",
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Central",
+      "Kenya",
+      "Western",
+      "Rift Valley",
+      "Eastern",
+      "Kirinyaga"
+    ],
+    "gbif_records_in_kenya": 1683
+  },
+  "look_alikes": [
+    {
+      "label": "Coccopygia_quartinia",
+      "common_name": "Yellow-bellied Waxbill",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Black-throated apalis",
+      "url": "https://en.wikipedia.org/wiki/Black-throated_apalis",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2492710"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

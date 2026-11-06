@@ -38,6 +38,12 @@
   },
   "look_alikes": [
     {
+      "label": "Tringa_glareola",
+      "common_name": "Wood Sandpiper",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
       "label": "Stephanoaetus_coronatus",
       "common_name": "Crowned Eagle",
       "difference": null,
@@ -64,6 +70,36 @@
     {
       "label": "Lissotis_melanogaster",
       "common_name": "Black-bellied Bustard",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Onychognathus_morio",
+      "common_name": "Red-winged Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Campethera_nubica",
+      "common_name": "Nubian Woodpecker",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Falco_tinnunculus",
+      "common_name": "Common Kestrel",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tachybaptus_ruficollis",
+      "common_name": "Little Grebe",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pternistis_afer",
+      "common_name": "Red-necked Spurfowl",
       "difference": null,
       "times_confused": 1
     }

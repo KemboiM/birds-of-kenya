@@ -44,14 +44,20 @@
   },
   "look_alikes": [
     {
+      "label": "Plegadis_falcinellus",
+      "common_name": "Glossy Ibis",
+      "difference": null,
+      "times_confused": 6
+    },
+    {
       "label": "Milvus_migrans",
       "common_name": "Black Kite",
       "difference": null,
       "times_confused": 2
     },
     {
-      "label": "Plegadis_falcinellus",
-      "common_name": "Glossy Ibis",
+      "label": "Bostrychia_hagedash",
+      "common_name": "Hadada Ibis",
       "difference": null,
       "times_confused": 2
     },
@@ -59,7 +65,7 @@
       "label": "Anhinga_rufa",
       "common_name": "African Darter",
       "difference": null,
-      "times_confused": 2
+      "times_confused": 1
     },
     {
       "label": "Euplectes_jacksoni",
@@ -142,6 +148,60 @@
     {
       "label": "Lanius_excubitoroides",
       "common_name": "Grey-backed Fiscal",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Aquila_verreauxii",
+      "common_name": "Verreaux's Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bycanistes_brevis",
+      "common_name": "Silvery-cheeked Hornbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ciconia_microscelis",
+      "common_name": "African Woolly-necked Stork",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Dendrocygna_viduata",
+      "common_name": "White-faced Whistling Duck",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Necrosyrtes_monachus",
+      "common_name": "Hooded Vulture",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Plectropterus_gambensis",
+      "common_name": "Spur-winged Goose",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Amaurornis_flavirostra",
+      "common_name": "Black Crake",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ephippiorhynchus_senegalensis",
+      "common_name": "Saddle-billed Stork",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Scopus_umbretta",
+      "common_name": "Hamerkop",
       "difference": null,
       "times_confused": 1
     }

@@ -61,6 +61,12 @@
       "common_name": "Black-chested Snake Eagle",
       "difference": null,
       "times_confused": 1
+    },
+    {
+      "label": "Camaroptera_brachyura",
+      "common_name": "Green-backed Camaroptera",
+      "difference": null,
+      "times_confused": 1
     }
   ],
   "sources": [

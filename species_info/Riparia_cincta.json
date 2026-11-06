@@ -36,6 +36,12 @@
   },
   "look_alikes": [
     {
+      "label": "Riparia_paludicola",
+      "common_name": "Brown-throated Martin",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
       "label": "Cecropis_senegalensis",
       "common_name": "Mosque Swallow",
       "difference": null,
@@ -56,6 +62,18 @@
     {
       "label": "Ceryle_rudis",
       "common_name": "Pied Kingfisher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Chroicocephalus_cirrocephalus",
+      "common_name": "Grey-headed Gull",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lonchura_cucullata",
+      "common_name": "Bronze Mannikin",
       "difference": null,
       "times_confused": 1
     }

@@ -114,6 +114,72 @@
       "common_name": "Bronze Mannikin",
       "difference": null,
       "times_confused": 1
+    },
+    {
+      "label": "Lophoceros_nasutus",
+      "common_name": "African Grey Hornbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Corvus_splendens",
+      "common_name": "House Crow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Aquila_rapax",
+      "common_name": "Tawny Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Anastomus_lamelligerus",
+      "common_name": "African Openbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Circus_pygargus",
+      "common_name": "Montagu's Harrier",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Gypohierax_angolensis",
+      "common_name": "Palm-nut Vulture",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Laniarius_major",
+      "common_name": "Tropical Boubou",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lophaetus_occipitalis",
+      "common_name": "Long-crested Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Motacilla_aguimp",
+      "common_name": "African Pied Wagtail",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pycnonotus_barbatus",
+      "common_name": "Common Bulbul",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Torgos_tracheliotos",
+      "common_name": "Lappet-faced Vulture",
+      "difference": null,
+      "times_confused": 1
     }
   ],
   "sources": [

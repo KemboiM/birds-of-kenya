@@ -51,6 +51,24 @@
       "common_name": "Bateleur",
       "difference": null,
       "times_confused": 1
+    },
+    {
+      "label": "Chalcomitra_senegalensis",
+      "common_name": "Scarlet-chested Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Vidua_macroura",
+      "common_name": "Pin-tailed Whydah",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cinnyris_reichenowi",
+      "common_name": "Northern Double-collared Sunbird",
+      "difference": null,
+      "times_confused": 1
     }
   ],
   "sources": [

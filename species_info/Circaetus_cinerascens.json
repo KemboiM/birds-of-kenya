@@ -1,0 +1,86 @@
+{
+  "label": "Circaetus_cinerascens",
+  "scientific_name": "Circaetus cinerascens",
+  "common_name": "Western Banded Snake Eagle",
+  "other_names": {},
+  "family": "Accipitridae",
+  "summary": "The western banded snake eagle (Circaetus cinerascens) is a grey-brown African raptor with a short tail and a large head. Juveniles have paler and browner upper parts than adults, with white-edged feathers. The eagle's head, neck and breast are dark-streaked.",
+  "appearance": {
+    "description": "It has a total length of 50-58 cm (19 to 22 in) and a wingspan of 120-134 cm (3 ft 11 in to 4 ft 4 in)",
+    "colors": "The western banded snake eagle (Circaetus cinerascens) is a grey-brown African raptor with a short tail and a large head. The underparts are white with pale brown streaks, mainly on belly and thighs.",
+    "wings": null
+  },
+  "size": {
+    "adult": {
+      "wingspan_cm": [
+        120.0,
+        134.0
+      ],
+      "length_cm": [
+        50.0,
+        58.0
+      ]
+    },
+    "juvenile": null,
+    "chick": {
+      "notes": "The young fledge from the nest after 10 to 15 weeks."
+    }
+  },
+  "behaviour": "Western banded snake eagles mainly hunt snakes, but also other small vertebrates, ambushing from a perch. They drop from the perch to trunk, foliage or ground. They are solitary birds, and very secretive.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "Western banded snake eagles live in woodlands, mainly along rivers, but they avoid dense forests. They are found in Africa in the northern tropics from Senegal and Gambia east through to Ethiopia and then south to southern Angola and Zimbabwe, mostly west of the Rift Valley, but are mostly absent from the western lowland equatorial forests.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Western",
+      "Kenya",
+      "Nyanza",
+      "Eastern",
+      "Narok"
+    ],
+    "gbif_records_in_kenya": 656
+  },
+  "look_alikes": [
+    {
+      "label": "Falco_ardosiaceus",
+      "common_name": "Grey Kestrel",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Melierax_metabates",
+      "common_name": "Dark Chanting Goshawk",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Stephanoaetus_coronatus",
+      "common_name": "Crowned Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Aquila_rapax",
+      "common_name": "Tawny Eagle",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Western banded snake eagle",
+      "url": "https://en.wikipedia.org/wiki/Western_banded_snake_eagle",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2480664"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

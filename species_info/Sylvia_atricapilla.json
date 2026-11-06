@@ -1,0 +1,82 @@
+{
+  "label": "Sylvia_atricapilla",
+  "scientific_name": "Sylvia atricapilla",
+  "common_name": "Eurasian Blackcap",
+  "other_names": {},
+  "family": "Sylviidae",
+  "summary": "The Eurasian blackcap (Sylvia atricapilla) is a bird usually known simply as the blackcap. It is a common and widespread warbler. It has mainly olive-grey upperparts and pale grey underparts, and differences across the five subspecies are small.",
+  "appearance": {
+    "description": "The blackcap is a mainly grey warbler with distinct male and female plumages. The nominate subspecies is about 13 cm (5.1 in) long with a 7–8 cm (2.8–3.1 in) wing length. The weight is typically 16–25 g (0.56–0.88 oz), but can be up to 31 g (1.1 oz) for birds preparing to migrate.",
+    "colors": "The Eurasian blackcap (Sylvia atricapilla) is a bird usually known simply as the blackcap. It has mainly olive-grey upperparts and pale grey underparts, and differences across the five subspecies are small.",
+    "wings": "The nominate subspecies is about 13 cm (5.1 in) long with a 7–8 cm (2.8–3.1 in) wing length."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        7.0,
+        13.0
+      ],
+      "mass_g": [
+        16.0,
+        31.0
+      ]
+    },
+    "juvenile": {
+      "notes": "Juveniles are similar to the female, but their upperparts have a slight rufous tinge, and the breast and flanks have a more olive tone; young males have a darker brown cap than their female counterparts. Juveniles replace their loosely structured body feathers with adult plumage, starting earlier, but taking longer to complete, than the adults."
+    },
+    "chick": {
+      "notes": "The chicks are altricial, hatching naked and with closed eyes, and are fed by both parents. They fledge about 11–12 days after hatching, leaving the nest shortly before they are able to fly."
+    }
+  },
+  "behaviour": "The male's song is a rich musical warbling, often ending in a loud high-pitched crescendo, which is given in bursts of up to 30 seconds. The song is repeated for about two-and-a-half minutes, with a short pause before each repetition. In some geographically isolated areas, such as islands, peninsulas and valleys in the Alps, a simplified fluting song occurs, named the Leiern (drawling) song by the German ornithologists who first described it.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "=== Distribution === The continental breeding range of the blackcap lies between the 14–30° July isotherms, and is occupied by the nominate subspecies, the other forms being restricted to islands or fringe areas in the Caucasus and eastern Iberia. Birds on the Mediterranean and Atlantic islands and in the milder west and south of the main Eurasian distribution often winter within the nesting range, but populations elsewhere are migratory.",
+    "kenya_regions": [
+      "Kenya",
+      "Central",
+      "Nairobi",
+      "Rift Valley",
+      "Western",
+      "Eastern"
+    ],
+    "gbif_records_in_kenya": 3159
+  },
+  "look_alikes": [
+    {
+      "label": "Camaroptera_brachyura",
+      "common_name": "Green-backed Camaroptera",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ptyonoprogne_fuligula",
+      "common_name": "Large Rock Martin",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Euplectes_progne",
+      "common_name": "Long-tailed Widowbird",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Eurasian blackcap",
+      "url": "https://en.wikipedia.org/wiki/Eurasian_blackcap",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2492956"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

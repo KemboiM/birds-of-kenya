@@ -35,6 +35,18 @@
       "common_name": "Scaly Spurfowl",
       "difference": null,
       "times_confused": 1
+    },
+    {
+      "label": "Pternistis_afer",
+      "common_name": "Red-necked Spurfowl",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Centropus_superciliosus",
+      "common_name": "White-browed Coucal",
+      "difference": null,
+      "times_confused": 1
     }
   ],
   "sources": [

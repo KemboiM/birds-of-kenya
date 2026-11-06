@@ -1,0 +1,63 @@
+{
+  "label": "Nicator_gularis",
+  "scientific_name": "Nicator gularis",
+  "common_name": "Eastern Nicator",
+  "other_names": {},
+  "family": "Nicatoridae",
+  "summary": "The eastern nicator (Nicator gularis) is a species of songbird in the family Nicatoridae. It is found in Eswatini, Kenya, Malawi, Mozambique, Somalia, South Africa, Tanzania, Zambia, and Zimbabwe. Its natural habitats are subtropical or tropical dry forests, dry savanna, and subtropical or tropical moist shrubland.",
+  "appearance": {
+    "description": null,
+    "colors": "This species was formerly called the \"yellow-spotted nicator\" although this is no longer the case, with that name now belonging solely to the central African western nicator.",
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": "It is an insectivore.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Coast",
+      "Kenya",
+      "Eastern",
+      "Kilifi",
+      "Coast prov",
+      "Coast Province"
+    ],
+    "gbif_records_in_kenya": 4398
+  },
+  "look_alikes": [
+    {
+      "label": "Otus_ireneae",
+      "common_name": "Sokoke Scops Owl",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tmetothylacus_tenellus",
+      "common_name": "Golden Pipit",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Eastern nicator",
+      "url": "https://en.wikipedia.org/wiki/Eastern_nicator",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2486229"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

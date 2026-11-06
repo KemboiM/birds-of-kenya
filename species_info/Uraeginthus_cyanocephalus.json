@@ -31,6 +31,12 @@
   },
   "look_alikes": [
     {
+      "label": "Uraeginthus_bengalus",
+      "common_name": "Red-cheeked Cordon-bleu",
+      "difference": null,
+      "times_confused": 3
+    },
+    {
       "label": "Cinnyricinclus_leucogaster",
       "common_name": "Violet-backed Starling",
       "difference": null,
@@ -49,14 +55,38 @@
       "times_confused": 1
     },
     {
-      "label": "Uraeginthus_bengalus",
-      "common_name": "Red-cheeked Cordon-bleu",
+      "label": "Uraeginthus_ianthinogaster",
+      "common_name": "Purple Grenadier",
       "difference": null,
       "times_confused": 1
     },
     {
-      "label": "Uraeginthus_ianthinogaster",
-      "common_name": "Purple Grenadier",
+      "label": "Bradornis_microrhynchus",
+      "common_name": "African Grey Flycatcher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Gymnoris_pyrgita",
+      "common_name": "Yellow-spotted Bush Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pternistis_afer",
+      "common_name": "Red-necked Spurfowl",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Sporopipes_frontalis",
+      "common_name": "Speckle-fronted Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Vanellus_spinosus",
+      "common_name": "Spur-winged Lapwing",
       "difference": null,
       "times_confused": 1
     }

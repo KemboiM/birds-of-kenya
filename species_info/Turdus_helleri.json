@@ -1,0 +1,57 @@
+{
+  "label": "Turdus_helleri",
+  "scientific_name": "Turdus helleri",
+  "common_name": "Taita Thrush",
+  "other_names": {},
+  "family": "Turdidae",
+  "summary": "The Taita thrush (Turdus helleri), also known as the Taita olive thrush or Heller's ground thrush, is an endangered bird in the thrush family Turdidae, endemic to the Taita Hills in southern Kenya.",
+  "appearance": {
+    "description": "The Taita thrush was previously classified as subspecies of the olive thrush (Turdus olivaceus), but it is now treated as distinct species. It reaches a length between 20 and 22 centimetres. The head and upperparts are dark grey-brown to black, the breast is grey, the underparts are white, and the flanks are rufous-red.",
+    "colors": "The Taita thrush (Turdus helleri), also known as the Taita olive thrush or Heller's ground thrush, is an endangered bird in the thrush family Turdidae, endemic to the Taita Hills in southern Kenya. The Taita thrush was previously classified as subspecies of the olive thrush (Turdus olivaceus), but it is now treated as distinct species.",
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": "It is restricted to montane moist forests. Despite its natural native habitat having been severely logged in the past, it has avoided forests with secondary growth, shrub vegetation, and cultivated areas. Extensive research has shown only minimal migration between the fragmented populations.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The Taita thrush is a forest-dependent endemic bird confined to four forests in the Taita Hills in the south east of Kenya: Mbololo, Chawia, Yale and Ngangao. The forests cover a tiny 342 ha.",
+    "kenya_regions": [
+      "Coast",
+      "Kenya",
+      "Taita Taveta",
+      "Taita-Taveta",
+      "Coast Province",
+      "Coastal Kenya"
+    ],
+    "gbif_records_in_kenya": 2352
+  },
+  "look_alikes": [
+    {
+      "label": "Turdus_abyssinicus",
+      "common_name": "Abyssinian Thrush",
+      "difference": null,
+      "times_confused": 3
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Taita thrush",
+      "url": "https://en.wikipedia.org/wiki/Taita_thrush",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/5789050"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

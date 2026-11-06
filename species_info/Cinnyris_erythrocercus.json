@@ -1,0 +1,63 @@
+{
+  "label": "Cinnyris_erythrocercus",
+  "scientific_name": "Cinnyris erythrocercus",
+  "common_name": "Red-chested Sunbird",
+  "other_names": {},
+  "family": "Nectariniidae",
+  "summary": "The red-chested sunbird (Cinnyris erythrocercus) is a species of bird in the family Nectariniidae. It is found in Burundi, Democratic Republic of the Congo, Ethiopia, Kenya, Rwanda, South Sudan, Tanzania, and Uganda.",
+  "appearance": {
+    "description": null,
+    "colors": "The red-chested sunbird (Cinnyris erythrocercus) is a species of bird in the family Nectariniidae.",
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Nyanza",
+      "Kenya",
+      "Western",
+      "Nyanza Province",
+      "Kisumu",
+      "Homa Bay"
+    ],
+    "gbif_records_in_kenya": 1315
+  },
+  "look_alikes": [
+    {
+      "label": "Cinnyris_mariquensis",
+      "common_name": "Marico Sunbird",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Chalcomitra_senegalensis",
+      "common_name": "Scarlet-chested Sunbird",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Red-chested sunbird",
+      "url": "https://en.wikipedia.org/wiki/Red-chested_sunbird",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/6087898"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

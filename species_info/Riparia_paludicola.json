@@ -36,8 +36,26 @@
   },
   "look_alikes": [
     {
+      "label": "Ptyonoprogne_fuligula",
+      "common_name": "Large Rock Martin",
+      "difference": null,
+      "times_confused": 5
+    },
+    {
       "label": "Hirundo_rustica",
       "common_name": "Barn Swallow",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Riparia_cincta",
+      "common_name": "Banded Martin",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Psalidoprocne_pristoptera",
+      "common_name": "Black Saw-wing",
       "difference": null,
       "times_confused": 2
     },
@@ -72,12 +90,6 @@
       "times_confused": 1
     },
     {
-      "label": "Ptyonoprogne_fuligula",
-      "common_name": "Large Rock Martin",
-      "difference": null,
-      "times_confused": 1
-    },
-    {
       "label": "Turdoides_hypoleuca",
       "common_name": "Northern Pied Babbler",
       "difference": null,
@@ -98,6 +110,66 @@
     {
       "label": "Lanius_humeralis",
       "common_name": "Northern Fiscal",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ortygospiza_atricollis",
+      "common_name": "Black-faced Quailfinch",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cuculus_solitarius",
+      "common_name": "Red-chested Cuckoo",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cypsiurus_parvus",
+      "common_name": "African Palm Swift",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Quelea_quelea",
+      "common_name": "Red-billed Quelea",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Anhinga_rufa",
+      "common_name": "African Darter",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bradornis_microrhynchus",
+      "common_name": "African Grey Flycatcher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cecropis_abyssinica",
+      "common_name": "Lesser Striped Swallow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ceryle_rudis",
+      "common_name": "Pied Kingfisher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pycnonotus_barbatus",
+      "common_name": "Common Bulbul",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Streptopelia_capicola",
+      "common_name": "Ring-necked Dove",
       "difference": null,
       "times_confused": 1
     }

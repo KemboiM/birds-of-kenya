@@ -38,6 +38,18 @@
   },
   "look_alikes": [
     {
+      "label": "Hirundo_smithii",
+      "common_name": "Wire-tailed Swallow",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Vanellus_armatus",
+      "common_name": "Blacksmith Lapwing",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
       "label": "Anas_sparsa",
       "common_name": "African Black Duck",
       "difference": null,
@@ -100,6 +112,54 @@
     {
       "label": "Lanius_humeralis",
       "common_name": "Northern Fiscal",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Motacilla_capensis",
+      "common_name": "Cape Wagtail",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Motacilla_clara",
+      "common_name": "Mountain Wagtail",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Anthreptes_orientalis",
+      "common_name": "Eastern Violet-backed Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Urocolius_macrourus",
+      "common_name": "Blue-naped Mousebird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Chalcomitra_senegalensis",
+      "common_name": "Scarlet-chested Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Malaconotus_blanchoti",
+      "common_name": "Grey-headed Bushshrike",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Passer_domesticus",
+      "common_name": "House Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Scopus_umbretta",
+      "common_name": "Hamerkop",
       "difference": null,
       "times_confused": 1
     }

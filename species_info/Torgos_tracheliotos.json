@@ -47,13 +47,19 @@
       "label": "Necrosyrtes_monachus",
       "common_name": "Hooded Vulture",
       "difference": null,
-      "times_confused": 7
+      "times_confused": 8
+    },
+    {
+      "label": "Terathopius_ecaudatus",
+      "common_name": "Bateleur",
+      "difference": null,
+      "times_confused": 3
     },
     {
       "label": "Gyps_rueppellii",
       "common_name": "Rüppell's Vulture",
       "difference": null,
-      "times_confused": 3
+      "times_confused": 2
     },
     {
       "label": "Gyps_africanus",
@@ -142,6 +148,72 @@
     {
       "label": "Struthio_camelus",
       "common_name": "Common Ostrich",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Aquila_verreauxii",
+      "common_name": "Verreaux's Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cisticola_hunteri",
+      "common_name": "Hunter's Cisticola",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Aquila_spilogaster",
+      "common_name": "African Hawk-eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bubalornis_niger",
+      "common_name": "Red-billed Buffalo Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Anas_erythrorhyncha",
+      "common_name": "Red-billed Teal",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Leptoptilos_crumenifer",
+      "common_name": "Marabou Stork",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Myrmecocichla_aethiops",
+      "common_name": "Anteater Chat",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Coracias_caudatus",
+      "common_name": "Lilac-breasted Roller",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Dendrocygna_viduata",
+      "common_name": "White-faced Whistling Duck",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Polyboroides_typus",
+      "common_name": "African Harrier-hawk",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Scopus_umbretta",
+      "common_name": "Hamerkop",
       "difference": null,
       "times_confused": 1
     }

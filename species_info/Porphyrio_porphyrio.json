@@ -1,0 +1,65 @@
+{
+  "label": "Porphyrio_porphyrio",
+  "scientific_name": "Porphyrio porphyrio",
+  "common_name": "Western Swamphen",
+  "other_names": {},
+  "family": "Rallidae",
+  "summary": "The western swamphen (Porphyrio porphyrio) is a species of swamphen in the rail family Rallidae, one of the six species of purple swamphen. This chicken-sized bird, with its large feet, bright plumage and red bill and frontal shield is easily recognisable in its native range. It used to be considered the nominate subspecies of the purple swamphen, but is now recognised as a separate species.",
+  "appearance": {
+    "description": null,
+    "colors": "The western swamphen (Porphyrio porphyrio) is a species of swamphen in the rail family Rallidae, one of the six species of purple swamphen. This chicken-sized bird, with its large feet, bright plumage and red bill and frontal shield is easily recognisable in its native range.",
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": {
+      "notes": "The precocious chicks are feathered with downy black feathers and able to leave the nest soon after hatching, but will often remain in the nest for a few days. Young chicks are fed by their parents (and group members) for between 10–14 days, after which they begin to feed themselves."
+    }
+  },
+  "behaviour": "The species makes loud, quick, bleating and hooting calls which are hardly bird-like in tone. It is particularly noisy during the breeding season. Despite being clumsy in flight it can fly long distances, and is a good swimmer, especially for a bird without webbed feet.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Central",
+      "Nairobi",
+      "Coast",
+      "Nyanza"
+    ],
+    "gbif_records_in_kenya": 1688
+  },
+  "look_alikes": [
+    {
+      "label": "Pternistis_afer",
+      "common_name": "Red-necked Spurfowl",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cinnyris_venustus",
+      "common_name": "Variable Sunbird",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Western swamphen",
+      "url": "https://en.wikipedia.org/wiki/Western_swamphen",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2474416"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

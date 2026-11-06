@@ -34,13 +34,13 @@
       "label": "Ploceus_castaneiceps",
       "common_name": "Taveta Weaver",
       "difference": null,
-      "times_confused": 5
+      "times_confused": 2
     },
     {
       "label": "Ploceus_ocularis",
       "common_name": "Spectacled Weaver",
       "difference": null,
-      "times_confused": 3
+      "times_confused": 1
     },
     {
       "label": "Ploceus_subaureus",
@@ -57,6 +57,24 @@
     {
       "label": "Ploceus_xanthops",
       "common_name": "Holub's Golden Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_pelzelni",
+      "common_name": "Slender-billed Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_castanops",
+      "common_name": "Northern Brown-throated Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Anaplectes_rubriceps",
+      "common_name": "Red-headed Weaver",
       "difference": null,
       "times_confused": 1
     }

@@ -31,16 +31,28 @@
   },
   "look_alikes": [
     {
+      "label": "Lanius_cabanisi",
+      "common_name": "Long-tailed Fiscal",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Lonchura_cucullata",
+      "common_name": "Bronze Mannikin",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
       "label": "Pycnonotus_barbatus",
       "common_name": "Common Bulbul",
       "difference": null,
-      "times_confused": 2
+      "times_confused": 1
     },
     {
       "label": "Turdoides_sharpei",
       "common_name": "Black-lored Babbler",
       "difference": null,
-      "times_confused": 2
+      "times_confused": 1
     },
     {
       "label": "Pternistis_squamatus",
@@ -111,6 +123,78 @@
     {
       "label": "Passer_domesticus",
       "common_name": "House Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Phyllastrephus_cabanisi",
+      "common_name": "Cabanis's Greenbul",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Sylvia_boehmi",
+      "common_name": "Banded Parisoma",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bubo_lacteus",
+      "common_name": "Verreaux's Eagle-owl",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bubulcus_ibis",
+      "common_name": "Western Cattle Egret",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Clamator_jacobinus",
+      "common_name": "Jacobin Cuckoo",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Colius_striatus",
+      "common_name": "Speckled Mousebird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Creatophora_cinerea",
+      "common_name": "Wattled Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Nectarinia_kilimensis",
+      "common_name": "Bronze Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Prinia_subflava",
+      "common_name": "Tawny-flanked Prinia",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Streptopelia_capicola",
+      "common_name": "Ring-necked Dove",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bradornis_microrhynchus",
+      "common_name": "African Grey Flycatcher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Uraeginthus_ianthinogaster",
+      "common_name": "Purple Grenadier",
       "difference": null,
       "times_confused": 1
     }

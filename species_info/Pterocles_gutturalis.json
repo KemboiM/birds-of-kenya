@@ -54,6 +54,30 @@
       "common_name": "Barn Swallow",
       "difference": null,
       "times_confused": 1
+    },
+    {
+      "label": "Anhinga_rufa",
+      "common_name": "African Darter",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Apus_affinis",
+      "common_name": "Little Swift",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Polemaetus_bellicosus",
+      "common_name": "Martial Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Streptopelia_capicola",
+      "common_name": "Ring-necked Dove",
+      "difference": null,
+      "times_confused": 1
     }
   ],
   "sources": [

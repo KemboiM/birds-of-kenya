@@ -34,11 +34,17 @@
       "label": "Vanellus_melanopterus",
       "common_name": "Black-winged Lapwing",
       "difference": null,
-      "times_confused": 4
+      "times_confused": 1
     },
     {
       "label": "Vanellus_senegallus",
       "common_name": "African Wattled Lapwing",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Circus_pygargus",
+      "common_name": "Montagu's Harrier",
       "difference": null,
       "times_confused": 1
     }

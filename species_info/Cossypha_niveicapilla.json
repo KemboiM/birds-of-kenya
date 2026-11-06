@@ -1,0 +1,57 @@
+{
+  "label": "Cossypha_niveicapilla",
+  "scientific_name": "Cossypha niveicapilla",
+  "common_name": "Snowy-crowned Robin-chat",
+  "other_names": {},
+  "family": "Muscicapidae",
+  "summary": "The snowy-crowned robin-chat (Cossypha niveicapilla) is a species of bird in the family Muscicapidae. It is also known as the snowy-headed robin-chat. Its disjunct range extends across the northern half of Sub-Saharan Africa (rare in the Horn of Africa).",
+  "appearance": {
+    "description": null,
+    "colors": null,
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Western",
+      "Kenya",
+      "Rift Valley",
+      "Kakamega",
+      "Nyanza",
+      "Western Province"
+    ],
+    "gbif_records_in_kenya": 1280
+  },
+  "look_alikes": [
+    {
+      "label": "Cossypha_heuglini",
+      "common_name": "White-browed Robin-chat",
+      "difference": null,
+      "times_confused": 2
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Snowy-crowned robin-chat",
+      "url": "https://en.wikipedia.org/wiki/Snowy-crowned_robin-chat",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2492590"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

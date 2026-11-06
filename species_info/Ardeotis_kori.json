@@ -35,6 +35,18 @@
   },
   "look_alikes": [
     {
+      "label": "Eupodotis_senegalensis",
+      "common_name": "White-bellied Bustard",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Struthio_molybdophanes",
+      "common_name": "Somali Ostrich",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
       "label": "Columba_livia",
       "common_name": "Rock Dove",
       "difference": null,
@@ -71,12 +83,6 @@
       "times_confused": 1
     },
     {
-      "label": "Eupodotis_senegalensis",
-      "common_name": "White-bellied Bustard",
-      "difference": null,
-      "times_confused": 1
-    },
-    {
       "label": "Bostrychia_hagedash",
       "common_name": "Hadada Ibis",
       "difference": null,
@@ -85,6 +91,30 @@
     {
       "label": "Struthio_camelus",
       "common_name": "Common Ostrich",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Nycticorax_nycticorax",
+      "common_name": "Black-crowned Night Heron",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ardea_melanocephala",
+      "common_name": "Black-headed Heron",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Microcarbo_africanus",
+      "common_name": "Reed Cormorant",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Numida_meleagris",
+      "common_name": "Helmeted Guinea Fowl",
       "difference": null,
       "times_confused": 1
     }

@@ -40,7 +40,7 @@
       "label": "Calandrella_cinerea",
       "common_name": "Red-capped Lark",
       "difference": null,
-      "times_confused": 2
+      "times_confused": 1
     },
     {
       "label": "Creatophora_cinerea",
@@ -63,6 +63,60 @@
     {
       "label": "Passer_domesticus",
       "common_name": "House Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Erythropygia_galactotes",
+      "common_name": "Rufous-tailed Scrub Robin",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Indicator_minor",
+      "common_name": "Lesser Honeyguide",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Emberiza_tahapisi",
+      "common_name": "Cinnamon-breasted Bunting",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Saxicola_torquatus",
+      "common_name": "African Stonechat",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Oenanthe_oenanthe",
+      "common_name": "Northern Wheatear",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Calendulauda_poecilosterna",
+      "common_name": "Pink-breasted Lark",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Plocepasser_donaldsoni",
+      "common_name": "Donaldson Smith's Sparrow-weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Crithagra_reichenowi",
+      "common_name": "Reichenow's Seedeater",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Eremopterix_leucopareia",
+      "common_name": "Fischer's Sparrow-lark",
       "difference": null,
       "times_confused": 1
     }

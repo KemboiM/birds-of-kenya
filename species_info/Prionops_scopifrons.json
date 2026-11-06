@@ -47,6 +47,24 @@
       "common_name": "Red-bellied Parrot",
       "difference": null,
       "times_confused": 1
+    },
+    {
+      "label": "Buphagus_erythrorhynchus",
+      "common_name": "Red-billed Oxpecker",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Turdus_abyssinicus",
+      "common_name": "Abyssinian Thrush",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Muscicapa_adusta",
+      "common_name": "African Dusky Flycatcher",
+      "difference": null,
+      "times_confused": 1
     }
   ],
   "sources": [

@@ -52,6 +52,12 @@
       "times_confused": 2
     },
     {
+      "label": "Pelecanus_rufescens",
+      "common_name": "Pink-backed Pelican",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
       "label": "Calendulauda_africanoides",
       "common_name": "Fawn-coloured Lark",
       "difference": null,
@@ -106,12 +112,6 @@
       "times_confused": 1
     },
     {
-      "label": "Pelecanus_rufescens",
-      "common_name": "Pink-backed Pelican",
-      "difference": null,
-      "times_confused": 1
-    },
-    {
       "label": "Terathopius_ecaudatus",
       "common_name": "Bateleur",
       "difference": null,
@@ -126,6 +126,42 @@
     {
       "label": "Lanius_excubitoroides",
       "common_name": "Grey-backed Fiscal",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Actitis_hypoleucos",
+      "common_name": "Common Sandpiper",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Eupodotis_senegalensis",
+      "common_name": "White-bellied Bustard",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Hirundo_rustica",
+      "common_name": "Barn Swallow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Scleroptila_shelleyi",
+      "common_name": "Shelley's Francolin",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tringa_stagnatilis",
+      "common_name": "Marsh Sandpiper",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ardea_cinerea",
+      "common_name": "Grey Heron",
       "difference": null,
       "times_confused": 1
     }

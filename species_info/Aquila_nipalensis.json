@@ -37,16 +37,16 @@
   },
   "look_alikes": [
     {
-      "label": "Aquila_rapax",
-      "common_name": "Tawny Eagle",
-      "difference": null,
-      "times_confused": 6
-    },
-    {
       "label": "Hieraaetus_wahlbergi",
       "common_name": "Wahlberg's Eagle",
       "difference": null,
       "times_confused": 4
+    },
+    {
+      "label": "Aquila_rapax",
+      "common_name": "Tawny Eagle",
+      "difference": null,
+      "times_confused": 3
     },
     {
       "label": "Circus_aeruginosus",
@@ -93,6 +93,36 @@
     {
       "label": "Milvus_migrans",
       "common_name": "Black Kite",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Falco_naumanni",
+      "common_name": "Lesser Kestrel",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Gyps_africanus",
+      "common_name": "White-backed Vulture",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Melierax_poliopterus",
+      "common_name": "Eastern Chanting Goshawk",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Necrosyrtes_monachus",
+      "common_name": "Hooded Vulture",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Terathopius_ecaudatus",
+      "common_name": "Bateleur",
       "difference": null,
       "times_confused": 1
     }

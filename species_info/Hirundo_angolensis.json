@@ -1,0 +1,68 @@
+{
+  "label": "Hirundo_angolensis",
+  "scientific_name": "Hirundo angolensis",
+  "common_name": "Angola Swallow",
+  "other_names": {},
+  "family": "Hirundinidae",
+  "summary": "The Angola swallow (Hirundo angolensis) is a species of swallow that is native to the Afrotropics.",
+  "appearance": {
+    "description": "They measure 15 cm and weigh 16 to 19 g. The plumage of the forehead, throat and upper breast is coloured deep rufous-chestnut. The crown and upperparts are a shiny steel-blue.",
+    "colors": "The plumage of the forehead, throat and upper breast is coloured deep rufous-chestnut. The crown and upperparts are a shiny steel-blue.",
+    "wings": null
+  },
+  "size": {
+    "adult": {
+      "mass_g": [
+        16.0,
+        19.0
+      ]
+    },
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": "They frequent a variety of open habitats up to the fringes of forest, whether altered by man or natural. Their diet consists of a variety of flying insects. They may forage alone or in flocks, and emit a weak twittering.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "It is found in Angola, Burundi, Democratic Republic of the Congo, Gabon, Kenya, Malawi, Namibia, Rwanda, Tanzania, Uganda, and Zambia.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Nyanza",
+      "Kenya",
+      "Western",
+      "Central",
+      "Eastern"
+    ],
+    "gbif_records_in_kenya": 1642
+  },
+  "look_alikes": [
+    {
+      "label": "Hirundo_rustica",
+      "common_name": "Barn Swallow",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Terpsiphone_viridis",
+      "common_name": "African Paradise Flycatcher",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Angola swallow",
+      "url": "https://en.wikipedia.org/wiki/Angola_swallow",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/5230778"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

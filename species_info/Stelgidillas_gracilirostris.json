@@ -1,0 +1,63 @@
+{
+  "label": "Stelgidillas_gracilirostris",
+  "scientific_name": "Stelgidillas gracilirostris",
+  "common_name": "Slender-billed Greenbul",
+  "other_names": {},
+  "family": "Pycnonotidae",
+  "summary": "The slender-billed greenbul (Stelgidillas gracilirostris) is a species in the monotypic genus Stelgidillas of the bulbul family of passerine birds. It is found in western and central Africa. Its natural habitats are subtropical or tropical dry forest, subtropical or tropical moist lowland forest, and subtropical or tropical moist montane forest.",
+  "appearance": {
+    "description": null,
+    "colors": "The slender-billed greenbul (Stelgidillas gracilirostris) is a species in the monotypic genus Stelgidillas of the bulbul family of passerine birds.",
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Western",
+      "Central",
+      "Kenya",
+      "Rift Valley",
+      "Nairobi",
+      "Eastern"
+    ],
+    "gbif_records_in_kenya": 2681
+  },
+  "look_alikes": [
+    {
+      "label": "Muscicapa_adusta",
+      "common_name": "African Dusky Flycatcher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pycnonotus_barbatus",
+      "common_name": "Common Bulbul",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Slender-billed greenbul",
+      "url": "https://en.wikipedia.org/wiki/Slender-billed_greenbul",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/7340464"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "label": "Ploceus_melanocephalus",
+  "scientific_name": "Ploceus melanocephalus",
+  "common_name": "Black-headed Weaver",
+  "other_names": {},
+  "family": "Ploceidae",
+  "summary": "The black-headed weaver (Ploceus melanocephalus), also known as yellow-backed weaver, is a species of bird in the family Ploceidae. It is a resident breeder in damp areas in tropical Africa.",
+  "appearance": {
+    "description": "Breeding males have a black head and yellow nuchal collar, which is absent in the Juba and golden-backed weavers. It also differs from the latter species and village weaver by its plain, greenish mantle plumage. The pale yellow underpart plumage is suffused with a variable amount of chestnut.",
+    "colors": "The black-headed weaver (Ploceus melanocephalus), also known as yellow-backed weaver, is a species of bird in the family Ploceidae. Breeding males have a black head and yellow nuchal collar, which is absent in the Juba and golden-backed weavers.",
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": "It is found in West, Central, and East Africa, but it has also been introduced to the Iberian Peninsula. It is found in savanna and similar habitats, typically near water.",
+    "kenya_regions": [
+      "Nyanza",
+      "Kenya",
+      "Western",
+      "Rift Valley",
+      "Kisumu",
+      "Nyanza prov"
+    ],
+    "gbif_records_in_kenya": 1104
+  },
+  "look_alikes": [
+    {
+      "label": "Ploceus_intermedius",
+      "common_name": "Lesser Masked Weaver",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Black-headed weaver",
+      "url": "https://en.wikipedia.org/wiki/Black-headed_weaver",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2494070"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

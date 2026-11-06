@@ -43,13 +43,25 @@
       "label": "Batis_perkeo",
       "common_name": "Pygmy Batis",
       "difference": null,
+      "times_confused": 3
+    },
+    {
+      "label": "Lanius_humeralis",
+      "common_name": "Northern Fiscal",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Vidua_macroura",
+      "common_name": "Pin-tailed Whydah",
+      "difference": null,
       "times_confused": 2
     },
     {
       "label": "Laniarius_major",
       "common_name": "Tropical Boubou",
       "difference": null,
-      "times_confused": 2
+      "times_confused": 1
     },
     {
       "label": "Tricholaema_melanocephala",
@@ -82,12 +94,6 @@
       "times_confused": 1
     },
     {
-      "label": "Lanius_humeralis",
-      "common_name": "Northern Fiscal",
-      "difference": null,
-      "times_confused": 1
-    },
-    {
       "label": "Motacilla_aguimp",
       "common_name": "African Pied Wagtail",
       "difference": null,
@@ -106,8 +112,14 @@
       "times_confused": 1
     },
     {
-      "label": "Vidua_macroura",
-      "common_name": "Pin-tailed Whydah",
+      "label": "Parus_albiventris",
+      "common_name": "White-bellied Tit",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Platysteira_cyanea",
+      "common_name": "Brown-throated Wattle-eye",
       "difference": null,
       "times_confused": 1
     }

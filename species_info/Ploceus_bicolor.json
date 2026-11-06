@@ -65,6 +65,18 @@
       "common_name": "Village Weaver",
       "difference": null,
       "times_confused": 1
+    },
+    {
+      "label": "Phalacrocorax_carbo",
+      "common_name": "Great Cormorant",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Sylvietta_whytii",
+      "common_name": "Red-faced Crombec",
+      "difference": null,
+      "times_confused": 1
     }
   ],
   "sources": [

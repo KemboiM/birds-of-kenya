@@ -34,7 +34,7 @@
       "label": "Ploceus_bojeri",
       "common_name": "Golden Palm Weaver",
       "difference": null,
-      "times_confused": 5
+      "times_confused": 2
     },
     {
       "label": "Glareola_pratincola",
@@ -69,6 +69,60 @@
     {
       "label": "Calendulauda_poecilosterna",
       "common_name": "Pink-breasted Lark",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Macronyx_sharpei",
+      "common_name": "Sharpe's Longclaw",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Buphagus_erythrorhynchus",
+      "common_name": "Red-billed Oxpecker",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cossypha_heuglini",
+      "common_name": "White-browed Robin-chat",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Crithagra_mozambica",
+      "common_name": "Yellow-fronted Canary",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Empidornis_semipartitus",
+      "common_name": "Silverbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tmetothylacus_tenellus",
+      "common_name": "Golden Pipit",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Crithagra_dorsostriata",
+      "common_name": "White-bellied Canary",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Crithagra_sulphurata",
+      "common_name": "Brimstone Canary",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Merops_pusillus",
+      "common_name": "Little Bee-eater",
       "difference": null,
       "times_confused": 1
     }

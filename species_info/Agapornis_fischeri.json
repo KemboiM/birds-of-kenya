@@ -48,6 +48,24 @@
       "common_name": "Meyer's Parrot",
       "difference": null,
       "times_confused": 1
+    },
+    {
+      "label": "Agapornis_personatus",
+      "common_name": "Yellow-collared Lovebird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bostrychia_hagedash",
+      "common_name": "Hadada Ibis",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pandion_haliaetus",
+      "common_name": "Osprey",
+      "difference": null,
+      "times_confused": 1
     }
   ],
   "sources": [

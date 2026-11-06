@@ -1,0 +1,74 @@
+{
+  "label": "Asio_capensis",
+  "scientific_name": "Asio capensis",
+  "common_name": "Marsh Owl",
+  "other_names": {},
+  "family": "Strigidae",
+  "summary": "The marsh owl (Asio capensis) is a medium to large species of owl in the family Strigidae.",
+  "appearance": {
+    "description": "Medium-sized, dark brown with a pumpkin-shaped head with small 'ear' tufts. The facial disc is pale buff, with a distinct dark brown rim with buff speckles. There is a dark brown area around the eyes, which are also dark brown.",
+    "colors": "Medium-sized, dark brown with a pumpkin-shaped head with small 'ear' tufts. The facial disc is pale buff, with a distinct dark brown rim with buff speckles.",
+    "wings": "Length is 31–38 cm, wing length is 284–380mm, tail length is 132–186mm, and weight is 225–485g."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        13.2,
+        38.0
+      ],
+      "mass_g": [
+        225.0,
+        485.0
+      ]
+    },
+    "juvenile": null,
+    "chick": {
+      "notes": "After hatching the chicks will remain in the nest until about 18 days. They will fully fledge at 29–35 days and be fully feathered by 70 days."
+    }
+  },
+  "behaviour": "Marsh owls are typically found singly or in pairs. They are usually nocturnal; however, they are sometimes active during early morning and late afternoon. The marsh owl typically feeds on small rodents, insects and other small vertebrates.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The marsh owl's habitat preference is open grassland, marshlands and short scrub, typically near marshy grounds, vleis or dams. Marsh owls prefer to nest on the ground and they have also been observed leaving certain areas during drought-stricken times.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Nairobi",
+      "Coast",
+      "Eastern",
+      "Narok",
+      "Central"
+    ],
+    "gbif_records_in_kenya": 481
+  },
+  "look_alikes": [
+    {
+      "label": "Apus_affinis",
+      "common_name": "Little Swift",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bubo_africanus",
+      "common_name": "Spotted Eagle-owl",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Marsh owl",
+      "url": "https://en.wikipedia.org/wiki/Marsh_owl",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2497288"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

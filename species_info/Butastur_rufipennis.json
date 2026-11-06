@@ -74,6 +74,36 @@
       "common_name": "Montagu's Harrier",
       "difference": null,
       "times_confused": 1
+    },
+    {
+      "label": "Circaetus_pectoralis",
+      "common_name": "Black-chested Snake Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Circus_aeruginosus",
+      "common_name": "Western Marsh Harrier",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Otus_ireneae",
+      "common_name": "Sokoke Scops Owl",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Creatophora_cinerea",
+      "common_name": "Wattled Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Centropus_superciliosus",
+      "common_name": "White-browed Coucal",
+      "difference": null,
+      "times_confused": 1
     }
   ],
   "sources": [

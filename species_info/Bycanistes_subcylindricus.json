@@ -43,7 +43,7 @@
       "label": "Bycanistes_brevis",
       "common_name": "Silvery-cheeked Hornbill",
       "difference": null,
-      "times_confused": 5
+      "times_confused": 2
     },
     {
       "label": "Corvus_albus",
@@ -72,6 +72,48 @@
     {
       "label": "Dinemellia_dinemelli",
       "common_name": "White-headed Buffalo Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Egretta_dimorpha",
+      "common_name": "Dimorphic Egret",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Chrysococcyx_klaas",
+      "common_name": "Klaas's Cuckoo",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Hirundo_rustica",
+      "common_name": "Barn Swallow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lophaetus_occipitalis",
+      "common_name": "Long-crested Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Stephanoaetus_coronatus",
+      "common_name": "Crowned Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Terpsiphone_viridis",
+      "common_name": "African Paradise Flycatcher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tauraco_hartlaubi",
+      "common_name": "Hartlaub's Turaco",
       "difference": null,
       "times_confused": 1
     }

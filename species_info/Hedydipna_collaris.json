@@ -39,19 +39,37 @@
       "label": "Cinnyris_venustus",
       "common_name": "Variable Sunbird",
       "difference": null,
-      "times_confused": 3
-    },
-    {
-      "label": "Nectarinia_kilimensis",
-      "common_name": "Bronze Sunbird",
-      "difference": null,
-      "times_confused": 2
+      "times_confused": 6
     },
     {
       "label": "Crithagra_citrinelloides",
       "common_name": "African Citril",
       "difference": null,
       "times_confused": 2
+    },
+    {
+      "label": "Cyanomitra_verticalis",
+      "common_name": "Green-headed Sunbird",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Cinnyris_mariquensis",
+      "common_name": "Marico Sunbird",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Motacilla_flava",
+      "common_name": "Western Yellow Wagtail",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Nectarinia_kilimensis",
+      "common_name": "Bronze Sunbird",
+      "difference": null,
+      "times_confused": 1
     },
     {
       "label": "Chamaetylas_poliocephala",
@@ -104,6 +122,114 @@
     {
       "label": "Ploceus_cucullatus",
       "common_name": "Village Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_taeniopterus",
+      "common_name": "Northern Masked Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Halcyon_albiventris",
+      "common_name": "Brown-hooded Kingfisher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Phyllolais_pulchella",
+      "common_name": "Buff-bellied Warbler",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Laniarius_erythrogaster",
+      "common_name": "Black-headed Gonolek",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cossypha_natalensis",
+      "common_name": "Red-capped Robin-chat",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Zosterops_senegalensis",
+      "common_name": "Northern Yellow White-eye",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Dryoscopus_cubla",
+      "common_name": "Black-backed Puffback",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_xanthops",
+      "common_name": "Holub's Golden Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Apalis_flavida",
+      "common_name": "Yellow-breasted Apalis",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bycanistes_brevis",
+      "common_name": "Silvery-cheeked Hornbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Chalcomitra_amethystina",
+      "common_name": "Amethyst Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lamprotornis_purpuroptera",
+      "common_name": "Rüppell's Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Musophaga_rossae",
+      "common_name": "Ross's Turaco",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pogonocichla_stellata",
+      "common_name": "White-starred Robin",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tauraco_hartlaubi",
+      "common_name": "Hartlaub's Turaco",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Uraeginthus_bengalus",
+      "common_name": "Red-cheeked Cordon-bleu",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Campethera_nubica",
+      "common_name": "Nubian Woodpecker",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pycnonotus_barbatus",
+      "common_name": "Common Bulbul",
       "difference": null,
       "times_confused": 1
     }

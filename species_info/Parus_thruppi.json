@@ -1,0 +1,68 @@
+{
+  "label": "Parus_thruppi",
+  "scientific_name": "Parus thruppi",
+  "common_name": "Acacia Tit",
+  "other_names": {},
+  "family": "Paridae",
+  "summary": "The acacia tit (Melaniparus thruppi), also known as the Somali tit and northern grey tit, is a species of bird in the family Paridae. It is native to north eastern Africa where it occurs in dry acacia habitat.",
+  "appearance": {
+    "description": "The smallest of the grey Melaniparus tits of Africa, the acacia tit has a glossy blue-black cap, nape, throat and breast contrasting with a large buffy white patch which extends from the bill to the sides of the neck. There is a broad black band which stretches from the breast to the vent. The upperparts are grey with white panels in the wings and there is a white spot on the nape.",
+    "colors": "The acacia tit (Melaniparus thruppi), also known as the Somali tit and northern grey tit, is a species of bird in the family Paridae. The smallest of the grey Melaniparus tits of Africa, the acacia tit has a glossy blue-black cap, nape, throat and breast contrasting with a large buffy white patch which extends from the bill to the sides of the neck.",
+    "wings": "The upperparts are grey with white panels in the wings and there is a white spot on the nape."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        11.5,
+        12.0
+      ],
+      "mass_g": [
+        12.0,
+        12.0
+      ]
+    },
+    "juvenile": {
+      "notes": "Juveniles are similar to the adults but are duller."
+    },
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The acacia tit is found from Ethiopia and Somalia south to north eastern Tanzania. The acacia tit inhabits arid and semi arid wooded and bushed savanna, principally in acacia and stands of trees along streams or rivers, avoiding truly arid regions.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Eastern",
+      "Coast",
+      "Baringo",
+      "Samburu"
+    ],
+    "gbif_records_in_kenya": 2192
+  },
+  "look_alikes": [
+    {
+      "label": "Tricholaema_melanocephala",
+      "common_name": "Black-throated Barbet",
+      "difference": null,
+      "times_confused": 2
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Acacia tit",
+      "url": "https://en.wikipedia.org/wiki/Acacia_tit",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2487927"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

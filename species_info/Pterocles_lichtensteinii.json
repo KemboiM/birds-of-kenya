@@ -50,6 +50,12 @@
       "common_name": "Yellow-necked Spurfowl",
       "difference": null,
       "times_confused": 1
+    },
+    {
+      "label": "Cichladusa_guttata",
+      "common_name": "Spotted Palm Thrush",
+      "difference": null,
+      "times_confused": 1
     }
   ],
   "sources": [

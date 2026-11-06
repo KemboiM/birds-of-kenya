@@ -88,6 +88,60 @@
       "common_name": "Rüppell's Vulture",
       "difference": null,
       "times_confused": 1
+    },
+    {
+      "label": "Burhinus_senegalensis",
+      "common_name": "Senegal Thick-knee",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Nycticorax_nycticorax",
+      "common_name": "Black-crowned Night Heron",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Calandrella_cinerea",
+      "common_name": "Red-capped Lark",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Phoenicopterus_roseus",
+      "common_name": "Greater Flamingo",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tockus_deckeni",
+      "common_name": "Von Der Decken's Hornbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Buphagus_africanus",
+      "common_name": "Yellow-billed Oxpecker",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Necrosyrtes_monachus",
+      "common_name": "Hooded Vulture",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bubo_lacteus",
+      "common_name": "Verreaux's Eagle-owl",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Himantopus_himantopus",
+      "common_name": "Black-winged Stilt",
+      "difference": null,
+      "times_confused": 1
     }
   ],
   "sources": [

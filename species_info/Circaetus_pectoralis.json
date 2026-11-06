@@ -45,10 +45,28 @@
       "times_confused": 3
     },
     {
+      "label": "Falco_tinnunculus",
+      "common_name": "Common Kestrel",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Gyps_africanus",
+      "common_name": "White-backed Vulture",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Milvus_migrans",
+      "common_name": "Black Kite",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
       "label": "Elanus_caeruleus",
       "common_name": "Black-winged Kite",
       "difference": null,
-      "times_confused": 2
+      "times_confused": 1
     },
     {
       "label": "Hieraaetus_wahlbergi",
@@ -131,6 +149,144 @@
     {
       "label": "Polemaetus_bellicosus",
       "common_name": "Martial Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Hieraaetus_ayresii",
+      "common_name": "Ayres's Hawk-eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Falco_subbuteo",
+      "common_name": "Eurasian Hobby",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Andropadus_importunus",
+      "common_name": "Sombre Greenbul",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Poicephalus_gulielmi",
+      "common_name": "Red-fronted Parrot",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Butastur_rufipennis",
+      "common_name": "Grasshopper Buzzard",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Kaupifalco_monogrammicus",
+      "common_name": "Lizard Buzzard",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Phylloscopus_trochilus",
+      "common_name": "Willow Warbler",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lanius_collurio",
+      "common_name": "Red-backed Shrike",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Monticola_saxatilis",
+      "common_name": "Common Rock Thrush",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Plocepasser_donaldsoni",
+      "common_name": "Donaldson Smith's Sparrow-weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Poicephalus_meyeri",
+      "common_name": "Meyer's Parrot",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Streptopelia_lugens",
+      "common_name": "Dusky Turtle Dove",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lamprotornis_fischeri",
+      "common_name": "Fischer's Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Aquila_spilogaster",
+      "common_name": "African Hawk-eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Polihierax_semitorquatus",
+      "common_name": "Pygmy Falcon",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Corythaixoides_personatus",
+      "common_name": "Bare-faced Go-away-bird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Alopochen_aegyptiaca",
+      "common_name": "Egyptian Goose",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ardea_melanocephala",
+      "common_name": "Black-headed Heron",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bycanistes_brevis",
+      "common_name": "Silvery-cheeked Hornbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Passer_domesticus",
+      "common_name": "House Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Struthio_molybdophanes",
+      "common_name": "Somali Ostrich",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Haliaeetus_vocifer",
+      "common_name": "African Fish Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lophaetus_occipitalis",
+      "common_name": "Long-crested Eagle",
       "difference": null,
       "times_confused": 1
     }

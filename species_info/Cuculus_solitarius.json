@@ -94,6 +94,36 @@
       "common_name": "Barn Swallow",
       "difference": null,
       "times_confused": 1
+    },
+    {
+      "label": "Indicator_indicator",
+      "common_name": "Greater Honeyguide",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Milvus_migrans",
+      "common_name": "Black Kite",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Monticola_saxatilis",
+      "common_name": "Common Rock Thrush",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Riparia_paludicola",
+      "common_name": "Brown-throated Martin",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Turdus_pelios",
+      "common_name": "African Thrush",
+      "difference": null,
+      "times_confused": 1
     }
   ],
   "sources": [

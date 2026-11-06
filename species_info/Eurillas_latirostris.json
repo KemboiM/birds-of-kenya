@@ -47,6 +47,42 @@
       "common_name": "African Thrush",
       "difference": null,
       "times_confused": 1
+    },
+    {
+      "label": "Actophilornis_africanus",
+      "common_name": "African Jacana",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Crithagra_mozambica",
+      "common_name": "Yellow-fronted Canary",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Turdoides_jardineii",
+      "common_name": "Arrow-marked Babbler",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Turdus_abyssinicus",
+      "common_name": "Abyssinian Thrush",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Coccopygia_quartinia",
+      "common_name": "Yellow-bellied Waxbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Prinia_subflava",
+      "common_name": "Tawny-flanked Prinia",
+      "difference": null,
+      "times_confused": 1
     }
   ],
   "sources": [

@@ -35,14 +35,14 @@
   },
   "look_alikes": [
     {
-      "label": "Ardea_cinerea",
-      "common_name": "Grey Heron",
-      "difference": null,
-      "times_confused": 1
-    },
-    {
       "label": "Ardeola_ralloides",
       "common_name": "Squacco Heron",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Ardea_cinerea",
+      "common_name": "Grey Heron",
       "difference": null,
       "times_confused": 1
     },
@@ -67,6 +67,66 @@
     {
       "label": "Aquila_spilogaster",
       "common_name": "African Hawk-eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lanius_phoenicuroides",
+      "common_name": "Red-tailed Shrike",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ardeotis_kori",
+      "common_name": "Kori Bustard",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Burhinus_vermiculatus",
+      "common_name": "Water Thick-knee",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Dryoscopus_cubla",
+      "common_name": "Black-backed Puffback",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Laniarius_major",
+      "common_name": "Tropical Boubou",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Leptoptilos_crumenifer",
+      "common_name": "Marabou Stork",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Vanellus_melanopterus",
+      "common_name": "Black-winged Lapwing",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Hirundo_rustica",
+      "common_name": "Barn Swallow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Creatophora_cinerea",
+      "common_name": "Wattled Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Merops_pusillus",
+      "common_name": "Little Bee-eater",
       "difference": null,
       "times_confused": 1
     }

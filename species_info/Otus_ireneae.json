@@ -58,6 +58,48 @@
       "common_name": "Grey-capped Social Weaver",
       "difference": null,
       "times_confused": 1
+    },
+    {
+      "label": "Nicator_gularis",
+      "common_name": "Eastern Nicator",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Butastur_rufipennis",
+      "common_name": "Grasshopper Buzzard",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Trachyphonus_darnaudii",
+      "common_name": "D'Arnaud's Barbet",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Upupa_epops",
+      "common_name": "Eurasian Hoopoe",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bubo_africanus",
+      "common_name": "Spotted Eagle-owl",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_ocularis",
+      "common_name": "Spectacled Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Centropus_superciliosus",
+      "common_name": "White-browed Coucal",
+      "difference": null,
+      "times_confused": 1
     }
   ],
   "sources": [

@@ -33,10 +33,16 @@
   },
   "look_alikes": [
     {
+      "label": "Lanius_humeralis",
+      "common_name": "Northern Fiscal",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
       "label": "Lybius_leucocephalus",
       "common_name": "White-headed Barbet",
       "difference": null,
-      "times_confused": 3
+      "times_confused": 1
     },
     {
       "label": "Psalidoprocne_albiceps",
@@ -87,12 +93,6 @@
       "times_confused": 1
     },
     {
-      "label": "Lanius_humeralis",
-      "common_name": "Northern Fiscal",
-      "difference": null,
-      "times_confused": 1
-    },
-    {
       "label": "Parus_albiventris",
       "common_name": "White-bellied Tit",
       "difference": null,
@@ -113,6 +113,60 @@
     {
       "label": "Lanius_excubitoroides",
       "common_name": "Grey-backed Fiscal",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Serinus_flavivertex",
+      "common_name": "Yellow-crowned Canary",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lanius_mackinnoni",
+      "common_name": "Mackinnon's Shrike",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pandion_haliaetus",
+      "common_name": "Osprey",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Vidua_fischeri",
+      "common_name": "Straw-tailed Whydah",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Oenanthe_pleschanka",
+      "common_name": "Pied Wheatear",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Sylvietta_whytii",
+      "common_name": "Red-faced Crombec",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Turdoides_sharpei",
+      "common_name": "Black-lored Babbler",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lanius_dorsalis",
+      "common_name": "Taita Fiscal",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tricholaema_melanocephala",
+      "common_name": "Black-throated Barbet",
       "difference": null,
       "times_confused": 1
     }

@@ -45,7 +45,7 @@
       "label": "Corvus_albus",
       "common_name": "Pied Crow",
       "difference": null,
-      "times_confused": 1
+      "times_confused": 2
     },
     {
       "label": "Corvus_capensis",
@@ -62,6 +62,24 @@
     {
       "label": "Anastomus_lamelligerus",
       "common_name": "African Openbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Buphagus_africanus",
+      "common_name": "Yellow-billed Oxpecker",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Gyps_rueppellii",
+      "common_name": "Rüppell's Vulture",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Streptopelia_capicola",
+      "common_name": "Ring-necked Dove",
       "difference": null,
       "times_confused": 1
     }

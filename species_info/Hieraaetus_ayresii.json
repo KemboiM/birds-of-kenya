@@ -1,0 +1,84 @@
+{
+  "label": "Hieraaetus_ayresii",
+  "scientific_name": "Hieraaetus ayresii",
+  "common_name": "Ayres's Hawk-eagle",
+  "other_names": {},
+  "family": "Accipitridae",
+  "summary": "Ayres's hawk-eagle (Hieraaetus ayresii), or Ayres' eagle, is a medium-sized bird of prey in the family Accipitridae. It is native to African woodlands. Its name honours South African ornithologist Thomas Ayres.",
+  "appearance": {
+    "description": "The adult male has blackish upper parts that are mottled with white and usually has a white forehead and supercilium. The upper-wing coverts are similar. The tail is ashy grey with a broad black tip and three to four narrower dark bars.",
+    "colors": "The adult male has blackish upper parts that are mottled with white and usually has a white forehead and supercilium. The tail is ashy grey with a broad black tip and three to four narrower dark bars.",
+    "wings": "The upper-wing coverts are similar. The under-wing coverts are brown and marked with white, and the underside of flight feathers is dark and heavily barred lacking any noticeable grey patch."
+  },
+  "size": {
+    "adult": {
+      "wingspan_cm": [
+        44.0,
+        57.0
+      ],
+      "mass_g": [
+        615.0,
+        1150.0
+      ],
+      "length_cm": [
+        17.5,
+        80.0
+      ]
+    },
+    "juvenile": {
+      "notes": "The juvenile Ayres's hawk-eagle is dark brown on the back and coverts, similarly dark on the crown, slightly paler necked, largely white below from the throat to the crissum and legs with sparse dark brown markings variably along the chest, belly, and flanks. The average weight of four adult males was 662.5 g (1.461 lb) while that of 10 adult females was 1,017.5 g (2.243 lb), juvenile Ayres's being some 5% lighter in spite of slightly greater wing sizes."
+    },
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": "Ayres's hawk-eagle has a patchy sub-Saharan distribution ranging from Sierra Leone east to Somalia, and south to northern Namibia and northeast South Africa. Its central range is from the southern Democratic Republic of the Congo and southern Uganda down almost throughout Kenya, Tanzania, Zambia and Mozambique as well as much of Angola to northeastern Namibia, northern Botswana and northern Zimbabwe.",
+    "kenya_regions": [
+      "Nairobi",
+      "Central",
+      "Coast",
+      "Rift Valley",
+      "Western",
+      "Eastern"
+    ],
+    "gbif_records_in_kenya": 783
+  },
+  "look_alikes": [
+    {
+      "label": "Circaetus_pectoralis",
+      "common_name": "Black-chested Snake Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Milvus_migrans",
+      "common_name": "Black Kite",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lophaetus_occipitalis",
+      "common_name": "Long-crested Eagle",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Ayres's hawk-eagle",
+      "url": "https://en.wikipedia.org/wiki/Ayres%27s_hawk-eagle",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2480689"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

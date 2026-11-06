@@ -53,6 +53,18 @@
       "common_name": "African Grey Hornbill",
       "difference": null,
       "times_confused": 1
+    },
+    {
+      "label": "Gypohierax_angolensis",
+      "common_name": "Palm-nut Vulture",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Plectropterus_gambensis",
+      "common_name": "Spur-winged Goose",
+      "difference": null,
+      "times_confused": 1
     }
   ],
   "sources": [

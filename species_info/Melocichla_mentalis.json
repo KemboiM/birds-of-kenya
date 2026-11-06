@@ -1,0 +1,57 @@
+{
+  "label": "Melocichla_mentalis",
+  "scientific_name": "Melocichla mentalis",
+  "common_name": "Moustached Grass Warbler",
+  "other_names": {},
+  "family": "Macrosphenidae",
+  "summary": "The moustached grass warbler (Melocichla mentalis) is a species of African warbler, formerly placed in the family Sylviidae. It is widely found throughout Sub-Saharan Africa, although absent in southern parts of the continent. Its natural habitats are moist savanna and subtropical or tropical moist shrubland.",
+  "appearance": {
+    "description": null,
+    "colors": null,
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Nairobi",
+      "Kenya",
+      "Central",
+      "Rift Valley",
+      "Western",
+      "Nyanza"
+    ],
+    "gbif_records_in_kenya": 2200
+  },
+  "look_alikes": [
+    {
+      "label": "Andropadus_importunus",
+      "common_name": "Sombre Greenbul",
+      "difference": null,
+      "times_confused": 2
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Moustached grass warbler",
+      "url": "https://en.wikipedia.org/wiki/Moustached_grass_warbler",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2493533"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

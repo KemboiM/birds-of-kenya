@@ -41,6 +41,18 @@
       "common_name": "Red-billed Quelea",
       "difference": null,
       "times_confused": 1
+    },
+    {
+      "label": "Creatophora_cinerea",
+      "common_name": "Wattled Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Riparia_paludicola",
+      "common_name": "Brown-throated Martin",
+      "difference": null,
+      "times_confused": 1
     }
   ],
   "sources": [

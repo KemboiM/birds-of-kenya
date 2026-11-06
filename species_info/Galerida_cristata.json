@@ -1,0 +1,65 @@
+{
+  "label": "Galerida_cristata",
+  "scientific_name": "Galerida cristata",
+  "common_name": "Crested Lark",
+  "other_names": {},
+  "family": "Alaudidae",
+  "summary": "The crested lark (Galerida cristata) is a species of lark widespread across Eurasia and northern Africa. It is a non-migratory bird, but can occasionally be found as a vagrant in Great Britain.",
+  "appearance": {
+    "description": null,
+    "colors": null,
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": {
+      "notes": "Three to five brown, finely speckled eggs, similar to those of the Eurasian skylark, are laid at a time and will hatch after 11–12 days. As with most larks, the chicks leave the nest early, after about eight days, and take flight after reaching 15–16 days old."
+    }
+  },
+  "behaviour": "The crested lark is a songbird, and has a liquid, warbling song described onomatopoeically as a whee-whee-wheeoo or a twee-tee-too. It sings in flight from high in the sky, at roughly 30 to 60 m (98 to 197 ft) above the ground. The related Eurasian skylark exhibits similar behaviour but also sings during its ascent, whereas the crested lark sings either at altitude or on the ground.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The crested lark breeds across most of temperate Eurasia from Portugal to north-eastern China and eastern India, and in Africa south to Niger. It is non-migratory, and the sedentary nature of this species is illustrated by the fact that it is only a very rare vagrant to Great Britain, despite breeding as close as northern France.",
+    "kenya_regions": [
+      "Eastern",
+      "Kenya",
+      "Rift Valley",
+      "Eastern Province",
+      "Marsabit",
+      "Eastern prov"
+    ],
+    "gbif_records_in_kenya": 475
+  },
+  "look_alikes": [
+    {
+      "label": "Calandrella_cinerea",
+      "common_name": "Red-capped Lark",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Oenanthe_lugubris",
+      "common_name": "Abyssinian Wheatear",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Crested lark",
+      "url": "https://en.wikipedia.org/wiki/Crested_lark",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2490669"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

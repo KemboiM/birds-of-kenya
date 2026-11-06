@@ -38,6 +38,12 @@
   },
   "look_alikes": [
     {
+      "label": "Hirundo_rustica",
+      "common_name": "Barn Swallow",
+      "difference": null,
+      "times_confused": 3
+    },
+    {
       "label": "Riparia_cincta",
       "common_name": "Banded Martin",
       "difference": null,
@@ -74,12 +80,6 @@
       "times_confused": 1
     },
     {
-      "label": "Hirundo_rustica",
-      "common_name": "Barn Swallow",
-      "difference": null,
-      "times_confused": 1
-    },
-    {
       "label": "Lamprotornis_hildebrandti",
       "common_name": "Hildebrandt's Starling",
       "difference": null,
@@ -88,6 +88,48 @@
     {
       "label": "Lanius_excubitoroides",
       "common_name": "Grey-backed Fiscal",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cecropis_semirufa",
+      "common_name": "Red-breasted Swallow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Columba_arquatrix",
+      "common_name": "African Olive Pigeon",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Alopochen_aegyptiaca",
+      "common_name": "Egyptian Goose",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cecropis_abyssinica",
+      "common_name": "Lesser Striped Swallow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lanius_collurio",
+      "common_name": "Red-backed Shrike",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Sylvietta_whytii",
+      "common_name": "Red-faced Crombec",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Gyps_rueppellii",
+      "common_name": "Rüppell's Vulture",
       "difference": null,
       "times_confused": 1
     }

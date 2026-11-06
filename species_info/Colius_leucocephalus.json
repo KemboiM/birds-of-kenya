@@ -42,14 +42,20 @@
       "times_confused": 2
     },
     {
-      "label": "Buphagus_erythrorhynchus",
-      "common_name": "Red-billed Oxpecker",
-      "difference": null,
-      "times_confused": 1
-    },
-    {
       "label": "Colius_striatus",
       "common_name": "Speckled Mousebird",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Pseudonigrita_arnaudi",
+      "common_name": "Grey-capped Social Weaver",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Buphagus_erythrorhynchus",
+      "common_name": "Red-billed Oxpecker",
       "difference": null,
       "times_confused": 1
     },
@@ -74,6 +80,24 @@
     {
       "label": "Urocolius_macrourus",
       "common_name": "Blue-naped Mousebird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Micronisus_gabar",
+      "common_name": "Gabar Goshawk",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Polyboroides_typus",
+      "common_name": "African Harrier-hawk",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Oenanthe_isabellina",
+      "common_name": "Isabelline Wheatear",
       "difference": null,
       "times_confused": 1
     }

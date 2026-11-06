@@ -44,6 +44,12 @@
   },
   "look_alikes": [
     {
+      "label": "Lamprotornis_hildebrandti",
+      "common_name": "Hildebrandt's Starling",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
       "label": "Cossypha_semirufa",
       "common_name": "Rüppell's Robin-chat",
       "difference": null,
@@ -64,6 +70,30 @@
     {
       "label": "Dessonornis_caffer",
       "common_name": "Cape Robin-chat",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lamprotornis_superbus",
+      "common_name": "Superb Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Turdus_abyssinicus",
+      "common_name": "Abyssinian Thrush",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Creatophora_cinerea",
+      "common_name": "Wattled Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Dinemellia_dinemelli",
+      "common_name": "White-headed Buffalo Weaver",
       "difference": null,
       "times_confused": 1
     }

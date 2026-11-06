@@ -62,6 +62,24 @@
       "common_name": "Slender-tailed Nightjar",
       "difference": null,
       "times_confused": 1
+    },
+    {
+      "label": "Dioptrornis_fischeri",
+      "common_name": "White-eyed Slaty Flycatcher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Trachyphonus_darnaudii",
+      "common_name": "D'Arnaud's Barbet",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Gyps_rueppellii",
+      "common_name": "Rüppell's Vulture",
+      "difference": null,
+      "times_confused": 1
     }
   ],
   "sources": [

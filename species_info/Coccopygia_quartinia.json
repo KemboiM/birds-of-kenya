@@ -71,6 +71,54 @@
       "common_name": "Eastern Grey Woodpecker",
       "difference": null,
       "times_confused": 1
+    },
+    {
+      "label": "Apalis_jacksoni",
+      "common_name": "Black-throated Apalis",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Laniarius_erythrogaster",
+      "common_name": "Black-headed Gonolek",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Buphagus_erythrorhynchus",
+      "common_name": "Red-billed Oxpecker",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Eurillas_latirostris",
+      "common_name": "Yellow-whiskered Greenbul",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lamprotornis_superbus",
+      "common_name": "Superb Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Eminia_lepida",
+      "common_name": "Grey-capped Warbler",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Dioptrornis_fischeri",
+      "common_name": "White-eyed Slaty Flycatcher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lagonosticta_senegala",
+      "common_name": "Red-billed Firefinch",
+      "difference": null,
+      "times_confused": 1
     }
   ],
   "sources": [

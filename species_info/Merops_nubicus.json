@@ -33,6 +33,12 @@
   },
   "look_alikes": [
     {
+      "label": "Merops_bullockoides",
+      "common_name": "White-fronted Bee-eater",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
       "label": "Coracias_naevius",
       "common_name": "Purple Roller",
       "difference": null,
@@ -57,8 +63,50 @@
       "times_confused": 1
     },
     {
-      "label": "Merops_bullockoides",
-      "common_name": "White-fronted Bee-eater",
+      "label": "Apaloderma_narina",
+      "common_name": "Narina Trogon",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Falco_biarmicus",
+      "common_name": "Lanner Falcon",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Anaplectes_rubriceps",
+      "common_name": "Red-headed Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Chalcomitra_senegalensis",
+      "common_name": "Scarlet-chested Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Euplectes_progne",
+      "common_name": "Long-tailed Widowbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Terathopius_ecaudatus",
+      "common_name": "Bateleur",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Vidua_paradisaea",
+      "common_name": "Long-tailed Paradise Whydah",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Hirundo_rustica",
+      "common_name": "Barn Swallow",
       "difference": null,
       "times_confused": 1
     }

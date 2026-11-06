@@ -90,6 +90,66 @@
       "common_name": "White-headed Vulture",
       "difference": null,
       "times_confused": 1
+    },
+    {
+      "label": "Tockus_jacksoni",
+      "common_name": "Jackson's Hornbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tricholaema_lacrymosa",
+      "common_name": "Spot-flanked Barbet",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bostrychia_hagedash",
+      "common_name": "Hadada Ibis",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Gyps_rueppellii",
+      "common_name": "Rüppell's Vulture",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lophoceros_alboterminatus",
+      "common_name": "Crowned Hornbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_rubiginosus",
+      "common_name": "Chestnut Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Polemaetus_bellicosus",
+      "common_name": "Martial Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Scopus_umbretta",
+      "common_name": "Hamerkop",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Urocolius_macrourus",
+      "common_name": "Blue-naped Mousebird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Turtur_chalcospilos",
+      "common_name": "Emerald-spotted Wood Dove",
+      "difference": null,
+      "times_confused": 1
     }
   ],
   "sources": [

@@ -42,6 +42,12 @@
   },
   "look_alikes": [
     {
+      "label": "Aquila_spilogaster",
+      "common_name": "African Hawk-eagle",
+      "difference": null,
+      "times_confused": 3
+    },
+    {
       "label": "Aquila_rapax",
       "common_name": "Tawny Eagle",
       "difference": null,
@@ -56,12 +62,6 @@
     {
       "label": "Anas_capensis",
       "common_name": "Cape Teal",
-      "difference": null,
-      "times_confused": 1
-    },
-    {
-      "label": "Aquila_spilogaster",
-      "common_name": "African Hawk-eagle",
       "difference": null,
       "times_confused": 1
     },
@@ -98,6 +98,36 @@
     {
       "label": "Haliaeetus_vocifer",
       "common_name": "African Fish Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Apus_affinis",
+      "common_name": "Little Swift",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Circaetus_cinereus",
+      "common_name": "Brown Snake Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Creatophora_cinerea",
+      "common_name": "Wattled Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Hieraaetus_wahlbergi",
+      "common_name": "Wahlberg's Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Micronisus_gabar",
+      "common_name": "Gabar Goshawk",
       "difference": null,
       "times_confused": 1
     }

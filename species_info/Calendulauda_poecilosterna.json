@@ -31,6 +31,12 @@
   },
   "look_alikes": [
     {
+      "label": "Creatophora_cinerea",
+      "common_name": "Wattled Starling",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
       "label": "Histurgops_ruficauda",
       "common_name": "Rufous-tailed Weaver",
       "difference": null,
@@ -123,6 +129,60 @@
     {
       "label": "Trachyphonus_darnaudii",
       "common_name": "D'Arnaud's Barbet",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cisticola_natalensis",
+      "common_name": "Croaking Cisticola",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Calendulauda_africanoides",
+      "common_name": "Fawn-coloured Lark",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Passer_griseus",
+      "common_name": "Northern Grey-headed Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Upupa_africana",
+      "common_name": "Eurasian Hoopoe",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Crithagra_striolata",
+      "common_name": "Streaky Seedeater",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Quelea_quelea",
+      "common_name": "Red-billed Quelea",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Turdoides_sharpei",
+      "common_name": "Black-lored Babbler",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Anthus_leucophrys",
+      "common_name": "Plain-backed Pipit",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Erythropygia_leucophrys",
+      "common_name": "White-browed Scrub Robin",
       "difference": null,
       "times_confused": 1
     }

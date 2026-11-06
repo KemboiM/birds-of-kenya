@@ -36,16 +36,10 @@
   },
   "look_alikes": [
     {
-      "label": "Cinnyris_mariquensis",
-      "common_name": "Marico Sunbird",
-      "difference": null,
-      "times_confused": 3
-    },
-    {
       "label": "Hedydipna_collaris",
       "common_name": "Collared Sunbird",
       "difference": null,
-      "times_confused": 3
+      "times_confused": 6
     },
     {
       "label": "Nectarinia_kilimensis",
@@ -58,6 +52,12 @@
       "common_name": "Golden-winged Sunbird",
       "difference": null,
       "times_confused": 2
+    },
+    {
+      "label": "Cinnyris_mariquensis",
+      "common_name": "Marico Sunbird",
+      "difference": null,
+      "times_confused": 1
     },
     {
       "label": "Laniarius_erythrogaster",
@@ -140,6 +140,78 @@
     {
       "label": "Urocolius_macrourus",
       "common_name": "Blue-naped Mousebird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Oreolais_pulcher",
+      "common_name": "Black-collared Apalis",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Monticola_rufocinereus",
+      "common_name": "Little Rock Thrush",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Chrysococcyx_klaas",
+      "common_name": "Klaas's Cuckoo",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Colius_striatus",
+      "common_name": "Speckled Mousebird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Coracias_garrulus",
+      "common_name": "European Roller",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Corythaixoides_personatus",
+      "common_name": "Bare-faced Go-away-bird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cossypha_heuglini",
+      "common_name": "White-browed Robin-chat",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Gyps_africanus",
+      "common_name": "White-backed Vulture",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lamprotornis_purpuroptera",
+      "common_name": "Rüppell's Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Oriolus_larvatus",
+      "common_name": "Black-headed Oriole",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Porphyrio_porphyrio",
+      "common_name": "Western Swamphen",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Zosterops_kikuyuensis",
+      "common_name": "Kikuyu White-eye",
       "difference": null,
       "times_confused": 1
     }

@@ -77,6 +77,42 @@
       "common_name": "Sooty Chat",
       "difference": null,
       "times_confused": 1
+    },
+    {
+      "label": "Dendropicos_fuscescens",
+      "common_name": "Cardinal Woodpecker",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Euplectes_albonotatus",
+      "common_name": "White-winged Widowbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Motacilla_flava",
+      "common_name": "Western Yellow Wagtail",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Notopholia_corrusca",
+      "common_name": "Black-bellied Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Turdoides_jardineii",
+      "common_name": "Arrow-marked Babbler",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Vidua_paradisaea",
+      "common_name": "Long-tailed Paradise Whydah",
+      "difference": null,
+      "times_confused": 1
     }
   ],
   "sources": [

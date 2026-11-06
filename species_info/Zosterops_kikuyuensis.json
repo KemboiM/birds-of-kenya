@@ -89,6 +89,42 @@
       "common_name": "Baglafecht Weaver",
       "difference": null,
       "times_confused": 1
+    },
+    {
+      "label": "Zosterops_flavilateralis",
+      "common_name": "Pale White-eye",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Zosterops_silvanus",
+      "common_name": "Taita White-eye",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_ocularis",
+      "common_name": "Spectacled Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_xanthops",
+      "common_name": "Holub's Golden Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Rhinopomastus_minor",
+      "common_name": "Abyssinian Scimitarbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cinnyris_venustus",
+      "common_name": "Variable Sunbird",
+      "difference": null,
+      "times_confused": 1
     }
   ],
   "sources": [

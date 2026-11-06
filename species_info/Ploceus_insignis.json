@@ -31,6 +31,12 @@
   },
   "look_alikes": [
     {
+      "label": "Ploceus_baglafecht",
+      "common_name": "Baglafecht Weaver",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
       "label": "Oriolus_larvatus",
       "common_name": "Black-headed Oriole",
       "difference": null,

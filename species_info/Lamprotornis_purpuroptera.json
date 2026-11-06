@@ -34,7 +34,7 @@
       "label": "Lamprotornis_chalybaeus",
       "common_name": "Greater Blue-eared Starling",
       "difference": null,
-      "times_confused": 8
+      "times_confused": 2
     },
     {
       "label": "Onychognathus_morio",
@@ -43,26 +43,26 @@
       "times_confused": 2
     },
     {
+      "label": "Melaenornis_pammelaina",
+      "common_name": "Southern Black Flycatcher",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
       "label": "Corvus_splendens",
       "common_name": "House Crow",
       "difference": null,
-      "times_confused": 2
+      "times_confused": 1
     },
     {
       "label": "Lamprotornis_superbus",
       "common_name": "Superb Starling",
       "difference": null,
-      "times_confused": 2
+      "times_confused": 1
     },
     {
       "label": "Corvus_capensis",
       "common_name": "Cape Crow",
-      "difference": null,
-      "times_confused": 1
-    },
-    {
-      "label": "Melaenornis_pammelaina",
-      "common_name": "Southern Black Flycatcher",
       "difference": null,
       "times_confused": 1
     },
@@ -123,6 +123,90 @@
     {
       "label": "Pternistis_leucoscepus",
       "common_name": "Yellow-necked Spurfowl",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Oenanthe_oenanthe",
+      "common_name": "Northern Wheatear",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Hedydipna_collaris",
+      "common_name": "Collared Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Megaceryle_maxima",
+      "common_name": "Giant Kingfisher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Acryllium_vulturinum",
+      "common_name": "Vulturine Guinea Fowl",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cinnyris_venustus",
+      "common_name": "Variable Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Halcyon_leucocephala",
+      "common_name": "Grey-headed Kingfisher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Arizelocichla_kikuyuensis",
+      "common_name": "Kikuyu Mountain Greenbul",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bubalornis_niger",
+      "common_name": "Red-billed Buffalo Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Circus_aeruginosus",
+      "common_name": "Western Marsh Harrier",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Coracias_caudatus",
+      "common_name": "Lilac-breasted Roller",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Corvus_albus",
+      "common_name": "Pied Crow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Phoeniculus_purpureus",
+      "common_name": "Green Wood Hoopoe",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Vidua_chalybeata",
+      "common_name": "Village Indigobird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Streptopelia_capicola",
+      "common_name": "Ring-necked Dove",
       "difference": null,
       "times_confused": 1
     }

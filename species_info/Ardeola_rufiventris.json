@@ -33,6 +33,12 @@
   },
   "look_alikes": [
     {
+      "label": "Ardea_purpurea",
+      "common_name": "Purple Heron",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
       "label": "Fulica_cristata",
       "common_name": "Red-knobbed Coot",
       "difference": null,

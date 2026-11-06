@@ -1,0 +1,71 @@
+{
+  "label": "Charadrius_leschenaultii",
+  "scientific_name": "Charadrius leschenaultii",
+  "common_name": "Greater Sand Plover",
+  "other_names": {},
+  "family": "Charadriidae",
+  "summary": "The greater sand plover (Anarhynchus leschenaultii) is a small wader in the plover family of birds. The spelling is often given as \"greater sandplover\" or \"greater sand-plover\", but the official IOC and British Ornithologists' Union spelling is \"Greater Sand Plover\". The specific leschenaultii commemorates the French botanist Jean Baptiste Leschenault de la Tour.",
+  "appearance": {
+    "description": "This chunky plover is 19–22 cm long, slightly larger than a common ringed plover, and is conspicuously long-legged and thick-billed. Breeding males have sandy buff backs and white underparts. The breast, forehead and nape are variably orange in summer, and there is a black eye mask in summer.",
+    "colors": "Breeding males have sandy buff backs and white underparts. The breast, forehead and nape are variably orange in summer, and there is a black eye mask in summer.",
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": {
+      "notes": "The female is duller and greyer, and winter and juvenile birds are browner, apart from a hint of rufous on the head."
+    },
+    "chick": null
+  },
+  "behaviour": "Its food consists of insects, crustaceans and annelid worms, which are obtained by a run-and-pause technique, rather than the steady probing of some other wader groups. Its flight call is a soft trill. The greater sand plover is one of the species to which the Agreement on the Conservation of African-Eurasian Migratory Waterbirds (AEWA) applies.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "It breeds in the semi-deserts of Turkey and eastwards through Central Asia, where it nests in a bare ground scrape. This species is strongly migratory, wintering on sandy beaches in East Africa, South Asia and Australasia.",
+    "kenya_regions": [
+      "Coast",
+      "Kenya",
+      "Kilifi",
+      "Kwale",
+      "Rift Valley",
+      "Coast Province"
+    ],
+    "gbif_records_in_kenya": 2424
+  },
+  "look_alikes": [
+    {
+      "label": "Dromas_ardeola",
+      "common_name": "Crab-plover",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tringa_nebularia",
+      "common_name": "Common Greenshank",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Charadrius_hiaticula",
+      "common_name": "Common Ringed Plover",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Greater sand plover",
+      "url": "https://en.wikipedia.org/wiki/Greater_sand_plover",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2480297"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

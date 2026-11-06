@@ -46,20 +46,32 @@
   },
   "look_alikes": [
     {
+      "label": "Anastomus_lamelligerus",
+      "common_name": "African Openbill",
+      "difference": null,
+      "times_confused": 6
+    },
+    {
       "label": "Bostrychia_hagedash",
       "common_name": "Hadada Ibis",
       "difference": null,
       "times_confused": 3
     },
     {
-      "label": "Anastomus_lamelligerus",
-      "common_name": "African Openbill",
+      "label": "Scopus_umbretta",
+      "common_name": "Hamerkop",
       "difference": null,
       "times_confused": 2
     },
     {
-      "label": "Scopus_umbretta",
-      "common_name": "Hamerkop",
+      "label": "Ardea_goliath",
+      "common_name": "Goliath Heron",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Ciconia_microscelis",
+      "common_name": "African Woolly-necked Stork",
       "difference": null,
       "times_confused": 2
     },
@@ -94,12 +106,6 @@
       "times_confused": 1
     },
     {
-      "label": "Ardea_goliath",
-      "common_name": "Goliath Heron",
-      "difference": null,
-      "times_confused": 1
-    },
-    {
       "label": "Phoeniconaias_minor",
       "common_name": "Lesser Flamingo",
       "difference": null,
@@ -108,12 +114,6 @@
     {
       "label": "Tringa_glareola",
       "common_name": "Wood Sandpiper",
-      "difference": null,
-      "times_confused": 1
-    },
-    {
-      "label": "Ciconia_microscelis",
-      "common_name": "African Woolly-necked Stork",
       "difference": null,
       "times_confused": 1
     },
@@ -138,6 +138,48 @@
     {
       "label": "Alopochen_aegyptiaca",
       "common_name": "Egyptian Goose",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Muscicapa_adusta",
+      "common_name": "African Dusky Flycatcher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Acryllium_vulturinum",
+      "common_name": "Vulturine Guinea Fowl",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ardea_cinerea",
+      "common_name": "Grey Heron",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bubulcus_ibis",
+      "common_name": "Western Cattle Egret",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Dendrocygna_viduata",
+      "common_name": "White-faced Whistling Duck",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Crithagra_striolata",
+      "common_name": "Streaky Seedeater",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Elanus_caeruleus",
+      "common_name": "Black-winged Kite",
       "difference": null,
       "times_confused": 1
     }

@@ -41,7 +41,7 @@
       "label": "Corythornis_cristatus",
       "common_name": "Malachite Kingfisher",
       "difference": null,
-      "times_confused": 4
+      "times_confused": 2
     },
     {
       "label": "Cossypha_natalensis",
@@ -70,6 +70,24 @@
     {
       "label": "Quelea_quelea",
       "common_name": "Red-billed Quelea",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Merops_muelleri",
+      "common_name": "Blue-headed Bee-eater",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Leptoptilos_crumenifer",
+      "common_name": "Marabou Stork",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Spatula_hottentota",
+      "common_name": "Blue-billed Teal",
       "difference": null,
       "times_confused": 1
     }

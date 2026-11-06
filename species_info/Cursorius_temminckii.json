@@ -34,6 +34,12 @@
       "label": "Cursorius_somalensis",
       "common_name": "Somali Courser",
       "difference": null,
+      "times_confused": 3
+    },
+    {
+      "label": "Vanellus_coronatus",
+      "common_name": "Crowned Lapwing",
+      "difference": null,
       "times_confused": 2
     },
     {
@@ -51,6 +57,18 @@
     {
       "label": "Burhinus_capensis",
       "common_name": "Spotted Thick-knee",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Eupodotis_senegalensis",
+      "common_name": "White-bellied Bustard",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Oenanthe_oenanthe",
+      "common_name": "Northern Wheatear",
       "difference": null,
       "times_confused": 1
     }

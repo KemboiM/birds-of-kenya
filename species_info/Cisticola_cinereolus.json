@@ -1,0 +1,63 @@
+{
+  "label": "Cisticola_cinereolus",
+  "scientific_name": "Cisticola cinereolus",
+  "common_name": "Ashy Cisticola",
+  "other_names": {},
+  "family": "Cisticolidae",
+  "summary": "The ashy cisticola (Cisticola cinereolus) is a species of bird in the family Cisticolidae. It is found in Ethiopia, Kenya, Somalia, South Sudan, and Tanzania. Its natural habitats are dry savanna, subtropical or tropical dry shrubland, and subtropical or tropical dry lowland grassland.",
+  "appearance": {
+    "description": null,
+    "colors": null,
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Rift Valley",
+      "Coast",
+      "Eastern",
+      "Kenya",
+      "Central",
+      "Coast Province"
+    ],
+    "gbif_records_in_kenya": 1684
+  },
+  "look_alikes": [
+    {
+      "label": "Bradornis_microrhynchus",
+      "common_name": "African Grey Flycatcher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cisticola_chiniana",
+      "common_name": "Rattling Cisticola",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Ashy cisticola",
+      "url": "https://en.wikipedia.org/wiki/Ashy_cisticola",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2492790"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "label": "Falco_rupicoloides",
+  "scientific_name": "Falco rupicoloides",
+  "common_name": "Greater Kestrel",
+  "other_names": {},
+  "family": "Falconidae",
+  "summary": "The greater kestrel (Falco rupicoloides) or white-eyed kestrel is a bird of prey belonging to the falcon family Falconidae. It is one of the largest kestrels and is found in open country in southern and eastern Africa.",
+  "appearance": {
+    "description": "The plumage of the adult is mainly pale rufous, both above and below. The back, upperwing and flanks are barred with black. The breast has dark streaks and the head is streaked but has no malar stripe unlike the common and lesser kestrels.",
+    "colors": "The greater kestrel (Falco rupicoloides) or white-eyed kestrel is a bird of prey belonging to the falcon family Falconidae. The plumage of the adult is mainly pale rufous, both above and below.",
+    "wings": "The back, upperwing and flanks are barred with black. In flight, the whitish underwing contrasts with the darker body."
+  },
+  "size": {
+    "adult": {
+      "wingspan_cm": [
+        68.0,
+        84.0
+      ],
+      "length_cm": [
+        29.0,
+        37.0
+      ]
+    },
+    "juvenile": {
+      "notes": "Juvenile birds have rufous instead of grey on the tail, streaked flanks and a dark eye."
+    },
+    "chick": {
+      "notes": "The young birds fledge after 30 to 34 days and remain dependent on their parents for at least 26 days longer."
+    }
+  },
+  "behaviour": "The greater kestrel usually hunts from an exposed perch such as a tree or rock. It also hovers like several other kestrels. It feeds mainly on invertebrates such as grasshoppers, termites, beetles and solifugids.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "It occurs in open, arid areas where it inhabits grassland, savannas and semi-desert. It is often associated with acacias.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Eastern",
+      "Nairobi",
+      "Kajiado",
+      "Marsabit"
+    ],
+    "gbif_records_in_kenya": 760
+  },
+  "look_alikes": [
+    {
+      "label": "Cecropis_abyssinica",
+      "common_name": "Lesser Striped Swallow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Vidua_paradisaea",
+      "common_name": "Long-tailed Paradise Whydah",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pterocles_decoratus",
+      "common_name": "Black-faced Sandgrouse",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Acryllium_vulturinum",
+      "common_name": "Vulturine Guinea Fowl",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Greater kestrel",
+      "url": "https://en.wikipedia.org/wiki/Greater_kestrel",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2481010"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

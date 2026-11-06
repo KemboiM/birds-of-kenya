@@ -1,0 +1,63 @@
+{
+  "label": "Anthus_sokokensis",
+  "scientific_name": "Anthus sokokensis",
+  "common_name": "Sokoke Pipit",
+  "other_names": {},
+  "family": "Motacillidae",
+  "summary": "The Sokoke pipit (Anthus sokokensis) is a species of bird in the family Motacillidae. It is found in Kenya and Tanzania. Its natural habitat is subtropical or tropical moist lowland forests.",
+  "appearance": {
+    "description": null,
+    "colors": "It has richly coloured upperparts, prominent pale wingbars, and a heavily streaked breast.",
+    "wings": "It has richly coloured upperparts, prominent pale wingbars, and a heavily streaked breast."
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Coast",
+      "Kenya",
+      "Kilifi",
+      "Coast prov",
+      "Coast Province",
+      "Kwale"
+    ],
+    "gbif_records_in_kenya": 1057
+  },
+  "look_alikes": [
+    {
+      "label": "Cichladusa_guttata",
+      "common_name": "Spotted Palm Thrush",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tricholaema_lacrymosa",
+      "common_name": "Spot-flanked Barbet",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Sokoke pipit",
+      "url": "https://en.wikipedia.org/wiki/Sokoke_pipit",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2490279"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

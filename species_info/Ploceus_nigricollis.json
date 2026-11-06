@@ -34,7 +34,7 @@
       "label": "Oriolus_larvatus",
       "common_name": "Black-headed Oriole",
       "difference": null,
-      "times_confused": 2
+      "times_confused": 1
     },
     {
       "label": "Ploceus_bicolor",
@@ -75,6 +75,66 @@
     {
       "label": "Motacilla_flava",
       "common_name": "Western Yellow Wagtail",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Euplectes_afer",
+      "common_name": "Yellow-crowned Bishop",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Chlorophoneus_sulfureopectus",
+      "common_name": "Orange-breasted Bushshrike",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Crithagra_mozambica",
+      "common_name": "Yellow-fronted Canary",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lagonosticta_senegala",
+      "common_name": "Red-billed Firefinch",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_spekei",
+      "common_name": "Speke's Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_vitellinus",
+      "common_name": "Vitelline Masked Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pogonocichla_stellata",
+      "common_name": "White-starred Robin",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Uraeginthus_bengalus",
+      "common_name": "Red-cheeked Cordon-bleu",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Drepanorhynchus_reichenowi",
+      "common_name": "Golden-winged Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Crithagra_reichenowi",
+      "common_name": "Reichenow's Seedeater",
       "difference": null,
       "times_confused": 1
     }

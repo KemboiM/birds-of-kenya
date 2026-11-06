@@ -48,6 +48,18 @@
       "times_confused": 2
     },
     {
+      "label": "Terathopius_ecaudatus",
+      "common_name": "Bateleur",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Buteo_augur",
+      "common_name": "Augur Buzzard",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
       "label": "Parus_albiventris",
       "common_name": "White-bellied Tit",
       "difference": null,
@@ -92,6 +104,72 @@
     {
       "label": "Spilopelia_senegalensis",
       "common_name": "Laughing Dove",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Circaetus_pectoralis",
+      "common_name": "Black-chested Snake Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Clamator_jacobinus",
+      "common_name": "Jacobin Cuckoo",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Colius_striatus",
+      "common_name": "Speckled Mousebird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Fulica_cristata",
+      "common_name": "Red-knobbed Coot",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Gyps_africanus",
+      "common_name": "White-backed Vulture",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lybius_leucocephalus",
+      "common_name": "White-headed Barbet",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Telophorus_cruentus",
+      "common_name": "Rosy-patched Bushshrike",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Buphagus_africanus",
+      "common_name": "Yellow-billed Oxpecker",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cinnyris_venustus",
+      "common_name": "Variable Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Streptopelia_capicola",
+      "common_name": "Ring-necked Dove",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Vidua_macroura",
+      "common_name": "Pin-tailed Whydah",
       "difference": null,
       "times_confused": 1
     }

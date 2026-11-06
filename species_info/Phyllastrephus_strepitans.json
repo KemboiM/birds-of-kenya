@@ -1,0 +1,63 @@
+{
+  "label": "Phyllastrephus_strepitans",
+  "scientific_name": "Phyllastrephus strepitans",
+  "common_name": "Northern Brownbul",
+  "other_names": {},
+  "family": "Pycnonotidae",
+  "summary": "The northern brownbul (Phyllastrephus strepitans) is a species of songbird in the bulbul family, Pycnonotidae. It is found in eastern Africa. Its natural habitats are subtropical or tropical dry forests, dry savanna, and subtropical or tropical dry shrubland.",
+  "appearance": {
+    "description": null,
+    "colors": "The northern brownbul (Phyllastrephus strepitans) is a species of songbird in the bulbul family, Pycnonotidae. The northern brownbul was originally described in the genus Criniger.",
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Kenya",
+      "Coast",
+      "Rift Valley",
+      "Eastern",
+      "Central",
+      "Coast Province"
+    ],
+    "gbif_records_in_kenya": 6845
+  },
+  "look_alikes": [
+    {
+      "label": "Telophorus_cruentus",
+      "common_name": "Rosy-patched Bushshrike",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Terpsiphone_viridis",
+      "common_name": "African Paradise Flycatcher",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Northern brownbul",
+      "url": "https://en.wikipedia.org/wiki/Northern_brownbul",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2486084"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

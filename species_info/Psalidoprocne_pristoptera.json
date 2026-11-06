@@ -46,6 +46,12 @@
       "times_confused": 2
     },
     {
+      "label": "Riparia_paludicola",
+      "common_name": "Brown-throated Martin",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
       "label": "Psalidoprocne_albiceps",
       "common_name": "White-headed Saw-wing",
       "difference": null,
@@ -66,6 +72,24 @@
     {
       "label": "Torgos_tracheliotos",
       "common_name": "Lappet-faced Vulture",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Anhinga_rufa",
+      "common_name": "African Darter",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Dicrurus_adsimilis",
+      "common_name": "Fork-tailed Drongo",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Hirundo_smithii",
+      "common_name": "Wire-tailed Swallow",
       "difference": null,
       "times_confused": 1
     }

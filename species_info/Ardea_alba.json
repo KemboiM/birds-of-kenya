@@ -48,28 +48,34 @@
   },
   "look_alikes": [
     {
-      "label": "Egretta_intermedia",
-      "common_name": "Medium Egret",
-      "difference": null,
-      "times_confused": 9
-    },
-    {
       "label": "Egretta_garzetta",
       "common_name": "Little Egret",
       "difference": null,
-      "times_confused": 4
+      "times_confused": 8
+    },
+    {
+      "label": "Egretta_intermedia",
+      "common_name": "Medium Egret",
+      "difference": null,
+      "times_confused": 6
     },
     {
       "label": "Bubulcus_ibis",
       "common_name": "Western Cattle Egret",
       "difference": null,
-      "times_confused": 3
+      "times_confused": 4
+    },
+    {
+      "label": "Ardea_goliath",
+      "common_name": "Goliath Heron",
+      "difference": null,
+      "times_confused": 2
     },
     {
       "label": "Ardea_cinerea",
       "common_name": "Grey Heron",
       "difference": null,
-      "times_confused": 3
+      "times_confused": 1
     },
     {
       "label": "Ardea_purpurea",
@@ -98,6 +104,48 @@
     {
       "label": "Balearica_regulorum",
       "common_name": "Grey Crowned Crane",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Guttera_pucherani",
+      "common_name": "Eastern Crested Guinea Fowl",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Egretta_ardesiaca",
+      "common_name": "Black Heron",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Merops_bullockoides",
+      "common_name": "White-fronted Bee-eater",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Mycteria_ibis",
+      "common_name": "Yellow-billed Stork",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bostrychia_hagedash",
+      "common_name": "Hadada Ibis",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Phoenicopterus_roseus",
+      "common_name": "Greater Flamingo",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Vidua_macroura",
+      "common_name": "Pin-tailed Whydah",
       "difference": null,
       "times_confused": 1
     }

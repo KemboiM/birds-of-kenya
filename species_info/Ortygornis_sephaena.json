@@ -65,6 +65,36 @@
       "common_name": "Chestnut-bellied Sandgrouse",
       "difference": null,
       "times_confused": 1
+    },
+    {
+      "label": "Pterocles_decoratus",
+      "common_name": "Black-faced Sandgrouse",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Campocolinus_coqui",
+      "common_name": "Coqui Francolin",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Eupodotis_senegalensis",
+      "common_name": "White-bellied Bustard",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pternistis_afer",
+      "common_name": "Red-necked Spurfowl",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Vanellus_spinosus",
+      "common_name": "Spur-winged Lapwing",
+      "difference": null,
+      "times_confused": 1
     }
   ],
   "sources": [

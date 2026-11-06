@@ -35,6 +35,12 @@
       "common_name": "Wattled Starling",
       "difference": null,
       "times_confused": 1
+    },
+    {
+      "label": "Polihierax_semitorquatus",
+      "common_name": "Pygmy Falcon",
+      "difference": null,
+      "times_confused": 1
     }
   ],
   "sources": [

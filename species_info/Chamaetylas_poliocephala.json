@@ -31,6 +31,12 @@
   },
   "look_alikes": [
     {
+      "label": "Terpsiphone_viridis",
+      "common_name": "African Paradise Flycatcher",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
       "label": "Hedydipna_collaris",
       "common_name": "Collared Sunbird",
       "difference": null,
@@ -45,6 +51,18 @@
     {
       "label": "Poicephalus_rufiventris",
       "common_name": "Red-bellied Parrot",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Monticola_rufocinereus",
+      "common_name": "Little Rock Thrush",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lonchura_cucullata",
+      "common_name": "Bronze Mannikin",
       "difference": null,
       "times_confused": 1
     }

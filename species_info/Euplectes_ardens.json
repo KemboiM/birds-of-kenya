@@ -42,8 +42,56 @@
   },
   "look_alikes": [
     {
+      "label": "Euplectes_progne",
+      "common_name": "Long-tailed Widowbird",
+      "difference": null,
+      "times_confused": 3
+    },
+    {
+      "label": "Euplectes_axillaris",
+      "common_name": "Fan-tailed Widowbird",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Chalcomitra_senegalensis",
+      "common_name": "Scarlet-chested Sunbird",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
       "label": "Vidua_macroura",
       "common_name": "Pin-tailed Whydah",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Euplectes_nigroventris",
+      "common_name": "Zanzibar Red Bishop",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Microcarbo_africanus",
+      "common_name": "Reed Cormorant",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Mycteria_ibis",
+      "common_name": "Yellow-billed Stork",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Phoeniculus_purpureus",
+      "common_name": "Green Wood Hoopoe",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Turdoides_sharpei",
+      "common_name": "Black-lored Babbler",
       "difference": null,
       "times_confused": 1
     }

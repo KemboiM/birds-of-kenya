@@ -42,20 +42,32 @@
   },
   "look_alikes": [
     {
+      "label": "Ichthyaetus_hemprichii",
+      "common_name": "Sooty Gull",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Chlidonias_hybrida",
+      "common_name": "Whiskered Tern",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
       "label": "Ardea_cinerea",
       "common_name": "Grey Heron",
       "difference": null,
       "times_confused": 1
     },
     {
-      "label": "Ichthyaetus_hemprichii",
-      "common_name": "Sooty Gull",
+      "label": "Pelecanus_rufescens",
+      "common_name": "Pink-backed Pelican",
       "difference": null,
       "times_confused": 1
     },
     {
-      "label": "Pelecanus_rufescens",
-      "common_name": "Pink-backed Pelican",
+      "label": "Egretta_intermedia",
+      "common_name": "Medium Egret",
       "difference": null,
       "times_confused": 1
     }

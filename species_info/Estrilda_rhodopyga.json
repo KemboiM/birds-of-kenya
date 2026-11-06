@@ -71,6 +71,30 @@
       "common_name": "Red-headed Weaver",
       "difference": null,
       "times_confused": 1
+    },
+    {
+      "label": "Corvus_splendens",
+      "common_name": "House Crow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lissotis_hartlaubii",
+      "common_name": "Hartlaub's Bustard",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Quelea_quelea",
+      "common_name": "Red-billed Quelea",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Prinia_subflava",
+      "common_name": "Tawny-flanked Prinia",
+      "difference": null,
+      "times_confused": 1
     }
   ],
   "sources": [

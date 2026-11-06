@@ -45,7 +45,7 @@
       "label": "Polyboroides_typus",
       "common_name": "African Harrier-hawk",
       "difference": null,
-      "times_confused": 2
+      "times_confused": 3
     },
     {
       "label": "Anhinga_rufa",
@@ -116,6 +116,102 @@
     {
       "label": "Terathopius_ecaudatus",
       "common_name": "Bateleur",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Corvus_capensis",
+      "common_name": "Cape Crow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bycanistes_subcylindricus",
+      "common_name": "Black-and-white-casqued Hornbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Corvus_rhipidurus",
+      "common_name": "Fan-tailed Raven",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Hieraaetus_wahlbergi",
+      "common_name": "Wahlberg's Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Gallinula_chloropus",
+      "common_name": "Common Moorhen",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tockus_flavirostris",
+      "common_name": "Eastern Yellow-billed Hornbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Corythaixoides_leucogaster",
+      "common_name": "White-bellied Go-away-bird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Aquila_rapax",
+      "common_name": "Tawny Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bostrychia_hagedash",
+      "common_name": "Hadada Ibis",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bubo_lacteus",
+      "common_name": "Verreaux's Eagle-owl",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Circaetus_pectoralis",
+      "common_name": "Black-chested Snake Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Corvus_albus",
+      "common_name": "Pied Crow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Hieraaetus_ayresii",
+      "common_name": "Ayres's Hawk-eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lanius_humeralis",
+      "common_name": "Northern Fiscal",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Milvus_migrans",
+      "common_name": "Black Kite",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Scopus_umbretta",
+      "common_name": "Hamerkop",
       "difference": null,
       "times_confused": 1
     }

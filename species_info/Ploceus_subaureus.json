@@ -31,10 +31,16 @@
   },
   "look_alikes": [
     {
+      "label": "Ploceus_ocularis",
+      "common_name": "Spectacled Weaver",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
       "label": "Ploceus_cucullatus",
       "common_name": "Village Weaver",
       "difference": null,
-      "times_confused": 2
+      "times_confused": 1
     },
     {
       "label": "Ploceus_bojeri",
@@ -45,6 +51,12 @@
     {
       "label": "Ploceus_xanthops",
       "common_name": "Holub's Golden Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Nectarinia_famosa",
+      "common_name": "Malachite Sunbird",
       "difference": null,
       "times_confused": 1
     }

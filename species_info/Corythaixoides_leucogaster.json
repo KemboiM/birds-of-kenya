@@ -42,6 +42,12 @@
   },
   "look_alikes": [
     {
+      "label": "Creatophora_cinerea",
+      "common_name": "Wattled Starling",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
       "label": "Ptilopsis_leucotis",
       "common_name": "Northern White-faced Owl",
       "difference": null,
@@ -132,12 +138,6 @@
       "times_confused": 1
     },
     {
-      "label": "Creatophora_cinerea",
-      "common_name": "Wattled Starling",
-      "difference": null,
-      "times_confused": 1
-    },
-    {
       "label": "Vanellus_armatus",
       "common_name": "Blacksmith Lapwing",
       "difference": null,
@@ -146,6 +146,120 @@
     {
       "label": "Ardea_cinerea",
       "common_name": "Grey Heron",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Calamonastes_simplex",
+      "common_name": "Grey Wren-warbler",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bubo_africanus",
+      "common_name": "Spotted Eagle-owl",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Phylloscopus_trochilus",
+      "common_name": "Willow Warbler",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lybius_leucocephalus",
+      "common_name": "White-headed Barbet",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Aquila_spilogaster",
+      "common_name": "African Hawk-eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tauraco_hartlaubi",
+      "common_name": "Hartlaub's Turaco",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cinnyricinclus_leucogaster",
+      "common_name": "Violet-backed Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Phoeniculus_purpureus",
+      "common_name": "Green Wood Hoopoe",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Alopochen_aegyptiaca",
+      "common_name": "Egyptian Goose",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bubulcus_ibis",
+      "common_name": "Western Cattle Egret",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Chlidonias_hybrida",
+      "common_name": "Whiskered Tern",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lophaetus_occipitalis",
+      "common_name": "Long-crested Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Polemaetus_bellicosus",
+      "common_name": "Martial Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Streptopelia_semitorquata",
+      "common_name": "Red-eyed Dove",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Uraeginthus_bengalus",
+      "common_name": "Red-cheeked Cordon-bleu",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lamprotornis_hildebrandti",
+      "common_name": "Hildebrandt's Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lanius_cabanisi",
+      "common_name": "Long-tailed Fiscal",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Myrmecocichla_aethiops",
+      "common_name": "Anteater Chat",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Plocepasser_mahali",
+      "common_name": "White-browed Sparrow-weaver",
       "difference": null,
       "times_confused": 1
     }

@@ -45,7 +45,7 @@
       "label": "Crithagra_dorsostriata",
       "common_name": "White-bellied Canary",
       "difference": null,
-      "times_confused": 1
+      "times_confused": 2
     },
     {
       "label": "Crithagra_mozambica",
@@ -62,6 +62,18 @@
     {
       "label": "Turdoides_rubiginosa",
       "common_name": "Rufous Chatterer",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Eurocephalus_ruppelli",
+      "common_name": "Northern White-crowned Shrike",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Crithagra_reichenowi",
+      "common_name": "Reichenow's Seedeater",
       "difference": null,
       "times_confused": 1
     }

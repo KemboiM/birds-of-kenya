@@ -55,6 +55,30 @@
       "common_name": "Silvery-cheeked Hornbill",
       "difference": null,
       "times_confused": 1
+    },
+    {
+      "label": "Leptoptilos_crumenifer",
+      "common_name": "Marabou Stork",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Motacilla_aguimp",
+      "common_name": "African Pied Wagtail",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Passer_domesticus",
+      "common_name": "House Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Threskiornis_aethiopicus",
+      "common_name": "African Sacred Ibis",
+      "difference": null,
+      "times_confused": 1
     }
   ],
   "sources": [

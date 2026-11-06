@@ -31,6 +31,18 @@
   },
   "look_alikes": [
     {
+      "label": "Terpsiphone_viridis",
+      "common_name": "African Paradise Flycatcher",
+      "difference": null,
+      "times_confused": 4
+    },
+    {
+      "label": "Passer_eminibey",
+      "common_name": "Chestnut Sparrow",
+      "difference": null,
+      "times_confused": 3
+    },
+    {
       "label": "Telophorus_cruentus",
       "common_name": "Rosy-patched Bushshrike",
       "difference": null,
@@ -46,7 +58,7 @@
       "label": "Upupa_epops",
       "common_name": "Eurasian Hoopoe",
       "difference": null,
-      "times_confused": 2
+      "times_confused": 1
     },
     {
       "label": "Otus_ireneae",
@@ -93,6 +105,60 @@
     {
       "label": "Cinnyris_venustus",
       "common_name": "Variable Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Apalis_porphyrolaema",
+      "common_name": "Chestnut-throated Apalis",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Falco_naumanni",
+      "common_name": "Lesser Kestrel",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Treron_calvus",
+      "common_name": "African Green Pigeon",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bubalornis_niger",
+      "common_name": "Red-billed Buffalo Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bycanistes_brevis",
+      "common_name": "Silvery-cheeked Hornbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Sylvietta_whytii",
+      "common_name": "Red-faced Crombec",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Coracias_garrulus",
+      "common_name": "European Roller",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Anhinga_rufa",
+      "common_name": "African Darter",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lamprotornis_superbus",
+      "common_name": "Superb Starling",
       "difference": null,
       "times_confused": 1
     }

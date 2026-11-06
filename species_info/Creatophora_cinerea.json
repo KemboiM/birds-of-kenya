@@ -50,16 +50,52 @@
       "times_confused": 2
     },
     {
+      "label": "Corythaixoides_leucogaster",
+      "common_name": "White-bellied Go-away-bird",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Streptopelia_decipiens",
+      "common_name": "Mourning Collared Dove",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Crithagra_mozambica",
+      "common_name": "Yellow-fronted Canary",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Actitis_hypoleucos",
+      "common_name": "Common Sandpiper",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Terathopius_ecaudatus",
+      "common_name": "Bateleur",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Calendulauda_poecilosterna",
+      "common_name": "Pink-breasted Lark",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
       "label": "Pseudonigrita_arnaudi",
       "common_name": "Grey-capped Social Weaver",
       "difference": null,
-      "times_confused": 2
+      "times_confused": 1
     },
     {
       "label": "Crithagra_sulphurata",
       "common_name": "Brimstone Canary",
       "difference": null,
-      "times_confused": 2
+      "times_confused": 1
     },
     {
       "label": "Bycanistes_bucinator",
@@ -230,12 +266,6 @@
       "times_confused": 1
     },
     {
-      "label": "Corythaixoides_leucogaster",
-      "common_name": "White-bellied Go-away-bird",
-      "difference": null,
-      "times_confused": 1
-    },
-    {
       "label": "Euplectes_macroura",
       "common_name": "Yellow-mantled Widowbird",
       "difference": null,
@@ -272,12 +302,6 @@
       "times_confused": 1
     },
     {
-      "label": "Streptopelia_decipiens",
-      "common_name": "Mourning Collared Dove",
-      "difference": null,
-      "times_confused": 1
-    },
-    {
       "label": "Tringa_stagnatilis",
       "common_name": "Marsh Sandpiper",
       "difference": null,
@@ -298,6 +322,222 @@
     {
       "label": "Streptopelia_capicola",
       "common_name": "Ring-necked Dove",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Oriolus_oriolus",
+      "common_name": "Eurasian Golden Oriole",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ortygospiza_atricollis",
+      "common_name": "Black-faced Quailfinch",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Buteo_buteo",
+      "common_name": "Common Buzzard",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Amadina_fasciata",
+      "common_name": "Cut-throat Finch",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pseudonigrita_cabanisi",
+      "common_name": "Black-capped Social Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Poicephalus_meyeri",
+      "common_name": "Meyer's Parrot",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Turdoides_hypoleuca",
+      "common_name": "Northern Pied Babbler",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Crithagra_reichenowi",
+      "common_name": "Reichenow's Seedeater",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Camaroptera_brachyura",
+      "common_name": "Green-backed Camaroptera",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Fulica_cristata",
+      "common_name": "Red-knobbed Coot",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Telophorus_cruentus",
+      "common_name": "Rosy-patched Bushshrike",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Merops_bullockoides",
+      "common_name": "White-fronted Bee-eater",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Butastur_rufipennis",
+      "common_name": "Grasshopper Buzzard",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Chlidonias_leucopterus",
+      "common_name": "White-winged Tern",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cisticola_chiniana",
+      "common_name": "Rattling Cisticola",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Dicrurus_adsimilis",
+      "common_name": "Fork-tailed Drongo",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Nycticorax_nycticorax",
+      "common_name": "Black-crowned Night Heron",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Passer_domesticus",
+      "common_name": "House Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Polemaetus_bellicosus",
+      "common_name": "Martial Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Thalassornis_leuconotus",
+      "common_name": "White-backed Duck",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Thamnolaea_cinnamomeiventris",
+      "common_name": "Mocking Cliff Chat",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Threskiornis_aethiopicus",
+      "common_name": "African Sacred Ibis",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Urocolius_macrourus",
+      "common_name": "Blue-naped Mousebird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Dendrocygna_viduata",
+      "common_name": "White-faced Whistling Duck",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Aquila_rapax",
+      "common_name": "Tawny Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cecropis_abyssinica",
+      "common_name": "Lesser Striped Swallow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Colius_striatus",
+      "common_name": "Speckled Mousebird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Columba_guinea",
+      "common_name": "Speckled Pigeon",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Dinemellia_dinemelli",
+      "common_name": "White-headed Buffalo Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Halcyon_leucocephala",
+      "common_name": "Grey-headed Kingfisher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Melierax_poliopterus",
+      "common_name": "Eastern Chanting Goshawk",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Numida_meleagris",
+      "common_name": "Helmeted Guinea Fowl",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Passer_rufocinctus",
+      "common_name": "Kenya Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_spekei",
+      "common_name": "Speke's Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Uraeginthus_bengalus",
+      "common_name": "Red-cheeked Cordon-bleu",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Vidua_macroura",
+      "common_name": "Pin-tailed Whydah",
       "difference": null,
       "times_confused": 1
     }

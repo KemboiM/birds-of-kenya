@@ -83,6 +83,48 @@
       "common_name": "Rüppell's Starling",
       "difference": null,
       "times_confused": 1
+    },
+    {
+      "label": "Merops_muelleri",
+      "common_name": "Blue-headed Bee-eater",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Platysteira_peltata",
+      "common_name": "Black-throated Wattle-eye",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Laniarius_funebris",
+      "common_name": "Slate-colored Boubou",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Streptopelia_semitorquata",
+      "common_name": "Red-eyed Dove",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Campephaga_flava",
+      "common_name": "Black Cuckooshrike",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Chalcomitra_amethystina",
+      "common_name": "Amethyst Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Acryllium_vulturinum",
+      "common_name": "Vulturine Guinea Fowl",
+      "difference": null,
+      "times_confused": 1
     }
   ],
   "sources": [

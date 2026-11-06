@@ -50,16 +50,46 @@
       "times_confused": 7
     },
     {
-      "label": "Polemaetus_bellicosus",
-      "common_name": "Martial Eagle",
+      "label": "Necrosyrtes_monachus",
+      "common_name": "Hooded Vulture",
       "difference": null,
-      "times_confused": 2
+      "times_confused": 3
     },
     {
       "label": "Torgos_tracheliotos",
       "common_name": "Lappet-faced Vulture",
       "difference": null,
       "times_confused": 2
+    },
+    {
+      "label": "Leptoptilos_crumenifer",
+      "common_name": "Marabou Stork",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Milvus_migrans",
+      "common_name": "Black Kite",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Circaetus_pectoralis",
+      "common_name": "Black-chested Snake Eagle",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Phalacrocorax_carbo",
+      "common_name": "Great Cormorant",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Polemaetus_bellicosus",
+      "common_name": "Martial Eagle",
+      "difference": null,
+      "times_confused": 1
     },
     {
       "label": "Emberiza_tahapisi",
@@ -128,14 +158,74 @@
       "times_confused": 1
     },
     {
-      "label": "Leptoptilos_crumenifer",
-      "common_name": "Marabou Stork",
+      "label": "Monticola_saxatilis",
+      "common_name": "Common Rock Thrush",
       "difference": null,
       "times_confused": 1
     },
     {
-      "label": "Milvus_migrans",
-      "common_name": "Black Kite",
+      "label": "Aquila_nipalensis",
+      "common_name": "Steppe Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Aquila_spilogaster",
+      "common_name": "African Hawk-eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Gypohierax_angolensis",
+      "common_name": "Palm-nut Vulture",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Halcyon_chelicuti",
+      "common_name": "Striped Kingfisher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Corythaixoides_personatus",
+      "common_name": "Bare-faced Go-away-bird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cinnyris_venustus",
+      "common_name": "Variable Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Eupodotis_senegalensis",
+      "common_name": "White-bellied Bustard",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Aquila_rapax",
+      "common_name": "Tawny Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bostrychia_hagedash",
+      "common_name": "Hadada Ibis",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Hieraaetus_wahlbergi",
+      "common_name": "Wahlberg's Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Terathopius_ecaudatus",
+      "common_name": "Bateleur",
       "difference": null,
       "times_confused": 1
     }

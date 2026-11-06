@@ -31,16 +31,16 @@
   },
   "look_alikes": [
     {
-      "label": "Turdoides_hypoleuca",
-      "common_name": "Northern Pied Babbler",
-      "difference": null,
-      "times_confused": 2
-    },
-    {
       "label": "Turdoides_jardineii",
       "common_name": "Arrow-marked Babbler",
       "difference": null,
-      "times_confused": 2
+      "times_confused": 6
+    },
+    {
+      "label": "Turdoides_hypoleuca",
+      "common_name": "Northern Pied Babbler",
+      "difference": null,
+      "times_confused": 1
     },
     {
       "label": "Amblyospiza_albifrons",
@@ -111,6 +111,66 @@
     {
       "label": "Bradornis_microrhynchus",
       "common_name": "African Grey Flycatcher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Turdoides_hindei",
+      "common_name": "Hinde's Babbler",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cinnyris_bifasciatus",
+      "common_name": "Purple-banded Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Euodice_cantans",
+      "common_name": "African Silverbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Euplectes_ardens",
+      "common_name": "Red-collared Widowbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Dioptrornis_fischeri",
+      "common_name": "White-eyed Slaty Flycatcher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Eurocephalus_ruppelli",
+      "common_name": "Northern White-crowned Shrike",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Passer_gongonensis",
+      "common_name": "Parrot-billed Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Calendulauda_poecilosterna",
+      "common_name": "Pink-breasted Lark",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Crithagra_sulphurata",
+      "common_name": "Brimstone Canary",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Onychognathus_morio",
+      "common_name": "Red-winged Starling",
       "difference": null,
       "times_confused": 1
     }

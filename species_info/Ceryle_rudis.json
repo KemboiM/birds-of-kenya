@@ -38,6 +38,12 @@
   },
   "look_alikes": [
     {
+      "label": "Microcarbo_africanus",
+      "common_name": "Reed Cormorant",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
       "label": "Circus_pygargus",
       "common_name": "Montagu's Harrier",
       "difference": null,
@@ -106,6 +112,60 @@
     {
       "label": "Lanius_humeralis",
       "common_name": "Northern Fiscal",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Emberiza_poliopleura",
+      "common_name": "Somali Bunting",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bubalornis_niger",
+      "common_name": "Red-billed Buffalo Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lanius_dorsalis",
+      "common_name": "Taita Fiscal",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Megaceryle_maxima",
+      "common_name": "Giant Kingfisher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Anhinga_rufa",
+      "common_name": "African Darter",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ardea_cinerea",
+      "common_name": "Grey Heron",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Falco_peregrinus",
+      "common_name": "Peregrine Falcon",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Riparia_paludicola",
+      "common_name": "Brown-throated Martin",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tockus_erythrorhynchus",
+      "common_name": "Northern Red-billed Hornbill",
       "difference": null,
       "times_confused": 1
     }

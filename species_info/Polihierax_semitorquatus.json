@@ -53,7 +53,7 @@
       "label": "Elanus_caeruleus",
       "common_name": "Black-winged Kite",
       "difference": null,
-      "times_confused": 2
+      "times_confused": 1
     },
     {
       "label": "Chrysococcyx_caprius",
@@ -94,6 +94,36 @@
     {
       "label": "Plocepasser_mahali",
       "common_name": "White-browed Sparrow-weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Prionops_plumatus",
+      "common_name": "White-crested Helmetshrike",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Circaetus_pectoralis",
+      "common_name": "Black-chested Snake Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Euplectes_axillaris",
+      "common_name": "Fan-tailed Widowbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Recurvirostra_avosetta",
+      "common_name": "Pied Avocet",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Balearica_regulorum",
+      "common_name": "Grey Crowned Crane",
       "difference": null,
       "times_confused": 1
     }

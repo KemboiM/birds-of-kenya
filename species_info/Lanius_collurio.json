@@ -96,6 +96,42 @@
       "common_name": "Long-tailed Fiscal",
       "difference": null,
       "times_confused": 1
+    },
+    {
+      "label": "Nilaus_afer",
+      "common_name": "Brubru",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cecropis_senegalensis",
+      "common_name": "Mosque Swallow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Circaetus_pectoralis",
+      "common_name": "Black-chested Snake Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Coracias_garrulus",
+      "common_name": "European Roller",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Muscicapa_striata",
+      "common_name": "Spotted Flycatcher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Emberiza_flaviventris",
+      "common_name": "Golden-breasted Bunting",
+      "difference": null,
+      "times_confused": 1
     }
   ],
   "sources": [

@@ -1,0 +1,69 @@
+{
+  "label": "Charadrius_asiaticus",
+  "scientific_name": "Charadrius asiaticus",
+  "common_name": "Caspian Plover",
+  "other_names": {},
+  "family": "Charadriidae",
+  "summary": "The Caspian plover (Anarhynchus asiaticus) is a wader in the plover family of birds. The specific asiaticus is Latin and means \"Asian\", although in binomials it usually means the type locality was India. This plover breeds in western and central Asia and migrates southward to eastern and southern Africa to escape the northern winter.",
+  "appearance": {
+    "description": "This plover is slightly larger than ringed plover, and it recalls greater sandplover and lesser sandplover in appearance. It is slimmer and longer-legged than the sandplovers, and has a much stronger white supercilium, and a long thin bill. It also lacks white tail sides and a weak wing bar.",
+    "colors": "It also lacks white tail sides and a weak wing bar. Summer males have grey-brown backs and a white face and belly.",
+    "wings": "It also lacks white tail sides and a weak wing bar."
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The Caspian plover breeds in western Asia in the area of the Caspian Sea. Its range includes southern Russia, Turkey, Iran, Turkmenistan, Kazakhstan, Uzbekistan and Afghanistan.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Coast",
+      "Narok",
+      "Eastern",
+      "Nairobi"
+    ],
+    "gbif_records_in_kenya": 843
+  },
+  "look_alikes": [
+    {
+      "label": "Actitis_hypoleucos",
+      "common_name": "Common Sandpiper",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Eremopterix_leucopareia",
+      "common_name": "Fischer's Sparrow-lark",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Vanellus_melanopterus",
+      "common_name": "Black-winged Lapwing",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Caspian plover",
+      "url": "https://en.wikipedia.org/wiki/Caspian_plover",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2480308"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

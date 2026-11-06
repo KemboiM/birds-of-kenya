@@ -1,0 +1,57 @@
+{
+  "label": "Erythrocercus_holochlorus",
+  "scientific_name": "Erythrocercus holochlorus",
+  "common_name": "Little Yellow Flycatcher",
+  "other_names": {},
+  "family": "Erythrocercidae",
+  "summary": "The little yellow flycatcher (Erythrocercus holochlorus) is a species of bird in the family Erythrocercidae. It is found in Kenya, Somalia, and Tanzania. Its natural habitats are subtropical or tropical moist lowland forest and subtropical or tropical moist shrubland.",
+  "appearance": {
+    "description": null,
+    "colors": "The little yellow flycatcher (Erythrocercus holochlorus) is a species of bird in the family Erythrocercidae.",
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Coast",
+      "Kenya",
+      "Kilifi",
+      "Coast Province",
+      "Coast prov",
+      "Kwale"
+    ],
+    "gbif_records_in_kenya": 1863
+  },
+  "look_alikes": [
+    {
+      "label": "Ploceus_xanthops",
+      "common_name": "Holub's Golden Weaver",
+      "difference": null,
+      "times_confused": 2
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Little yellow flycatcher",
+      "url": "https://en.wikipedia.org/wiki/Little_yellow_flycatcher",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2486663"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

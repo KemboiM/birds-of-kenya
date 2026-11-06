@@ -34,19 +34,31 @@
       "label": "Ploceus_cucullatus",
       "common_name": "Village Weaver",
       "difference": null,
-      "times_confused": 3
+      "times_confused": 4
     },
     {
       "label": "Ploceus_spekei",
       "common_name": "Speke's Weaver",
       "difference": null,
-      "times_confused": 3
+      "times_confused": 4
     },
     {
       "label": "Ploceus_taeniopterus",
       "common_name": "Northern Masked Weaver",
       "difference": null,
-      "times_confused": 1
+      "times_confused": 2
+    },
+    {
+      "label": "Motacilla_flava",
+      "common_name": "Western Yellow Wagtail",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Ploceus_intermedius",
+      "common_name": "Lesser Masked Weaver",
+      "difference": null,
+      "times_confused": 2
     },
     {
       "label": "Macronyx_croceus",
@@ -75,6 +87,30 @@
     {
       "label": "Ploceus_xanthops",
       "common_name": "Holub's Golden Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Zosterops_senegalensis",
+      "common_name": "Northern Yellow White-eye",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_nigricollis",
+      "common_name": "Black-necked Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Phalacrocorax_carbo",
+      "common_name": "Great Cormorant",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Crithagra_dorsostriata",
+      "common_name": "White-bellied Canary",
       "difference": null,
       "times_confused": 1
     }

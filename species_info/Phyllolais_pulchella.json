@@ -47,6 +47,36 @@
       "common_name": "Blue-naped Mousebird",
       "difference": null,
       "times_confused": 1
+    },
+    {
+      "label": "Eremomela_icteropygialis",
+      "common_name": "Yellow-bellied Eremomela",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Gymnoris_pyrgita",
+      "common_name": "Yellow-spotted Bush Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Hedydipna_collaris",
+      "common_name": "Collared Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Streptopelia_capicola",
+      "common_name": "Ring-necked Dove",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Anaplectes_rubriceps",
+      "common_name": "Red-headed Weaver",
+      "difference": null,
+      "times_confused": 1
     }
   ],
   "sources": [

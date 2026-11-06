@@ -48,6 +48,12 @@
       "times_confused": 2
     },
     {
+      "label": "Alopochen_aegyptiaca",
+      "common_name": "Egyptian Goose",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
       "label": "Ciconia_ciconia",
       "common_name": "White Stork",
       "difference": null,
@@ -78,12 +84,6 @@
       "times_confused": 1
     },
     {
-      "label": "Alopochen_aegyptiaca",
-      "common_name": "Egyptian Goose",
-      "difference": null,
-      "times_confused": 1
-    },
-    {
       "label": "Ardea_alba",
       "common_name": "Great Egret",
       "difference": null,
@@ -98,6 +98,66 @@
     {
       "label": "Pelecanus_onocrotalus",
       "common_name": "Great White Pelican",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Micronisus_gabar",
+      "common_name": "Gabar Goshawk",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Phoeniconaias_minor",
+      "common_name": "Lesser Flamingo",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Sagittarius_serpentarius",
+      "common_name": "Secretarybird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Anas_sparsa",
+      "common_name": "African Black Duck",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ardea_goliath",
+      "common_name": "Goliath Heron",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Phoenicopterus_roseus",
+      "common_name": "Greater Flamingo",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Polihierax_semitorquatus",
+      "common_name": "Pygmy Falcon",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Struthio_camelus",
+      "common_name": "Common Ostrich",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Terathopius_ecaudatus",
+      "common_name": "Bateleur",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Himantopus_himantopus",
+      "common_name": "Black-winged Stilt",
       "difference": null,
       "times_confused": 1
     }

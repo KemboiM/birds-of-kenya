@@ -50,6 +50,18 @@
   },
   "look_alikes": [
     {
+      "label": "Mycteria_ibis",
+      "common_name": "Yellow-billed Stork",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Ardea_melanocephala",
+      "common_name": "Black-headed Heron",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
       "label": "Sarkidiornis_melanotos",
       "common_name": "Knob-billed Duck",
       "difference": null,
@@ -68,12 +80,6 @@
       "times_confused": 1
     },
     {
-      "label": "Mycteria_ibis",
-      "common_name": "Yellow-billed Stork",
-      "difference": null,
-      "times_confused": 1
-    },
-    {
       "label": "Gypohierax_angolensis",
       "common_name": "Palm-nut Vulture",
       "difference": null,
@@ -88,6 +94,60 @@
     {
       "label": "Threskiornis_aethiopicus",
       "common_name": "African Sacred Ibis",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pluvialis_squatarola",
+      "common_name": "Grey Plover",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Apus_affinis",
+      "common_name": "Little Swift",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pelecanus_rufescens",
+      "common_name": "Pink-backed Pelican",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Quelea_quelea",
+      "common_name": "Red-billed Quelea",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Hirundo_rustica",
+      "common_name": "Barn Swallow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bubulcus_ibis",
+      "common_name": "Western Cattle Egret",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Sagittarius_serpentarius",
+      "common_name": "Secretarybird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Gyps_rueppellii",
+      "common_name": "Rüppell's Vulture",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Leptoptilos_crumenifer",
+      "common_name": "Marabou Stork",
       "difference": null,
       "times_confused": 1
     }

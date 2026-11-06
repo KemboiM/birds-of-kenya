@@ -36,7 +36,7 @@
       "label": "Chalcomitra_hunteri",
       "common_name": "Hunter's Sunbird",
       "difference": null,
-      "times_confused": 3
+      "times_confused": 4
     },
     {
       "label": "Chalcomitra_amethystina",
@@ -48,7 +48,19 @@
       "label": "Drepanorhynchus_reichenowi",
       "common_name": "Golden-winged Sunbird",
       "difference": null,
-      "times_confused": 1
+      "times_confused": 2
+    },
+    {
+      "label": "Euplectes_ardens",
+      "common_name": "Red-collared Widowbird",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Anaplectes_rubriceps",
+      "common_name": "Red-headed Weaver",
+      "difference": null,
+      "times_confused": 2
     },
     {
       "label": "Estrilda_astrild",
@@ -119,6 +131,102 @@
     {
       "label": "Pseudonigrita_arnaudi",
       "common_name": "Grey-capped Social Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Campethera_maculosa",
+      "common_name": "Little Green Woodpecker",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cinnyris_erythrocercus",
+      "common_name": "Red-chested Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cinnyris_nectarinioides",
+      "common_name": "Black-bellied Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lybius_bidentatus",
+      "common_name": "Double-toothed Barbet",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Nectarinia_tacazze",
+      "common_name": "Tacazze Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Euplectes_axillaris",
+      "common_name": "Fan-tailed Widowbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cinnyris_reichenowi",
+      "common_name": "Northern Double-collared Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cinnyris_pulchellus",
+      "common_name": "Beautiful Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Merops_nubicus",
+      "common_name": "Northern Carmine Bee-eater",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Crithagra_striolata",
+      "common_name": "Streaky Seedeater",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lamprotornis_chalybaeus",
+      "common_name": "Greater Blue-eared Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Laniarius_funebris",
+      "common_name": "Slate-colored Boubou",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_xanthops",
+      "common_name": "Holub's Golden Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Terpsiphone_viridis",
+      "common_name": "African Paradise Flycatcher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Motacilla_aguimp",
+      "common_name": "African Pied Wagtail",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Nectarinia_kilimensis",
+      "common_name": "Bronze Sunbird",
       "difference": null,
       "times_confused": 1
     }

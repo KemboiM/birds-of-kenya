@@ -31,6 +31,18 @@
   },
   "look_alikes": [
     {
+      "label": "Lagonosticta_senegala",
+      "common_name": "Red-billed Firefinch",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Chalcomitra_senegalensis",
+      "common_name": "Scarlet-chested Sunbird",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
       "label": "Cinnyricinclus_leucogaster",
       "common_name": "Violet-backed Starling",
       "difference": null,
@@ -103,8 +115,62 @@
       "times_confused": 1
     },
     {
-      "label": "Lagonosticta_senegala",
-      "common_name": "Red-billed Firefinch",
+      "label": "Euplectes_nigroventris",
+      "common_name": "Zanzibar Red Bishop",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Merops_nubicus",
+      "common_name": "Northern Carmine Bee-eater",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Poicephalus_rufiventris",
+      "common_name": "Red-bellied Parrot",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_bojeri",
+      "common_name": "Golden Palm Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Estrilda_astrild",
+      "common_name": "Common Waxbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Merops_bullockoides",
+      "common_name": "White-fronted Bee-eater",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Phyllolais_pulchella",
+      "common_name": "Buff-bellied Warbler",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Turdus_abyssinicus",
+      "common_name": "Abyssinian Thrush",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Uraeginthus_ianthinogaster",
+      "common_name": "Purple Grenadier",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Terathopius_ecaudatus",
+      "common_name": "Bateleur",
       "difference": null,
       "times_confused": 1
     }

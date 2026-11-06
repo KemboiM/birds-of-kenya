@@ -1,0 +1,57 @@
+{
+  "label": "Laniarius_luehderi",
+  "scientific_name": "Laniarius luehderi",
+  "common_name": "Lühder's Bushshrike",
+  "other_names": {},
+  "family": "Malaconotidae",
+  "summary": "Lühder's bushshrike (Laniarius luehderi) is a species of bird (a shrike) in the family Malaconotidae. It is found in Angola, Burundi, Cameroon, Republic of the Congo, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Kenya, Nigeria, Rwanda, South Sudan, Tanzania, and Uganda. The common name and Latin binomial commemorate the German naturalist ornithologist W.",
+  "appearance": {
+    "description": null,
+    "colors": null,
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Western",
+      "Kenya",
+      "Rift Valley",
+      "Kakamega",
+      "Rift Valley Province",
+      "Western Province"
+    ],
+    "gbif_records_in_kenya": 1823
+  },
+  "look_alikes": [
+    {
+      "label": "Cisticola_cantans",
+      "common_name": "Singing Cisticola",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Lühder's bushshrike",
+      "url": "https://en.wikipedia.org/wiki/L%C3%BChder%27s_bushshrike",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2484862"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

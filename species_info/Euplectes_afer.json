@@ -56,6 +56,24 @@
       "common_name": "Streaky Seedeater",
       "difference": null,
       "times_confused": 1
+    },
+    {
+      "label": "Euplectes_capensis",
+      "common_name": "Yellow Bishop",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Euplectes_macroura",
+      "common_name": "Yellow-mantled Widowbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_nigricollis",
+      "common_name": "Black-necked Weaver",
+      "difference": null,
+      "times_confused": 1
     }
   ],
   "sources": [

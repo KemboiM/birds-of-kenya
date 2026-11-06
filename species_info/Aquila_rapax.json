@@ -38,18 +38,6 @@
       "label": "Hieraaetus_wahlbergi",
       "common_name": "Wahlberg's Eagle",
       "difference": null,
-      "times_confused": 8
-    },
-    {
-      "label": "Aquila_nipalensis",
-      "common_name": "Steppe Eagle",
-      "difference": null,
-      "times_confused": 6
-    },
-    {
-      "label": "Polyboroides_typus",
-      "common_name": "African Harrier-hawk",
-      "difference": null,
       "times_confused": 4
     },
     {
@@ -59,20 +47,32 @@
       "times_confused": 4
     },
     {
-      "label": "Aquila_spilogaster",
-      "common_name": "African Hawk-eagle",
+      "label": "Aquila_nipalensis",
+      "common_name": "Steppe Eagle",
       "difference": null,
-      "times_confused": 2
-    },
-    {
-      "label": "Gypohierax_angolensis",
-      "common_name": "Palm-nut Vulture",
-      "difference": null,
-      "times_confused": 2
+      "times_confused": 3
     },
     {
       "label": "Milvus_migrans",
       "common_name": "Black Kite",
+      "difference": null,
+      "times_confused": 3
+    },
+    {
+      "label": "Gyps_rueppellii",
+      "common_name": "Rüppell's Vulture",
+      "difference": null,
+      "times_confused": 3
+    },
+    {
+      "label": "Polyboroides_typus",
+      "common_name": "African Harrier-hawk",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Aquila_spilogaster",
+      "common_name": "African Hawk-eagle",
       "difference": null,
       "times_confused": 2
     },
@@ -83,16 +83,52 @@
       "times_confused": 2
     },
     {
-      "label": "Gyps_rueppellii",
-      "common_name": "Rüppell's Vulture",
-      "difference": null,
-      "times_confused": 2
-    },
-    {
       "label": "Torgos_tracheliotos",
       "common_name": "Lappet-faced Vulture",
       "difference": null,
       "times_confused": 2
+    },
+    {
+      "label": "Circaetus_cinereus",
+      "common_name": "Brown Snake Eagle",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Buteo_augur",
+      "common_name": "Augur Buzzard",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Pandion_haliaetus",
+      "common_name": "Osprey",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Haliaeetus_vocifer",
+      "common_name": "African Fish Eagle",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Falco_biarmicus",
+      "common_name": "Lanner Falcon",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Polemaetus_bellicosus",
+      "common_name": "Martial Eagle",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Gypohierax_angolensis",
+      "common_name": "Palm-nut Vulture",
+      "difference": null,
+      "times_confused": 1
     },
     {
       "label": "Psalidoprocne_albiceps",
@@ -119,20 +155,8 @@
       "times_confused": 1
     },
     {
-      "label": "Circaetus_cinereus",
-      "common_name": "Brown Snake Eagle",
-      "difference": null,
-      "times_confused": 1
-    },
-    {
       "label": "Burhinus_vermiculatus",
       "common_name": "Water Thick-knee",
-      "difference": null,
-      "times_confused": 1
-    },
-    {
-      "label": "Buteo_augur",
-      "common_name": "Augur Buzzard",
       "difference": null,
       "times_confused": 1
     },
@@ -169,6 +193,84 @@
     {
       "label": "Bostrychia_hagedash",
       "common_name": "Hadada Ibis",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Circus_aeruginosus",
+      "common_name": "Western Marsh Harrier",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Plocepasser_donaldsoni",
+      "common_name": "Donaldson Smith's Sparrow-weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Poicephalus_rufiventris",
+      "common_name": "Red-bellied Parrot",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Dendropicos_fuscescens",
+      "common_name": "Cardinal Woodpecker",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Sagittarius_serpentarius",
+      "common_name": "Secretarybird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Amblyospiza_albifrons",
+      "common_name": "Thick-billed Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bubo_lacteus",
+      "common_name": "Verreaux's Eagle-owl",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Circaetus_cinerascens",
+      "common_name": "Western Banded Snake Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Creatophora_cinerea",
+      "common_name": "Wattled Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Scopus_umbretta",
+      "common_name": "Hamerkop",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Gyps_africanus",
+      "common_name": "White-backed Vulture",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lophaetus_occipitalis",
+      "common_name": "Long-crested Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Plocepasser_mahali",
+      "common_name": "White-browed Sparrow-weaver",
       "difference": null,
       "times_confused": 1
     }

@@ -31,18 +31,6 @@
   },
   "look_alikes": [
     {
-      "label": "Crithagra_dorsostriata",
-      "common_name": "White-bellied Canary",
-      "difference": null,
-      "times_confused": 2
-    },
-    {
-      "label": "Crithagra_sulphurata",
-      "common_name": "Brimstone Canary",
-      "difference": null,
-      "times_confused": 2
-    },
-    {
       "label": "Crithagra_mozambica",
       "common_name": "Yellow-fronted Canary",
       "difference": null,
@@ -53,6 +41,18 @@
       "common_name": "Collared Sunbird",
       "difference": null,
       "times_confused": 2
+    },
+    {
+      "label": "Crithagra_dorsostriata",
+      "common_name": "White-bellied Canary",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Crithagra_sulphurata",
+      "common_name": "Brimstone Canary",
+      "difference": null,
+      "times_confused": 1
     },
     {
       "label": "Ploceus_ocularis",
@@ -75,6 +75,30 @@
     {
       "label": "Ploceus_baglafecht",
       "common_name": "Baglafecht Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Colius_striatus",
+      "common_name": "Speckled Mousebird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_cucullatus",
+      "common_name": "Village Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_luteolus",
+      "common_name": "Little Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Oriolus_larvatus",
+      "common_name": "Black-headed Oriole",
       "difference": null,
       "times_confused": 1
     }

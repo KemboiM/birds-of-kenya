@@ -41,19 +41,25 @@
       "label": "Lissotis_hartlaubii",
       "common_name": "Hartlaub's Bustard",
       "difference": null,
-      "times_confused": 6
-    },
-    {
-      "label": "Eupodotis_senegalensis",
-      "common_name": "White-bellied Bustard",
-      "difference": null,
       "times_confused": 4
     },
     {
       "label": "Lophotis_gindiana",
       "common_name": "Buff-crested Bustard",
       "difference": null,
+      "times_confused": 3
+    },
+    {
+      "label": "Neotis_heuglinii",
+      "common_name": "Heuglin's Bustard",
+      "difference": null,
       "times_confused": 2
+    },
+    {
+      "label": "Eupodotis_senegalensis",
+      "common_name": "White-bellied Bustard",
+      "difference": null,
+      "times_confused": 1
     },
     {
       "label": "Lophoceros_nasutus",
@@ -76,6 +82,30 @@
     {
       "label": "Phalacrocorax_carbo",
       "common_name": "Great Cormorant",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cursorius_somalensis",
+      "common_name": "Somali Courser",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pternistis_leucoscepus",
+      "common_name": "Yellow-necked Spurfowl",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Sagittarius_serpentarius",
+      "common_name": "Secretarybird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Struthio_camelus",
+      "common_name": "Common Ostrich",
       "difference": null,
       "times_confused": 1
     }

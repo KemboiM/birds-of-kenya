@@ -75,6 +75,48 @@
       "common_name": "Red-billed Teal",
       "difference": null,
       "times_confused": 1
+    },
+    {
+      "label": "Ispidina_picta",
+      "common_name": "African Pygmy Kingfisher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Actophilornis_africanus",
+      "common_name": "African Jacana",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Anhinga_rufa",
+      "common_name": "African Darter",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Sarkidiornis_melanotos",
+      "common_name": "Knob-billed Duck",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Thalassornis_leuconotus",
+      "common_name": "White-backed Duck",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tachybaptus_ruficollis",
+      "common_name": "Little Grebe",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Buphagus_africanus",
+      "common_name": "Yellow-billed Oxpecker",
+      "difference": null,
+      "times_confused": 1
     }
   ],
   "sources": [

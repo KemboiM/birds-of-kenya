@@ -35,8 +35,20 @@
   },
   "look_alikes": [
     {
+      "label": "Trachyphonus_darnaudii",
+      "common_name": "D'Arnaud's Barbet",
+      "difference": null,
+      "times_confused": 3
+    },
+    {
       "label": "Cinnyricinclus_leucogaster",
       "common_name": "Violet-backed Starling",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Falco_tinnunculus",
+      "common_name": "Common Kestrel",
       "difference": null,
       "times_confused": 2
     },
@@ -77,12 +89,6 @@
       "times_confused": 1
     },
     {
-      "label": "Trachyphonus_darnaudii",
-      "common_name": "D'Arnaud's Barbet",
-      "difference": null,
-      "times_confused": 1
-    },
-    {
       "label": "Dendropicos_fuscescens",
       "common_name": "Cardinal Woodpecker",
       "difference": null,
@@ -91,6 +97,54 @@
     {
       "label": "Sagittarius_serpentarius",
       "common_name": "Secretarybird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Campethera_nubica",
+      "common_name": "Nubian Woodpecker",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Centropus_superciliosus",
+      "common_name": "White-browed Coucal",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Creatophora_cinerea",
+      "common_name": "Wattled Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Poicephalus_meyeri",
+      "common_name": "Meyer's Parrot",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Erythropygia_leucophrys",
+      "common_name": "White-browed Scrub Robin",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Sporopipes_frontalis",
+      "common_name": "Speckle-fronted Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Telophorus_cruentus",
+      "common_name": "Rosy-patched Bushshrike",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lagonosticta_senegala",
+      "common_name": "Red-billed Firefinch",
       "difference": null,
       "times_confused": 1
     }

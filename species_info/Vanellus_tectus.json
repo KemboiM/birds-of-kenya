@@ -47,6 +47,24 @@
       "common_name": "Long-toed Lapwing",
       "difference": null,
       "times_confused": 1
+    },
+    {
+      "label": "Platysteira_cyanea",
+      "common_name": "Brown-throated Wattle-eye",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pterocles_decoratus",
+      "common_name": "Black-faced Sandgrouse",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Vidua_macroura",
+      "common_name": "Pin-tailed Whydah",
+      "difference": null,
+      "times_confused": 1
     }
   ],
   "sources": [

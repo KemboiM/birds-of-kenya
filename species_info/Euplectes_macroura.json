@@ -59,6 +59,24 @@
       "common_name": "Wattled Starling",
       "difference": null,
       "times_confused": 1
+    },
+    {
+      "label": "Euplectes_afer",
+      "common_name": "Yellow-crowned Bishop",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Actophilornis_africanus",
+      "common_name": "African Jacana",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tockus_flavirostris",
+      "common_name": "Eastern Yellow-billed Hornbill",
+      "difference": null,
+      "times_confused": 1
     }
   ],
   "sources": [

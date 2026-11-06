@@ -59,6 +59,24 @@
       "common_name": "Little Egret",
       "difference": null,
       "times_confused": 1
+    },
+    {
+      "label": "Apalis_cinerea",
+      "common_name": "Grey Apalis",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bycanistes_subcylindricus",
+      "common_name": "Black-and-white-casqued Hornbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Numenius_phaeopus",
+      "common_name": "Eurasian Whimbrel",
+      "difference": null,
+      "times_confused": 1
     }
   ],
   "sources": [

@@ -38,6 +38,12 @@
   },
   "look_alikes": [
     {
+      "label": "Myrmecocichla_nigra",
+      "common_name": "Sooty Chat",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
       "label": "Crithagra_reichenowi",
       "common_name": "Reichenow's Seedeater",
       "difference": null,
@@ -118,6 +124,72 @@
     {
       "label": "Turdus_abyssinicus",
       "common_name": "Abyssinian Thrush",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Galerida_cristata",
+      "common_name": "Crested Lark",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Sylvia_boehmi",
+      "common_name": "Banded Parisoma",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Euplectes_progne",
+      "common_name": "Long-tailed Widowbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pinarochroa_sordida",
+      "common_name": "Moorland Chat",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Clamator_jacobinus",
+      "common_name": "Jacobin Cuckoo",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Dicrurus_adsimilis",
+      "common_name": "Fork-tailed Drongo",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Haliaeetus_vocifer",
+      "common_name": "African Fish Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lanius_cabanisi",
+      "common_name": "Long-tailed Fiscal",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Oenanthe_scotocerca",
+      "common_name": "Brown-tailed Rock Chat",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Passer_domesticus",
+      "common_name": "House Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Dioptrornis_fischeri",
+      "common_name": "White-eyed Slaty Flycatcher",
       "difference": null,
       "times_confused": 1
     }

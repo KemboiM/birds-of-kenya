@@ -48,6 +48,18 @@
       "common_name": "Pied Crow",
       "difference": null,
       "times_confused": 1
+    },
+    {
+      "label": "Nectarinia_kilimensis",
+      "common_name": "Bronze Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Phoeniculus_purpureus",
+      "common_name": "Green Wood Hoopoe",
+      "difference": null,
+      "times_confused": 1
     }
   ],
   "sources": [

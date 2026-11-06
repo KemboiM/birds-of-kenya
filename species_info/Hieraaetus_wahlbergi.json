@@ -44,10 +44,16 @@
   },
   "look_alikes": [
     {
+      "label": "Milvus_migrans",
+      "common_name": "Black Kite",
+      "difference": null,
+      "times_confused": 6
+    },
+    {
       "label": "Aquila_rapax",
       "common_name": "Tawny Eagle",
       "difference": null,
-      "times_confused": 8
+      "times_confused": 4
     },
     {
       "label": "Aquila_nipalensis",
@@ -58,6 +64,12 @@
     {
       "label": "Circaetus_cinereus",
       "common_name": "Brown Snake Eagle",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Terathopius_ecaudatus",
+      "common_name": "Bateleur",
       "difference": null,
       "times_confused": 2
     },
@@ -110,8 +122,44 @@
       "times_confused": 1
     },
     {
-      "label": "Milvus_migrans",
-      "common_name": "Black Kite",
+      "label": "Buteo_buteo",
+      "common_name": "Common Buzzard",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Aquila_spilogaster",
+      "common_name": "African Hawk-eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Euplectes_jacksoni",
+      "common_name": "Jackson's Widowbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lophaetus_occipitalis",
+      "common_name": "Long-crested Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Stephanoaetus_coronatus",
+      "common_name": "Crowned Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Necrosyrtes_monachus",
+      "common_name": "Hooded Vulture",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Gyps_africanus",
+      "common_name": "White-backed Vulture",
       "difference": null,
       "times_confused": 1
     }

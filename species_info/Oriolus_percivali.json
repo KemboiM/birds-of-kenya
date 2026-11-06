@@ -1,0 +1,69 @@
+{
+  "label": "Oriolus_percivali",
+  "scientific_name": "Oriolus percivali",
+  "common_name": "Mountain Oriole",
+  "other_names": {},
+  "family": "Oriolidae",
+  "summary": "The mountain oriole (Oriolus percivali) is a bird species in the family Oriolidae. It is native to the Albertine Rift montane forests, Uganda and Kenya. Its natural habitats are subtropical or tropical moist montane forests.",
+  "appearance": {
+    "description": null,
+    "colors": null,
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Central",
+      "Kenya",
+      "Rift Valley",
+      "Eastern",
+      "Kirinyaga",
+      "Western"
+    ],
+    "gbif_records_in_kenya": 2093
+  },
+  "look_alikes": [
+    {
+      "label": "Drepanorhynchus_reichenowi",
+      "common_name": "Golden-winged Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pogonocichla_stellata",
+      "common_name": "White-starred Robin",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Oriolus_larvatus",
+      "common_name": "Black-headed Oriole",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Mountain oriole",
+      "url": "https://en.wikipedia.org/wiki/Mountain_oriole",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2488958"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

@@ -66,6 +66,18 @@
       "common_name": "Pied Crow",
       "difference": null,
       "times_confused": 1
+    },
+    {
+      "label": "Urocolius_macrourus",
+      "common_name": "Blue-naped Mousebird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cinnyricinclus_leucogaster",
+      "common_name": "Violet-backed Starling",
+      "difference": null,
+      "times_confused": 1
     }
   ],
   "sources": [

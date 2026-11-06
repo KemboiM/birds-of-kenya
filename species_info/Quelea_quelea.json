@@ -44,6 +44,30 @@
   },
   "look_alikes": [
     {
+      "label": "Crithagra_reichenowi",
+      "common_name": "Reichenow's Seedeater",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Telophorus_cruentus",
+      "common_name": "Rosy-patched Bushshrike",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Bubalornis_niger",
+      "common_name": "Red-billed Buffalo Weaver",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Buphagus_erythrorhynchus",
+      "common_name": "Red-billed Oxpecker",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
       "label": "Ortygospiza_atricollis",
       "common_name": "Black-faced Quailfinch",
       "difference": null,
@@ -140,12 +164,6 @@
       "times_confused": 1
     },
     {
-      "label": "Crithagra_reichenowi",
-      "common_name": "Reichenow's Seedeater",
-      "difference": null,
-      "times_confused": 1
-    },
-    {
       "label": "Dessonornis_caffer",
       "common_name": "Cape Robin-chat",
       "difference": null,
@@ -206,12 +224,6 @@
       "times_confused": 1
     },
     {
-      "label": "Telophorus_cruentus",
-      "common_name": "Rosy-patched Bushshrike",
-      "difference": null,
-      "times_confused": 1
-    },
-    {
       "label": "Halcyon_leucocephala",
       "common_name": "Grey-headed Kingfisher",
       "difference": null,
@@ -238,6 +250,156 @@
     {
       "label": "Creatophora_cinerea",
       "common_name": "Wattled Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Neophron_percnopterus",
+      "common_name": "Egyptian Vulture",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Vidua_fischeri",
+      "common_name": "Straw-tailed Whydah",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Estrilda_rhodopyga",
+      "common_name": "Crimson-rumped Waxbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Turdus_pelios",
+      "common_name": "African Thrush",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Euplectes_albonotatus",
+      "common_name": "White-winged Widowbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_intermedius",
+      "common_name": "Lesser Masked Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Riparia_paludicola",
+      "common_name": "Brown-throated Martin",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Campocolinus_coqui",
+      "common_name": "Coqui Francolin",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Calendulauda_poecilosterna",
+      "common_name": "Pink-breasted Lark",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Micronisus_gabar",
+      "common_name": "Gabar Goshawk",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Calandrella_cinerea",
+      "common_name": "Red-capped Lark",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Phoeniculus_purpureus",
+      "common_name": "Green Wood Hoopoe",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Passer_gongonensis",
+      "common_name": "Parrot-billed Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Apus_affinis",
+      "common_name": "Little Swift",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cecropis_abyssinica",
+      "common_name": "Lesser Striped Swallow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ciconia_ciconia",
+      "common_name": "White Stork",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Columba_guinea",
+      "common_name": "Speckled Pigeon",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Haliaeetus_vocifer",
+      "common_name": "African Fish Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lagonosticta_senegala",
+      "common_name": "Red-billed Firefinch",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Passer_rufocinctus",
+      "common_name": "Kenya Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tockus_erythrorhynchus",
+      "common_name": "Northern Red-billed Hornbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Urocolius_macrourus",
+      "common_name": "Blue-naped Mousebird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Myrmecocichla_aethiops",
+      "common_name": "Anteater Chat",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Turtur_chalcospilos",
+      "common_name": "Emerald-spotted Wood Dove",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Vidua_macroura",
+      "common_name": "Pin-tailed Whydah",
       "difference": null,
       "times_confused": 1
     }

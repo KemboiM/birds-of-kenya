@@ -36,7 +36,7 @@
       "label": "Cinnyris_mediocris",
       "common_name": "Eastern Double-collared Sunbird",
       "difference": null,
-      "times_confused": 3
+      "times_confused": 2
     },
     {
       "label": "Cinnyris_pulchellus",
@@ -71,6 +71,36 @@
     {
       "label": "Uraeginthus_ianthinogaster",
       "common_name": "Purple Grenadier",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Chalcomitra_senegalensis",
+      "common_name": "Scarlet-chested Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lamprotornis_superbus",
+      "common_name": "Superb Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lybius_bidentatus",
+      "common_name": "Double-toothed Barbet",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Nectarinia_famosa",
+      "common_name": "Malachite Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Nectarinia_kilimensis",
+      "common_name": "Bronze Sunbird",
       "difference": null,
       "times_confused": 1
     }

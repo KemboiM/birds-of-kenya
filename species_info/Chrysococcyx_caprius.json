@@ -67,6 +67,72 @@
       "common_name": "Barn Swallow",
       "difference": null,
       "times_confused": 1
+    },
+    {
+      "label": "Chrysococcyx_klaas",
+      "common_name": "Klaas's Cuckoo",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Circus_aeruginosus",
+      "common_name": "Western Marsh Harrier",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Colius_striatus",
+      "common_name": "Speckled Mousebird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Haliaeetus_vocifer",
+      "common_name": "African Fish Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lamprotornis_hildebrandti",
+      "common_name": "Hildebrandt's Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Microcarbo_africanus",
+      "common_name": "Reed Cormorant",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Passer_eminibey",
+      "common_name": "Chestnut Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Passer_griseus",
+      "common_name": "Northern Grey-headed Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Platalea_alba",
+      "common_name": "African Spoonbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Turtur_chalcospilos",
+      "common_name": "Emerald-spotted Wood Dove",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Halcyon_chelicuti",
+      "common_name": "Striped Kingfisher",
+      "difference": null,
+      "times_confused": 1
     }
   ],
   "sources": [

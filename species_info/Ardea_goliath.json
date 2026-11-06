@@ -48,20 +48,32 @@
   },
   "look_alikes": [
     {
-      "label": "Ardea_purpurea",
-      "common_name": "Purple Heron",
+      "label": "Ardea_melanocephala",
+      "common_name": "Black-headed Heron",
       "difference": null,
       "times_confused": 3
     },
     {
-      "label": "Egretta_ardesiaca",
-      "common_name": "Black Heron",
+      "label": "Ardea_purpurea",
+      "common_name": "Purple Heron",
       "difference": null,
-      "times_confused": 1
+      "times_confused": 2
     },
     {
       "label": "Plegadis_falcinellus",
       "common_name": "Glossy Ibis",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Ardea_alba",
+      "common_name": "Great Egret",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Egretta_ardesiaca",
+      "common_name": "Black Heron",
       "difference": null,
       "times_confused": 1
     },
@@ -78,12 +90,6 @@
       "times_confused": 1
     },
     {
-      "label": "Ardea_melanocephala",
-      "common_name": "Black-headed Heron",
-      "difference": null,
-      "times_confused": 1
-    },
-    {
       "label": "Leptoptilos_crumenifer",
       "common_name": "Marabou Stork",
       "difference": null,
@@ -92,6 +98,30 @@
     {
       "label": "Lophotis_gindiana",
       "common_name": "Buff-crested Bustard",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pandion_haliaetus",
+      "common_name": "Osprey",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Passer_rufocinctus",
+      "common_name": "Kenya Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Phoenicopterus_roseus",
+      "common_name": "Greater Flamingo",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Balearica_regulorum",
+      "common_name": "Grey Crowned Crane",
       "difference": null,
       "times_confused": 1
     }

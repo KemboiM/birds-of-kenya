@@ -35,6 +35,24 @@
       "common_name": "Village Weaver",
       "difference": null,
       "times_confused": 1
+    },
+    {
+      "label": "Crithagra_mozambica",
+      "common_name": "Yellow-fronted Canary",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_ocularis",
+      "common_name": "Spectacled Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_rubiginosus",
+      "common_name": "Chestnut Weaver",
+      "difference": null,
+      "times_confused": 1
     }
   ],
   "sources": [

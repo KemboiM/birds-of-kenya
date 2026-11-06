@@ -31,20 +31,26 @@
   },
   "look_alikes": [
     {
+      "label": "Ploceus_spekei",
+      "common_name": "Speke's Weaver",
+      "difference": null,
+      "times_confused": 6
+    },
+    {
       "label": "Crithagra_dorsostriata",
       "common_name": "White-bellied Canary",
       "difference": null,
       "times_confused": 3
     },
     {
-      "label": "Ploceus_spekei",
-      "common_name": "Speke's Weaver",
-      "difference": null,
-      "times_confused": 3
-    },
-    {
       "label": "Ploceus_cucullatus",
       "common_name": "Village Weaver",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Ploceus_vitellinus",
+      "common_name": "Vitelline Masked Weaver",
       "difference": null,
       "times_confused": 2
     },
@@ -81,6 +87,42 @@
     {
       "label": "Passer_gongonensis",
       "common_name": "Parrot-billed Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_melanocephalus",
+      "common_name": "Black-headed Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_taeniopterus",
+      "common_name": "Northern Masked Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_xanthops",
+      "common_name": "Holub's Golden Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Quelea_quelea",
+      "common_name": "Red-billed Quelea",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Motacilla_flava",
+      "common_name": "Western Yellow Wagtail",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Merops_pusillus",
+      "common_name": "Little Bee-eater",
       "difference": null,
       "times_confused": 1
     }

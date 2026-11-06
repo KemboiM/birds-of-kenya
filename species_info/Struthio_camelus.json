@@ -53,7 +53,7 @@
       "label": "Leptoptilos_crumenifer",
       "common_name": "Marabou Stork",
       "difference": null,
-      "times_confused": 2
+      "times_confused": 1
     },
     {
       "label": "Anastomus_lamelligerus",
@@ -76,6 +76,30 @@
     {
       "label": "Torgos_tracheliotos",
       "common_name": "Lappet-faced Vulture",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Buphagus_africanus",
+      "common_name": "Yellow-billed Oxpecker",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Balearica_regulorum",
+      "common_name": "Grey Crowned Crane",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Elanus_caeruleus",
+      "common_name": "Black-winged Kite",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lissotis_melanogaster",
+      "common_name": "Black-bellied Bustard",
       "difference": null,
       "times_confused": 1
     }

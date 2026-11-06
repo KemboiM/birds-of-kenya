@@ -1,0 +1,74 @@
+{
+  "label": "Erythropygia_quadrivirgata",
+  "scientific_name": "Erythropygia quadrivirgata",
+  "common_name": "Bearded Scrub Robin",
+  "other_names": {},
+  "family": "Muscicapidae",
+  "summary": "The bearded scrub robin (Tychaedon quadrivirgata), also known as the eastern bearded scrub robin, is a species of bird in the family Muscicapidae. It is found in eastern and southern Africa. This species was formerly placed in the genus Cercotrichas.",
+  "appearance": {
+    "description": "Its length is 15–17 cm (5.9–6.7 in), and its weight is approximately 20–31 g (0.71–1.09 oz). The male and female are alike, with the female being slightly smaller. The crown and upperparts are mostly dark olive-brown.",
+    "colors": "The crown and upperparts are mostly dark olive-brown. The tail is dark brown, with the outer feathers having white tips.",
+    "wings": "The wing coverts are grey-brown with olive-brown edges."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        15.0,
+        17.0
+      ],
+      "mass_g": [
+        20.0,
+        31.0
+      ]
+    },
+    "juvenile": {
+      "notes": "The juvenile is paler brown, with black patterns on its crown and back, and its underparts are buff, with dark patterns."
+    },
+    "chick": null
+  },
+  "behaviour": "The bearded scrub robin is usually found in pairs or small groups. Its calls include chuck, chrrrt, chek-chek-kwezzzzzzz and seeeep. Its song is a series of melodious whistles and may mimic some other species of birds.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "It is found in Botswana, Eswatini, Kenya, Malawi, Mozambique, Namibia, Somalia, South Africa, Tanzania, Zambia, and Zimbabwe, with a distribution size estimated at 5,390,000 km2 (2,080,000 sq mi). It is mostly found at elevations of below about 1,000 m (3,300 ft).",
+    "kenya_regions": [
+      "Kenya",
+      "Coast",
+      "Coast prov",
+      "Kilifi",
+      "Coast Province",
+      "Eastern"
+    ],
+    "gbif_records_in_kenya": 4675
+  },
+  "look_alikes": [
+    {
+      "label": "Erythropygia_leucophrys",
+      "common_name": "White-browed Scrub Robin",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Motacilla_capensis",
+      "common_name": "Cape Wagtail",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Bearded scrub robin",
+      "url": "https://en.wikipedia.org/wiki/Bearded_scrub_robin",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/5788862"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

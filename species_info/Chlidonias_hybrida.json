@@ -33,16 +33,28 @@
   },
   "look_alikes": [
     {
+      "label": "Gelochelidon_nilotica",
+      "common_name": "Gull-billed Tern",
+      "difference": null,
+      "times_confused": 3
+    },
+    {
+      "label": "Thalasseus_bengalensis",
+      "common_name": "Lesser Crested Tern",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
       "label": "Chlidonias_leucopterus",
       "common_name": "White-winged Tern",
       "difference": null,
-      "times_confused": 4
+      "times_confused": 1
     },
     {
       "label": "Elanus_caeruleus",
       "common_name": "Black-winged Kite",
       "difference": null,
-      "times_confused": 2
+      "times_confused": 1
     },
     {
       "label": "Dromas_ardeola",
@@ -77,6 +89,36 @@
     {
       "label": "Tringa_nebularia",
       "common_name": "Common Greenshank",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Sporopipes_frontalis",
+      "common_name": "Speckle-fronted Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tringa_glareola",
+      "common_name": "Wood Sandpiper",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Recurvirostra_avosetta",
+      "common_name": "Pied Avocet",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Buteo_augur",
+      "common_name": "Augur Buzzard",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Corythaixoides_leucogaster",
+      "common_name": "White-bellied Go-away-bird",
       "difference": null,
       "times_confused": 1
     }

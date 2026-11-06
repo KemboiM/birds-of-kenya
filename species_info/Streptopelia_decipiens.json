@@ -40,20 +40,32 @@
   },
   "look_alikes": [
     {
-      "label": "Streptopelia_semitorquata",
-      "common_name": "Red-eyed Dove",
-      "difference": null,
-      "times_confused": 5
-    },
-    {
       "label": "Streptopelia_capicola",
       "common_name": "Ring-necked Dove",
       "difference": null,
-      "times_confused": 4
+      "times_confused": 3
     },
     {
       "label": "Streptopelia_lugens",
       "common_name": "Dusky Turtle Dove",
+      "difference": null,
+      "times_confused": 3
+    },
+    {
+      "label": "Streptopelia_semitorquata",
+      "common_name": "Red-eyed Dove",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Spilopelia_senegalensis",
+      "common_name": "Laughing Dove",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Creatophora_cinerea",
+      "common_name": "Wattled Starling",
       "difference": null,
       "times_confused": 2
     },
@@ -61,7 +73,7 @@
       "label": "Oena_capensis",
       "common_name": "Namaqua Dove",
       "difference": null,
-      "times_confused": 2
+      "times_confused": 1
     },
     {
       "label": "Urocolius_macrourus",
@@ -106,12 +118,6 @@
       "times_confused": 1
     },
     {
-      "label": "Spilopelia_senegalensis",
-      "common_name": "Laughing Dove",
-      "difference": null,
-      "times_confused": 1
-    },
-    {
       "label": "Tockus_deckeni",
       "common_name": "Von Der Decken's Hornbill",
       "difference": null,
@@ -130,14 +136,80 @@
       "times_confused": 1
     },
     {
-      "label": "Creatophora_cinerea",
-      "common_name": "Wattled Starling",
+      "label": "Elanus_caeruleus",
+      "common_name": "Black-winged Kite",
       "difference": null,
       "times_confused": 1
     },
     {
-      "label": "Elanus_caeruleus",
-      "common_name": "Black-winged Kite",
+      "label": "Erythropygia_galactotes",
+      "common_name": "Rufous-tailed Scrub Robin",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Columba_arquatrix",
+      "common_name": "African Olive Pigeon",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Glareola_pratincola",
+      "common_name": "Collared Pratincole",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lamprotornis_fischeri",
+      "common_name": "Fischer's Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ptyonoprogne_fuligula",
+      "common_name": "Large Rock Martin",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Dendropicos_spodocephalus",
+      "common_name": "Eastern Grey Woodpecker",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Buphagus_africanus",
+      "common_name": "Yellow-billed Oxpecker",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Alopochen_aegyptiaca",
+      "common_name": "Egyptian Goose",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Estrilda_astrild",
+      "common_name": "Common Waxbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Thalassornis_leuconotus",
+      "common_name": "White-backed Duck",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Turtur_chalcospilos",
+      "common_name": "Emerald-spotted Wood Dove",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Columba_guinea",
+      "common_name": "Speckled Pigeon",
       "difference": null,
       "times_confused": 1
     }

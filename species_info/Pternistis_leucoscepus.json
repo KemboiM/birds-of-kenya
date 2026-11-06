@@ -34,7 +34,7 @@
       "label": "Pterocles_decoratus",
       "common_name": "Black-faced Sandgrouse",
       "difference": null,
-      "times_confused": 1
+      "times_confused": 2
     },
     {
       "label": "Neophron_percnopterus",
@@ -57,6 +57,36 @@
     {
       "label": "Lamprotornis_purpuroptera",
       "common_name": "Rüppell's Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tockus_flavirostris",
+      "common_name": "Eastern Yellow-billed Hornbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lissotis_melanogaster",
+      "common_name": "Black-bellied Bustard",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Numida_meleagris",
+      "common_name": "Helmeted Guinea Fowl",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Passer_domesticus",
+      "common_name": "House Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pternistis_afer",
+      "common_name": "Red-necked Spurfowl",
       "difference": null,
       "times_confused": 1
     }

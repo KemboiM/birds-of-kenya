@@ -47,6 +47,24 @@
       "common_name": "African Thrush",
       "difference": null,
       "times_confused": 1
+    },
+    {
+      "label": "Cisticola_hunteri",
+      "common_name": "Hunter's Cisticola",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lamprotornis_fischeri",
+      "common_name": "Fischer's Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Prinia_subflava",
+      "common_name": "Tawny-flanked Prinia",
+      "difference": null,
+      "times_confused": 1
     }
   ],
   "sources": [

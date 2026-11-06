@@ -76,6 +76,42 @@
       "common_name": "White-browed Robin-chat",
       "difference": null,
       "times_confused": 1
+    },
+    {
+      "label": "Cecropis_abyssinica",
+      "common_name": "Lesser Striped Swallow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Merops_pusillus",
+      "common_name": "Little Bee-eater",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Spilopelia_senegalensis",
+      "common_name": "Laughing Dove",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_castaneiceps",
+      "common_name": "Taveta Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Corythornis_cristatus",
+      "common_name": "Malachite Kingfisher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Uraeginthus_bengalus",
+      "common_name": "Red-cheeked Cordon-bleu",
+      "difference": null,
+      "times_confused": 1
     }
   ],
   "sources": [

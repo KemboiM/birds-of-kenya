@@ -31,6 +31,12 @@
   },
   "look_alikes": [
     {
+      "label": "Dicrurus_adsimilis",
+      "common_name": "Fork-tailed Drongo",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
       "label": "Vidua_chalybeata",
       "common_name": "Village Indigobird",
       "difference": null,
@@ -87,6 +93,78 @@
     {
       "label": "Eurocephalus_ruppelli",
       "common_name": "Northern White-crowned Shrike",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Indicator_minor",
+      "common_name": "Lesser Honeyguide",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Melaenornis_edolioides",
+      "common_name": "Northern Black Flycatcher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Anas_erythrorhyncha",
+      "common_name": "Red-billed Teal",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bubalornis_niger",
+      "common_name": "Red-billed Buffalo Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Camaroptera_brachyura",
+      "common_name": "Green-backed Camaroptera",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Halcyon_leucocephala",
+      "common_name": "Grey-headed Kingfisher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Batis_molitor",
+      "common_name": "Chinspot Batis",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Laniarius_major",
+      "common_name": "Tropical Boubou",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Hirundo_rustica",
+      "common_name": "Barn Swallow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lonchura_cucullata",
+      "common_name": "Bronze Mannikin",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Threskiornis_aethiopicus",
+      "common_name": "African Sacred Ibis",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tockus_erythrorhynchus",
+      "common_name": "Northern Red-billed Hornbill",
       "difference": null,
       "times_confused": 1
     }

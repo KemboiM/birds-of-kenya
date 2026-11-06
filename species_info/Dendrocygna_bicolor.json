@@ -64,6 +64,18 @@
       "common_name": "White-faced Whistling Duck",
       "difference": null,
       "times_confused": 1
+    },
+    {
+      "label": "Thalassornis_leuconotus",
+      "common_name": "White-backed Duck",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Columba_guinea",
+      "common_name": "Speckled Pigeon",
+      "difference": null,
+      "times_confused": 1
     }
   ],
   "sources": [

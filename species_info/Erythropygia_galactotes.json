@@ -1,0 +1,70 @@
+{
+  "label": "Erythropygia_galactotes",
+  "scientific_name": "Erythropygia galactotes",
+  "common_name": "Rufous-tailed Scrub Robin",
+  "other_names": {},
+  "family": "Muscicapidae",
+  "summary": "The rufous-tailed scrub robin (Cercotrichas galactotes) is a medium-sized member of the family Muscicapidae. Other common names include the rufous scrub robin, rufous bush chat, rufous bush robin and the rufous warbler. It breeds around the Mediterranean and east to Pakistan.",
+  "appearance": {
+    "description": "Adult male and female rufous-tailed scrub robin look alike and measure about 6 inches (150 mm) long with relatively long legs and a large rounded tail. The upper parts are a rich brownish chestnut, with the rump and uppertail coverts rather more rufous. There is a distinct curved, creamy-white broad streak from the nostrils to behind the eye and a dark brown line through the eye.",
+    "colors": "The rufous-tailed scrub robin (Cercotrichas galactotes) is a medium-sized member of the family Muscicapidae. Other common names include the rufous scrub robin, rufous bush chat, rufous bush robin and the rufous warbler.",
+    "wings": "The long rufous tail is frequently fanned, showing the black and white tips of the tail feathers. The feathers of the wing are dark brown, fringed on the leading edge with buff and on the trailing edge with pale chestnut-brown and with the secondaries tipped with white."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        15.0,
+        15.0
+      ]
+    },
+    "juvenile": {
+      "notes": "Juveniles are similar in appearance but generally a paler sandy-brown colour."
+    },
+    "chick": null
+  },
+  "behaviour": "The rufous-tailed scrub robin is found flitting among dense cover but also in more open positions on trees, the tops of bushes and on posts. It is frequently seen on the ground hopping about and flaring and bobbing its tail up and down. When perched it also displays its tail in this way and also sometimes droops its wings before giving them a little flick forward.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The rufous-tailed scrub robin is a partial migrant. Its breeding range extends from Portugal, southern Spain and the Balkan Peninsula, through the Middle East to Iraq, Kazakhstan and Pakistan.",
+    "kenya_regions": [
+      "Coast",
+      "Kenya",
+      "Eastern",
+      "Rift Valley",
+      "Taita Taveta",
+      "Isiolo"
+    ],
+    "gbif_records_in_kenya": 1285
+  },
+  "look_alikes": [
+    {
+      "label": "Anthus_leucophrys",
+      "common_name": "Plain-backed Pipit",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Streptopelia_decipiens",
+      "common_name": "Mourning Collared Dove",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Rufous-tailed scrub robin",
+      "url": "https://en.wikipedia.org/wiki/Rufous-tailed_scrub_robin",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/5788860"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

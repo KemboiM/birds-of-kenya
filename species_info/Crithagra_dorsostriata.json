@@ -31,32 +31,38 @@
   },
   "look_alikes": [
     {
+      "label": "Crithagra_mozambica",
+      "common_name": "Yellow-fronted Canary",
+      "difference": null,
+      "times_confused": 4
+    },
+    {
+      "label": "Crithagra_sulphurata",
+      "common_name": "Brimstone Canary",
+      "difference": null,
+      "times_confused": 4
+    },
+    {
       "label": "Ploceus_intermedius",
       "common_name": "Lesser Masked Weaver",
       "difference": null,
       "times_confused": 3
     },
     {
-      "label": "Crithagra_citrinelloides",
-      "common_name": "African Citril",
-      "difference": null,
-      "times_confused": 2
-    },
-    {
-      "label": "Crithagra_mozambica",
-      "common_name": "Yellow-fronted Canary",
-      "difference": null,
-      "times_confused": 2
-    },
-    {
-      "label": "Crithagra_sulphurata",
-      "common_name": "Brimstone Canary",
-      "difference": null,
-      "times_confused": 2
-    },
-    {
       "label": "Serinus_flavivertex",
       "common_name": "Yellow-crowned Canary",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Ploceus_spekei",
+      "common_name": "Speke's Weaver",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Crithagra_citrinelloides",
+      "common_name": "African Citril",
       "difference": null,
       "times_confused": 1
     },
@@ -93,6 +99,42 @@
     {
       "label": "Crithagra_striolata",
       "common_name": "Streaky Seedeater",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Eremomela_icteropygialis",
+      "common_name": "Yellow-bellied Eremomela",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tricholaema_melanocephala",
+      "common_name": "Black-throated Barbet",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Apalis_flavida",
+      "common_name": "Yellow-breasted Apalis",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lamprotornis_chalybaeus",
+      "common_name": "Greater Blue-eared Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_castaneiceps",
+      "common_name": "Taveta Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_vitellinus",
+      "common_name": "Vitelline Masked Weaver",
       "difference": null,
       "times_confused": 1
     }

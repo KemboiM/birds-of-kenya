@@ -47,6 +47,24 @@
       "common_name": "Northern Pied Babbler",
       "difference": null,
       "times_confused": 1
+    },
+    {
+      "label": "Dioptrornis_fischeri",
+      "common_name": "White-eyed Slaty Flycatcher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pternistis_afer",
+      "common_name": "Red-necked Spurfowl",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pternistis_hildebrandti",
+      "common_name": "Hildebrandt's Spurfowl",
+      "difference": null,
+      "times_confused": 1
     }
   ],
   "sources": [

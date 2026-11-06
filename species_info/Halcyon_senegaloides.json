@@ -54,6 +54,18 @@
       "common_name": "Blue-naped Mousebird",
       "difference": null,
       "times_confused": 1
+    },
+    {
+      "label": "Buphagus_erythrorhynchus",
+      "common_name": "Red-billed Oxpecker",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Halcyon_albiventris",
+      "common_name": "Brown-hooded Kingfisher",
+      "difference": null,
+      "times_confused": 1
     }
   ],
   "sources": [

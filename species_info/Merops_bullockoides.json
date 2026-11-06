@@ -31,6 +31,24 @@
   },
   "look_alikes": [
     {
+      "label": "Merops_albicollis",
+      "common_name": "White-throated Bee-eater",
+      "difference": null,
+      "times_confused": 3
+    },
+    {
+      "label": "Merops_nubicus",
+      "common_name": "Northern Carmine Bee-eater",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Merops_oreobates",
+      "common_name": "Cinnamon-chested Bee-eater",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
       "label": "Merops_persicus",
       "common_name": "Blue-cheeked Bee-eater",
       "difference": null,
@@ -67,20 +85,62 @@
       "times_confused": 1
     },
     {
-      "label": "Merops_albicollis",
-      "common_name": "White-throated Bee-eater",
-      "difference": null,
-      "times_confused": 1
-    },
-    {
-      "label": "Merops_nubicus",
-      "common_name": "Northern Carmine Bee-eater",
-      "difference": null,
-      "times_confused": 1
-    },
-    {
       "label": "Lagonosticta_senegala",
       "common_name": "Red-billed Firefinch",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cyanomitra_verticalis",
+      "common_name": "Green-headed Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Merops_superciliosus",
+      "common_name": "Olive Bee-eater",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Anaplectes_rubriceps",
+      "common_name": "Red-headed Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Trachyphonus_erythrocephalus",
+      "common_name": "Red-and-yellow Barbet",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Creatophora_cinerea",
+      "common_name": "Wattled Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Dendropicos_spodocephalus",
+      "common_name": "Eastern Grey Woodpecker",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Megaceryle_maxima",
+      "common_name": "Giant Kingfisher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Streptopelia_lugens",
+      "common_name": "Dusky Turtle Dove",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ardea_alba",
+      "common_name": "Great Egret",
       "difference": null,
       "times_confused": 1
     }

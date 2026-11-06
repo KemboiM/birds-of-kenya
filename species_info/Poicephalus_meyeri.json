@@ -97,6 +97,60 @@
       "common_name": "Cardinal Woodpecker",
       "difference": null,
       "times_confused": 1
+    },
+    {
+      "label": "Chrysococcyx_klaas",
+      "common_name": "Klaas's Cuckoo",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Amadina_fasciata",
+      "common_name": "Cut-throat Finch",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Euplectes_capensis",
+      "common_name": "Yellow Bishop",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Circaetus_pectoralis",
+      "common_name": "Black-chested Snake Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Clamator_jacobinus",
+      "common_name": "Jacobin Cuckoo",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Coracias_caudatus",
+      "common_name": "Lilac-breasted Roller",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Creatophora_cinerea",
+      "common_name": "Wattled Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Drepanorhynchus_reichenowi",
+      "common_name": "Golden-winged Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Eremomela_icteropygialis",
+      "common_name": "Yellow-bellied Eremomela",
+      "difference": null,
+      "times_confused": 1
     }
   ],
   "sources": [

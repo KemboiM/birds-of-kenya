@@ -52,6 +52,12 @@
       "times_confused": 2
     },
     {
+      "label": "Bostrychia_hagedash",
+      "common_name": "Hadada Ibis",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
       "label": "Leptoptilos_crumenifer",
       "common_name": "Marabou Stork",
       "difference": null,
@@ -60,6 +66,18 @@
     {
       "label": "Plectropterus_gambensis",
       "common_name": "Spur-winged Goose",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ciconia_microscelis",
+      "common_name": "African Woolly-necked Stork",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Himantopus_himantopus",
+      "common_name": "Black-winged Stilt",
       "difference": null,
       "times_confused": 1
     }

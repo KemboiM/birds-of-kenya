@@ -1,0 +1,63 @@
+{
+  "label": "Cisticola_haematocephalus",
+  "scientific_name": "Cisticola haematocephalus",
+  "common_name": "Coastal Cisticola",
+  "other_names": {},
+  "family": "Cisticolidae",
+  "summary": "The coastal cisticola (Cisticola haematocephalus), also known as the umbabird, is a species of bird in the family Cisticolidae. It is found on the coastal plain of East Africa. Alternate common names are Mombasa black-backed cisticola.",
+  "appearance": {
+    "description": null,
+    "colors": "Alternate common names are Mombasa black-backed cisticola.",
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": "This species is found on the coastal plain of East Africa between 5°N to 10°S (southern Somalia to north-eastern Tanzania). Its natural habitats are tropical seasonally wet or flooded lowland grassland and swamps.",
+    "kenya_regions": [
+      "Coast",
+      "Kenya",
+      "Kilifi",
+      "Kwale",
+      "Eastern",
+      "Nakuru"
+    ],
+    "gbif_records_in_kenya": 2192
+  },
+  "look_alikes": [
+    {
+      "label": "Bradornis_microrhynchus",
+      "common_name": "African Grey Flycatcher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Camaroptera_brachyura",
+      "common_name": "Green-backed Camaroptera",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Coastal cisticola",
+      "url": "https://en.wikipedia.org/wiki/Coastal_cisticola",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/6100909"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

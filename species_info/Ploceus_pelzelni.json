@@ -1,0 +1,63 @@
+{
+  "label": "Ploceus_pelzelni",
+  "scientific_name": "Ploceus pelzelni",
+  "common_name": "Slender-billed Weaver",
+  "other_names": {},
+  "family": "Ploceidae",
+  "summary": "The slender-billed weaver (Ploceus pelzelni) is a species of bird in the weaver family, Ploceidae. It is sparsely distributed across equatorial Africa, namely along the shoreline of the Gulf of Guinea and Congo River and the Lake Victoria region.",
+  "appearance": {
+    "description": null,
+    "colors": null,
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Nyanza",
+      "Kenya",
+      "Western",
+      "Kisumu",
+      "Nyanza prov",
+      "Homa Bay"
+    ],
+    "gbif_records_in_kenya": 923
+  },
+  "look_alikes": [
+    {
+      "label": "Ploceus_bojeri",
+      "common_name": "Golden Palm Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_spekei",
+      "common_name": "Speke's Weaver",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Slender-billed weaver",
+      "url": "https://en.wikipedia.org/wiki/Slender-billed_weaver",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2494067"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

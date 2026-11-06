@@ -64,6 +64,42 @@
       "common_name": "Meyer's Parrot",
       "difference": null,
       "times_confused": 1
+    },
+    {
+      "label": "Coracias_caudatus",
+      "common_name": "Lilac-breasted Roller",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Coracias_garrulus",
+      "common_name": "European Roller",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Merops_apiaster",
+      "common_name": "European Bee-eater",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Merops_oreobates",
+      "common_name": "Cinnamon-chested Bee-eater",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cinnyris_pulchellus",
+      "common_name": "Beautiful Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Merops_pusillus",
+      "common_name": "Little Bee-eater",
+      "difference": null,
+      "times_confused": 1
     }
   ],
   "sources": [

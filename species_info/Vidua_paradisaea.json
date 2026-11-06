@@ -106,6 +106,54 @@
       "common_name": "Malachite Kingfisher",
       "difference": null,
       "times_confused": 1
+    },
+    {
+      "label": "Falco_rupicoloides",
+      "common_name": "Greater Kestrel",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Campephaga_flava",
+      "common_name": "Black Cuckooshrike",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Merops_nubicus",
+      "common_name": "Northern Carmine Bee-eater",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pseudonigrita_cabanisi",
+      "common_name": "Black-capped Social Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Buphagus_africanus",
+      "common_name": "Yellow-billed Oxpecker",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Corvus_albus",
+      "common_name": "Pied Crow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Crinifer_zonurus",
+      "common_name": "Eastern Plantain-eater",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Hirundo_rustica",
+      "common_name": "Barn Swallow",
+      "difference": null,
+      "times_confused": 1
     }
   ],
   "sources": [

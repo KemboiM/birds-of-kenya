@@ -40,16 +40,40 @@
   },
   "look_alikes": [
     {
+      "label": "Streptopelia_semitorquata",
+      "common_name": "Red-eyed Dove",
+      "difference": null,
+      "times_confused": 3
+    },
+    {
+      "label": "Streptopelia_capicola",
+      "common_name": "Ring-necked Dove",
+      "difference": null,
+      "times_confused": 3
+    },
+    {
+      "label": "Streptopelia_decipiens",
+      "common_name": "Mourning Collared Dove",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Streptopelia_lugens",
+      "common_name": "Dusky Turtle Dove",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
       "label": "Oena_capensis",
       "common_name": "Namaqua Dove",
       "difference": null,
-      "times_confused": 3
+      "times_confused": 1
     },
     {
       "label": "Passer_gongonensis",
       "common_name": "Parrot-billed Sparrow",
       "difference": null,
-      "times_confused": 2
+      "times_confused": 1
     },
     {
       "label": "Falco_naumanni",
@@ -118,14 +142,44 @@
       "times_confused": 1
     },
     {
-      "label": "Streptopelia_decipiens",
-      "common_name": "Mourning Collared Dove",
+      "label": "Empidornis_semipartitus",
+      "common_name": "Silverbird",
       "difference": null,
       "times_confused": 1
     },
     {
-      "label": "Streptopelia_semitorquata",
-      "common_name": "Red-eyed Dove",
+      "label": "Dinemellia_dinemelli",
+      "common_name": "White-headed Buffalo Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lanius_excubitoroides",
+      "common_name": "Grey-backed Fiscal",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cecropis_abyssinica",
+      "common_name": "Lesser Striped Swallow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Gymnoris_pyrgita",
+      "common_name": "Yellow-spotted Bush Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pterocles_decoratus",
+      "common_name": "Black-faced Sandgrouse",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tringa_ochropus",
+      "common_name": "Green Sandpiper",
       "difference": null,
       "times_confused": 1
     }

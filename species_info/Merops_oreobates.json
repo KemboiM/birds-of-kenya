@@ -31,10 +31,16 @@
   },
   "look_alikes": [
     {
+      "label": "Merops_bullockoides",
+      "common_name": "White-fronted Bee-eater",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
       "label": "Merops_pusillus",
       "common_name": "Little Bee-eater",
       "difference": null,
-      "times_confused": 4
+      "times_confused": 1
     },
     {
       "label": "Eurystomus_glaucurus",
@@ -117,6 +123,42 @@
     {
       "label": "Uraeginthus_ianthinogaster",
       "common_name": "Purple Grenadier",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Merops_persicus",
+      "common_name": "Blue-cheeked Bee-eater",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tricholaema_lacrymosa",
+      "common_name": "Spot-flanked Barbet",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Aquila_spilogaster",
+      "common_name": "African Hawk-eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lagonosticta_senegala",
+      "common_name": "Red-billed Firefinch",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lamprotornis_hildebrandti",
+      "common_name": "Hildebrandt's Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Streptopelia_semitorquata",
+      "common_name": "Red-eyed Dove",
       "difference": null,
       "times_confused": 1
     }

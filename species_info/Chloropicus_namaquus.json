@@ -41,11 +41,41 @@
       "label": "Campethera_nubica",
       "common_name": "Nubian Woodpecker",
       "difference": null,
-      "times_confused": 2
+      "times_confused": 1
     },
     {
       "label": "Dendropicos_fuscescens",
       "common_name": "Cardinal Woodpecker",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Micronisus_gabar",
+      "common_name": "Gabar Goshawk",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Phalacrocorax_carbo",
+      "common_name": "Great Cormorant",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tockus_flavirostris",
+      "common_name": "Eastern Yellow-billed Hornbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Upupa_epops",
+      "common_name": "Eurasian Hoopoe",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Vidua_macroura",
+      "common_name": "Pin-tailed Whydah",
       "difference": null,
       "times_confused": 1
     }

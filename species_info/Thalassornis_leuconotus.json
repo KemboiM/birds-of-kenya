@@ -47,6 +47,36 @@
       "common_name": "Little Grebe",
       "difference": null,
       "times_confused": 1
+    },
+    {
+      "label": "Dendrocygna_bicolor",
+      "common_name": "Fulvous Whistling Duck",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Spatula_hottentota",
+      "common_name": "Blue-billed Teal",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Creatophora_cinerea",
+      "common_name": "Wattled Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Streptopelia_decipiens",
+      "common_name": "Mourning Collared Dove",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Alopochen_aegyptiaca",
+      "common_name": "Egyptian Goose",
+      "difference": null,
+      "times_confused": 1
     }
   ],
   "sources": [

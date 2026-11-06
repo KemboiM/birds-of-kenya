@@ -38,20 +38,20 @@
   },
   "look_alikes": [
     {
+      "label": "Riparia_paludicola",
+      "common_name": "Brown-throated Martin",
+      "difference": null,
+      "times_confused": 5
+    },
+    {
       "label": "Apus_affinis",
       "common_name": "Little Swift",
       "difference": null,
-      "times_confused": 2
+      "times_confused": 3
     },
     {
       "label": "Pandion_haliaetus",
       "common_name": "Osprey",
-      "difference": null,
-      "times_confused": 1
-    },
-    {
-      "label": "Riparia_paludicola",
-      "common_name": "Brown-throated Martin",
       "difference": null,
       "times_confused": 1
     },
@@ -118,6 +118,54 @@
     {
       "label": "Streptopelia_capicola",
       "common_name": "Ring-necked Dove",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Sylvia_atricapilla",
+      "common_name": "Eurasian Blackcap",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Corvus_capensis",
+      "common_name": "Cape Crow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Corvus_splendens",
+      "common_name": "House Crow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Elanus_caeruleus",
+      "common_name": "Black-winged Kite",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Psalidoprocne_albiceps",
+      "common_name": "White-headed Saw-wing",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Streptopelia_decipiens",
+      "common_name": "Mourning Collared Dove",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Gyps_rueppellii",
+      "common_name": "Rüppell's Vulture",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Uraeginthus_bengalus",
+      "common_name": "Red-cheeked Cordon-bleu",
       "difference": null,
       "times_confused": 1
     }

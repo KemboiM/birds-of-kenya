@@ -64,6 +64,12 @@
       "common_name": "Spur-winged Lapwing",
       "difference": null,
       "times_confused": 1
+    },
+    {
+      "label": "Lanius_cabanisi",
+      "common_name": "Long-tailed Fiscal",
+      "difference": null,
+      "times_confused": 1
     }
   ],
   "sources": [

@@ -40,6 +40,18 @@
   },
   "look_alikes": [
     {
+      "label": "Balearica_regulorum",
+      "common_name": "Grey Crowned Crane",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Pelecanus_rufescens",
+      "common_name": "Pink-backed Pelican",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
       "label": "Dendrocygna_bicolor",
       "common_name": "Fulvous Whistling Duck",
       "difference": null,
@@ -94,12 +106,6 @@
       "times_confused": 1
     },
     {
-      "label": "Balearica_regulorum",
-      "common_name": "Grey Crowned Crane",
-      "difference": null,
-      "times_confused": 1
-    },
-    {
       "label": "Chroicocephalus_cirrocephalus",
       "common_name": "Grey-headed Gull",
       "difference": null,
@@ -144,6 +150,114 @@
     {
       "label": "Vanellus_armatus",
       "common_name": "Blacksmith Lapwing",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cecropis_senegalensis",
+      "common_name": "Mosque Swallow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Oenanthe_isabellina",
+      "common_name": "Isabelline Wheatear",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Calidris_minuta",
+      "common_name": "Little Stint",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Mycteria_ibis",
+      "common_name": "Yellow-billed Stork",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Streptopelia_decipiens",
+      "common_name": "Mourning Collared Dove",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ciconia_abdimii",
+      "common_name": "Abdim's Stork",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Circaetus_pectoralis",
+      "common_name": "Black-chested Snake Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Circus_macrourus",
+      "common_name": "Pallid Harrier",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Dendrocygna_viduata",
+      "common_name": "White-faced Whistling Duck",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Eupodotis_senegalensis",
+      "common_name": "White-bellied Bustard",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Phoenicopterus_roseus",
+      "common_name": "Greater Flamingo",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Platalea_alba",
+      "common_name": "African Spoonbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Terathopius_ecaudatus",
+      "common_name": "Bateleur",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Thalassornis_leuconotus",
+      "common_name": "White-backed Duck",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tockus_deckeni",
+      "common_name": "Von Der Decken's Hornbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Corythaixoides_leucogaster",
+      "common_name": "White-bellied Go-away-bird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Vanellus_coronatus",
+      "common_name": "Crowned Lapwing",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Vanellus_spinosus",
+      "common_name": "Spur-winged Lapwing",
       "difference": null,
       "times_confused": 1
     }

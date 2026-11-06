@@ -50,6 +50,12 @@
       "times_confused": 3
     },
     {
+      "label": "Calandrella_cinerea",
+      "common_name": "Red-capped Lark",
+      "difference": null,
+      "times_confused": 3
+    },
+    {
       "label": "Euplectes_progne",
       "common_name": "Long-tailed Widowbird",
       "difference": null,
@@ -80,12 +86,6 @@
       "times_confused": 1
     },
     {
-      "label": "Calandrella_cinerea",
-      "common_name": "Red-capped Lark",
-      "difference": null,
-      "times_confused": 1
-    },
-    {
       "label": "Eremopterix_leucopareia",
       "common_name": "Fischer's Sparrow-lark",
       "difference": null,
@@ -100,6 +100,18 @@
     {
       "label": "Oenanthe_lugubris",
       "common_name": "Abyssinian Wheatear",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Turdus_tephronotus",
+      "common_name": "Bare-eyed Thrush",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pterocles_decoratus",
+      "common_name": "Black-faced Sandgrouse",
       "difference": null,
       "times_confused": 1
     }

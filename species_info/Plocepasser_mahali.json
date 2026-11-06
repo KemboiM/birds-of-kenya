@@ -44,6 +44,24 @@
       "times_confused": 3
     },
     {
+      "label": "Erythropygia_leucophrys",
+      "common_name": "White-browed Scrub Robin",
+      "difference": null,
+      "times_confused": 3
+    },
+    {
+      "label": "Laniarius_major",
+      "common_name": "Tropical Boubou",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Pseudonigrita_cabanisi",
+      "common_name": "Black-capped Social Weaver",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
       "label": "Nilaus_afer",
       "common_name": "Brubru",
       "difference": null,
@@ -92,12 +110,6 @@
       "times_confused": 1
     },
     {
-      "label": "Erythropygia_leucophrys",
-      "common_name": "White-browed Scrub Robin",
-      "difference": null,
-      "times_confused": 1
-    },
-    {
       "label": "Lanius_humeralis",
       "common_name": "Northern Fiscal",
       "difference": null,
@@ -124,6 +136,54 @@
     {
       "label": "Upupa_epops",
       "common_name": "Eurasian Hoopoe",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cinnyricinclus_leucogaster",
+      "common_name": "Violet-backed Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Dinemellia_dinemelli",
+      "common_name": "White-headed Buffalo Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Aquila_rapax",
+      "common_name": "Tawny Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Buteo_augur",
+      "common_name": "Augur Buzzard",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Corythaixoides_leucogaster",
+      "common_name": "White-bellied Go-away-bird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ephippiorhynchus_senegalensis",
+      "common_name": "Saddle-billed Stork",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lonchura_cucullata",
+      "common_name": "Bronze Mannikin",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Muscicapa_striata",
+      "common_name": "Spotted Flycatcher",
       "difference": null,
       "times_confused": 1
     }

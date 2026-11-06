@@ -33,20 +33,44 @@
   },
   "look_alikes": [
     {
+      "label": "Bradornis_pallidus",
+      "common_name": "Pale Flycatcher",
+      "difference": null,
+      "times_confused": 4
+    },
+    {
+      "label": "Gymnoris_pyrgita",
+      "common_name": "Yellow-spotted Bush Sparrow",
+      "difference": null,
+      "times_confused": 3
+    },
+    {
+      "label": "Muscicapa_striata",
+      "common_name": "Spotted Flycatcher",
+      "difference": null,
+      "times_confused": 3
+    },
+    {
       "label": "Oenanthe_isabellina",
       "common_name": "Isabelline Wheatear",
       "difference": null,
-      "times_confused": 3
+      "times_confused": 2
     },
     {
       "label": "Muscicapa_adusta",
       "common_name": "African Dusky Flycatcher",
       "difference": null,
-      "times_confused": 3
+      "times_confused": 2
     },
     {
-      "label": "Bradornis_pallidus",
-      "common_name": "Pale Flycatcher",
+      "label": "Prinia_subflava",
+      "common_name": "Tawny-flanked Prinia",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Dioptrornis_fischeri",
+      "common_name": "White-eyed Slaty Flycatcher",
       "difference": null,
       "times_confused": 2
     },
@@ -54,7 +78,7 @@
       "label": "Cisticola_chiniana",
       "common_name": "Rattling Cisticola",
       "difference": null,
-      "times_confused": 2
+      "times_confused": 1
     },
     {
       "label": "Motacilla_capensis",
@@ -87,12 +111,6 @@
       "times_confused": 1
     },
     {
-      "label": "Gymnoris_pyrgita",
-      "common_name": "Yellow-spotted Bush Sparrow",
-      "difference": null,
-      "times_confused": 1
-    },
-    {
       "label": "Passer_gongonensis",
       "common_name": "Parrot-billed Sparrow",
       "difference": null,
@@ -113,6 +131,96 @@
     {
       "label": "Pycnonotus_barbatus",
       "common_name": "Common Bulbul",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cisticola_cinereolus",
+      "common_name": "Ashy Cisticola",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cisticola_haematocephalus",
+      "common_name": "Coastal Cisticola",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Passer_suahelicus",
+      "common_name": "Swahili Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lanius_isabellinus",
+      "common_name": "Isabelline Shrike",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Chalcomitra_hunteri",
+      "common_name": "Hunter's Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cisticola_natalensis",
+      "common_name": "Croaking Cisticola",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Uraeginthus_cyanocephalus",
+      "common_name": "Blue-capped Cordon-bleu",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Oenanthe_pleschanka",
+      "common_name": "Pied Wheatear",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Plocepasser_donaldsoni",
+      "common_name": "Donaldson Smith's Sparrow-weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Apalis_flavida",
+      "common_name": "Yellow-breasted Apalis",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Chlorocichla_flaviventris",
+      "common_name": "Yellow-bellied Greenbul",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lonchura_bicolor",
+      "common_name": "Black-and-white Mannikin",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Myrmecocichla_aethiops",
+      "common_name": "Anteater Chat",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Riparia_paludicola",
+      "common_name": "Brown-throated Martin",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Turdoides_hypoleuca",
+      "common_name": "Northern Pied Babbler",
       "difference": null,
       "times_confused": 1
     }

@@ -42,10 +42,22 @@
   },
   "look_alikes": [
     {
+      "label": "Micronisus_gabar",
+      "common_name": "Gabar Goshawk",
+      "difference": null,
+      "times_confused": 5
+    },
+    {
       "label": "Melierax_metabates",
       "common_name": "Dark Chanting Goshawk",
       "difference": null,
-      "times_confused": 4
+      "times_confused": 3
+    },
+    {
+      "label": "Polyboroides_typus",
+      "common_name": "African Harrier-hawk",
+      "difference": null,
+      "times_confused": 3
     },
     {
       "label": "Circus_pygargus",
@@ -56,12 +68,6 @@
     {
       "label": "Falco_tinnunculus",
       "common_name": "Common Kestrel",
-      "difference": null,
-      "times_confused": 1
-    },
-    {
-      "label": "Micronisus_gabar",
-      "common_name": "Gabar Goshawk",
       "difference": null,
       "times_confused": 1
     },
@@ -102,12 +108,6 @@
       "times_confused": 1
     },
     {
-      "label": "Polyboroides_typus",
-      "common_name": "African Harrier-hawk",
-      "difference": null,
-      "times_confused": 1
-    },
-    {
       "label": "Stephanoaetus_coronatus",
       "common_name": "Crowned Eagle",
       "difference": null,
@@ -128,6 +128,60 @@
     {
       "label": "Vanellus_spinosus",
       "common_name": "Spur-winged Lapwing",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Falco_naumanni",
+      "common_name": "Lesser Kestrel",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Falco_ardosiaceus",
+      "common_name": "Grey Kestrel",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Aquila_nipalensis",
+      "common_name": "Steppe Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lamprotornis_fischeri",
+      "common_name": "Fischer's Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Dioptrornis_fischeri",
+      "common_name": "White-eyed Slaty Flycatcher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Creatophora_cinerea",
+      "common_name": "Wattled Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Dendropicos_spodocephalus",
+      "common_name": "Eastern Grey Woodpecker",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Polemaetus_bellicosus",
+      "common_name": "Martial Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Vanellus_coronatus",
+      "common_name": "Crowned Lapwing",
       "difference": null,
       "times_confused": 1
     }

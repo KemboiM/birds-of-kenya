@@ -48,6 +48,18 @@
       "times_confused": 3
     },
     {
+      "label": "Ciconia_nigra",
+      "common_name": "Black Stork",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Anastomus_lamelligerus",
+      "common_name": "African Openbill",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
       "label": "Nigrita_canicapillus",
       "common_name": "Grey-headed Nigrita",
       "difference": null,
@@ -152,6 +164,90 @@
     {
       "label": "Vanellus_coronatus",
       "common_name": "Crowned Lapwing",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Agapornis_fischeri",
+      "common_name": "Fischer's Lovebird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lophoceros_nasutus",
+      "common_name": "African Grey Hornbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ardea_alba",
+      "common_name": "Great Egret",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ardea_melanocephala",
+      "common_name": "Black-headed Heron",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Corvus_splendens",
+      "common_name": "House Crow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Passer_rufocinctus",
+      "common_name": "Kenya Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pelecanus_rufescens",
+      "common_name": "Pink-backed Pelican",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Sagittarius_serpentarius",
+      "common_name": "Secretarybird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Gyps_africanus",
+      "common_name": "White-backed Vulture",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Leptoptilos_crumenifer",
+      "common_name": "Marabou Stork",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lophaetus_occipitalis",
+      "common_name": "Long-crested Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Milvus_migrans",
+      "common_name": "Black Kite",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Streptopelia_semitorquata",
+      "common_name": "Red-eyed Dove",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Vanellus_crassirostris",
+      "common_name": "Long-toed Lapwing",
       "difference": null,
       "times_confused": 1
     }

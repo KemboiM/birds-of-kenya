@@ -76,6 +76,42 @@
       "common_name": "Great Cormorant",
       "difference": null,
       "times_confused": 1
+    },
+    {
+      "label": "Polemaetus_bellicosus",
+      "common_name": "Martial Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Terathopius_ecaudatus",
+      "common_name": "Bateleur",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Torgos_tracheliotos",
+      "common_name": "Lappet-faced Vulture",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Anastomus_lamelligerus",
+      "common_name": "African Openbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Dendrocygna_viduata",
+      "common_name": "White-faced Whistling Duck",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Microcarbo_africanus",
+      "common_name": "Reed Cormorant",
+      "difference": null,
+      "times_confused": 1
     }
   ],
   "sources": [

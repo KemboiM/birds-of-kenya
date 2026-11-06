@@ -78,6 +78,72 @@
       "common_name": "Speckled Mousebird",
       "difference": null,
       "times_confused": 1
+    },
+    {
+      "label": "Charadrius_hiaticula",
+      "common_name": "Common Ringed Plover",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Anhinga_rufa",
+      "common_name": "African Darter",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Burhinus_vermiculatus",
+      "common_name": "Water Thick-knee",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Anas_erythrorhyncha",
+      "common_name": "Red-billed Teal",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Egretta_garzetta",
+      "common_name": "Little Egret",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Alopochen_aegyptiaca",
+      "common_name": "Egyptian Goose",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ardea_goliath",
+      "common_name": "Goliath Heron",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Balearica_regulorum",
+      "common_name": "Grey Crowned Crane",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ardea_alba",
+      "common_name": "Great Egret",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ardea_cinerea",
+      "common_name": "Grey Heron",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Stephanoaetus_coronatus",
+      "common_name": "Crowned Eagle",
+      "difference": null,
+      "times_confused": 1
     }
   ],
   "sources": [

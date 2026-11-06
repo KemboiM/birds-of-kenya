@@ -65,6 +65,54 @@
       "common_name": "Crested Francolin",
       "difference": null,
       "times_confused": 1
+    },
+    {
+      "label": "Macronyx_aurantiigula",
+      "common_name": "Pangani Longclaw",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Calandrella_cinerea",
+      "common_name": "Red-capped Lark",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Calendulauda_poecilosterna",
+      "common_name": "Pink-breasted Lark",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cichladusa_guttata",
+      "common_name": "Spotted Palm Thrush",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Erythropygia_leucophrys",
+      "common_name": "White-browed Scrub Robin",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Falco_tinnunculus",
+      "common_name": "Common Kestrel",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Numida_meleagris",
+      "common_name": "Helmeted Guinea Fowl",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Passer_domesticus",
+      "common_name": "House Sparrow",
+      "difference": null,
+      "times_confused": 1
     }
   ],
   "sources": [

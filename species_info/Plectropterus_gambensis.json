@@ -108,6 +108,66 @@
       "common_name": "Egyptian Goose",
       "difference": null,
       "times_confused": 1
+    },
+    {
+      "label": "Trigonoceps_occipitalis",
+      "common_name": "White-headed Vulture",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ciconia_abdimii",
+      "common_name": "Abdim's Stork",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ciconia_microscelis",
+      "common_name": "African Woolly-necked Stork",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Dendrocygna_viduata",
+      "common_name": "White-faced Whistling Duck",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Gypohierax_angolensis",
+      "common_name": "Palm-nut Vulture",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Himantopus_himantopus",
+      "common_name": "Black-winged Stilt",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Struthio_molybdophanes",
+      "common_name": "Somali Ostrich",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Micronisus_gabar",
+      "common_name": "Gabar Goshawk",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Anastomus_lamelligerus",
+      "common_name": "African Openbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Actophilornis_africanus",
+      "common_name": "African Jacana",
+      "difference": null,
+      "times_confused": 1
     }
   ],
   "sources": [

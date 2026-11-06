@@ -1,0 +1,70 @@
+{
+  "label": "Agapornis_personatus",
+  "scientific_name": "Agapornis personatus",
+  "common_name": "Yellow-collared Lovebird",
+  "other_names": {},
+  "family": "Psittacidae",
+  "summary": "The yellow-collared lovebird (Agapornis personatus), also called masked lovebird, black-masked lovebird or eye ring lovebird, is a monotypic species of bird of the lovebird genus in the parrot family Psittaculidae. They are native to Arusha Region of Tanzania and have been introduced to Burundi and Kenya. Although they have been observed in the wild in Puerto Rico, they are probably the result of escaped pets, and no reproduction has been recorded.",
+  "appearance": {
+    "description": "The yellow-collared lovebird is a mainly green small parrot about 14.5 cm (5.5 in) long. Its upperparts are a darker green than its lower surfaces. Its head is black, and it has a bright red beak with white above it and white eyerings.",
+    "colors": "The yellow-collared lovebird (Agapornis personatus), also called masked lovebird, black-masked lovebird or eye ring lovebird, is a monotypic species of bird of the lovebird genus in the parrot family Psittaculidae. The yellow-collared lovebird is a mainly green small parrot about 14.5 cm (5.5 in) long.",
+    "wings": null
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        14.5,
+        14.5
+      ]
+    },
+    "juvenile": null,
+    "chick": {
+      "notes": "The female incubates the eggs for about 23 days and the chicks leave the nest about 42 days after hatching."
+    }
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Nakuru",
+      "Kenya",
+      "Kajiado",
+      "Machakos",
+      "Eastern",
+      "Rift Valley"
+    ],
+    "gbif_records_in_kenya": 99
+  },
+  "look_alikes": [
+    {
+      "label": "Agapornis_fischeri",
+      "common_name": "Fischer's Lovebird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cecropis_abyssinica",
+      "common_name": "Lesser Striped Swallow",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Yellow-collared lovebird",
+      "url": "https://en.wikipedia.org/wiki/Yellow-collared_lovebird",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2479553"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

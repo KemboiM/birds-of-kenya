@@ -40,14 +40,14 @@
   },
   "look_alikes": [
     {
-      "label": "Bubo_africanus",
-      "common_name": "Spotted Eagle-owl",
-      "difference": null,
-      "times_confused": 5
-    },
-    {
       "label": "Bubo_lacteus",
       "common_name": "Verreaux's Eagle-owl",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Bubo_africanus",
+      "common_name": "Spotted Eagle-owl",
       "difference": null,
       "times_confused": 1
     },
@@ -66,6 +66,12 @@
     {
       "label": "Otus_ireneae",
       "common_name": "Sokoke Scops Owl",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Oenanthe_pleschanka",
+      "common_name": "Pied Wheatear",
       "difference": null,
       "times_confused": 1
     }

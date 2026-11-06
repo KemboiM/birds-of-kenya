@@ -53,6 +53,24 @@
       "common_name": "Northern Pied Babbler",
       "difference": null,
       "times_confused": 1
+    },
+    {
+      "label": "Bradornis_microrhynchus",
+      "common_name": "African Grey Flycatcher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Calendulauda_poecilosterna",
+      "common_name": "Pink-breasted Lark",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Muscicapa_striata",
+      "common_name": "Spotted Flycatcher",
+      "difference": null,
+      "times_confused": 1
     }
   ],
   "sources": [

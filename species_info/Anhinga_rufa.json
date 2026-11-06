@@ -38,22 +38,22 @@
   },
   "look_alikes": [
     {
+      "label": "Microcarbo_africanus",
+      "common_name": "Reed Cormorant",
+      "difference": null,
+      "times_confused": 4
+    },
+    {
       "label": "Phalacrocorax_carbo",
       "common_name": "Great Cormorant",
       "difference": null,
-      "times_confused": 4
+      "times_confused": 1
     },
     {
       "label": "Anastomus_lamelligerus",
       "common_name": "African Openbill",
       "difference": null,
-      "times_confused": 2
-    },
-    {
-      "label": "Microcarbo_africanus",
-      "common_name": "Reed Cormorant",
-      "difference": null,
-      "times_confused": 2
+      "times_confused": 1
     },
     {
       "label": "Rhinopomastus_cyanomelas",
@@ -118,6 +118,96 @@
     {
       "label": "Gyps_africanus",
       "common_name": "White-backed Vulture",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Anthus_melindae",
+      "common_name": "Malindi Pipit",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Psalidoprocne_pristoptera",
+      "common_name": "Black Saw-wing",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tockus_jacksoni",
+      "common_name": "Jackson's Hornbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Spatula_hottentota",
+      "common_name": "Blue-billed Teal",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pterocles_gutturalis",
+      "common_name": "Yellow-throated Sandgrouse",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Gyps_rueppellii",
+      "common_name": "Rüppell's Vulture",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Phoenicopterus_roseus",
+      "common_name": "Greater Flamingo",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Riparia_paludicola",
+      "common_name": "Brown-throated Martin",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tockus_erythrorhynchus",
+      "common_name": "Northern Red-billed Hornbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Turdoides_rubiginosa",
+      "common_name": "Rufous Chatterer",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Urocolius_macrourus",
+      "common_name": "Blue-naped Mousebird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ardeola_ralloides",
+      "common_name": "Squacco Heron",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ceryle_rudis",
+      "common_name": "Pied Kingfisher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pelecanus_rufescens",
+      "common_name": "Pink-backed Pelican",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Threskiornis_aethiopicus",
+      "common_name": "African Sacred Ibis",
       "difference": null,
       "times_confused": 1
     }

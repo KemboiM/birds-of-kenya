@@ -29,7 +29,26 @@
     ],
     "gbif_records_in_kenya": 4541
   },
-  "look_alikes": [],
+  "look_alikes": [
+    {
+      "label": "Lagonosticta_senegala",
+      "common_name": "Red-billed Firefinch",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lonchura_cucullata",
+      "common_name": "Bronze Mannikin",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Uraeginthus_bengalus",
+      "common_name": "Red-cheeked Cordon-bleu",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
   "sources": [
     {
       "name": "Wikipedia",

@@ -44,6 +44,12 @@
   },
   "look_alikes": [
     {
+      "label": "Corvus_albus",
+      "common_name": "Pied Crow",
+      "difference": null,
+      "times_confused": 3
+    },
+    {
       "label": "Polyboroides_typus",
       "common_name": "African Harrier-hawk",
       "difference": null,
@@ -59,7 +65,19 @@
       "label": "Gypohierax_angolensis",
       "common_name": "Palm-nut Vulture",
       "difference": null,
-      "times_confused": 1
+      "times_confused": 2
+    },
+    {
+      "label": "Ciconia_microscelis",
+      "common_name": "African Woolly-necked Stork",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Aquila_rapax",
+      "common_name": "Tawny Eagle",
+      "difference": null,
+      "times_confused": 2
     },
     {
       "label": "Chalcomitra_senegalensis",
@@ -98,12 +116,6 @@
       "times_confused": 1
     },
     {
-      "label": "Ciconia_microscelis",
-      "common_name": "African Woolly-necked Stork",
-      "difference": null,
-      "times_confused": 1
-    },
-    {
       "label": "Terathopius_ecaudatus",
       "common_name": "Bateleur",
       "difference": null,
@@ -112,6 +124,84 @@
     {
       "label": "Torgos_tracheliotos",
       "common_name": "Lappet-faced Vulture",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pandion_haliaetus",
+      "common_name": "Osprey",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Chrysococcyx_caprius",
+      "common_name": "Diederik Cuckoo",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Oenanthe_lugubris",
+      "common_name": "Abyssinian Wheatear",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Quelea_quelea",
+      "common_name": "Red-billed Quelea",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lophotis_gindiana",
+      "common_name": "Buff-crested Bustard",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Sagittarius_serpentarius",
+      "common_name": "Secretarybird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Circaetus_cinereus",
+      "common_name": "Brown Snake Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Circaetus_pectoralis",
+      "common_name": "Black-chested Snake Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Euplectes_capensis",
+      "common_name": "Yellow Bishop",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ichthyaetus_hemprichii",
+      "common_name": "Sooty Gull",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Numida_meleagris",
+      "common_name": "Helmeted Guinea Fowl",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Phalacrocorax_carbo",
+      "common_name": "Great Cormorant",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Polemaetus_bellicosus",
+      "common_name": "Martial Eagle",
       "difference": null,
       "times_confused": 1
     }

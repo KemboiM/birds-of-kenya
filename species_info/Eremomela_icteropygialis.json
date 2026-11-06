@@ -42,6 +42,12 @@
   },
   "look_alikes": [
     {
+      "label": "Sylvia_lugens",
+      "common_name": "Brown Parisoma",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
       "label": "Coccopygia_quartinia",
       "common_name": "Yellow-bellied Waxbill",
       "difference": null,
@@ -50,6 +56,42 @@
     {
       "label": "Dioptrornis_fischeri",
       "common_name": "White-eyed Slaty Flycatcher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Crithagra_dorsostriata",
+      "common_name": "White-bellied Canary",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Crithagra_sulphurata",
+      "common_name": "Brimstone Canary",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Phyllolais_pulchella",
+      "common_name": "Buff-bellied Warbler",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Phylloscopus_trochilus",
+      "common_name": "Willow Warbler",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Strix_woodfordii",
+      "common_name": "African Wood Owl",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Poicephalus_meyeri",
+      "common_name": "Meyer's Parrot",
       "difference": null,
       "times_confused": 1
     }

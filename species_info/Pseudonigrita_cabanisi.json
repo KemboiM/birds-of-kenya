@@ -44,6 +44,12 @@
   },
   "look_alikes": [
     {
+      "label": "Plocepasser_mahali",
+      "common_name": "White-browed Sparrow-weaver",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
       "label": "Cinnyricinclus_leucogaster",
       "common_name": "Violet-backed Starling",
       "difference": null,
@@ -124,6 +130,78 @@
     {
       "label": "Lanius_humeralis",
       "common_name": "Northern Fiscal",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bubo_lacteus",
+      "common_name": "Verreaux's Eagle-owl",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Creatophora_cinerea",
+      "common_name": "Wattled Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Gallus_gallus",
+      "common_name": "Red Junglefowl",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Laniarius_major",
+      "common_name": "Tropical Boubou",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lanius_phoenicuroides",
+      "common_name": "Red-tailed Shrike",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Passer_domesticus",
+      "common_name": "House Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Vidua_paradisaea",
+      "common_name": "Long-tailed Paradise Whydah",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Crithagra_reichenowi",
+      "common_name": "Reichenow's Seedeater",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Megaceryle_maxima",
+      "common_name": "Giant Kingfisher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lonchura_cucullata",
+      "common_name": "Bronze Mannikin",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Vanellus_spinosus",
+      "common_name": "Spur-winged Lapwing",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Vidua_macroura",
+      "common_name": "Pin-tailed Whydah",
       "difference": null,
       "times_confused": 1
     }

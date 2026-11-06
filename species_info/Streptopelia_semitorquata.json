@@ -41,25 +41,37 @@
       "label": "Streptopelia_capicola",
       "common_name": "Ring-necked Dove",
       "difference": null,
-      "times_confused": 9
+      "times_confused": 10
+    },
+    {
+      "label": "Spilopelia_senegalensis",
+      "common_name": "Laughing Dove",
+      "difference": null,
+      "times_confused": 3
     },
     {
       "label": "Streptopelia_decipiens",
       "common_name": "Mourning Collared Dove",
       "difference": null,
-      "times_confused": 5
-    },
-    {
-      "label": "Streptopelia_lugens",
-      "common_name": "Dusky Turtle Dove",
-      "difference": null,
-      "times_confused": 4
+      "times_confused": 2
     },
     {
       "label": "Corythaixoides_personatus",
       "common_name": "Bare-faced Go-away-bird",
       "difference": null,
       "times_confused": 2
+    },
+    {
+      "label": "Oena_capensis",
+      "common_name": "Namaqua Dove",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Streptopelia_lugens",
+      "common_name": "Dusky Turtle Dove",
+      "difference": null,
+      "times_confused": 1
     },
     {
       "label": "Turtur_tympanistria",
@@ -98,8 +110,68 @@
       "times_confused": 1
     },
     {
-      "label": "Spilopelia_senegalensis",
-      "common_name": "Laughing Dove",
+      "label": "Tauraco_schalowi",
+      "common_name": "Schalow's Turaco",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Notopholia_corrusca",
+      "common_name": "Black-bellied Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Polyboroides_typus",
+      "common_name": "African Harrier-hawk",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Corythaixoides_leucogaster",
+      "common_name": "White-bellied Go-away-bird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Merops_oreobates",
+      "common_name": "Cinnamon-chested Bee-eater",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_cucullatus",
+      "common_name": "Village Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bostrychia_hagedash",
+      "common_name": "Hadada Ibis",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Corvus_splendens",
+      "common_name": "House Crow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Poicephalus_rufiventris",
+      "common_name": "Red-bellied Parrot",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pseudonigrita_arnaudi",
+      "common_name": "Grey-capped Social Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Turtur_chalcospilos",
+      "common_name": "Emerald-spotted Wood Dove",
       "difference": null,
       "times_confused": 1
     }

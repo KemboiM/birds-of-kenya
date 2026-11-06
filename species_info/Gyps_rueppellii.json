@@ -52,14 +52,14 @@
       "times_confused": 7
     },
     {
-      "label": "Torgos_tracheliotos",
-      "common_name": "Lappet-faced Vulture",
+      "label": "Aquila_rapax",
+      "common_name": "Tawny Eagle",
       "difference": null,
       "times_confused": 3
     },
     {
-      "label": "Aquila_rapax",
-      "common_name": "Tawny Eagle",
+      "label": "Torgos_tracheliotos",
+      "common_name": "Lappet-faced Vulture",
       "difference": null,
       "times_confused": 2
     },
@@ -72,6 +72,12 @@
     {
       "label": "Necrosyrtes_monachus",
       "common_name": "Hooded Vulture",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Pandion_haliaetus",
+      "common_name": "Osprey",
       "difference": null,
       "times_confused": 2
     },
@@ -144,6 +150,90 @@
     {
       "label": "Scopus_umbretta",
       "common_name": "Hamerkop",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Corvus_albicollis",
+      "common_name": "White-necked Raven",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Plocepasser_donaldsoni",
+      "common_name": "Donaldson Smith's Sparrow-weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lophoceros_nasutus",
+      "common_name": "African Grey Hornbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Anhinga_rufa",
+      "common_name": "African Darter",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Oena_capensis",
+      "common_name": "Namaqua Dove",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Campethera_nubica",
+      "common_name": "Nubian Woodpecker",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cecropis_senegalensis",
+      "common_name": "Mosque Swallow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ciconia_ciconia",
+      "common_name": "White Stork",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Otus_senegalensis",
+      "common_name": "African Scops Owl",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ptyonoprogne_fuligula",
+      "common_name": "Large Rock Martin",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Terathopius_ecaudatus",
+      "common_name": "Bateleur",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Phalacrocorax_carbo",
+      "common_name": "Great Cormorant",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Polemaetus_bellicosus",
+      "common_name": "Martial Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Trachyphonus_darnaudii",
+      "common_name": "D'Arnaud's Barbet",
       "difference": null,
       "times_confused": 1
     }

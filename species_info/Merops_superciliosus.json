@@ -36,22 +36,22 @@
   },
   "look_alikes": [
     {
+      "label": "Merops_persicus",
+      "common_name": "Blue-cheeked Bee-eater",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
       "label": "Merops_albicollis",
       "common_name": "White-throated Bee-eater",
       "difference": null,
-      "times_confused": 3
+      "times_confused": 1
     },
     {
       "label": "Merops_apiaster",
       "common_name": "European Bee-eater",
       "difference": null,
-      "times_confused": 2
-    },
-    {
-      "label": "Merops_persicus",
-      "common_name": "Blue-cheeked Bee-eater",
-      "difference": null,
-      "times_confused": 2
+      "times_confused": 1
     },
     {
       "label": "Merops_oreobates",
@@ -68,6 +68,24 @@
     {
       "label": "Creatophora_cinerea",
       "common_name": "Wattled Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Merops_bullockoides",
+      "common_name": "White-fronted Bee-eater",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_rubiginosus",
+      "common_name": "Chestnut Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_ocularis",
+      "common_name": "Spectacled Weaver",
       "difference": null,
       "times_confused": 1
     }

@@ -46,10 +46,16 @@
   },
   "look_alikes": [
     {
+      "label": "Aquila_rapax",
+      "common_name": "Tawny Eagle",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
       "label": "Polyboroides_typus",
       "common_name": "African Harrier-hawk",
       "difference": null,
-      "times_confused": 2
+      "times_confused": 1
     },
     {
       "label": "Butastur_rufipennis",
@@ -90,6 +96,54 @@
     {
       "label": "Amadina_fasciata",
       "common_name": "Cut-throat Finch",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Falco_peregrinus",
+      "common_name": "Peregrine Falcon",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Emberiza_tahapisi",
+      "common_name": "Cinnamon-breasted Bunting",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Colius_striatus",
+      "common_name": "Speckled Mousebird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Columba_guinea",
+      "common_name": "Speckled Pigeon",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Glareola_pratincola",
+      "common_name": "Collared Pratincole",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Hirundo_rustica",
+      "common_name": "Barn Swallow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Merops_nubicus",
+      "common_name": "Northern Carmine Bee-eater",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Micronisus_gabar",
+      "common_name": "Gabar Goshawk",
       "difference": null,
       "times_confused": 1
     }

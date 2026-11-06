@@ -50,10 +50,28 @@
       "times_confused": 2
     },
     {
+      "label": "Lanius_dorsalis",
+      "common_name": "Taita Fiscal",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Motacilla_aguimp",
+      "common_name": "African Pied Wagtail",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Vidua_macroura",
+      "common_name": "Pin-tailed Whydah",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
       "label": "Lanius_cabanisi",
       "common_name": "Long-tailed Fiscal",
       "difference": null,
-      "times_confused": 2
+      "times_confused": 1
     },
     {
       "label": "Ptyonoprogne_fuligula",
@@ -136,6 +154,54 @@
     {
       "label": "Lanius_excubitoroides",
       "common_name": "Grey-backed Fiscal",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Psalidoprocne_pristoptera",
+      "common_name": "Black Saw-wing",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Clamator_jacobinus",
+      "common_name": "Jacobin Cuckoo",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Dryoscopus_cubla",
+      "common_name": "Black-backed Puffback",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Chlidonias_leucopterus",
+      "common_name": "White-winged Tern",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Circaetus_cinereus",
+      "common_name": "Brown Snake Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tockus_deckeni",
+      "common_name": "Von Der Decken's Hornbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_spekei",
+      "common_name": "Speke's Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Vanellus_spinosus",
+      "common_name": "Spur-winged Lapwing",
       "difference": null,
       "times_confused": 1
     }

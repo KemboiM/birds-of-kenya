@@ -100,6 +100,72 @@
       "common_name": "Yellow-billed Stork",
       "difference": null,
       "times_confused": 1
+    },
+    {
+      "label": "Urolestes_melanoleucus",
+      "common_name": "Magpie Shrike",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Circus_pygargus",
+      "common_name": "Montagu's Harrier",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Aquila_rapax",
+      "common_name": "Tawny Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Balearica_regulorum",
+      "common_name": "Grey Crowned Crane",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ciconia_ciconia",
+      "common_name": "White Stork",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Haliaeetus_vocifer",
+      "common_name": "African Fish Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lissotis_melanogaster",
+      "common_name": "Black-bellied Bustard",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Threskiornis_aethiopicus",
+      "common_name": "African Sacred Ibis",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bostrychia_hagedash",
+      "common_name": "Hadada Ibis",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lanius_excubitoroides",
+      "common_name": "Grey-backed Fiscal",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Leptoptilos_crumenifer",
+      "common_name": "Marabou Stork",
+      "difference": null,
+      "times_confused": 1
     }
   ],
   "sources": [

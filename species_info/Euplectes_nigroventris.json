@@ -1,0 +1,63 @@
+{
+  "label": "Euplectes_nigroventris",
+  "scientific_name": "Euplectes nigroventris",
+  "common_name": "Zanzibar Red Bishop",
+  "other_names": {},
+  "family": "Ploceidae",
+  "summary": "The Zanzibar red bishop (Euplectes nigroventris) is a species of bird in the family Ploceidae. It is found in Kenya, Mozambique, and Tanzania.",
+  "appearance": {
+    "description": null,
+    "colors": "The Zanzibar red bishop (Euplectes nigroventris) is a species of bird in the family Ploceidae.",
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Coast",
+      "Kenya",
+      "Rift Valley",
+      "Kilifi",
+      "Mombasa",
+      "Coast Province"
+    ],
+    "gbif_records_in_kenya": 2757
+  },
+  "look_alikes": [
+    {
+      "label": "Anaplectes_rubriceps",
+      "common_name": "Red-headed Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Euplectes_ardens",
+      "common_name": "Red-collared Widowbird",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Zanzibar red bishop",
+      "url": "https://en.wikipedia.org/wiki/Zanzibar_red_bishop",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2494102"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

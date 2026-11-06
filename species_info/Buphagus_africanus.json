@@ -34,7 +34,7 @@
       "label": "Buphagus_erythrorhynchus",
       "common_name": "Red-billed Oxpecker",
       "difference": null,
-      "times_confused": 7
+      "times_confused": 12
     },
     {
       "label": "Oenanthe_pileata",
@@ -63,6 +63,96 @@
     {
       "label": "Hirundo_smithii",
       "common_name": "Wire-tailed Swallow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Poicephalus_gulielmi",
+      "common_name": "Red-fronted Parrot",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Psalidoprocne_albiceps",
+      "common_name": "White-headed Saw-wing",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Corvus_albicollis",
+      "common_name": "White-necked Raven",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cursorius_somalensis",
+      "common_name": "Somali Courser",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Rhinopomastus_minor",
+      "common_name": "Abyssinian Scimitarbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tricholaema_diademata",
+      "common_name": "Red-fronted Barbet",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Vidua_paradisaea",
+      "common_name": "Long-tailed Paradise Whydah",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Polyboroides_typus",
+      "common_name": "African Harrier-hawk",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Burhinus_vermiculatus",
+      "common_name": "Water Thick-knee",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Corythaixoides_personatus",
+      "common_name": "Bare-faced Go-away-bird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Spatula_hottentota",
+      "common_name": "Blue-billed Teal",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Streptopelia_decipiens",
+      "common_name": "Mourning Collared Dove",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Struthio_camelus",
+      "common_name": "Common Ostrich",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Upupa_africana",
+      "common_name": "Eurasian Hoopoe",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Dicrurus_adsimilis",
+      "common_name": "Fork-tailed Drongo",
       "difference": null,
       "times_confused": 1
     }

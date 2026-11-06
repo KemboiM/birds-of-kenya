@@ -42,6 +42,12 @@
   },
   "look_alikes": [
     {
+      "label": "Oenanthe_oenanthe",
+      "common_name": "Northern Wheatear",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
       "label": "Oenanthe_pileata",
       "common_name": "Capped Wheatear",
       "difference": null,
@@ -54,12 +60,6 @@
       "times_confused": 1
     },
     {
-      "label": "Oenanthe_oenanthe",
-      "common_name": "Northern Wheatear",
-      "difference": null,
-      "times_confused": 1
-    },
-    {
       "label": "Passer_rufocinctus",
       "common_name": "Kenya Sparrow",
       "difference": null,
@@ -68,6 +68,12 @@
     {
       "label": "Batis_molitor",
       "common_name": "Chinspot Batis",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Crithagra_reichenowi",
+      "common_name": "Reichenow's Seedeater",
       "difference": null,
       "times_confused": 1
     }

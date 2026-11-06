@@ -34,19 +34,31 @@
       "label": "Ploceus_rubiginosus",
       "common_name": "Chestnut Weaver",
       "difference": null,
-      "times_confused": 3
-    },
-    {
-      "label": "Sporopipes_frontalis",
-      "common_name": "Speckle-fronted Weaver",
-      "difference": null,
-      "times_confused": 3
+      "times_confused": 2
     },
     {
       "label": "Passer_domesticus",
       "common_name": "House Sparrow",
       "difference": null,
       "times_confused": 2
+    },
+    {
+      "label": "Passer_gongonensis",
+      "common_name": "Parrot-billed Sparrow",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Passer_eminibey",
+      "common_name": "Chestnut Sparrow",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Sporopipes_frontalis",
+      "common_name": "Speckle-fronted Weaver",
+      "difference": null,
+      "times_confused": 1
     },
     {
       "label": "Saxicola_rubetra",
@@ -127,12 +139,6 @@
       "times_confused": 1
     },
     {
-      "label": "Passer_gongonensis",
-      "common_name": "Parrot-billed Sparrow",
-      "difference": null,
-      "times_confused": 1
-    },
-    {
       "label": "Pseudonigrita_arnaudi",
       "common_name": "Grey-capped Social Weaver",
       "difference": null,
@@ -141,6 +147,126 @@
     {
       "label": "Centropus_superciliosus",
       "common_name": "White-browed Coucal",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Clamator_glandarius",
+      "common_name": "Great Spotted Cuckoo",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Jynx_ruficollis",
+      "common_name": "Red-throated Wryneck",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tricholaema_lacrymosa",
+      "common_name": "Spot-flanked Barbet",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Gymnoris_pyrgita",
+      "common_name": "Yellow-spotted Bush Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Muscicapa_striata",
+      "common_name": "Spotted Flycatcher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Calandrella_cinerea",
+      "common_name": "Red-capped Lark",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Calidris_minuta",
+      "common_name": "Little Stint",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Quelea_quelea",
+      "common_name": "Red-billed Quelea",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Dessonornis_caffer",
+      "common_name": "Cape Robin-chat",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bubulcus_ibis",
+      "common_name": "Western Cattle Egret",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ardea_goliath",
+      "common_name": "Goliath Heron",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bostrychia_hagedash",
+      "common_name": "Hadada Ibis",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cisticola_chiniana",
+      "common_name": "Rattling Cisticola",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Creatophora_cinerea",
+      "common_name": "Wattled Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lonchura_cucullata",
+      "common_name": "Bronze Mannikin",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Passer_griseus",
+      "common_name": "Northern Grey-headed Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Phylloscopus_trochilus",
+      "common_name": "Willow Warbler",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Prinia_subflava",
+      "common_name": "Tawny-flanked Prinia",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tringa_glareola",
+      "common_name": "Wood Sandpiper",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Uraeginthus_bengalus",
+      "common_name": "Red-cheeked Cordon-bleu",
       "difference": null,
       "times_confused": 1
     }

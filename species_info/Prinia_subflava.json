@@ -40,6 +40,30 @@
   },
   "look_alikes": [
     {
+      "label": "Phylloscopus_trochilus",
+      "common_name": "Willow Warbler",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Cisticola_chiniana",
+      "common_name": "Rattling Cisticola",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Bradornis_microrhynchus",
+      "common_name": "African Grey Flycatcher",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Passer_griseus",
+      "common_name": "Northern Grey-headed Sparrow",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
       "label": "Phyllolais_pulchella",
       "common_name": "Buff-bellied Warbler",
       "difference": null,
@@ -58,12 +82,6 @@
       "times_confused": 1
     },
     {
-      "label": "Phylloscopus_trochilus",
-      "common_name": "Willow Warbler",
-      "difference": null,
-      "times_confused": 1
-    },
-    {
       "label": "Bradornis_pallidus",
       "common_name": "Pale Flycatcher",
       "difference": null,
@@ -78,12 +96,6 @@
     {
       "label": "Apalis_flavida",
       "common_name": "Yellow-breasted Apalis",
-      "difference": null,
-      "times_confused": 1
-    },
-    {
-      "label": "Cisticola_chiniana",
-      "common_name": "Rattling Cisticola",
       "difference": null,
       "times_confused": 1
     },
@@ -162,6 +174,90 @@
     {
       "label": "Cinnyris_venustus",
       "common_name": "Variable Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Urorhipis_rufifrons",
+      "common_name": "Red-fronted Prinia",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Sylvietta_brachyura",
+      "common_name": "Northern Crombec",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cisticola_robustus",
+      "common_name": "Stout Cisticola",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cinnyris_pulchellus",
+      "common_name": "Beautiful Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Anthreptes_orientalis",
+      "common_name": "Eastern Violet-backed Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Turdoides_hypoleuca",
+      "common_name": "Northern Pied Babbler",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Crithagra_reichenowi",
+      "common_name": "Reichenow's Seedeater",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Andropadus_importunus",
+      "common_name": "Sombre Greenbul",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Crithagra_mozambica",
+      "common_name": "Yellow-fronted Canary",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Drepanorhynchus_reichenowi",
+      "common_name": "Golden-winged Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Estrilda_rhodopyga",
+      "common_name": "Crimson-rumped Waxbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Eurillas_latirostris",
+      "common_name": "Yellow-whiskered Greenbul",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Halcyon_chelicuti",
+      "common_name": "Striped Kingfisher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Passer_rufocinctus",
+      "common_name": "Kenya Sparrow",
       "difference": null,
       "times_confused": 1
     }

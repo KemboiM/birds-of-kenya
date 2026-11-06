@@ -58,6 +58,12 @@
       "times_confused": 2
     },
     {
+      "label": "Aquila_rapax",
+      "common_name": "Tawny Eagle",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
       "label": "Circus_macrourus",
       "common_name": "Pallid Harrier",
       "difference": null,
@@ -90,12 +96,6 @@
     {
       "label": "Quelea_quelea",
       "common_name": "Red-billed Quelea",
-      "difference": null,
-      "times_confused": 1
-    },
-    {
-      "label": "Aquila_rapax",
-      "common_name": "Tawny Eagle",
       "difference": null,
       "times_confused": 1
     },
@@ -150,6 +150,60 @@
     {
       "label": "Terathopius_ecaudatus",
       "common_name": "Bateleur",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Buteo_buteo",
+      "common_name": "Common Buzzard",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Chalcomitra_amethystina",
+      "common_name": "Amethyst Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Egretta_ardesiaca",
+      "common_name": "Black Heron",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Halcyon_leucocephala",
+      "common_name": "Grey-headed Kingfisher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tachybaptus_ruficollis",
+      "common_name": "Little Grebe",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Elanus_caeruleus",
+      "common_name": "Black-winged Kite",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Haliaeetus_vocifer",
+      "common_name": "African Fish Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Hirundo_smithii",
+      "common_name": "Wire-tailed Swallow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Milvus_migrans",
+      "common_name": "Black Kite",
       "difference": null,
       "times_confused": 1
     }

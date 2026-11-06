@@ -46,6 +46,12 @@
       "times_confused": 2
     },
     {
+      "label": "Acryllium_vulturinum",
+      "common_name": "Vulturine Guinea Fowl",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
       "label": "Dendrocygna_viduata",
       "common_name": "White-faced Whistling Duck",
       "difference": null,
@@ -84,6 +90,36 @@
     {
       "label": "Fulica_cristata",
       "common_name": "Red-knobbed Coot",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bubalornis_niger",
+      "common_name": "Red-billed Buffalo Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Anastomus_lamelligerus",
+      "common_name": "African Openbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Corvus_capensis",
+      "common_name": "Cape Crow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Laniarius_major",
+      "common_name": "Tropical Boubou",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ciconia_microscelis",
+      "common_name": "African Woolly-necked Stork",
       "difference": null,
       "times_confused": 1
     }

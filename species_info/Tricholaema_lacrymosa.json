@@ -31,10 +31,22 @@
   },
   "look_alikes": [
     {
+      "label": "Tricholaema_diademata",
+      "common_name": "Red-fronted Barbet",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Tricholaema_melanocephala",
+      "common_name": "Black-throated Barbet",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
       "label": "Crithagra_striolata",
       "common_name": "Streaky Seedeater",
       "difference": null,
-      "times_confused": 2
+      "times_confused": 1
     },
     {
       "label": "Lonchura_bicolor",
@@ -97,14 +109,74 @@
       "times_confused": 1
     },
     {
-      "label": "Tricholaema_diademata",
-      "common_name": "Red-fronted Barbet",
+      "label": "Ploceus_baglafecht",
+      "common_name": "Baglafecht Weaver",
       "difference": null,
       "times_confused": 1
     },
     {
-      "label": "Ploceus_baglafecht",
-      "common_name": "Baglafecht Weaver",
+      "label": "Anthus_sokokensis",
+      "common_name": "Sokoke Pipit",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Batis_perkeo",
+      "common_name": "Pygmy Batis",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lophoceros_alboterminatus",
+      "common_name": "Crowned Hornbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Camaroptera_brachyura",
+      "common_name": "Green-backed Camaroptera",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Laniarius_major",
+      "common_name": "Tropical Boubou",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lophoceros_nasutus",
+      "common_name": "African Grey Hornbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Merops_oreobates",
+      "common_name": "Cinnamon-chested Bee-eater",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Passer_rufocinctus",
+      "common_name": "Kenya Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Dendropicos_fuscescens",
+      "common_name": "Cardinal Woodpecker",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cichladusa_guttata",
+      "common_name": "Spotted Palm Thrush",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Polyboroides_typus",
+      "common_name": "African Harrier-hawk",
       "difference": null,
       "times_confused": 1
     }

@@ -48,10 +48,22 @@
   },
   "look_alikes": [
     {
+      "label": "Haliaeetus_vocifer",
+      "common_name": "African Fish Eagle",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Bubo_lacteus",
+      "common_name": "Verreaux's Eagle-owl",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
       "label": "Aquila_rapax",
       "common_name": "Tawny Eagle",
       "difference": null,
-      "times_confused": 2
+      "times_confused": 1
     },
     {
       "label": "Anastomus_lamelligerus",
@@ -62,12 +74,6 @@
     {
       "label": "Ciconia_ciconia",
       "common_name": "White Stork",
-      "difference": null,
-      "times_confused": 1
-    },
-    {
-      "label": "Haliaeetus_vocifer",
-      "common_name": "African Fish Eagle",
       "difference": null,
       "times_confused": 1
     },
@@ -92,6 +98,72 @@
     {
       "label": "Polyboroides_typus",
       "common_name": "African Harrier-hawk",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Gallus_gallus",
+      "common_name": "Red Junglefowl",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Trigonoceps_occipitalis",
+      "common_name": "White-headed Vulture",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Plectropterus_gambensis",
+      "common_name": "Spur-winged Goose",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Aquila_spilogaster",
+      "common_name": "African Hawk-eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Buteo_augur",
+      "common_name": "Augur Buzzard",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Gyps_africanus",
+      "common_name": "White-backed Vulture",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Mycteria_ibis",
+      "common_name": "Yellow-billed Stork",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Necrosyrtes_monachus",
+      "common_name": "Hooded Vulture",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ardea_melanocephala",
+      "common_name": "Black-headed Heron",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Milvus_migrans",
+      "common_name": "Black Kite",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Scopus_umbretta",
+      "common_name": "Hamerkop",
       "difference": null,
       "times_confused": 1
     }

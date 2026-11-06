@@ -48,6 +48,12 @@
       "times_confused": 3
     },
     {
+      "label": "Crithagra_mozambica",
+      "common_name": "Yellow-fronted Canary",
+      "difference": null,
+      "times_confused": 3
+    },
+    {
       "label": "Ploceus_ocularis",
       "common_name": "Spectacled Weaver",
       "difference": null,
@@ -72,8 +78,32 @@
       "times_confused": 1
     },
     {
-      "label": "Crithagra_mozambica",
-      "common_name": "Yellow-fronted Canary",
+      "label": "Platysteira_cyanea",
+      "common_name": "Brown-throated Wattle-eye",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Hedydipna_collaris",
+      "common_name": "Collared Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_vitellinus",
+      "common_name": "Vitelline Masked Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_xanthops",
+      "common_name": "Holub's Golden Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tricholaema_diademata",
+      "common_name": "Red-fronted Barbet",
       "difference": null,
       "times_confused": 1
     }

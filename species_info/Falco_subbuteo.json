@@ -1,0 +1,86 @@
+{
+  "label": "Falco_subbuteo",
+  "scientific_name": "Falco subbuteo",
+  "common_name": "Eurasian Hobby",
+  "other_names": {
+    "sw": "Kipanga"
+  },
+  "family": "Falconidae",
+  "summary": "The Eurasian hobby (Falco subbuteo), or just hobby, is a small, slim falcon. It belongs to a group of similar falcons often considered a subgenus of Falco.",
+  "appearance": {
+    "description": "Adults are slate-grey above with a dark crown and two short black moustache stripes. The throat is unstreaked white, the thighs and undertail coverts are unstreaked rufous and the rest of the underparts are whitish with black streaks. Close views enable the red \"trousers\" and vent to be seen.",
+    "colors": "It belongs to a group of similar falcons often considered a subgenus of Falco. Adults are slate-grey above with a dark crown and two short black moustache stripes.",
+    "wings": null
+  },
+  "size": {
+    "adult": {
+      "wingspan_cm": [
+        74.0,
+        84.0
+      ],
+      "length_cm": [
+        29.0,
+        36.0
+      ],
+      "mass_g": [
+        175.0,
+        285.0
+      ]
+    },
+    "juvenile": {
+      "notes": "Juveniles are generally much browner, with scaled upper parts and streaked buffy thighs and undertail coverts."
+    },
+    "chick": null
+  },
+  "behaviour": "It is a bird of open country, such as farmland, marshes, taiga and savannah. They are widespread in lowlands with scattered small woods. It is an elegant bird of prey, appearing sickle-like in flight with its long pointed wings and square tail, often resembling a swift when gliding with folded wings.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "This species breeds across the Palearctic realm. The subspecies F. s. subbuteo is a long-distance migrant, wintering in Africa.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Central",
+      "Coast",
+      "Eastern",
+      "Nairobi"
+    ],
+    "gbif_records_in_kenya": 1549
+  },
+  "look_alikes": [
+    {
+      "label": "Circaetus_pectoralis",
+      "common_name": "Black-chested Snake Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Circus_pygargus",
+      "common_name": "Montagu's Harrier",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cisticola_chiniana",
+      "common_name": "Rattling Cisticola",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Eurasian hobby",
+      "url": "https://en.wikipedia.org/wiki/Eurasian_hobby",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2481035"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

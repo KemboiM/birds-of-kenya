@@ -92,6 +92,18 @@
       "common_name": "Spur-winged Goose",
       "difference": null,
       "times_confused": 1
+    },
+    {
+      "label": "Pelecanus_rufescens",
+      "common_name": "Pink-backed Pelican",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Spatula_hottentota",
+      "common_name": "Blue-billed Teal",
+      "difference": null,
+      "times_confused": 1
     }
   ],
   "sources": [

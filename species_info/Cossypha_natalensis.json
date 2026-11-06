@@ -54,6 +54,30 @@
       "common_name": "Northern Red-billed Hornbill",
       "difference": null,
       "times_confused": 1
+    },
+    {
+      "label": "Cossypha_semirufa",
+      "common_name": "Rüppell's Robin-chat",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Hedydipna_collaris",
+      "common_name": "Collared Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Terpsiphone_viridis",
+      "common_name": "African Paradise Flycatcher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Apaloderma_narina",
+      "common_name": "Narina Trogon",
+      "difference": null,
+      "times_confused": 1
     }
   ],
   "sources": [

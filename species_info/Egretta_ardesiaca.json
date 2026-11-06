@@ -70,6 +70,30 @@
       "common_name": "Squacco Heron",
       "difference": null,
       "times_confused": 1
+    },
+    {
+      "label": "Ardea_cinerea",
+      "common_name": "Grey Heron",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Dendrocygna_viduata",
+      "common_name": "White-faced Whistling Duck",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Circaetus_cinereus",
+      "common_name": "Brown Snake Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ardea_alba",
+      "common_name": "Great Egret",
+      "difference": null,
+      "times_confused": 1
     }
   ],
   "sources": [

@@ -62,6 +62,30 @@
       "common_name": "Black Cuckooshrike",
       "difference": null,
       "times_confused": 1
+    },
+    {
+      "label": "Eremomela_icteropygialis",
+      "common_name": "Yellow-bellied Eremomela",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Megaceryle_maxima",
+      "common_name": "Giant Kingfisher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Turdoides_jardineii",
+      "common_name": "Arrow-marked Babbler",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pseudonigrita_arnaudi",
+      "common_name": "Grey-capped Social Weaver",
+      "difference": null,
+      "times_confused": 1
     }
   ],
   "sources": [

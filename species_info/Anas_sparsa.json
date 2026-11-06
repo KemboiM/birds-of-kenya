@@ -60,6 +60,30 @@
       "common_name": "Common Moorhen",
       "difference": null,
       "times_confused": 1
+    },
+    {
+      "label": "Dendrocygna_viduata",
+      "common_name": "White-faced Whistling Duck",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Himantopus_himantopus",
+      "common_name": "Black-winged Stilt",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Egretta_intermedia",
+      "common_name": "Medium Egret",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Balearica_regulorum",
+      "common_name": "Grey Crowned Crane",
+      "difference": null,
+      "times_confused": 1
     }
   ],
   "sources": [

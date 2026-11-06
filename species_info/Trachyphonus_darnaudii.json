@@ -34,13 +34,13 @@
       "label": "Trachyphonus_erythrocephalus",
       "common_name": "Red-and-yellow Barbet",
       "difference": null,
-      "times_confused": 2
+      "times_confused": 3
     },
     {
       "label": "Amadina_fasciata",
       "common_name": "Cut-throat Finch",
       "difference": null,
-      "times_confused": 1
+      "times_confused": 3
     },
     {
       "label": "Vidua_paradisaea",
@@ -87,6 +87,48 @@
     {
       "label": "Platysteira_cyanea",
       "common_name": "Brown-throated Wattle-eye",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Otus_senegalensis",
+      "common_name": "African Scops Owl",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Otus_ireneae",
+      "common_name": "Sokoke Scops Owl",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Plocepasser_donaldsoni",
+      "common_name": "Donaldson Smith's Sparrow-weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Dendropicos_fuscescens",
+      "common_name": "Cardinal Woodpecker",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Numida_meleagris",
+      "common_name": "Helmeted Guinea Fowl",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Gyps_rueppellii",
+      "common_name": "Rüppell's Vulture",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Turtur_chalcospilos",
+      "common_name": "Emerald-spotted Wood Dove",
       "difference": null,
       "times_confused": 1
     }

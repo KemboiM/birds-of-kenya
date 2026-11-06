@@ -46,12 +46,6 @@
   },
   "look_alikes": [
     {
-      "label": "Bubo_africanus",
-      "common_name": "Spotted Eagle-owl",
-      "difference": null,
-      "times_confused": 3
-    },
-    {
       "label": "Strix_woodfordii",
       "common_name": "African Wood Owl",
       "difference": null,
@@ -60,6 +54,18 @@
     {
       "label": "Bubo_cinerascens",
       "common_name": "Greyish Eagle-owl",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Gypohierax_angolensis",
+      "common_name": "Palm-nut Vulture",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Bubo_africanus",
+      "common_name": "Spotted Eagle-owl",
       "difference": null,
       "times_confused": 1
     },
@@ -132,6 +138,102 @@
     {
       "label": "Torgos_tracheliotos",
       "common_name": "Lappet-faced Vulture",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ptilopsis_leucotis",
+      "common_name": "Northern White-faced Owl",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Glaucidium_perlatum",
+      "common_name": "Pearl-spotted Owlet",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pseudonigrita_cabanisi",
+      "common_name": "Black-capped Social Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Turdoides_hypoleuca",
+      "common_name": "Northern Pied Babbler",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Passer_gongonensis",
+      "common_name": "Parrot-billed Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Aquila_rapax",
+      "common_name": "Tawny Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Burhinus_vermiculatus",
+      "common_name": "Water Thick-knee",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cichladusa_guttata",
+      "common_name": "Spotted Palm Thrush",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_xanthops",
+      "common_name": "Holub's Golden Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Polemaetus_bellicosus",
+      "common_name": "Martial Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Polyboroides_typus",
+      "common_name": "African Harrier-hawk",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Threskiornis_aethiopicus",
+      "common_name": "African Sacred Ibis",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Uraeginthus_bengalus",
+      "common_name": "Red-cheeked Cordon-bleu",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lophaetus_occipitalis",
+      "common_name": "Long-crested Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Milvus_migrans",
+      "common_name": "Black Kite",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Myrmecocichla_aethiops",
+      "common_name": "Anteater Chat",
       "difference": null,
       "times_confused": 1
     }

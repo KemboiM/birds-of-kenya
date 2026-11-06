@@ -43,7 +43,7 @@
       "label": "Ardea_alba",
       "common_name": "Great Egret",
       "difference": null,
-      "times_confused": 9
+      "times_confused": 6
     },
     {
       "label": "Bubulcus_ibis",
@@ -55,7 +55,7 @@
       "label": "Egretta_garzetta",
       "common_name": "Little Egret",
       "difference": null,
-      "times_confused": 2
+      "times_confused": 4
     },
     {
       "label": "Chlidonias_hybrida",
@@ -66,6 +66,24 @@
     {
       "label": "Thalassornis_leuconotus",
       "common_name": "White-backed Duck",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Anas_sparsa",
+      "common_name": "African Black Duck",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Thalasseus_bengalensis",
+      "common_name": "Lesser Crested Tern",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ardea_melanocephala",
+      "common_name": "Black-headed Heron",
       "difference": null,
       "times_confused": 1
     }

@@ -36,6 +36,12 @@
   },
   "look_alikes": [
     {
+      "label": "Bycanistes_brevis",
+      "common_name": "Silvery-cheeked Hornbill",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
       "label": "Kaupifalco_monogrammicus",
       "common_name": "Lizard Buzzard",
       "difference": null,
@@ -74,6 +80,96 @@
     {
       "label": "Pycnonotus_barbatus",
       "common_name": "Common Bulbul",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cyanomitra_verticalis",
+      "common_name": "Green-headed Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Platysteira_cyanea",
+      "common_name": "Brown-throated Wattle-eye",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Strix_woodfordii",
+      "common_name": "African Wood Owl",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Chalcomitra_amethystina",
+      "common_name": "Amethyst Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Merops_bullockoides",
+      "common_name": "White-fronted Bee-eater",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ceryle_rudis",
+      "common_name": "Pied Kingfisher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cichladusa_guttata",
+      "common_name": "Spotted Palm Thrush",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lamprotornis_purpuroptera",
+      "common_name": "Rüppell's Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lonchura_cucullata",
+      "common_name": "Bronze Mannikin",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Myrmecocichla_nigra",
+      "common_name": "Sooty Chat",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Onychognathus_morio",
+      "common_name": "Red-winged Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Poicephalus_gulielmi",
+      "common_name": "Red-fronted Parrot",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pseudonigrita_cabanisi",
+      "common_name": "Black-capped Social Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Centropus_superciliosus",
+      "common_name": "White-browed Coucal",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lamprotornis_hildebrandti",
+      "common_name": "Hildebrandt's Starling",
       "difference": null,
       "times_confused": 1
     }

@@ -31,16 +31,22 @@
   },
   "look_alikes": [
     {
-      "label": "Cinnyricinclus_leucogaster",
-      "common_name": "Violet-backed Starling",
-      "difference": null,
-      "times_confused": 2
-    },
-    {
       "label": "Lanius_cabanisi",
       "common_name": "Long-tailed Fiscal",
       "difference": null,
       "times_confused": 2
+    },
+    {
+      "label": "Urocolius_macrourus",
+      "common_name": "Blue-naped Mousebird",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Cinnyricinclus_leucogaster",
+      "common_name": "Violet-backed Starling",
+      "difference": null,
+      "times_confused": 1
     },
     {
       "label": "Platysteira_cyanea",
@@ -93,6 +99,54 @@
     {
       "label": "Cisticola_chiniana",
       "common_name": "Rattling Cisticola",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Gymnoris_pyrgita",
+      "common_name": "Yellow-spotted Bush Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Laniarius_major",
+      "common_name": "Tropical Boubou",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lonchura_cucullata",
+      "common_name": "Bronze Mannikin",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Motacilla_aguimp",
+      "common_name": "African Pied Wagtail",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Oenanthe_oenanthe",
+      "common_name": "Northern Wheatear",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Prinia_subflava",
+      "common_name": "Tawny-flanked Prinia",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Rostratula_benghalensis",
+      "common_name": "Greater Painted-snipe",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Muscicapa_striata",
+      "common_name": "Spotted Flycatcher",
       "difference": null,
       "times_confused": 1
     }

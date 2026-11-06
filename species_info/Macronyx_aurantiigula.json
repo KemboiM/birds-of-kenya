@@ -42,6 +42,24 @@
       "common_name": "Yellow-throated Longclaw",
       "difference": null,
       "times_confused": 3
+    },
+    {
+      "label": "Macronyx_sharpei",
+      "common_name": "Sharpe's Longclaw",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Calendulauda_africanoides",
+      "common_name": "Fawn-coloured Lark",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Macronyx_ameliae",
+      "common_name": "Rosy-throated Longclaw",
+      "difference": null,
+      "times_confused": 1
     }
   ],
   "sources": [

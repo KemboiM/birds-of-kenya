@@ -1,0 +1,68 @@
+{
+  "label": "Iduna_natalensis",
+  "scientific_name": "Iduna natalensis",
+  "common_name": "African Yellow Warbler",
+  "other_names": {},
+  "family": "Acrocephalidae",
+  "summary": "The African yellow warbler (Iduna natalensis), also known as Natal yellow warbler, dark-capped yellow warbler or yellow flycatcher-warbler, is a species of Acrocephalidae warblers; formerly, these were placed in the paraphyletic \"Old World warblers\".",
+  "appearance": {
+    "description": "The African yellow warbler is a medium-sized warbler in which the whole of the upperparts and tail are yellowish-brown, with a slightly browner crown and yellower rump. The wings have brown feathers edged with yellow. The underparts are bright yellow with an olive wash on the sides of the breast, flanks and lower belly.",
+    "colors": "The African yellow warbler (Iduna natalensis), also known as Natal yellow warbler, dark-capped yellow warbler or yellow flycatcher-warbler, is a species of Acrocephalidae warblers; formerly, these were placed in the paraphyletic \"Old World warblers\". The African yellow warbler is a medium-sized warbler in which the whole of the upperparts and tail are yellowish-brown, with a slightly browner crown and yellower rump.",
+    "wings": "The wings have brown feathers edged with yellow."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        13.0,
+        13.0
+      ],
+      "mass_g": [
+        15.0,
+        15.0
+      ]
+    },
+    "juvenile": {
+      "notes": "Females have duller underparts, and the juveniles are similar to the males but are buffier."
+    },
+    "chick": null
+  },
+  "behaviour": "The song of the African yellow warbler is a rapid series of throaty and varied notes preceded by a few raspy notes, for example, \"chip-chip-chip- whee-lee-wheeo\". The alarm call is a sharp \"tsk\" or \"chirr\".",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The African yellow warbler is a bird of rank vegetation and occurs in reeds, overgrown waterside vegetation and forest edges, especially where these are integrated with wetter vegetation. This species was originally placed in the genus Chloropeta alongside the mountain yellow warbler but molecular studies have shown that it is closely related to the clade of palearctic bush warblers that were formerly in the genus Hippolais and also the previously incertae sedis thick-billed warbler.",
+    "kenya_regions": [
+      "Nairobi",
+      "Kenya",
+      "Central",
+      "Western",
+      "Rift Valley",
+      "Eastern"
+    ],
+    "gbif_records_in_kenya": 3566
+  },
+  "look_alikes": [
+    {
+      "label": "Chlorocichla_laetissima",
+      "common_name": "Joyful Greenbul",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "African yellow warbler",
+      "url": "https://en.wikipedia.org/wiki/African_yellow_warbler",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/6101023"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

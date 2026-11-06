@@ -34,7 +34,7 @@
       "label": "Bradornis_microrhynchus",
       "common_name": "African Grey Flycatcher",
       "difference": null,
-      "times_confused": 2
+      "times_confused": 4
     },
     {
       "label": "Cisticola_chiniana",
@@ -81,6 +81,30 @@
     {
       "label": "Sporopipes_frontalis",
       "common_name": "Speckle-fronted Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Oenanthe_scotocerca",
+      "common_name": "Brown-tailed Rock Chat",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Indicator_indicator",
+      "common_name": "Greater Honeyguide",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Muscicapa_striata",
+      "common_name": "Spotted Flycatcher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Passer_domesticus",
+      "common_name": "House Sparrow",
       "difference": null,
       "times_confused": 1
     }

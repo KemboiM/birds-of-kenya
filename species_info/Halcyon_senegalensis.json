@@ -38,10 +38,16 @@
   },
   "look_alikes": [
     {
+      "label": "Halcyon_albiventris",
+      "common_name": "Brown-hooded Kingfisher",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
       "label": "Halcyon_leucocephala",
       "common_name": "Grey-headed Kingfisher",
       "difference": null,
-      "times_confused": 2
+      "times_confused": 1
     },
     {
       "label": "Halcyon_senegaloides",
@@ -64,6 +70,24 @@
     {
       "label": "Uraeginthus_bengalus",
       "common_name": "Red-cheeked Cordon-bleu",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Corythaeola_cristata",
+      "common_name": "Great Blue Turaco",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Phoeniculus_purpureus",
+      "common_name": "Green Wood Hoopoe",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lanius_excubitoroides",
+      "common_name": "Grey-backed Fiscal",
       "difference": null,
       "times_confused": 1
     }

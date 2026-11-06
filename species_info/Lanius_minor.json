@@ -1,0 +1,64 @@
+{
+  "label": "Lanius_minor",
+  "scientific_name": "Lanius minor",
+  "common_name": "Lesser Grey Shrike",
+  "other_names": {},
+  "family": "Laniidae",
+  "summary": "The lesser grey shrike (Lanius minor) is a passerine bird in the shrike family Laniidae. It breeds in South and Central Europe and western Asia and migrates to winter quarters in southern Africa in the early autumn, returning in spring. It is a scarce vagrant to western Europe, including Great Britain, usually as a spring or autumn erratic.",
+  "appearance": {
+    "description": "The adult male lesser grey shrike has its nape, cheeks, ear and eye coverts and front part of the crown black. The hind part of the crown and the back is a pale bluish-grey and the rump is a similar but rather paler colour. The underparts are white with the lower breast and belly suffused with pink.",
+    "colors": "The lesser grey shrike (Lanius minor) is a passerine bird in the shrike family Laniidae. It is similar in appearance to the great grey shrike (Lanius excubitor) and the Iberian grey shrike (Lanius meridionalis); both sexes are predominantly black, white and grey, and males have pink-flushed underparts.",
+    "wings": "It is slightly smaller than the great grey shrike, and has a black forehead and relatively longer wings. The axillaries are greyish-white and the underwing coverts are brownish-black."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        13.0,
+        20.0
+      ]
+    },
+    "juvenile": {
+      "notes": "The juvenile is similar to the adults but is altogether more brown."
+    },
+    "chick": null
+  },
+  "behaviour": "The lesser grey shrike hunts from a strategic post, wire or branch and primarily feeds on insects which it catches in the air or on the ground. The diet includes beetles, moths and butterflies, large flies, grasshoppers, crickets and millipedes. Some fruits such as cherries and figs are eaten to a limited extent.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The lesser grey shrike spends the summer in South and Central Europe and western Asia. It breeds in southern France, Switzerland, Austria, Hungary, Slovakia, Czech Republic, Italy, the former Yugoslavia, Albania, Greece, Romania, Bulgaria, Ukraine and southern Russia.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Nairobi",
+      "Eastern",
+      "Coast",
+      "Central"
+    ],
+    "gbif_records_in_kenya": 1293
+  },
+  "look_alikes": [
+    {
+      "label": "Circus_pygargus",
+      "common_name": "Montagu's Harrier",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Lesser grey shrike",
+      "url": "https://en.wikipedia.org/wiki/Lesser_grey_shrike",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2492854"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

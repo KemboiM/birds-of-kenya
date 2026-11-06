@@ -47,6 +47,12 @@
       "common_name": "Long-tailed Paradise Whydah",
       "difference": null,
       "times_confused": 1
+    },
+    {
+      "label": "Hieraaetus_wahlbergi",
+      "common_name": "Wahlberg's Eagle",
+      "difference": null,
+      "times_confused": 1
     }
   ],
   "sources": [

@@ -31,6 +31,18 @@
   },
   "look_alikes": [
     {
+      "label": "Parus_thruppi",
+      "common_name": "Acacia Tit",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Tricholaema_lacrymosa",
+      "common_name": "Spot-flanked Barbet",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
       "label": "Batis_molitor",
       "common_name": "Chinspot Batis",
       "difference": null,
@@ -45,6 +57,24 @@
     {
       "label": "Tricholaema_diademata",
       "common_name": "Red-fronted Barbet",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Corvus_capensis",
+      "common_name": "Cape Crow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Crithagra_dorsostriata",
+      "common_name": "White-bellied Canary",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Eurocephalus_ruppelli",
+      "common_name": "Northern White-crowned Shrike",
       "difference": null,
       "times_confused": 1
     }

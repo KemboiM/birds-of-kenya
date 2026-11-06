@@ -36,16 +36,10 @@
   },
   "look_alikes": [
     {
-      "label": "Hirundo_rustica",
-      "common_name": "Barn Swallow",
+      "label": "Ptyonoprogne_fuligula",
+      "common_name": "Large Rock Martin",
       "difference": null,
-      "times_confused": 2
-    },
-    {
-      "label": "Cypsiurus_parvus",
-      "common_name": "African Palm Swift",
-      "difference": null,
-      "times_confused": 2
+      "times_confused": 3
     },
     {
       "label": "Psalidoprocne_pristoptera",
@@ -54,10 +48,16 @@
       "times_confused": 2
     },
     {
-      "label": "Ptyonoprogne_fuligula",
-      "common_name": "Large Rock Martin",
+      "label": "Hirundo_rustica",
+      "common_name": "Barn Swallow",
       "difference": null,
-      "times_confused": 2
+      "times_confused": 1
+    },
+    {
+      "label": "Cypsiurus_parvus",
+      "common_name": "African Palm Swift",
+      "difference": null,
+      "times_confused": 1
     },
     {
       "label": "Vidua_paradisaea",
@@ -98,6 +98,78 @@
     {
       "label": "Cecropis_abyssinica",
       "common_name": "Lesser Striped Swallow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Asio_capensis",
+      "common_name": "Marsh Owl",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Buteo_buteo",
+      "common_name": "Common Buzzard",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ciconia_ciconia",
+      "common_name": "White Stork",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Chlidonias_leucopterus",
+      "common_name": "White-winged Tern",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Corvus_albus",
+      "common_name": "Pied Crow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Corvus_edithae",
+      "common_name": "Somali Crow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ichthyaetus_hemprichii",
+      "common_name": "Sooty Gull",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Myrmecocichla_aethiops",
+      "common_name": "Anteater Chat",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pterocles_gutturalis",
+      "common_name": "Yellow-throated Sandgrouse",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Quelea_quelea",
+      "common_name": "Red-billed Quelea",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Buteo_augur",
+      "common_name": "Augur Buzzard",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Vanellus_crassirostris",
+      "common_name": "Long-toed Lapwing",
       "difference": null,
       "times_confused": 1
     }

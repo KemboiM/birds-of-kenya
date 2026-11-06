@@ -34,11 +34,23 @@
       "label": "Ardea_cinerea",
       "common_name": "Grey Heron",
       "difference": null,
-      "times_confused": 4
+      "times_confused": 7
+    },
+    {
+      "label": "Ardea_goliath",
+      "common_name": "Goliath Heron",
+      "difference": null,
+      "times_confused": 3
     },
     {
       "label": "Ardea_purpurea",
       "common_name": "Purple Heron",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Ciconia_ciconia",
+      "common_name": "White Stork",
       "difference": null,
       "times_confused": 2
     },
@@ -85,14 +97,50 @@
       "times_confused": 1
     },
     {
-      "label": "Ardea_goliath",
-      "common_name": "Goliath Heron",
+      "label": "Cinnyris_venustus",
+      "common_name": "Variable Sunbird",
       "difference": null,
       "times_confused": 1
     },
     {
-      "label": "Cinnyris_venustus",
-      "common_name": "Variable Sunbird",
+      "label": "Circaetus_pectoralis",
+      "common_name": "Black-chested Snake Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Egretta_intermedia",
+      "common_name": "Medium Egret",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Gypohierax_angolensis",
+      "common_name": "Palm-nut Vulture",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ardeotis_kori",
+      "common_name": "Kori Bustard",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bostrychia_hagedash",
+      "common_name": "Hadada Ibis",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Buphagus_erythrorhynchus",
+      "common_name": "Red-billed Oxpecker",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Vidua_macroura",
+      "common_name": "Pin-tailed Whydah",
       "difference": null,
       "times_confused": 1
     }

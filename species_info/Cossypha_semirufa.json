@@ -34,7 +34,7 @@
       "label": "Cossypha_heuglini",
       "common_name": "White-browed Robin-chat",
       "difference": null,
-      "times_confused": 5
+      "times_confused": 7
     },
     {
       "label": "Dendrocygna_viduata",
@@ -57,6 +57,12 @@
     {
       "label": "Poicephalus_rufiventris",
       "common_name": "Red-bellied Parrot",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cossypha_natalensis",
+      "common_name": "Red-capped Robin-chat",
       "difference": null,
       "times_confused": 1
     }

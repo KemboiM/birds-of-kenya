@@ -46,6 +46,18 @@
   },
   "look_alikes": [
     {
+      "label": "Melierax_poliopterus",
+      "common_name": "Eastern Chanting Goshawk",
+      "difference": null,
+      "times_confused": 5
+    },
+    {
+      "label": "Melierax_metabates",
+      "common_name": "Dark Chanting Goshawk",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
       "label": "Turdus_tephronotus",
       "common_name": "Bare-eyed Thrush",
       "difference": null,
@@ -106,18 +118,6 @@
       "times_confused": 1
     },
     {
-      "label": "Melierax_metabates",
-      "common_name": "Dark Chanting Goshawk",
-      "difference": null,
-      "times_confused": 1
-    },
-    {
-      "label": "Melierax_poliopterus",
-      "common_name": "Eastern Chanting Goshawk",
-      "difference": null,
-      "times_confused": 1
-    },
-    {
       "label": "Passer_rufocinctus",
       "common_name": "Kenya Sparrow",
       "difference": null,
@@ -126,6 +126,90 @@
     {
       "label": "Turdoides_jardineii",
       "common_name": "Arrow-marked Babbler",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Chalcomitra_hunteri",
+      "common_name": "Hunter's Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Chloropicus_namaquus",
+      "common_name": "Bearded Woodpecker",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Falco_biarmicus",
+      "common_name": "Lanner Falcon",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Chrysococcyx_klaas",
+      "common_name": "Klaas's Cuckoo",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Colius_leucocephalus",
+      "common_name": "White-headed Mousebird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Balearica_regulorum",
+      "common_name": "Grey Crowned Crane",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Buteo_buteo",
+      "common_name": "Common Buzzard",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Euplectes_progne",
+      "common_name": "Long-tailed Widowbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Platysteira_cyanea",
+      "common_name": "Brown-throated Wattle-eye",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Plectropterus_gambensis",
+      "common_name": "Spur-winged Goose",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Polemaetus_bellicosus",
+      "common_name": "Martial Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pseudonigrita_arnaudi",
+      "common_name": "Grey-capped Social Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Quelea_quelea",
+      "common_name": "Red-billed Quelea",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Urocolius_macrourus",
+      "common_name": "Blue-naped Mousebird",
       "difference": null,
       "times_confused": 1
     }

@@ -41,13 +41,19 @@
       "label": "Numida_meleagris",
       "common_name": "Helmeted Guinea Fowl",
       "difference": null,
-      "times_confused": 2
+      "times_confused": 3
     },
     {
       "label": "Upupa_africana",
       "common_name": "Eurasian Hoopoe",
       "difference": null,
-      "times_confused": 1
+      "times_confused": 2
+    },
+    {
+      "label": "Amaurornis_flavirostra",
+      "common_name": "Black Crake",
+      "difference": null,
+      "times_confused": 2
     },
     {
       "label": "Oenanthe_lugubris",
@@ -70,6 +76,60 @@
     {
       "label": "Corvus_splendens",
       "common_name": "House Crow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Onychognathus_morio",
+      "common_name": "Red-winged Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pterocles_exustus",
+      "common_name": "Chestnut-bellied Sandgrouse",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Plegadis_falcinellus",
+      "common_name": "Glossy Ibis",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Falco_rupicoloides",
+      "common_name": "Greater Kestrel",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lamprotornis_chalybaeus",
+      "common_name": "Greater Blue-eared Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lamprotornis_purpuroptera",
+      "common_name": "Rüppell's Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Notopholia_corrusca",
+      "common_name": "Black-bellied Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Columba_guinea",
+      "common_name": "Speckled Pigeon",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Leptoptilos_crumenifer",
+      "common_name": "Marabou Stork",
       "difference": null,
       "times_confused": 1
     }

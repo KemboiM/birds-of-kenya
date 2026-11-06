@@ -1,0 +1,63 @@
+{
+  "label": "Tauraco_leucolophus",
+  "scientific_name": "Tauraco leucolophus",
+  "common_name": "White-crested Turaco",
+  "other_names": {},
+  "family": "Musophagidae",
+  "summary": "The white-crested turaco (Tauraco leucolophus) is a bird in the family Musophagidae, a group of African otidimorph birds. The white-crested turaco is native to riverine forest and woodland in a belt between eastern Nigeria and western Kenya. It is a common species with a wide range and the International Union for Conservation of Nature has assessed it as being of \"least concern\".",
+  "appearance": {
+    "description": "This distinctive bird has glossy, bluish-black upperparts which contrast markedly with its white crest, cheeks, neck and throat. It possesses a green mantle around the shoulders and violet wing coverts and rectrices.",
+    "colors": "The white-crested turaco (Tauraco leucolophus) is a bird in the family Musophagidae, a group of African otidimorph birds. The white-crested turaco is native to riverine forest and woodland in a belt between eastern Nigeria and western Kenya.",
+    "wings": "It possesses a green mantle around the shoulders and violet wing coverts and rectrices."
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": "The white-crested turaco typically inhabits forests alongside rivers and wooded savannahs, particularly where there are tangled masses of creepers. It mostly eats berries and fruits, but also consumes flowers and invertebrates such as snails. The breeding season varies across the range, being April in the Congo and August in Uganda.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The white-crested turaco is native to Nigeria, Cameroon, Chad, Central African Republic, the Democratic Republic of Congo, Sudan, South Sudan, Kenya and Uganda. It occurs in lowland forests, woodland and savannah, and in hilly habitats up to an altitude of about 2,200 m (7,200 ft).",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Baringo",
+      "Western",
+      "Elgeyo-Marakwet",
+      "West Pokot"
+    ],
+    "gbif_records_in_kenya": 699
+  },
+  "look_alikes": [
+    {
+      "label": "Nectarinia_kilimensis",
+      "common_name": "Bronze Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tauraco_hartlaubi",
+      "common_name": "Hartlaub's Turaco",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "White-crested turaco",
+      "url": "https://en.wikipedia.org/wiki/White-crested_turaco",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2475238"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

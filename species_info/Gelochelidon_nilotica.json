@@ -44,10 +44,22 @@
   },
   "look_alikes": [
     {
+      "label": "Chlidonias_leucopterus",
+      "common_name": "White-winged Tern",
+      "difference": null,
+      "times_confused": 4
+    },
+    {
+      "label": "Chlidonias_hybrida",
+      "common_name": "Whiskered Tern",
+      "difference": null,
+      "times_confused": 3
+    },
+    {
       "label": "Chroicocephalus_cirrocephalus",
       "common_name": "Grey-headed Gull",
       "difference": null,
-      "times_confused": 3
+      "times_confused": 1
     },
     {
       "label": "Glareola_pratincola",
@@ -94,6 +106,24 @@
     {
       "label": "Vanellus_coronatus",
       "common_name": "Crowned Lapwing",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tachybaptus_ruficollis",
+      "common_name": "Little Grebe",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Elanus_caeruleus",
+      "common_name": "Black-winged Kite",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Vanellus_armatus",
+      "common_name": "Blacksmith Lapwing",
       "difference": null,
       "times_confused": 1
     }

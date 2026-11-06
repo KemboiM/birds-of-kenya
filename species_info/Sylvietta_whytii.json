@@ -34,7 +34,7 @@
       "label": "Sylvietta_brachyura",
       "common_name": "Northern Crombec",
       "difference": null,
-      "times_confused": 2
+      "times_confused": 1
     },
     {
       "label": "Turdus_tephronotus",
@@ -81,6 +81,66 @@
     {
       "label": "Lanius_humeralis",
       "common_name": "Northern Fiscal",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_bicolor",
+      "common_name": "Dark-backed Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cecropis_senegalensis",
+      "common_name": "Mosque Swallow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Camaroptera_brachyura",
+      "common_name": "Green-backed Camaroptera",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Colius_striatus",
+      "common_name": "Speckled Mousebird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cossypha_heuglini",
+      "common_name": "White-browed Robin-chat",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Eurocephalus_ruppelli",
+      "common_name": "Northern White-crowned Shrike",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Uraeginthus_bengalus",
+      "common_name": "Red-cheeked Cordon-bleu",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Turdoides_rubiginosa",
+      "common_name": "Rufous Chatterer",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Apalis_flavida",
+      "common_name": "Yellow-breasted Apalis",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pseudonigrita_arnaudi",
+      "common_name": "Grey-capped Social Weaver",
       "difference": null,
       "times_confused": 1
     }

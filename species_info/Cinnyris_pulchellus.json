@@ -39,7 +39,7 @@
       "label": "Cinnyris_mariquensis",
       "common_name": "Marico Sunbird",
       "difference": null,
-      "times_confused": 4
+      "times_confused": 3
     },
     {
       "label": "Cinnyris_reichenowi",
@@ -50,6 +50,12 @@
     {
       "label": "Nectarinia_kilimensis",
       "common_name": "Bronze Sunbird",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Cinnyris_nectarinioides",
+      "common_name": "Black-bellied Sunbird",
       "difference": null,
       "times_confused": 2
     },
@@ -68,6 +74,42 @@
     {
       "label": "Chalcomitra_amethystina",
       "common_name": "Amethyst Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Chalcomitra_senegalensis",
+      "common_name": "Scarlet-chested Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lamprotornis_hildebrandti",
+      "common_name": "Hildebrandt's Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Merops_persicus",
+      "common_name": "Blue-cheeked Bee-eater",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Prinia_subflava",
+      "common_name": "Tawny-flanked Prinia",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Terpsiphone_viridis",
+      "common_name": "African Paradise Flycatcher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lanius_humeralis",
+      "common_name": "Northern Fiscal",
       "difference": null,
       "times_confused": 1
     }

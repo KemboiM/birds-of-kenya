@@ -1,0 +1,63 @@
+{
+  "label": "Turdoides_hindei",
+  "scientific_name": "Turdoides hindei",
+  "common_name": "Hinde's Babbler",
+  "other_names": {},
+  "family": "Leiothrichidae",
+  "summary": "Hinde's babbler (Turdoides hindei), also known as Hinde's pied-babbler, is a species of bird in the family Leiothrichidae. It is endemic to Kenya. Its natural habitats are subtropical or tropical moist shrubland, arable land, and plantations.",
+  "appearance": {
+    "description": null,
+    "colors": null,
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Central",
+      "Kenya",
+      "Eastern",
+      "Nairobi",
+      "Murang'a",
+      "Nyeri"
+    ],
+    "gbif_records_in_kenya": 1487
+  },
+  "look_alikes": [
+    {
+      "label": "Bubalornis_niger",
+      "common_name": "Red-billed Buffalo Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Turdoides_sharpei",
+      "common_name": "Black-lored Babbler",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Hinde's babbler",
+      "url": "https://en.wikipedia.org/wiki/Hinde%27s_babbler",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2493301"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

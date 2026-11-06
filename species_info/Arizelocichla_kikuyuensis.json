@@ -31,6 +31,12 @@
   },
   "look_alikes": [
     {
+      "label": "Ploceus_ocularis",
+      "common_name": "Spectacled Weaver",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
       "label": "Apalis_flavida",
       "common_name": "Yellow-breasted Apalis",
       "difference": null,
@@ -39,6 +45,24 @@
     {
       "label": "Camaroptera_brachyura",
       "common_name": "Green-backed Camaroptera",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tchagra_jamesi",
+      "common_name": "Three-streaked Tchagra",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Dioptrornis_fischeri",
+      "common_name": "White-eyed Slaty Flycatcher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lamprotornis_purpuroptera",
+      "common_name": "Rüppell's Starling",
       "difference": null,
       "times_confused": 1
     }

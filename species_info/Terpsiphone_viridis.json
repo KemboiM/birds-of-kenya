@@ -38,8 +38,20 @@
   },
   "look_alikes": [
     {
+      "label": "Turdoides_rubiginosa",
+      "common_name": "Rufous Chatterer",
+      "difference": null,
+      "times_confused": 4
+    },
+    {
       "label": "Dicrurus_adsimilis",
       "common_name": "Fork-tailed Drongo",
+      "difference": null,
+      "times_confused": 3
+    },
+    {
+      "label": "Lamprotornis_hildebrandti",
+      "common_name": "Hildebrandt's Starling",
       "difference": null,
       "times_confused": 3
     },
@@ -50,14 +62,32 @@
       "times_confused": 2
     },
     {
-      "label": "Halcyon_leucocephala",
-      "common_name": "Grey-headed Kingfisher",
+      "label": "Chamaetylas_poliocephala",
+      "common_name": "Brown-chested Alethe",
       "difference": null,
-      "times_confused": 1
+      "times_confused": 2
     },
     {
-      "label": "Lamprotornis_hildebrandti",
-      "common_name": "Hildebrandt's Starling",
+      "label": "Cossypha_heuglini",
+      "common_name": "White-browed Robin-chat",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Tchagra_australis",
+      "common_name": "Brown-crowned Tchagra",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Laniarius_funebris",
+      "common_name": "Slate-colored Boubou",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Halcyon_leucocephala",
+      "common_name": "Grey-headed Kingfisher",
       "difference": null,
       "times_confused": 1
     },
@@ -118,6 +148,108 @@
     {
       "label": "Uraeginthus_bengalus",
       "common_name": "Red-cheeked Cordon-bleu",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Phyllastrephus_strepitans",
+      "common_name": "Northern Brownbul",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Hirundo_angolensis",
+      "common_name": "Angola Swallow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cossypha_natalensis",
+      "common_name": "Red-capped Robin-chat",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pogoniulus_bilineatus",
+      "common_name": "Yellow-rumped Tinkerbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bycanistes_subcylindricus",
+      "common_name": "Black-and-white-casqued Hornbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Euplectes_albonotatus",
+      "common_name": "White-winged Widowbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_rubiginosus",
+      "common_name": "Chestnut Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cinnyris_pulchellus",
+      "common_name": "Beautiful Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Erythropygia_leucophrys",
+      "common_name": "White-browed Scrub Robin",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Chalcomitra_senegalensis",
+      "common_name": "Scarlet-chested Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Chalcomitra_amethystina",
+      "common_name": "Amethyst Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Colius_striatus",
+      "common_name": "Speckled Mousebird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cyanomitra_verticalis",
+      "common_name": "Green-headed Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Dendropicos_spodocephalus",
+      "common_name": "Eastern Grey Woodpecker",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Laniarius_major",
+      "common_name": "Tropical Boubou",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Melaenornis_pammelaina",
+      "common_name": "Southern Black Flycatcher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Muscicapa_striata",
+      "common_name": "Spotted Flycatcher",
       "difference": null,
       "times_confused": 1
     }

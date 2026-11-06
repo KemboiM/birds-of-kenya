@@ -50,6 +50,12 @@
       "times_confused": 2
     },
     {
+      "label": "Ploceus_insignis",
+      "common_name": "Brown-capped Weaver",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
       "label": "Vidua_fischeri",
       "common_name": "Straw-tailed Whydah",
       "difference": null,
@@ -112,6 +118,42 @@
     {
       "label": "Zosterops_kikuyuensis",
       "common_name": "Kikuyu White-eye",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Chlorophoneus_sulfureopectus",
+      "common_name": "Orange-breasted Bushshrike",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Drepanorhynchus_reichenowi",
+      "common_name": "Golden-winged Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lybius_leucocephalus",
+      "common_name": "White-headed Barbet",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cossypha_heuglini",
+      "common_name": "White-browed Robin-chat",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_cucullatus",
+      "common_name": "Village Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pogoniulus_bilineatus",
+      "common_name": "Yellow-rumped Tinkerbird",
       "difference": null,
       "times_confused": 1
     }

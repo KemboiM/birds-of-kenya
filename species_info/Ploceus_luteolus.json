@@ -1,0 +1,63 @@
+{
+  "label": "Ploceus_luteolus",
+  "scientific_name": "Ploceus luteolus",
+  "common_name": "Little Weaver",
+  "other_names": {},
+  "family": "Ploceidae",
+  "summary": "The little weaver (Ploceus luteolus) is a species of bird in the family Ploceidae. It is found in western, central and eastern Africa.",
+  "appearance": {
+    "description": null,
+    "colors": null,
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Nyanza",
+      "Western",
+      "Baringo",
+      "Narok"
+    ],
+    "gbif_records_in_kenya": 1937
+  },
+  "look_alikes": [
+    {
+      "label": "Ploceus_spekei",
+      "common_name": "Speke's Weaver",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Crithagra_citrinelloides",
+      "common_name": "African Citril",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Little weaver",
+      "url": "https://en.wikipedia.org/wiki/Little_weaver",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2494045"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

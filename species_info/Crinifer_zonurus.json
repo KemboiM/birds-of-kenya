@@ -1,0 +1,72 @@
+{
+  "label": "Crinifer_zonurus",
+  "scientific_name": "Crinifer zonurus",
+  "common_name": "Eastern Plantain-eater",
+  "other_names": {},
+  "family": "Musophagidae",
+  "summary": "The eastern plantain-eater (Crinifer zonurus) also known as the eastern grey plantain-eater, is a large member of the turaco family, a group of large arboreal birds restricted to Africa. This species is a resident breeder in open woodland habitats in tropical east Africa. It lays two or three eggs in a tree platform nest.",
+  "appearance": {
+    "description": null,
+    "colors": "The eastern plantain-eater (Crinifer zonurus) also known as the eastern grey plantain-eater, is a large member of the turaco family, a group of large arboreal birds restricted to Africa. These are common, noisy and conspicuous birds, despite lacking the brilliant colours of relatives such as the violet turaco.",
+    "wings": "The eastern plantain-eater has a thick bright yellow bill, and shows a white wing bar in flight. However, eastern plantain-eater has white tail bars, and lacks the chest bars and dark wing feather shafts of its western relative."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        50.0,
+        50.0
+      ],
+      "mass_g": [
+        392.0,
+        737.0
+      ]
+    },
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Nyanza",
+      "Kenya",
+      "Rift Valley",
+      "Western",
+      "Kisumu",
+      "Homa Bay"
+    ],
+    "gbif_records_in_kenya": 1142
+  },
+  "look_alikes": [
+    {
+      "label": "Passer_griseus",
+      "common_name": "Northern Grey-headed Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Vidua_paradisaea",
+      "common_name": "Long-tailed Paradise Whydah",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Eastern plantain-eater",
+      "url": "https://en.wikipedia.org/wiki/Eastern_plantain-eater",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2475212"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

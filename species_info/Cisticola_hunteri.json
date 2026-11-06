@@ -37,10 +37,16 @@
       "times_confused": 2
     },
     {
+      "label": "Camaroptera_brachyura",
+      "common_name": "Green-backed Camaroptera",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
       "label": "Sporopipes_frontalis",
       "common_name": "Speckle-fronted Weaver",
       "difference": null,
-      "times_confused": 2
+      "times_confused": 1
     },
     {
       "label": "Amblyospiza_albifrons",
@@ -63,6 +69,42 @@
     {
       "label": "Prinia_subflava",
       "common_name": "Tawny-flanked Prinia",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cisticola_chubbi",
+      "common_name": "Chubb's Cisticola",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Muscicapa_aquatica",
+      "common_name": "Swamp Flycatcher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Urorhipis_rufifrons",
+      "common_name": "Red-fronted Prinia",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cisticola_cantans",
+      "common_name": "Singing Cisticola",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Passer_domesticus",
+      "common_name": "House Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Torgos_tracheliotos",
+      "common_name": "Lappet-faced Vulture",
       "difference": null,
       "times_confused": 1
     }

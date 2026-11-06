@@ -31,6 +31,12 @@
   },
   "look_alikes": [
     {
+      "label": "Ploceus_vitellinus",
+      "common_name": "Vitelline Masked Weaver",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
       "label": "Dicrurus_adsimilis",
       "common_name": "Fork-tailed Drongo",
       "difference": null,
@@ -43,8 +49,20 @@
       "times_confused": 1
     },
     {
-      "label": "Ploceus_vitellinus",
-      "common_name": "Vitelline Masked Weaver",
+      "label": "Hedydipna_collaris",
+      "common_name": "Collared Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Macronyx_croceus",
+      "common_name": "Yellow-throated Longclaw",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_intermedius",
+      "common_name": "Lesser Masked Weaver",
       "difference": null,
       "times_confused": 1
     }

@@ -39,6 +39,12 @@
       "times_confused": 2
     },
     {
+      "label": "Cursorius_temminckii",
+      "common_name": "Temminck's Courser",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
       "label": "Anas_erythrorhyncha",
       "common_name": "Red-billed Teal",
       "difference": null,
@@ -71,6 +77,24 @@
     {
       "label": "Vanellus_spinosus",
       "common_name": "Spur-winged Lapwing",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Alopochen_aegyptiaca",
+      "common_name": "Egyptian Goose",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Melierax_poliopterus",
+      "common_name": "Eastern Chanting Goshawk",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Vidua_macroura",
+      "common_name": "Pin-tailed Whydah",
       "difference": null,
       "times_confused": 1
     }

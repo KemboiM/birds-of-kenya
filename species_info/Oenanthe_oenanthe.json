@@ -49,17 +49,23 @@
       "label": "Oenanthe_isabellina",
       "common_name": "Isabelline Wheatear",
       "difference": null,
-      "times_confused": 9
-    },
-    {
-      "label": "Motacilla_capensis",
-      "common_name": "Cape Wagtail",
-      "difference": null,
-      "times_confused": 1
+      "times_confused": 5
     },
     {
       "label": "Saxicola_rubetra",
       "common_name": "Whinchat",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Oenanthe_pleschanka",
+      "common_name": "Pied Wheatear",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Motacilla_capensis",
+      "common_name": "Cape Wagtail",
       "difference": null,
       "times_confused": 1
     },
@@ -102,6 +108,54 @@
     {
       "label": "Turtur_chalcospilos",
       "common_name": "Emerald-spotted Wood Dove",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pinarochroa_sordida",
+      "common_name": "Moorland Chat",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Anthreptes_orientalis",
+      "common_name": "Eastern Violet-backed Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lamprotornis_fischeri",
+      "common_name": "Fischer's Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Anthus_leucophrys",
+      "common_name": "Plain-backed Pipit",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cursorius_temminckii",
+      "common_name": "Temminck's Courser",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Eminia_lepida",
+      "common_name": "Grey-capped Warbler",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lamprotornis_purpuroptera",
+      "common_name": "Rüppell's Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Muscicapa_striata",
+      "common_name": "Spotted Flycatcher",
       "difference": null,
       "times_confused": 1
     }

@@ -1,0 +1,71 @@
+{
+  "label": "Cecropis_semirufa",
+  "scientific_name": "Cecropis semirufa",
+  "common_name": "Red-breasted Swallow",
+  "other_names": {},
+  "family": "Hirundinidae",
+  "summary": "The red-breasted swallow (Cecropis semirufa), also known as the rufous-chested swallow, is a member of the family Hirundinidae, found in Sub-Saharan Africa. It is confined to the tropical rainforest during the wet season.",
+  "appearance": {
+    "description": "The red-breasted swallow is similar to the mosque swallow but is slightly smaller and has longer tail streamers, both species having a blue crown and mantle contrasting with a rufous rump and underparts, In the red-breasted swallow the dark crown extends below the eye and there is no white on the underwing. The juvenile is similar to the red-rumped swallow but has blue on the side of the head rather than dull red.",
+    "colors": "The red-breasted swallow (Cecropis semirufa), also known as the rufous-chested swallow, is a member of the family Hirundinidae, found in Sub-Saharan Africa. The red-breasted swallow is similar to the mosque swallow but is slightly smaller and has longer tail streamers, both species having a blue crown and mantle contrasting with a rufous rump and underparts, In the red-breasted swallow the dark crown extends below the eye and there is no white on the underwing.",
+    "wings": "The red-breasted swallow is similar to the mosque swallow but is slightly smaller and has longer tail streamers, both species having a blue crown and mantle contrasting with a rufous rump and underparts, In the red-breasted swallow the dark crown extends below the eye and there is no white on the underwing."
+  },
+  "size": {
+    "adult": null,
+    "juvenile": {
+      "notes": "The juvenile is similar to the red-rumped swallow but has blue on the side of the head rather than dull red."
+    },
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The red-breasted swallow is found over most of Africa south of the Sahara from the Eastern Cape north to northern Namibia and southern Angola in the west and Mozambique in the east, with a disjunct range from Senegal south to northern Angola east to Uganda, southwestern Kenya and northwestern Tanzania. The red-breasted swallow is migratory in most of its range.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Nyanza",
+      "Narok",
+      "Western",
+      "Homa Bay"
+    ],
+    "gbif_records_in_kenya": 660
+  },
+  "look_alikes": [
+    {
+      "label": "Cecropis_senegalensis",
+      "common_name": "Mosque Swallow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Coracias_naevius",
+      "common_name": "Purple Roller",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lamprotornis_hildebrandti",
+      "common_name": "Hildebrandt's Starling",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Red-breasted swallow",
+      "url": "https://en.wikipedia.org/wiki/Red-breasted_swallow",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/7342255"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

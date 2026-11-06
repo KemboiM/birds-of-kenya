@@ -77,6 +77,42 @@
       "common_name": "Ring-necked Dove",
       "difference": null,
       "times_confused": 1
+    },
+    {
+      "label": "Lanius_isabellinus",
+      "common_name": "Isabelline Shrike",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Dinemellia_dinemelli",
+      "common_name": "White-headed Buffalo Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Elanus_caeruleus",
+      "common_name": "Black-winged Kite",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Gymnoris_pyrgita",
+      "common_name": "Yellow-spotted Bush Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Nycticorax_nycticorax",
+      "common_name": "Black-crowned Night Heron",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pseudonigrita_cabanisi",
+      "common_name": "Black-capped Social Weaver",
+      "difference": null,
+      "times_confused": 1
     }
   ],
   "sources": [

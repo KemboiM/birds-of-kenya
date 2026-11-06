@@ -59,6 +59,18 @@
       "common_name": "Red-headed Weaver",
       "difference": null,
       "times_confused": 1
+    },
+    {
+      "label": "Coccopygia_quartinia",
+      "common_name": "Yellow-bellied Waxbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Hedydipna_collaris",
+      "common_name": "Collared Sunbird",
+      "difference": null,
+      "times_confused": 1
     }
   ],
   "sources": [

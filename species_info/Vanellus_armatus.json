@@ -37,6 +37,18 @@
       "times_confused": 2
     },
     {
+      "label": "Corvus_albus",
+      "common_name": "Pied Crow",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Motacilla_aguimp",
+      "common_name": "African Pied Wagtail",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
       "label": "Recurvirostra_avosetta",
       "common_name": "Pied Avocet",
       "difference": null,
@@ -81,6 +93,30 @@
     {
       "label": "Tringa_glareola",
       "common_name": "Wood Sandpiper",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cypsiurus_parvus",
+      "common_name": "African Palm Swift",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Gelochelidon_nilotica",
+      "common_name": "Gull-billed Tern",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Himantopus_himantopus",
+      "common_name": "Black-winged Stilt",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Oena_capensis",
+      "common_name": "Namaqua Dove",
       "difference": null,
       "times_confused": 1
     }

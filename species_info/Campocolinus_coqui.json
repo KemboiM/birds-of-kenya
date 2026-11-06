@@ -31,8 +31,32 @@
   },
   "look_alikes": [
     {
+      "label": "Scleroptila_shelleyi",
+      "common_name": "Shelley's Francolin",
+      "difference": null,
+      "times_confused": 3
+    },
+    {
       "label": "Pterocles_exustus",
       "common_name": "Chestnut-bellied Sandgrouse",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pternistis_afer",
+      "common_name": "Red-necked Spurfowl",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Quelea_quelea",
+      "common_name": "Red-billed Quelea",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ortygornis_sephaena",
+      "common_name": "Crested Francolin",
       "difference": null,
       "times_confused": 1
     }

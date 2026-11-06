@@ -38,16 +38,22 @@
   },
   "look_alikes": [
     {
-      "label": "Streptopelia_semitorquata",
-      "common_name": "Red-eyed Dove",
-      "difference": null,
-      "times_confused": 4
-    },
-    {
       "label": "Streptopelia_decipiens",
       "common_name": "Mourning Collared Dove",
       "difference": null,
+      "times_confused": 3
+    },
+    {
+      "label": "Spilopelia_senegalensis",
+      "common_name": "Laughing Dove",
+      "difference": null,
       "times_confused": 2
+    },
+    {
+      "label": "Streptopelia_semitorquata",
+      "common_name": "Red-eyed Dove",
+      "difference": null,
+      "times_confused": 1
     },
     {
       "label": "Kaupifalco_monogrammicus",
@@ -70,6 +76,42 @@
     {
       "label": "Nectarinia_kilimensis",
       "common_name": "Bronze Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Histurgops_ruficauda",
+      "common_name": "Rufous-tailed Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Turdus_pelios",
+      "common_name": "African Thrush",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Circaetus_pectoralis",
+      "common_name": "Black-chested Snake Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Polemaetus_bellicosus",
+      "common_name": "Martial Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Polyboroides_typus",
+      "common_name": "African Harrier-hawk",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Merops_bullockoides",
+      "common_name": "White-fronted Bee-eater",
       "difference": null,
       "times_confused": 1
     }

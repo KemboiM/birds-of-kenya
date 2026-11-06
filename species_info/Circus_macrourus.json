@@ -51,7 +51,19 @@
       "label": "Circus_pygargus",
       "common_name": "Montagu's Harrier",
       "difference": null,
-      "times_confused": 5
+      "times_confused": 3
+    },
+    {
+      "label": "Elanus_caeruleus",
+      "common_name": "Black-winged Kite",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Polyboroides_typus",
+      "common_name": "African Harrier-hawk",
+      "difference": null,
+      "times_confused": 2
     },
     {
       "label": "Aquila_rapax",
@@ -120,8 +132,32 @@
       "times_confused": 1
     },
     {
-      "label": "Elanus_caeruleus",
-      "common_name": "Black-winged Kite",
+      "label": "Glareola_pratincola",
+      "common_name": "Collared Pratincole",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Calidris_ferruginea",
+      "common_name": "Curlew Sandpiper",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Eremopterix_leucopareia",
+      "common_name": "Fischer's Sparrow-lark",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Telophorus_cruentus",
+      "common_name": "Rosy-patched Bushshrike",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Alopochen_aegyptiaca",
+      "common_name": "Egyptian Goose",
       "difference": null,
       "times_confused": 1
     }

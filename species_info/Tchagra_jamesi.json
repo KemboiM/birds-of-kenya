@@ -1,0 +1,69 @@
+{
+  "label": "Tchagra_jamesi",
+  "scientific_name": "Tchagra jamesi",
+  "common_name": "Three-streaked Tchagra",
+  "other_names": {},
+  "family": "Malaconotidae",
+  "summary": "The three-streaked tchagra (Tchagra jamesi) is a species of bird in the family Malaconotidae, which is an uncommon resident of semi-desert regions in the eastern Afrotropics. The binomial of this bird commemorates the explorer Frank Linsly James, who also had the Frank James Memorial Hospital built in his honour.",
+  "appearance": {
+    "description": "It is a small tchagra, measuring 16–17 cm from bill tip to tail tip. They are distinct from other tchagra species in having a narrow, black median stripe over the crown, without any superciliary stripe. In addition the tertials and rectrices are mouse-brown in colour.",
+    "colors": "They are distinct from other tchagra species in having a narrow, black median stripe over the crown, without any superciliary stripe. In addition the tertials and rectrices are mouse-brown in colour.",
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": "It is found in Ethiopia, Kenya, Somalia, South Sudan, Tanzania, and Uganda. Its natural habitats are dry savanna and subtropical or tropical dry shrubland.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Coast",
+      "Kenya",
+      "Eastern",
+      "Coast Province",
+      "Baringo"
+    ],
+    "gbif_records_in_kenya": 1621
+  },
+  "look_alikes": [
+    {
+      "label": "Arizelocichla_kikuyuensis",
+      "common_name": "Kikuyu Mountain Greenbul",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tchagra_australis",
+      "common_name": "Brown-crowned Tchagra",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Turtur_chalcospilos",
+      "common_name": "Emerald-spotted Wood Dove",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Three-streaked tchagra",
+      "url": "https://en.wikipedia.org/wiki/Three-streaked_tchagra",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2484824"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

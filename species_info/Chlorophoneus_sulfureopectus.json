@@ -40,7 +40,7 @@
       "label": "Ploceus_ocularis",
       "common_name": "Spectacled Weaver",
       "difference": null,
-      "times_confused": 2
+      "times_confused": 1
     },
     {
       "label": "Hedydipna_collaris",
@@ -63,6 +63,36 @@
     {
       "label": "Emberiza_flaviventris",
       "common_name": "Golden-breasted Bunting",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Crithagra_sulphurata",
+      "common_name": "Brimstone Canary",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Macronyx_croceus",
+      "common_name": "Yellow-throated Longclaw",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_baglafecht",
+      "common_name": "Baglafecht Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_nigricollis",
+      "common_name": "Black-necked Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_xanthops",
+      "common_name": "Holub's Golden Weaver",
       "difference": null,
       "times_confused": 1
     }

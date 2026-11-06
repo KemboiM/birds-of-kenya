@@ -1,0 +1,63 @@
+{
+  "label": "Zosterops_silvanus",
+  "scientific_name": "Zosterops silvanus",
+  "common_name": "Taita White-eye",
+  "other_names": {},
+  "family": "Zosteropidae",
+  "summary": "Taita white-eye (Zosterops silvanus) is a species of bird in the family Zosteropidae. It includes numerous subspecies, sometimes considered a subspecies to montane white-eye (Z. poliogastrus). It is only found in Taita Hills in southeastern Kenya.",
+  "appearance": {
+    "description": null,
+    "colors": "Taita white-eye (Zosterops silvanus) is a species of bird in the family Zosteropidae. It includes numerous subspecies, sometimes considered a subspecies to montane white-eye (Z. poliogastrus).",
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Coast",
+      "Kenya",
+      "Taita-Taveta",
+      "Taita Taveta",
+      "Coastal Kenya",
+      "Coast Province"
+    ],
+    "gbif_records_in_kenya": 3295
+  },
+  "look_alikes": [
+    {
+      "label": "Eminia_lepida",
+      "common_name": "Grey-capped Warbler",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Zosterops_kikuyuensis",
+      "common_name": "Kikuyu White-eye",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Taita white-eye",
+      "url": "https://en.wikipedia.org/wiki/Taita_white-eye",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/6100772"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

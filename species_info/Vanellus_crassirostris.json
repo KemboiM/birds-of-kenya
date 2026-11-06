@@ -84,6 +84,36 @@
       "common_name": "Blue-naped Mousebird",
       "difference": null,
       "times_confused": 1
+    },
+    {
+      "label": "Streptopelia_capicola",
+      "common_name": "Ring-necked Dove",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Apus_affinis",
+      "common_name": "Little Swift",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bostrychia_hagedash",
+      "common_name": "Hadada Ibis",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Chroicocephalus_cirrocephalus",
+      "common_name": "Grey-headed Gull",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Oena_capensis",
+      "common_name": "Namaqua Dove",
+      "difference": null,
+      "times_confused": 1
     }
   ],
   "sources": [

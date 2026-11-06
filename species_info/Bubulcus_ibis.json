@@ -57,25 +57,37 @@
       "label": "Ardea_alba",
       "common_name": "Great Egret",
       "difference": null,
-      "times_confused": 3
+      "times_confused": 4
+    },
+    {
+      "label": "Egretta_garzetta",
+      "common_name": "Little Egret",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Threskiornis_aethiopicus",
+      "common_name": "African Sacred Ibis",
+      "difference": null,
+      "times_confused": 2
     },
     {
       "label": "Chroicocephalus_cirrocephalus",
       "common_name": "Grey-headed Gull",
       "difference": null,
-      "times_confused": 3
+      "times_confused": 1
     },
     {
       "label": "Ardeola_ralloides",
       "common_name": "Squacco Heron",
       "difference": null,
-      "times_confused": 2
+      "times_confused": 1
     },
     {
       "label": "Platalea_alba",
       "common_name": "African Spoonbill",
       "difference": null,
-      "times_confused": 2
+      "times_confused": 1
     },
     {
       "label": "Ciconia_microscelis",
@@ -90,8 +102,44 @@
       "times_confused": 1
     },
     {
-      "label": "Egretta_garzetta",
-      "common_name": "Little Egret",
+      "label": "Turdoides_hypoleuca",
+      "common_name": "Northern Pied Babbler",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Plegadis_falcinellus",
+      "common_name": "Glossy Ibis",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ciconia_ciconia",
+      "common_name": "White Stork",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Passer_rufocinctus",
+      "common_name": "Kenya Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pelecanus_rufescens",
+      "common_name": "Pink-backed Pelican",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ardea_cinerea",
+      "common_name": "Grey Heron",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Corythaixoides_leucogaster",
+      "common_name": "White-bellied Go-away-bird",
       "difference": null,
       "times_confused": 1
     }

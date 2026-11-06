@@ -34,7 +34,7 @@
       "label": "Macronyx_croceus",
       "common_name": "Yellow-throated Longclaw",
       "difference": null,
-      "times_confused": 2
+      "times_confused": 1
     },
     {
       "label": "Corvus_albus",
@@ -51,6 +51,18 @@
     {
       "label": "Calendulauda_poecilosterna",
       "common_name": "Pink-breasted Lark",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Nicator_gularis",
+      "common_name": "Eastern Nicator",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_castaneiceps",
+      "common_name": "Taveta Weaver",
       "difference": null,
       "times_confused": 1
     }

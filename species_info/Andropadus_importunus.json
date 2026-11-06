@@ -38,6 +38,12 @@
   },
   "look_alikes": [
     {
+      "label": "Melocichla_mentalis",
+      "common_name": "Moustached Grass Warbler",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
       "label": "Chlorocichla_laetissima",
       "common_name": "Joyful Greenbul",
       "difference": null,
@@ -76,6 +82,42 @@
     {
       "label": "Zosterops_kikuyuensis",
       "common_name": "Kikuyu White-eye",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Circaetus_pectoralis",
+      "common_name": "Black-chested Snake Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Gymnoris_pyrgita",
+      "common_name": "Yellow-spotted Bush Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Turdus_pelios",
+      "common_name": "African Thrush",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Muscicapa_striata",
+      "common_name": "Spotted Flycatcher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Muscicapa_adusta",
+      "common_name": "African Dusky Flycatcher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Prinia_subflava",
+      "common_name": "Tawny-flanked Prinia",
       "difference": null,
       "times_confused": 1
     }

@@ -1,0 +1,68 @@
+{
+  "label": "Cisticola_juncidis",
+  "scientific_name": "Cisticola juncidis",
+  "common_name": "Zitting Cisticola",
+  "other_names": {},
+  "family": "Cisticolidae",
+  "summary": "The zitting cisticola, formerly also fan-tailed warbler or streaked fantail warbler (Cisticola juncidis), is a widely distributed Old World warbler in the family Cisticolidae, whose breeding range includes western and southern Europe, Africa outside the deserts and rainforest, and southern Asia down to northern Australia. A small bird found mainly in grasslands, it is best identified by its rufous rump; in addition it lacks any gold on the collar and the brownish tail is tipped with white.",
+  "appearance": {
+    "description": "The zitting cisticola is 10 to 12 cm (3.9 to 4.7 in) in length. It is brown above, heavily streaked with black markings. The underparts are whitish, and the tail is broad, white-tipped and flicked frequently, giving rise to the alternative name for the species.",
+    "colors": "A small bird found mainly in grasslands, it is best identified by its rufous rump; in addition it lacks any gold on the collar and the brownish tail is tipped with white. It is brown above, heavily streaked with black markings.",
+    "wings": null
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        10.0,
+        12.0
+      ]
+    },
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": "Zitting cisticolas are very small insectivorous birds, sometimes found in small groups. The breeding season is associated with the rains. Two broods a year occur in many regions.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "This species is found mainly in grassland habitats, often near water. Most populations are resident, but some East Asian populations migrate south to warmer areas in winter.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Nairobi",
+      "Eastern",
+      "Coast",
+      "Central"
+    ],
+    "gbif_records_in_kenya": 2924
+  },
+  "look_alikes": [
+    {
+      "label": "Cisticola_chiniana",
+      "common_name": "Rattling Cisticola",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Plocepasser_donaldsoni",
+      "common_name": "Donaldson Smith's Sparrow-weaver",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Zitting cisticola",
+      "url": "https://en.wikipedia.org/wiki/Zitting_cisticola",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2492822"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

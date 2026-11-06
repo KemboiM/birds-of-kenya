@@ -41,17 +41,35 @@
       "label": "Lissotis_melanogaster",
       "common_name": "Black-bellied Bustard",
       "difference": null,
-      "times_confused": 6
+      "times_confused": 4
+    },
+    {
+      "label": "Eupodotis_senegalensis",
+      "common_name": "White-bellied Bustard",
+      "difference": null,
+      "times_confused": 2
     },
     {
       "label": "Neotis_heuglinii",
       "common_name": "Heuglin's Bustard",
       "difference": null,
-      "times_confused": 2
+      "times_confused": 1
     },
     {
       "label": "Colius_striatus",
       "common_name": "Speckled Mousebird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Estrilda_rhodopyga",
+      "common_name": "Crimson-rumped Waxbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bubo_africanus",
+      "common_name": "Spotted Eagle-owl",
       "difference": null,
       "times_confused": 1
     }

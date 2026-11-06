@@ -33,16 +33,22 @@
   },
   "look_alikes": [
     {
-      "label": "Dicrurus_adsimilis",
-      "common_name": "Fork-tailed Drongo",
+      "label": "Laniarius_funebris",
+      "common_name": "Slate-colored Boubou",
+      "difference": null,
+      "times_confused": 5
+    },
+    {
+      "label": "Myrmecocichla_aethiops",
+      "common_name": "Anteater Chat",
       "difference": null,
       "times_confused": 2
     },
     {
-      "label": "Laniarius_funebris",
-      "common_name": "Slate-colored Boubou",
+      "label": "Dicrurus_adsimilis",
+      "common_name": "Fork-tailed Drongo",
       "difference": null,
-      "times_confused": 2
+      "times_confused": 1
     },
     {
       "label": "Lonchura_cucullata",
@@ -119,6 +125,18 @@
     {
       "label": "Turdus_abyssinicus",
       "common_name": "Abyssinian Thrush",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Centropus_superciliosus",
+      "common_name": "White-browed Coucal",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Parus_albiventris",
+      "common_name": "White-bellied Tit",
       "difference": null,
       "times_confused": 1
     }

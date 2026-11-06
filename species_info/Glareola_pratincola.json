@@ -92,6 +92,48 @@
       "common_name": "Tawny Eagle",
       "difference": null,
       "times_confused": 1
+    },
+    {
+      "label": "Falco_biarmicus",
+      "common_name": "Lanner Falcon",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Calandrella_cinerea",
+      "common_name": "Red-capped Lark",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Circus_macrourus",
+      "common_name": "Pallid Harrier",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Dendrocygna_viduata",
+      "common_name": "White-faced Whistling Duck",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Streptopelia_decipiens",
+      "common_name": "Mourning Collared Dove",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Chlidonias_leucopterus",
+      "common_name": "White-winged Tern",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Uraeginthus_ianthinogaster",
+      "common_name": "Purple Grenadier",
+      "difference": null,
+      "times_confused": 1
     }
   ],
   "sources": [

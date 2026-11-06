@@ -60,6 +60,48 @@
       "common_name": "Lesser Masked Weaver",
       "difference": null,
       "times_confused": 1
+    },
+    {
+      "label": "Oriolus_percivali",
+      "common_name": "Mountain Oriole",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lamprotornis_regius",
+      "common_name": "Golden-breasted Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Malaconotus_blanchoti",
+      "common_name": "Grey-headed Bushshrike",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Turdus_abyssinicus",
+      "common_name": "Abyssinian Thrush",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_nigricollis",
+      "common_name": "Black-necked Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_xanthops",
+      "common_name": "Holub's Golden Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Hedydipna_collaris",
+      "common_name": "Collared Sunbird",
+      "difference": null,
+      "times_confused": 1
     }
   ],
   "sources": [

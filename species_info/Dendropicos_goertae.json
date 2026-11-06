@@ -41,6 +41,12 @@
       "label": "Dendropicos_spodocephalus",
       "common_name": "Eastern Grey Woodpecker",
       "difference": null,
+      "times_confused": 3
+    },
+    {
+      "label": "Campethera_nubica",
+      "common_name": "Nubian Woodpecker",
+      "difference": null,
       "times_confused": 1
     }
   ],

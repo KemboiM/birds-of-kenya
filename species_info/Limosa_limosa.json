@@ -1,0 +1,74 @@
+{
+  "label": "Limosa_limosa",
+  "scientific_name": "Limosa limosa",
+  "common_name": "Black-tailed Godwit",
+  "other_names": {
+    "sw": "Msese Mkia-mweusi"
+  },
+  "family": "Scolopacidae",
+  "summary": "The black-tailed godwit (Limosa limosa) is a large, long-legged, long-billed shorebird first described by Carl Linnaeus in 1758. It is a member of the godwit genus, Limosa. There are four subspecies, all with orange head, neck and chest in breeding plumage and dull grey-brown winter coloration, and distinctive black and white wingbar at all times.",
+  "appearance": {
+    "description": "The black-tailed godwit is a large wader with long bill (7.5 to 12 cm (3.0 to 4.7 in) long), neck and legs. During the breeding season, the bill has a yellowish or orange-pink base and dark tip; the base is pink in winter. The legs are dark grey, brown or black.",
+    "colors": "There are four subspecies, all with orange head, neck and chest in breeding plumage and dull grey-brown winter coloration, and distinctive black and white wingbar at all times. Black-tailed godwits spend (the northern hemisphere) winter in areas as diverse as the Indian subcontinent, Australia, New Zealand, western Europe and west Africa.",
+    "wings": "There are four subspecies, all with orange head, neck and chest in breeding plumage and dull grey-brown winter coloration, and distinctive black and white wingbar at all times. In flight, its bold black and white wings and white rump can be seen readily."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        7.5,
+        12.0
+      ],
+      "wingspan_cm": [
+        70.0,
+        82.0
+      ],
+      "mass_g": [
+        280.0,
+        340.0
+      ]
+    },
+    "juvenile": {
+      "notes": "Juveniles have a pale orange wash to the neck and breast. The oldest recorded, as of 8 November 2025, is 29 years 2 months, for a bird of the Icelandic subspecies L. l. islandica; it was colour ringed as a juvenile on 30 August 1996 on The Wash in Lincolnshire, England, and has subsequently been seen on a total of 91 occasions, including breeding in northern Iceland."
+    },
+    "chick": null
+  },
+  "behaviour": "=== Breeding === Black-tailed godwits are mostly monogamous; although it was not recorded in a four-year study of 50–60 pairs, bigamy was considered \"probably frequent\". A study of the Icelandic population showed that despite spending winter apart, pairs are reunited on their breeding grounds within an average of three days of each other. If one partner does not arrive on time, 'divorce' occurs.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "Black-tailed godwits have a discontinuous breeding range stretching from Iceland to the far east of Russia. Their breeding habitat is river valley fens, floods at the edges of large lakes, damp steppes, raised bogs and moorlands.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Central",
+      "Nakuru",
+      "Eastern",
+      "Kajiado"
+    ],
+    "gbif_records_in_kenya": 1042
+  },
+  "look_alikes": [
+    {
+      "label": "Anas_capensis",
+      "common_name": "Cape Teal",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Black-tailed godwit",
+      "url": "https://en.wikipedia.org/wiki/Black-tailed_godwit",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2481685"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

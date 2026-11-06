@@ -36,16 +36,16 @@
   },
   "look_alikes": [
     {
-      "label": "Chloropicus_namaquus",
-      "common_name": "Bearded Woodpecker",
-      "difference": null,
-      "times_confused": 2
-    },
-    {
       "label": "Dendropicos_fuscescens",
       "common_name": "Cardinal Woodpecker",
       "difference": null,
-      "times_confused": 2
+      "times_confused": 3
+    },
+    {
+      "label": "Chloropicus_namaquus",
+      "common_name": "Bearded Woodpecker",
+      "difference": null,
+      "times_confused": 1
     },
     {
       "label": "Monticola_saxatilis",
@@ -98,6 +98,66 @@
     {
       "label": "Tockus_erythrorhynchus",
       "common_name": "Northern Red-billed Hornbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Jynx_ruficollis",
+      "common_name": "Red-throated Wryneck",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Corythaeola_cristata",
+      "common_name": "Great Blue Turaco",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Stephanoaetus_coronatus",
+      "common_name": "Crowned Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Amadina_fasciata",
+      "common_name": "Cut-throat Finch",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Burhinus_capensis",
+      "common_name": "Spotted Thick-knee",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Dendropicos_goertae",
+      "common_name": "African Grey Woodpecker",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Gyps_rueppellii",
+      "common_name": "Rüppell's Vulture",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Hedydipna_collaris",
+      "common_name": "Collared Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Microcarbo_africanus",
+      "common_name": "Reed Cormorant",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pterocles_exustus",
+      "common_name": "Chestnut-bellied Sandgrouse",
       "difference": null,
       "times_confused": 1
     }

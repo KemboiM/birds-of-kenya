@@ -45,7 +45,7 @@
       "label": "Ardea_goliath",
       "common_name": "Goliath Heron",
       "difference": null,
-      "times_confused": 3
+      "times_confused": 2
     },
     {
       "label": "Ardea_melanocephala",
@@ -54,10 +54,16 @@
       "times_confused": 2
     },
     {
+      "label": "Ardeola_rufiventris",
+      "common_name": "Rufous-bellied Heron",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
       "label": "Ardeola_ralloides",
       "common_name": "Squacco Heron",
       "difference": null,
-      "times_confused": 2
+      "times_confused": 1
     },
     {
       "label": "Anhinga_rufa",

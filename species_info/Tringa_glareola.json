@@ -35,16 +35,16 @@
   },
   "look_alikes": [
     {
-      "label": "Tringa_stagnatilis",
-      "common_name": "Marsh Sandpiper",
-      "difference": null,
-      "times_confused": 4
-    },
-    {
       "label": "Numenius_phaeopus",
       "common_name": "Eurasian Whimbrel",
       "difference": null,
-      "times_confused": 3
+      "times_confused": 5
+    },
+    {
+      "label": "Tringa_nebularia",
+      "common_name": "Common Greenshank",
+      "difference": null,
+      "times_confused": 4
     },
     {
       "label": "Tringa_ochropus",
@@ -57,6 +57,18 @@
       "common_name": "Common Sandpiper",
       "difference": null,
       "times_confused": 2
+    },
+    {
+      "label": "Burhinus_capensis",
+      "common_name": "Spotted Thick-knee",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Tringa_stagnatilis",
+      "common_name": "Marsh Sandpiper",
+      "difference": null,
+      "times_confused": 1
     },
     {
       "label": "Chlidonias_leucopterus",
@@ -133,6 +145,48 @@
     {
       "label": "Vanellus_coronatus",
       "common_name": "Crowned Lapwing",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Chlidonias_hybrida",
+      "common_name": "Whiskered Tern",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Gallinula_chloropus",
+      "common_name": "Common Moorhen",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Muscicapa_striata",
+      "common_name": "Spotted Flycatcher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Phoeniconaias_minor",
+      "common_name": "Lesser Flamingo",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Columba_guinea",
+      "common_name": "Speckled Pigeon",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Passer_rufocinctus",
+      "common_name": "Kenya Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Threskiornis_aethiopicus",
+      "common_name": "African Sacred Ibis",
       "difference": null,
       "times_confused": 1
     }

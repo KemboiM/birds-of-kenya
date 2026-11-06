@@ -42,22 +42,34 @@
   },
   "look_alikes": [
     {
-      "label": "Spilopelia_senegalensis",
-      "common_name": "Laughing Dove",
+      "label": "Turtur_chalcospilos",
+      "common_name": "Emerald-spotted Wood Dove",
       "difference": null,
       "times_confused": 3
     },
     {
-      "label": "Turtur_chalcospilos",
-      "common_name": "Emerald-spotted Wood Dove",
+      "label": "Urocolius_macrourus",
+      "common_name": "Blue-naped Mousebird",
       "difference": null,
       "times_confused": 2
+    },
+    {
+      "label": "Streptopelia_semitorquata",
+      "common_name": "Red-eyed Dove",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Spilopelia_senegalensis",
+      "common_name": "Laughing Dove",
+      "difference": null,
+      "times_confused": 1
     },
     {
       "label": "Streptopelia_decipiens",
       "common_name": "Mourning Collared Dove",
       "difference": null,
-      "times_confused": 2
+      "times_confused": 1
     },
     {
       "label": "Turtur_tympanistria",
@@ -146,6 +158,90 @@
     {
       "label": "Plocepasser_mahali",
       "common_name": "White-browed Sparrow-weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Chlidonias_leucopterus",
+      "common_name": "White-winged Tern",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Emberiza_flaviventris",
+      "common_name": "Golden-breasted Bunting",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Rhinoptilus_africanus",
+      "common_name": "Double-banded Courser",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Erythropygia_leucophrys",
+      "common_name": "White-browed Scrub Robin",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Muscicapa_striata",
+      "common_name": "Spotted Flycatcher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Actitis_hypoleucos",
+      "common_name": "Common Sandpiper",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Gyps_rueppellii",
+      "common_name": "Rüppell's Vulture",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Numida_meleagris",
+      "common_name": "Helmeted Guinea Fowl",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pterocles_exustus",
+      "common_name": "Chestnut-bellied Sandgrouse",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ardea_cinerea",
+      "common_name": "Grey Heron",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Buteo_augur",
+      "common_name": "Augur Buzzard",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Vanellus_armatus",
+      "common_name": "Blacksmith Lapwing",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Vanellus_crassirostris",
+      "common_name": "Long-toed Lapwing",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Vidua_macroura",
+      "common_name": "Pin-tailed Whydah",
       "difference": null,
       "times_confused": 1
     }

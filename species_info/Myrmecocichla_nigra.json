@@ -50,10 +50,22 @@
       "times_confused": 2
     },
     {
+      "label": "Melaenornis_pammelaina",
+      "common_name": "Southern Black Flycatcher",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Oenanthe_lugubris",
+      "common_name": "Abyssinian Wheatear",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
       "label": "Dicrurus_adsimilis",
       "common_name": "Fork-tailed Drongo",
       "difference": null,
-      "times_confused": 2
+      "times_confused": 1
     },
     {
       "label": "Notopholia_corrusca",
@@ -80,14 +92,44 @@
       "times_confused": 1
     },
     {
-      "label": "Melaenornis_pammelaina",
-      "common_name": "Southern Black Flycatcher",
+      "label": "Necrosyrtes_monachus",
+      "common_name": "Hooded Vulture",
       "difference": null,
       "times_confused": 1
     },
     {
-      "label": "Necrosyrtes_monachus",
-      "common_name": "Hooded Vulture",
+      "label": "Urolestes_melanoleucus",
+      "common_name": "Magpie Shrike",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bubalornis_niger",
+      "common_name": "Red-billed Buffalo Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Corvus_capensis",
+      "common_name": "Cape Crow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ephippiorhynchus_senegalensis",
+      "common_name": "Saddle-billed Stork",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lanius_dorsalis",
+      "common_name": "Taita Fiscal",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Megaceryle_maxima",
+      "common_name": "Giant Kingfisher",
       "difference": null,
       "times_confused": 1
     }

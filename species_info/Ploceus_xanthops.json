@@ -33,14 +33,14 @@
   },
   "look_alikes": [
     {
-      "label": "Ploceus_ocularis",
-      "common_name": "Spectacled Weaver",
+      "label": "Ploceus_cucullatus",
+      "common_name": "Village Weaver",
       "difference": null,
       "times_confused": 3
     },
     {
-      "label": "Ploceus_cucullatus",
-      "common_name": "Village Weaver",
+      "label": "Ploceus_ocularis",
+      "common_name": "Spectacled Weaver",
       "difference": null,
       "times_confused": 2
     },
@@ -51,10 +51,16 @@
       "times_confused": 2
     },
     {
+      "label": "Erythrocercus_holochlorus",
+      "common_name": "Little Yellow Flycatcher",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
       "label": "Ploceus_spekei",
       "common_name": "Speke's Weaver",
       "difference": null,
-      "times_confused": 2
+      "times_confused": 1
     },
     {
       "label": "Chlorocichla_laetissima",
@@ -125,6 +131,72 @@
     {
       "label": "Turdus_pelios",
       "common_name": "African Thrush",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Oriolus_oriolus",
+      "common_name": "Eurasian Golden Oriole",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_castanops",
+      "common_name": "Northern Brown-throated Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Chlorophoneus_sulfureopectus",
+      "common_name": "Orange-breasted Bushshrike",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Zosterops_senegalensis",
+      "common_name": "Northern Yellow White-eye",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Zosterops_kikuyuensis",
+      "common_name": "Kikuyu White-eye",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_intermedius",
+      "common_name": "Lesser Masked Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Hedydipna_collaris",
+      "common_name": "Collared Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pogonocichla_stellata",
+      "common_name": "White-starred Robin",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Telophorus_cruentus",
+      "common_name": "Rosy-patched Bushshrike",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bubo_lacteus",
+      "common_name": "Verreaux's Eagle-owl",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Chalcomitra_senegalensis",
+      "common_name": "Scarlet-chested Sunbird",
       "difference": null,
       "times_confused": 1
     }

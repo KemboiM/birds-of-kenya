@@ -43,17 +43,29 @@
       "label": "Platalea_alba",
       "common_name": "African Spoonbill",
       "difference": null,
-      "times_confused": 3
-    },
-    {
-      "label": "Urolestes_melanoleucus",
-      "common_name": "Magpie Shrike",
-      "difference": null,
-      "times_confused": 1
+      "times_confused": 2
     },
     {
       "label": "Ciconia_ciconia",
       "common_name": "White Stork",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Pelecanus_rufescens",
+      "common_name": "Pink-backed Pelican",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Pelecanus_onocrotalus",
+      "common_name": "Great White Pelican",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Urolestes_melanoleucus",
+      "common_name": "Magpie Shrike",
       "difference": null,
       "times_confused": 1
     },
@@ -114,6 +126,42 @@
     {
       "label": "Phoeniconaias_minor",
       "common_name": "Lesser Flamingo",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Euplectes_ardens",
+      "common_name": "Red-collared Widowbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Gypohierax_angolensis",
+      "common_name": "Palm-nut Vulture",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Alopochen_aegyptiaca",
+      "common_name": "Egyptian Goose",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ardea_alba",
+      "common_name": "Great Egret",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Buphagus_erythrorhynchus",
+      "common_name": "Red-billed Oxpecker",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Threskiornis_aethiopicus",
+      "common_name": "African Sacred Ibis",
       "difference": null,
       "times_confused": 1
     }

@@ -31,14 +31,14 @@
   },
   "look_alikes": [
     {
-      "label": "Cisticola_chiniana",
-      "common_name": "Rattling Cisticola",
-      "difference": null,
-      "times_confused": 2
-    },
-    {
       "label": "Cisticola_robustus",
       "common_name": "Stout Cisticola",
+      "difference": null,
+      "times_confused": 3
+    },
+    {
+      "label": "Cisticola_chiniana",
+      "common_name": "Rattling Cisticola",
       "difference": null,
       "times_confused": 2
     },
@@ -63,6 +63,18 @@
     {
       "label": "Turtur_tympanistria",
       "common_name": "Tambourine Dove",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Phylloscopus_trochilus",
+      "common_name": "Willow Warbler",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ardeola_ralloides",
+      "common_name": "Squacco Heron",
       "difference": null,
       "times_confused": 1
     }

@@ -51,7 +51,7 @@
       "label": "Acryllium_vulturinum",
       "common_name": "Vulturine Guinea Fowl",
       "difference": null,
-      "times_confused": 1
+      "times_confused": 2
     },
     {
       "label": "Bubalornis_niger",
@@ -80,6 +80,42 @@
     {
       "label": "Turtur_chalcospilos",
       "common_name": "Emerald-spotted Wood Dove",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Calendulauda_poecilosterna",
+      "common_name": "Pink-breasted Lark",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lagonosticta_senegala",
+      "common_name": "Red-billed Firefinch",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Coracias_garrulus",
+      "common_name": "European Roller",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Muscicapa_adusta",
+      "common_name": "African Dusky Flycatcher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Buphagus_africanus",
+      "common_name": "Yellow-billed Oxpecker",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Buphagus_erythrorhynchus",
+      "common_name": "Red-billed Oxpecker",
       "difference": null,
       "times_confused": 1
     }

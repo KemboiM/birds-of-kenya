@@ -38,10 +38,16 @@
   },
   "look_alikes": [
     {
+      "label": "Tachybaptus_ruficollis",
+      "common_name": "Little Grebe",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
       "label": "Anas_erythrorhyncha",
       "common_name": "Red-billed Teal",
       "difference": null,
-      "times_confused": 2
+      "times_confused": 1
     },
     {
       "label": "Plectropterus_gambensis",
@@ -68,12 +74,6 @@
       "times_confused": 1
     },
     {
-      "label": "Tachybaptus_ruficollis",
-      "common_name": "Little Grebe",
-      "difference": null,
-      "times_confused": 1
-    },
-    {
       "label": "Dendrocygna_viduata",
       "common_name": "White-faced Whistling Duck",
       "difference": null,
@@ -82,6 +82,18 @@
     {
       "label": "Gyps_rueppellii",
       "common_name": "Rüppell's Vulture",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ichthyaetus_hemprichii",
+      "common_name": "Sooty Gull",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Phoeniculus_purpureus",
+      "common_name": "Green Wood Hoopoe",
       "difference": null,
       "times_confused": 1
     }

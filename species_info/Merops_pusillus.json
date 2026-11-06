@@ -36,16 +36,22 @@
   },
   "look_alikes": [
     {
-      "label": "Merops_oreobates",
-      "common_name": "Cinnamon-chested Bee-eater",
-      "difference": null,
-      "times_confused": 4
-    },
-    {
       "label": "Merops_apiaster",
       "common_name": "European Bee-eater",
       "difference": null,
       "times_confused": 2
+    },
+    {
+      "label": "Ploceus_ocularis",
+      "common_name": "Spectacled Weaver",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Merops_oreobates",
+      "common_name": "Cinnamon-chested Bee-eater",
+      "difference": null,
+      "times_confused": 1
     },
     {
       "label": "Amblyospiza_albifrons",
@@ -56,6 +62,72 @@
     {
       "label": "Merops_albicollis",
       "common_name": "White-throated Bee-eater",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tauraco_schalowi",
+      "common_name": "Schalow's Turaco",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cyanomitra_verticalis",
+      "common_name": "Green-headed Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Empidornis_semipartitus",
+      "common_name": "Silverbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Dessonornis_caffer",
+      "common_name": "Cape Robin-chat",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Coracias_caudatus",
+      "common_name": "Lilac-breasted Roller",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Columba_guinea",
+      "common_name": "Speckled Pigeon",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Malaconotus_blanchoti",
+      "common_name": "Grey-headed Bushshrike",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Merops_persicus",
+      "common_name": "Blue-cheeked Bee-eater",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Nycticorax_nycticorax",
+      "common_name": "Black-crowned Night Heron",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_castaneiceps",
+      "common_name": "Taveta Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_intermedius",
+      "common_name": "Lesser Masked Weaver",
       "difference": null,
       "times_confused": 1
     }

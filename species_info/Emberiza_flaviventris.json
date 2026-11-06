@@ -38,10 +38,16 @@
   },
   "look_alikes": [
     {
+      "label": "Erythropygia_leucophrys",
+      "common_name": "White-browed Scrub Robin",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
       "label": "Emberiza_tahapisi",
       "common_name": "Cinnamon-breasted Bunting",
       "difference": null,
-      "times_confused": 2
+      "times_confused": 1
     },
     {
       "label": "Batis_molitor",
@@ -64,6 +70,42 @@
     {
       "label": "Passer_rufocinctus",
       "common_name": "Kenya Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Emberiza_poliopleura",
+      "common_name": "Somali Bunting",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Eminia_lepida",
+      "common_name": "Grey-capped Warbler",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lanius_collurio",
+      "common_name": "Red-backed Shrike",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Nilaus_afer",
+      "common_name": "Brubru",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Oena_capensis",
+      "common_name": "Namaqua Dove",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tchagra_senegalus",
+      "common_name": "Black-crowned Tchagra",
       "difference": null,
       "times_confused": 1
     }

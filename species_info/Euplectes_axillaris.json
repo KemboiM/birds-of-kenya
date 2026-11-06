@@ -31,14 +31,44 @@
   },
   "look_alikes": [
     {
+      "label": "Euplectes_ardens",
+      "common_name": "Red-collared Widowbird",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Lamprotornis_hildebrandti",
+      "common_name": "Hildebrandt's Starling",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
       "label": "Euplectes_albonotatus",
       "common_name": "White-winged Widowbird",
       "difference": null,
-      "times_confused": 3
+      "times_confused": 1
     },
     {
       "label": "Upupa_epops",
       "common_name": "Eurasian Hoopoe",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cecropis_abyssinica",
+      "common_name": "Lesser Striped Swallow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Chalcomitra_senegalensis",
+      "common_name": "Scarlet-chested Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Polihierax_semitorquatus",
+      "common_name": "Pygmy Falcon",
       "difference": null,
       "times_confused": 1
     }

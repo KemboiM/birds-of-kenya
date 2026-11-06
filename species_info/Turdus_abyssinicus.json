@@ -39,6 +39,12 @@
       "times_confused": 3
     },
     {
+      "label": "Turdus_helleri",
+      "common_name": "Taita Thrush",
+      "difference": null,
+      "times_confused": 3
+    },
+    {
       "label": "Coccopygia_quartinia",
       "common_name": "Yellow-bellied Waxbill",
       "difference": null,
@@ -137,6 +143,96 @@
     {
       "label": "Vidua_chalybeata",
       "common_name": "Village Indigobird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Prionops_scopifrons",
+      "common_name": "Chestnut-fronted Helmetshrike",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Eurillas_latirostris",
+      "common_name": "Yellow-whiskered Greenbul",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pogonocichla_stellata",
+      "common_name": "White-starred Robin",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Turdus_tephronotus",
+      "common_name": "Bare-eyed Thrush",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Thamnolaea_cinnamomeiventris",
+      "common_name": "Mocking Cliff Chat",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Macronyx_ameliae",
+      "common_name": "Rosy-throated Longclaw",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Amblyospiza_albifrons",
+      "common_name": "Thick-billed Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Anaplectes_rubriceps",
+      "common_name": "Red-headed Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Onychognathus_morio",
+      "common_name": "Red-winged Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cossypha_heuglini",
+      "common_name": "White-browed Robin-chat",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Merops_albicollis",
+      "common_name": "White-throated Bee-eater",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Dessonornis_caffer",
+      "common_name": "Cape Robin-chat",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Melierax_metabates",
+      "common_name": "Dark Chanting Goshawk",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Numida_meleagris",
+      "common_name": "Helmeted Guinea Fowl",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Vidua_fischeri",
+      "common_name": "Straw-tailed Whydah",
       "difference": null,
       "times_confused": 1
     }

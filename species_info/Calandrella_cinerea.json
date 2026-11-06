@@ -38,26 +38,26 @@
   },
   "look_alikes": [
     {
-      "label": "Anthus_leucophrys",
-      "common_name": "Plain-backed Pipit",
+      "label": "Eremopterix_leucopareia",
+      "common_name": "Fischer's Sparrow-lark",
       "difference": null,
-      "times_confused": 2
+      "times_confused": 4
     },
     {
       "label": "Anthus_cinnamomeus",
       "common_name": "African Pipit",
+      "difference": null,
+      "times_confused": 3
+    },
+    {
+      "label": "Anthus_leucophrys",
+      "common_name": "Plain-backed Pipit",
       "difference": null,
       "times_confused": 1
     },
     {
       "label": "Cisticola_chiniana",
       "common_name": "Rattling Cisticola",
-      "difference": null,
-      "times_confused": 1
-    },
-    {
-      "label": "Eremopterix_leucopareia",
-      "common_name": "Fischer's Sparrow-lark",
       "difference": null,
       "times_confused": 1
     },
@@ -70,6 +70,78 @@
     {
       "label": "Turdus_abyssinicus",
       "common_name": "Abyssinian Thrush",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Anthus_melindae",
+      "common_name": "Malindi Pipit",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Galerida_cristata",
+      "common_name": "Crested Lark",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Calendulauda_africanoides",
+      "common_name": "Fawn-coloured Lark",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Glareola_pratincola",
+      "common_name": "Collared Pratincole",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pinarochroa_sordida",
+      "common_name": "Moorland Chat",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Burhinus_vermiculatus",
+      "common_name": "Water Thick-knee",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Falco_tinnunculus",
+      "common_name": "Common Kestrel",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Passer_rufocinctus",
+      "common_name": "Kenya Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Quelea_quelea",
+      "common_name": "Red-billed Quelea",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Sporopipes_frontalis",
+      "common_name": "Speckle-fronted Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pterocles_exustus",
+      "common_name": "Chestnut-bellied Sandgrouse",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Upupa_epops",
+      "common_name": "Eurasian Hoopoe",
       "difference": null,
       "times_confused": 1
     }

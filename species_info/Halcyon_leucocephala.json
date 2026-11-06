@@ -39,7 +39,7 @@
       "label": "Halcyon_senegalensis",
       "common_name": "Woodland Kingfisher",
       "difference": null,
-      "times_confused": 2
+      "times_confused": 1
     },
     {
       "label": "Halcyon_senegaloides",
@@ -86,6 +86,60 @@
     {
       "label": "Urocolius_macrourus",
       "common_name": "Blue-naped Mousebird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Kaupifalco_monogrammicus",
+      "common_name": "Lizard Buzzard",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Parus_albiventris",
+      "common_name": "White-bellied Tit",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Circaetus_cinereus",
+      "common_name": "Brown Snake Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Actophilornis_africanus",
+      "common_name": "African Jacana",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Buphagus_erythrorhynchus",
+      "common_name": "Red-billed Oxpecker",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Corythornis_cristatus",
+      "common_name": "Malachite Kingfisher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Creatophora_cinerea",
+      "common_name": "Wattled Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Dendropicos_spodocephalus",
+      "common_name": "Eastern Grey Woodpecker",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lamprotornis_purpuroptera",
+      "common_name": "Rüppell's Starling",
       "difference": null,
       "times_confused": 1
     }

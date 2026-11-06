@@ -31,6 +31,12 @@
   },
   "look_alikes": [
     {
+      "label": "Calandrella_cinerea",
+      "common_name": "Red-capped Lark",
+      "difference": null,
+      "times_confused": 4
+    },
+    {
       "label": "Eremopterix_signatus",
       "common_name": "Chestnut-headed Sparrow-lark",
       "difference": null,
@@ -45,12 +51,6 @@
     {
       "label": "Oenanthe_pleschanka",
       "common_name": "Pied Wheatear",
-      "difference": null,
-      "times_confused": 1
-    },
-    {
-      "label": "Calandrella_cinerea",
-      "common_name": "Red-capped Lark",
       "difference": null,
       "times_confused": 1
     },
@@ -87,6 +87,72 @@
     {
       "label": "Lagonosticta_senegala",
       "common_name": "Red-billed Firefinch",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Charadrius_asiaticus",
+      "common_name": "Caspian Plover",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Gallus_gallus",
+      "common_name": "Red Junglefowl",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cyanomitra_olivacea",
+      "common_name": "Olive Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Plocepasser_donaldsoni",
+      "common_name": "Donaldson Smith's Sparrow-weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Circus_macrourus",
+      "common_name": "Pallid Harrier",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Passer_domesticus",
+      "common_name": "House Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Crithagra_striolata",
+      "common_name": "Streaky Seedeater",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Dinemellia_dinemelli",
+      "common_name": "White-headed Buffalo Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Anthus_leucophrys",
+      "common_name": "Plain-backed Pipit",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Gymnoris_pyrgita",
+      "common_name": "Yellow-spotted Bush Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Polemaetus_bellicosus",
+      "common_name": "Martial Eagle",
       "difference": null,
       "times_confused": 1
     }

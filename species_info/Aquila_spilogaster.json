@@ -35,10 +35,10 @@
   },
   "look_alikes": [
     {
-      "label": "Buteo_augur",
-      "common_name": "Augur Buzzard",
+      "label": "Buteo_buteo",
+      "common_name": "Common Buzzard",
       "difference": null,
-      "times_confused": 5
+      "times_confused": 3
     },
     {
       "label": "Aquila_rapax",
@@ -47,8 +47,8 @@
       "times_confused": 2
     },
     {
-      "label": "Buteo_buteo",
-      "common_name": "Common Buzzard",
+      "label": "Buteo_augur",
+      "common_name": "Augur Buzzard",
       "difference": null,
       "times_confused": 1
     },
@@ -91,6 +91,60 @@
     {
       "label": "Dicrurus_adsimilis",
       "common_name": "Fork-tailed Drongo",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Circus_aeruginosus",
+      "common_name": "Western Marsh Harrier",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bubalornis_niger",
+      "common_name": "Red-billed Buffalo Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Circaetus_pectoralis",
+      "common_name": "Black-chested Snake Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Corythaixoides_leucogaster",
+      "common_name": "White-bellied Go-away-bird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Gyps_africanus",
+      "common_name": "White-backed Vulture",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Hieraaetus_wahlbergi",
+      "common_name": "Wahlberg's Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Torgos_tracheliotos",
+      "common_name": "Lappet-faced Vulture",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Gypohierax_angolensis",
+      "common_name": "Palm-nut Vulture",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Merops_oreobates",
+      "common_name": "Cinnamon-chested Bee-eater",
       "difference": null,
       "times_confused": 1
     }

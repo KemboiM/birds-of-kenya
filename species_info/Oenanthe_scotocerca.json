@@ -1,0 +1,75 @@
+{
+  "label": "Oenanthe_scotocerca",
+  "scientific_name": "Oenanthe scotocerca",
+  "common_name": "Brown-tailed Rock Chat",
+  "other_names": {},
+  "family": "Muscicapidae",
+  "summary": "The brown-tailed rock chat (Oenanthe scotocerca) is a species of bird in the family Muscicapidae. It is found in Chad, Eritrea, Ethiopia, Kenya, Somalia, Sudan, and Uganda. Its natural habitats are dry savanna and subtropical or tropical dry shrubland.",
+  "appearance": {
+    "description": null,
+    "colors": "The brown-tailed rock chat (Oenanthe scotocerca) is a species of bird in the family Muscicapidae. The brown-tailed rock chat was formerly included in the genus Cercomela.",
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Eastern",
+      "Baringo",
+      "Marsabit",
+      "Samburu"
+    ],
+    "gbif_records_in_kenya": 1213
+  },
+  "look_alikes": [
+    {
+      "label": "Bradornis_pallidus",
+      "common_name": "Pale Flycatcher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Buphagus_erythrorhynchus",
+      "common_name": "Red-billed Oxpecker",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Muscicapa_adusta",
+      "common_name": "African Dusky Flycatcher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Oenanthe_lugubris",
+      "common_name": "Abyssinian Wheatear",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Brown-tailed rock chat",
+      "url": "https://en.wikipedia.org/wiki/Brown-tailed_rock_chat",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/6100848"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

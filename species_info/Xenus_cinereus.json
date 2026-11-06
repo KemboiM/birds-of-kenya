@@ -1,0 +1,76 @@
+{
+  "label": "Xenus_cinereus",
+  "scientific_name": "Xenus cinereus",
+  "common_name": "Terek Sandpiper",
+  "other_names": {
+    "sw": "Chamchanga Kijivu"
+  },
+  "family": "Scolopacidae",
+  "summary": "The Terek sandpiper (Xenus cinereus) is a small migratory Palearctic wader species and is the only member of the genus Xenus. It is named after the Terek River which flows into the west of the Caspian Sea, as it was first observed around this area.",
+  "appearance": {
+    "description": "Slightly larger than the common sandpiper at 22–25 cm (8.7–9.8 in) length, its long upcurved bill – somewhat reminiscent of an avocet's, but not as strongly curved – makes it very distinctive. As the scientific specific name implies, this wader has a grey back, face and breast in all plumages; a white supercilium may appear more or less distinct. The belly is whitish and the feet yellow; the bill has a yellowish base, with the rest being black.",
+    "colors": "As the scientific specific name implies, this wader has a grey back, face and breast in all plumages; a white supercilium may appear more or less distinct. The belly is whitish and the feet yellow; the bill has a yellowish base, with the rest being black.",
+    "wings": null
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        22.0,
+        25.0
+      ]
+    },
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": "This bird breeds near water in the taiga from Finland through northern Siberia to the Kolyma River, and migrate south in winter to tropical coasts in east Africa, south Asia and Australia, usually preferring muddy areas. It is a rare vagrant in western Europe, and particularly in autumn it is sometimes seen passing through the Marianas on migration; on Palau, further off its usual migration route, it is decidedly uncommon on the other hand. Almost annually and apparently more and more often in recent times, a few birds stray to Alaska and the Aleutian and Pribilof Islands.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "This bird breeds near water in the taiga from Finland through northern Siberia to the Kolyma River, and migrate south in winter to tropical coasts in east Africa, south Asia and Australia, usually preferring muddy areas. It is a rare vagrant in western Europe, and particularly in autumn it is sometimes seen passing through the Marianas on migration; on Palau, further off its usual migration route, it is decidedly uncommon on the other hand.",
+    "kenya_regions": [
+      "Coast",
+      "Kenya",
+      "Kilifi",
+      "Rift Valley",
+      "Coast prov",
+      "Nairobi"
+    ],
+    "gbif_records_in_kenya": 2295
+  },
+  "look_alikes": [
+    {
+      "label": "Actitis_hypoleucos",
+      "common_name": "Common Sandpiper",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Calidris_minuta",
+      "common_name": "Little Stint",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tringa_stagnatilis",
+      "common_name": "Marsh Sandpiper",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Terek sandpiper",
+      "url": "https://en.wikipedia.org/wiki/Terek_sandpiper",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2481703"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

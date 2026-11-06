@@ -95,6 +95,42 @@
       "common_name": "Red-faced Crombec",
       "difference": null,
       "times_confused": 1
+    },
+    {
+      "label": "Calandrella_cinerea",
+      "common_name": "Red-capped Lark",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Microcarbo_africanus",
+      "common_name": "Reed Cormorant",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Oenanthe_lugubris",
+      "common_name": "Abyssinian Wheatear",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Oenanthe_oenanthe",
+      "common_name": "Northern Wheatear",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Turdoides_jardineii",
+      "common_name": "Arrow-marked Babbler",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pycnonotus_barbatus",
+      "common_name": "Common Bulbul",
+      "difference": null,
+      "times_confused": 1
     }
   ],
   "sources": [

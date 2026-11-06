@@ -34,7 +34,7 @@
       "label": "Cisticola_marginatus",
       "common_name": "Winding Cisticola",
       "difference": null,
-      "times_confused": 2
+      "times_confused": 3
     },
     {
       "label": "Cisticola_chiniana",
@@ -51,6 +51,12 @@
     {
       "label": "Sporopipes_frontalis",
       "common_name": "Speckle-fronted Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Prinia_subflava",
+      "common_name": "Tawny-flanked Prinia",
       "difference": null,
       "times_confused": 1
     }

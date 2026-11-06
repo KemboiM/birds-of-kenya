@@ -61,6 +61,36 @@
       "common_name": "Red-bellied Parrot",
       "difference": null,
       "times_confused": 1
+    },
+    {
+      "label": "Crithagra_mozambica",
+      "common_name": "Yellow-fronted Canary",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Hirundo_rustica",
+      "common_name": "Barn Swallow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Sylvia_lugens",
+      "common_name": "Brown Parisoma",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Turdoides_rubiginosa",
+      "common_name": "Rufous Chatterer",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Streptopelia_capicola",
+      "common_name": "Ring-necked Dove",
+      "difference": null,
+      "times_confused": 1
     }
   ],
   "sources": [

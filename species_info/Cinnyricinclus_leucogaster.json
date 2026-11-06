@@ -42,10 +42,16 @@
       "times_confused": 2
     },
     {
+      "label": "Cecropis_abyssinica",
+      "common_name": "Lesser Striped Swallow",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
       "label": "Anthreptes_orientalis",
       "common_name": "Eastern Violet-backed Sunbird",
       "difference": null,
-      "times_confused": 2
+      "times_confused": 1
     },
     {
       "label": "Turdoides_plebejus",
@@ -182,6 +188,84 @@
     {
       "label": "Actitis_hypoleucos",
       "common_name": "Common Sandpiper",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Indicator_indicator",
+      "common_name": "Greater Honeyguide",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lonchura_bicolor",
+      "common_name": "Black-and-white Mannikin",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bycanistes_brevis",
+      "common_name": "Silvery-cheeked Hornbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ciconia_abdimii",
+      "common_name": "Abdim's Stork",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Colius_striatus",
+      "common_name": "Speckled Mousebird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Corythaixoides_leucogaster",
+      "common_name": "White-bellied Go-away-bird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Euplectes_progne",
+      "common_name": "Long-tailed Widowbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lanius_humeralis",
+      "common_name": "Northern Fiscal",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Muscicapa_striata",
+      "common_name": "Spotted Flycatcher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Plocepasser_mahali",
+      "common_name": "White-browed Sparrow-weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Speculipastor_bicolor",
+      "common_name": "Magpie Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Urocolius_macrourus",
+      "common_name": "Blue-naped Mousebird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cichladusa_guttata",
+      "common_name": "Spotted Palm Thrush",
       "difference": null,
       "times_confused": 1
     }

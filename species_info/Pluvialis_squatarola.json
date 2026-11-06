@@ -50,6 +50,12 @@
   },
   "look_alikes": [
     {
+      "label": "Calidris_minuta",
+      "common_name": "Little Stint",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
       "label": "Chlidonias_leucopterus",
       "common_name": "White-winged Tern",
       "difference": null,
@@ -76,6 +82,24 @@
     {
       "label": "Creatophora_cinerea",
       "common_name": "Wattled Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Calidris_ferruginea",
+      "common_name": "Curlew Sandpiper",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ciconia_ciconia",
+      "common_name": "White Stork",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ichthyaetus_hemprichii",
+      "common_name": "Sooty Gull",
       "difference": null,
       "times_confused": 1
     }

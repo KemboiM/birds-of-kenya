@@ -31,6 +31,18 @@
   },
   "look_alikes": [
     {
+      "label": "Muscicapa_adusta",
+      "common_name": "African Dusky Flycatcher",
+      "difference": null,
+      "times_confused": 3
+    },
+    {
+      "label": "Bradornis_microrhynchus",
+      "common_name": "African Grey Flycatcher",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
       "label": "Treron_calvus",
       "common_name": "African Green Pigeon",
       "difference": null,
@@ -93,6 +105,84 @@
     {
       "label": "Turdoides_jardineii",
       "common_name": "Arrow-marked Babbler",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Coracina_caesia",
+      "common_name": "Grey Cuckooshrike",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Otus_senegalensis",
+      "common_name": "African Scops Owl",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Arizelocichla_kikuyuensis",
+      "common_name": "Kikuyu Mountain Greenbul",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pternistis_squamatus",
+      "common_name": "Scaly Spurfowl",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ptilopsis_leucotis",
+      "common_name": "Northern White-faced Owl",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Turdoides_sharpei",
+      "common_name": "Black-lored Babbler",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Muscicapa_striata",
+      "common_name": "Spotted Flycatcher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Dinemellia_dinemelli",
+      "common_name": "White-headed Buffalo Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Coccopygia_quartinia",
+      "common_name": "Yellow-bellied Waxbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Melierax_poliopterus",
+      "common_name": "Eastern Chanting Goshawk",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Oenanthe_lugubris",
+      "common_name": "Abyssinian Wheatear",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Elanus_caeruleus",
+      "common_name": "Black-winged Kite",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lanius_humeralis",
+      "common_name": "Northern Fiscal",
       "difference": null,
       "times_confused": 1
     }

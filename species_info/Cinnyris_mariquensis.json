@@ -34,25 +34,37 @@
       "label": "Cinnyris_pulchellus",
       "common_name": "Beautiful Sunbird",
       "difference": null,
-      "times_confused": 4
+      "times_confused": 3
     },
     {
       "label": "Nectarinia_kilimensis",
       "common_name": "Bronze Sunbird",
       "difference": null,
-      "times_confused": 4
-    },
-    {
-      "label": "Cinnyris_venustus",
-      "common_name": "Variable Sunbird",
-      "difference": null,
-      "times_confused": 3
+      "times_confused": 2
     },
     {
       "label": "Cinnyris_bifasciatus",
       "common_name": "Purple-banded Sunbird",
       "difference": null,
       "times_confused": 2
+    },
+    {
+      "label": "Cinnyris_erythrocercus",
+      "common_name": "Red-chested Sunbird",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Hedydipna_collaris",
+      "common_name": "Collared Sunbird",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Cinnyris_venustus",
+      "common_name": "Variable Sunbird",
+      "difference": null,
+      "times_confused": 1
     },
     {
       "label": "Cinnyris_nectarinioides",
@@ -93,6 +105,36 @@
     {
       "label": "Dessonornis_caffer",
       "common_name": "Cape Robin-chat",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Nectarinia_famosa",
+      "common_name": "Malachite Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Chalcomitra_amethystina",
+      "common_name": "Amethyst Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Crithagra_striolata",
+      "common_name": "Streaky Seedeater",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Uraeginthus_ianthinogaster",
+      "common_name": "Purple Grenadier",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lamprotornis_chalybaeus",
+      "common_name": "Greater Blue-eared Starling",
       "difference": null,
       "times_confused": 1
     }

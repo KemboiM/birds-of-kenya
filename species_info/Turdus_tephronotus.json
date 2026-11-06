@@ -53,6 +53,24 @@
       "common_name": "Red-headed Weaver",
       "difference": null,
       "times_confused": 1
+    },
+    {
+      "label": "Anthus_cinnamomeus",
+      "common_name": "African Pipit",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bubalornis_niger",
+      "common_name": "Red-billed Buffalo Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Turdus_abyssinicus",
+      "common_name": "Abyssinian Thrush",
+      "difference": null,
+      "times_confused": 1
     }
   ],
   "sources": [

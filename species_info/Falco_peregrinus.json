@@ -1,0 +1,88 @@
+{
+  "label": "Falco_peregrinus",
+  "scientific_name": "Falco peregrinus",
+  "common_name": "Peregrine Falcon",
+  "other_names": {
+    "sw": "Kozi Tembere"
+  },
+  "family": "Falconidae",
+  "summary": "The peregrine falcon (Falco peregrinus), sometimes referred to simply as the peregrine, is a bird of prey (raptor) in the family Falconidae known for its speed. A large, crow-sized falcon, it has a blue-grey back, barred white underparts and a black head. As is typical for bird-eating (avivore) raptors, peregrine falcons are sexually dimorphic, with females being considerably larger than males.",
+  "appearance": {
+    "description": "The peregrine falcon has a body length of 34 to 58 cm (13–23 in) and a wingspan from 74 to 120 cm (29–47 in). The male and female have similar markings and plumage but, as with many birds of prey, the peregrine falcon displays marked sexual dimorphism in size, with the female measuring up to 30% larger than the male. Males weigh 330 to 1,000 g (12–35 oz) and the noticeably larger females weigh 700 to 1,500 g (25–53 oz).",
+    "colors": "The peregrine falcon (Falco peregrinus), sometimes referred to simply as the peregrine, is a bird of prey (raptor) in the family Falconidae known for its speed. A large, crow-sized falcon, it has a blue-grey back, barred white underparts and a black head.",
+    "wings": "The standard linear measurements of peregrines are: the wing chord measures 26.5 to 39 cm (10.4–15.4 in), the tail measures 13 to 19 cm (5.1–7.5 in) and the tarsus measures 4.5 to 5.6 cm (1.8–2.2 in). The back and the long pointed wings of the adult are usually bluish black to slate grey with indistinct darker barring (see \"Subspecies\" below); the wingtips are black."
+  },
+  "size": {
+    "adult": {
+      "wingspan_cm": [
+        74.0,
+        120.0
+      ],
+      "length_cm": [
+        34.0,
+        58.0
+      ],
+      "mass_g": [
+        330.0,
+        1500.0
+      ]
+    },
+    "juvenile": {
+      "notes": "An immature bird is much browner, with streaked, rather than barred, underparts, and has a pale bluish cere and orbital ring."
+    },
+    "chick": {
+      "notes": "The distance between nests ensures sufficient food supply for pairs and their chicks. When reintroductions have been attempted for peregrines, the most serious impediments were these two species of owls routinely picking off nestlings, fledglings and adults by night."
+    }
+  },
+  "behaviour": "The peregrine falcon lives mostly along mountain ranges, river valleys, coastlines, and increasingly in cities. In mild-winter regions, it is usually a permanent resident, and some individuals, especially adult males, will remain on the breeding territory. Only populations that breed in Arctic climates typically migrate great distances during the northern winter.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Coast",
+      "Eastern",
+      "Nairobi",
+      "Central"
+    ],
+    "gbif_records_in_kenya": 1151
+  },
+  "look_alikes": [
+    {
+      "label": "Falco_biarmicus",
+      "common_name": "Lanner Falcon",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Kaupifalco_monogrammicus",
+      "common_name": "Lizard Buzzard",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ceryle_rudis",
+      "common_name": "Pied Kingfisher",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Peregrine falcon",
+      "url": "https://en.wikipedia.org/wiki/Peregrine_falcon",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2481047"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

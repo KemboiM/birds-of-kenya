@@ -51,7 +51,7 @@
       "label": "Melierax_metabates",
       "common_name": "Dark Chanting Goshawk",
       "difference": null,
-      "times_confused": 3
+      "times_confused": 1
     },
     {
       "label": "Megaceryle_maxima",
@@ -68,6 +68,30 @@
     {
       "label": "Streptopelia_lugens",
       "common_name": "Dusky Turtle Dove",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Falco_peregrinus",
+      "common_name": "Peregrine Falcon",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Circaetus_pectoralis",
+      "common_name": "Black-chested Snake Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Halcyon_leucocephala",
+      "common_name": "Grey-headed Kingfisher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Falco_ardosiaceus",
+      "common_name": "Grey Kestrel",
       "difference": null,
       "times_confused": 1
     }

@@ -36,7 +36,25 @@
       "label": "Buphagus_africanus",
       "common_name": "Yellow-billed Oxpecker",
       "difference": null,
-      "times_confused": 7
+      "times_confused": 12
+    },
+    {
+      "label": "Urocolius_macrourus",
+      "common_name": "Blue-naped Mousebird",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Quelea_quelea",
+      "common_name": "Red-billed Quelea",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Corvus_splendens",
+      "common_name": "House Crow",
+      "difference": null,
+      "times_confused": 2
     },
     {
       "label": "Speculipastor_bicolor",
@@ -125,6 +143,102 @@
     {
       "label": "Turdus_abyssinicus",
       "common_name": "Abyssinian Thrush",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Oenanthe_scotocerca",
+      "common_name": "Brown-tailed Rock Chat",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Halcyon_senegaloides",
+      "common_name": "Mangrove Kingfisher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Prionops_scopifrons",
+      "common_name": "Chestnut-fronted Helmetshrike",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Coccopygia_quartinia",
+      "common_name": "Yellow-bellied Waxbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Euplectes_progne",
+      "common_name": "Long-tailed Widowbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_castaneiceps",
+      "common_name": "Taveta Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Chlidonias_leucopterus",
+      "common_name": "White-winged Tern",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Estrilda_astrild",
+      "common_name": "Common Waxbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Laniarius_major",
+      "common_name": "Tropical Boubou",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Hirundo_rustica",
+      "common_name": "Barn Swallow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ardea_melanocephala",
+      "common_name": "Black-headed Heron",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Columba_guinea",
+      "common_name": "Speckled Pigeon",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cypsiurus_parvus",
+      "common_name": "African Palm Swift",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Mycteria_ibis",
+      "common_name": "Yellow-billed Stork",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Upupa_africana",
+      "common_name": "Eurasian Hoopoe",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Halcyon_leucocephala",
+      "common_name": "Grey-headed Kingfisher",
       "difference": null,
       "times_confused": 1
     }

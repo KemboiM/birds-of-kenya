@@ -31,22 +31,22 @@
   },
   "look_alikes": [
     {
-      "label": "Cichladusa_guttata",
-      "common_name": "Spotted Palm Thrush",
-      "difference": null,
-      "times_confused": 3
-    },
-    {
       "label": "Crithagra_reichenowi",
       "common_name": "Reichenow's Seedeater",
       "difference": null,
       "times_confused": 2
     },
     {
+      "label": "Cichladusa_guttata",
+      "common_name": "Spotted Palm Thrush",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
       "label": "Tricholaema_lacrymosa",
       "common_name": "Spot-flanked Barbet",
       "difference": null,
-      "times_confused": 2
+      "times_confused": 1
     },
     {
       "label": "Campephaga_flava",
@@ -81,6 +81,42 @@
     {
       "label": "Euplectes_afer",
       "common_name": "Yellow-crowned Bishop",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cinnyris_mariquensis",
+      "common_name": "Marico Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Calendulauda_poecilosterna",
+      "common_name": "Pink-breasted Lark",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Chalcomitra_senegalensis",
+      "common_name": "Scarlet-chested Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Eremopterix_leucopareia",
+      "common_name": "Fischer's Sparrow-lark",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Plegadis_falcinellus",
+      "common_name": "Glossy Ibis",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_spekei",
+      "common_name": "Speke's Weaver",
       "difference": null,
       "times_confused": 1
     }

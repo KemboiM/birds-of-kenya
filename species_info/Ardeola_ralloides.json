@@ -38,26 +38,26 @@
   },
   "look_alikes": [
     {
+      "label": "Nycticorax_nycticorax",
+      "common_name": "Black-crowned Night Heron",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
       "label": "Ardea_purpurea",
       "common_name": "Purple Heron",
       "difference": null,
-      "times_confused": 2
+      "times_confused": 1
     },
     {
       "label": "Bubulcus_ibis",
       "common_name": "Western Cattle Egret",
       "difference": null,
-      "times_confused": 2
+      "times_confused": 1
     },
     {
       "label": "Campephaga_flava",
       "common_name": "Black Cuckooshrike",
-      "difference": null,
-      "times_confused": 1
-    },
-    {
-      "label": "Nycticorax_nycticorax",
-      "common_name": "Black-crowned Night Heron",
       "difference": null,
       "times_confused": 1
     },
@@ -94,6 +94,30 @@
     {
       "label": "Actophilornis_africanus",
       "common_name": "African Jacana",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cisticola_marginatus",
+      "common_name": "Winding Cisticola",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Calidris_minuta",
+      "common_name": "Little Stint",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Anhinga_rufa",
+      "common_name": "African Darter",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pelecanus_rufescens",
+      "common_name": "Pink-backed Pelican",
       "difference": null,
       "times_confused": 1
     }

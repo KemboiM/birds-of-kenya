@@ -42,22 +42,22 @@
   },
   "look_alikes": [
     {
-      "label": "Lanius_excubitoroides",
-      "common_name": "Grey-backed Fiscal",
-      "difference": null,
-      "times_confused": 10
-    },
-    {
       "label": "Lanius_humeralis",
       "common_name": "Northern Fiscal",
       "difference": null,
-      "times_confused": 5
+      "times_confused": 7
+    },
+    {
+      "label": "Lanius_excubitoroides",
+      "common_name": "Grey-backed Fiscal",
+      "difference": null,
+      "times_confused": 6
     },
     {
       "label": "Lanius_dorsalis",
       "common_name": "Taita Fiscal",
       "difference": null,
-      "times_confused": 4
+      "times_confused": 2
     },
     {
       "label": "Clamator_jacobinus",
@@ -72,10 +72,16 @@
       "times_confused": 2
     },
     {
+      "label": "Turdoides_hypoleuca",
+      "common_name": "Northern Pied Babbler",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
       "label": "Hirundo_smithii",
       "common_name": "Wire-tailed Swallow",
       "difference": null,
-      "times_confused": 2
+      "times_confused": 1
     },
     {
       "label": "Circaetus_pectoralis",
@@ -110,6 +116,54 @@
     {
       "label": "Threskiornis_aethiopicus",
       "common_name": "African Sacred Ibis",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Oenanthe_pileata",
+      "common_name": "Capped Wheatear",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lanius_mackinnoni",
+      "common_name": "Mackinnon's Shrike",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Oenanthe_lugubris",
+      "common_name": "Abyssinian Wheatear",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Buteo_augur",
+      "common_name": "Augur Buzzard",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ephippiorhynchus_senegalensis",
+      "common_name": "Saddle-billed Stork",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ardea_cinerea",
+      "common_name": "Grey Heron",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Corythaixoides_leucogaster",
+      "common_name": "White-bellied Go-away-bird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Laniarius_major",
+      "common_name": "Tropical Boubou",
       "difference": null,
       "times_confused": 1
     }

@@ -60,10 +60,28 @@
       "times_confused": 2
     },
     {
+      "label": "Ciconia_microscelis",
+      "common_name": "African Woolly-necked Stork",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Gyps_africanus",
+      "common_name": "White-backed Vulture",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Ephippiorhynchus_senegalensis",
+      "common_name": "Saddle-billed Stork",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
       "label": "Struthio_camelus",
       "common_name": "Common Ostrich",
       "difference": null,
-      "times_confused": 2
+      "times_confused": 1
     },
     {
       "label": "Ciconia_nigra",
@@ -74,12 +92,6 @@
     {
       "label": "Lanius_dorsalis",
       "common_name": "Taita Fiscal",
-      "difference": null,
-      "times_confused": 1
-    },
-    {
-      "label": "Ciconia_microscelis",
-      "common_name": "African Woolly-necked Stork",
       "difference": null,
       "times_confused": 1
     },
@@ -104,12 +116,6 @@
     {
       "label": "Cecropis_abyssinica",
       "common_name": "Lesser Striped Swallow",
-      "difference": null,
-      "times_confused": 1
-    },
-    {
-      "label": "Gyps_africanus",
-      "common_name": "White-backed Vulture",
       "difference": null,
       "times_confused": 1
     },
@@ -140,6 +146,96 @@
     {
       "label": "Pelecanus_onocrotalus",
       "common_name": "Great White Pelican",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Urolestes_melanoleucus",
+      "common_name": "Magpie Shrike",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Falco_naumanni",
+      "common_name": "Lesser Kestrel",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Motacilla_clara",
+      "common_name": "Mountain Wagtail",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Nycticorax_nycticorax",
+      "common_name": "Black-crowned Night Heron",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ispidina_picta",
+      "common_name": "African Pygmy Kingfisher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Calidris_minuta",
+      "common_name": "Little Stint",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Necrosyrtes_monachus",
+      "common_name": "Hooded Vulture",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Colius_striatus",
+      "common_name": "Speckled Mousebird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Corvus_albus",
+      "common_name": "Pied Crow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Dicrurus_adsimilis",
+      "common_name": "Fork-tailed Drongo",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Acryllium_vulturinum",
+      "common_name": "Vulturine Guinea Fowl",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bostrychia_hagedash",
+      "common_name": "Hadada Ibis",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ciconia_ciconia",
+      "common_name": "White Stork",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Sagittarius_serpentarius",
+      "common_name": "Secretarybird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Torgos_tracheliotos",
+      "common_name": "Lappet-faced Vulture",
       "difference": null,
       "times_confused": 1
     }

@@ -36,22 +36,22 @@
   },
   "look_alikes": [
     {
-      "label": "Lanius_dorsalis",
-      "common_name": "Taita Fiscal",
-      "difference": null,
-      "times_confused": 5
-    },
-    {
       "label": "Lanius_cabanisi",
       "common_name": "Long-tailed Fiscal",
       "difference": null,
-      "times_confused": 5
+      "times_confused": 7
+    },
+    {
+      "label": "Lanius_dorsalis",
+      "common_name": "Taita Fiscal",
+      "difference": null,
+      "times_confused": 4
     },
     {
       "label": "Laniarius_major",
       "common_name": "Tropical Boubou",
       "difference": null,
-      "times_confused": 4
+      "times_confused": 3
     },
     {
       "label": "Lanius_mackinnoni",
@@ -62,6 +62,24 @@
     {
       "label": "Lanius_excubitoroides",
       "common_name": "Grey-backed Fiscal",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Batis_molitor",
+      "common_name": "Chinspot Batis",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Eurocephalus_ruppelli",
+      "common_name": "Northern White-crowned Shrike",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Dryoscopus_cubla",
+      "common_name": "Black-backed Puffback",
       "difference": null,
       "times_confused": 2
     },
@@ -80,12 +98,6 @@
     {
       "label": "Oenanthe_oenanthe",
       "common_name": "Northern Wheatear",
-      "difference": null,
-      "times_confused": 1
-    },
-    {
-      "label": "Batis_molitor",
-      "common_name": "Chinspot Batis",
       "difference": null,
       "times_confused": 1
     },
@@ -120,20 +132,8 @@
       "times_confused": 1
     },
     {
-      "label": "Eurocephalus_ruppelli",
-      "common_name": "Northern White-crowned Shrike",
-      "difference": null,
-      "times_confused": 1
-    },
-    {
       "label": "Ceryle_rudis",
       "common_name": "Pied Kingfisher",
-      "difference": null,
-      "times_confused": 1
-    },
-    {
-      "label": "Dryoscopus_cubla",
-      "common_name": "Black-backed Puffback",
       "difference": null,
       "times_confused": 1
     },
@@ -182,6 +182,72 @@
     {
       "label": "Plocepasser_mahali",
       "common_name": "White-browed Sparrow-weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Euodice_cantans",
+      "common_name": "African Silverbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Saxicola_torquatus",
+      "common_name": "African Stonechat",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cinnyricinclus_leucogaster",
+      "common_name": "Violet-backed Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cinnyris_pulchellus",
+      "common_name": "Beautiful Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Dioptrornis_fischeri",
+      "common_name": "White-eyed Slaty Flycatcher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Milvus_migrans",
+      "common_name": "Black Kite",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Motacilla_flava",
+      "common_name": "Western Yellow Wagtail",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Polyboroides_typus",
+      "common_name": "African Harrier-hawk",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lophaetus_occipitalis",
+      "common_name": "Long-crested Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pseudonigrita_arnaudi",
+      "common_name": "Grey-capped Social Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tockus_deckeni",
+      "common_name": "Von Der Decken's Hornbill",
       "difference": null,
       "times_confused": 1
     }

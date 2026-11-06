@@ -41,13 +41,25 @@
       "label": "Lanius_humeralis",
       "common_name": "Northern Fiscal",
       "difference": null,
-      "times_confused": 5
+      "times_confused": 4
+    },
+    {
+      "label": "Lanius_excubitoroides",
+      "common_name": "Grey-backed Fiscal",
+      "difference": null,
+      "times_confused": 3
     },
     {
       "label": "Lanius_cabanisi",
       "common_name": "Long-tailed Fiscal",
       "difference": null,
-      "times_confused": 4
+      "times_confused": 2
+    },
+    {
+      "label": "Hirundo_smithii",
+      "common_name": "Wire-tailed Swallow",
+      "difference": null,
+      "times_confused": 2
     },
     {
       "label": "Gymnoris_pyrgita",
@@ -86,8 +98,20 @@
       "times_confused": 1
     },
     {
-      "label": "Lanius_excubitoroides",
-      "common_name": "Grey-backed Fiscal",
+      "label": "Myrmecocichla_nigra",
+      "common_name": "Sooty Chat",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ceryle_rudis",
+      "common_name": "Pied Kingfisher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Eurocephalus_ruppelli",
+      "common_name": "Northern White-crowned Shrike",
       "difference": null,
       "times_confused": 1
     }

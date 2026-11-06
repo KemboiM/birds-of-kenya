@@ -1,0 +1,69 @@
+{
+  "label": "Apalis_cinerea",
+  "scientific_name": "Apalis cinerea",
+  "common_name": "Grey Apalis",
+  "other_names": {},
+  "family": "Cisticolidae",
+  "summary": "The grey apalis (Apalis cinerea) is a species of bird in the family Cisticolidae. It is found in Angola, Burundi, Cameroon, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Kenya, Nigeria, Rwanda, South Sudan, Sudan, Tanzania, and Uganda. Its natural habitats are tropical dry forest and tropical moist montane forest.",
+  "appearance": {
+    "description": null,
+    "colors": "The grey apalis (Apalis cinerea) is a species of bird in the family Cisticolidae.",
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Central",
+      "Kenya",
+      "Rift Valley",
+      "Nairobi",
+      "Eastern",
+      "Western"
+    ],
+    "gbif_records_in_kenya": 3910
+  },
+  "look_alikes": [
+    {
+      "label": "Dicrurus_adsimilis",
+      "common_name": "Fork-tailed Drongo",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Laniarius_major",
+      "common_name": "Tropical Boubou",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Egretta_dimorpha",
+      "common_name": "Dimorphic Egret",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Grey apalis",
+      "url": "https://en.wikipedia.org/wiki/Grey_apalis",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2492709"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

@@ -71,6 +71,18 @@
       "common_name": "Cinnamon-chested Bee-eater",
       "difference": null,
       "times_confused": 1
+    },
+    {
+      "label": "Anthus_leucophrys",
+      "common_name": "Plain-backed Pipit",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lanius_humeralis",
+      "common_name": "Northern Fiscal",
+      "difference": null,
+      "times_confused": 1
     }
   ],
   "sources": [

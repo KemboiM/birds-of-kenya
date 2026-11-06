@@ -44,6 +44,12 @@
       "times_confused": 2
     },
     {
+      "label": "Lamprotornis_superbus",
+      "common_name": "Superb Starling",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
       "label": "Coccopygia_quartinia",
       "common_name": "Yellow-bellied Waxbill",
       "difference": null,
@@ -94,6 +100,54 @@
     {
       "label": "Uraeginthus_cyanocephalus",
       "common_name": "Blue-capped Cordon-bleu",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tchagra_australis",
+      "common_name": "Brown-crowned Tchagra",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cinnyris_mariquensis",
+      "common_name": "Marico Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_rubiginosus",
+      "common_name": "Chestnut Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Turdoides_jardineii",
+      "common_name": "Arrow-marked Babbler",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Anaplectes_rubriceps",
+      "common_name": "Red-headed Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cecropis_abyssinica",
+      "common_name": "Lesser Striped Swallow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Glareola_pratincola",
+      "common_name": "Collared Pratincole",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Turdoides_hypoleuca",
+      "common_name": "Northern Pied Babbler",
       "difference": null,
       "times_confused": 1
     }

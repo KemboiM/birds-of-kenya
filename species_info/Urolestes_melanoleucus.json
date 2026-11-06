@@ -40,6 +40,30 @@
       "common_name": "Pin-tailed Whydah",
       "difference": null,
       "times_confused": 1
+    },
+    {
+      "label": "Bubalornis_albirostris",
+      "common_name": "White-billed Buffalo Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Leptoptilos_crumenifer",
+      "common_name": "Marabou Stork",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Myrmecocichla_nigra",
+      "common_name": "Sooty Chat",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Sagittarius_serpentarius",
+      "common_name": "Secretarybird",
+      "difference": null,
+      "times_confused": 1
     }
   ],
   "sources": [

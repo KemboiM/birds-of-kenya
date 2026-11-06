@@ -94,6 +94,42 @@
       "common_name": "Pied Avocet",
       "difference": null,
       "times_confused": 1
+    },
+    {
+      "label": "Balearica_regulorum",
+      "common_name": "Grey Crowned Crane",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pelecanus_onocrotalus",
+      "common_name": "Great White Pelican",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Platalea_alba",
+      "common_name": "African Spoonbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tringa_glareola",
+      "common_name": "Wood Sandpiper",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Vanellus_spinosus",
+      "common_name": "Spur-winged Lapwing",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Colius_striatus",
+      "common_name": "Speckled Mousebird",
+      "difference": null,
+      "times_confused": 1
     }
   ],
   "sources": [

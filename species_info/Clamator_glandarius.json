@@ -60,6 +60,18 @@
       "common_name": "Jackson's Hornbill",
       "difference": null,
       "times_confused": 1
+    },
+    {
+      "label": "Apalis_flavida",
+      "common_name": "Yellow-breasted Apalis",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Passer_rufocinctus",
+      "common_name": "Kenya Sparrow",
+      "difference": null,
+      "times_confused": 1
     }
   ],
   "sources": [

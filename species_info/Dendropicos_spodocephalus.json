@@ -33,16 +33,16 @@
   },
   "look_alikes": [
     {
+      "label": "Dendropicos_goertae",
+      "common_name": "African Grey Woodpecker",
+      "difference": null,
+      "times_confused": 3
+    },
+    {
       "label": "Camaroptera_brachyura",
       "common_name": "Green-backed Camaroptera",
       "difference": null,
       "times_confused": 2
-    },
-    {
-      "label": "Dendropicos_goertae",
-      "common_name": "African Grey Woodpecker",
-      "difference": null,
-      "times_confused": 1
     },
     {
       "label": "Chrysococcyx_klaas",
@@ -89,6 +89,48 @@
     {
       "label": "Turdus_abyssinicus",
       "common_name": "Abyssinian Thrush",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Colius_striatus",
+      "common_name": "Speckled Mousebird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Dendropicos_fuscescens",
+      "common_name": "Cardinal Woodpecker",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Streptopelia_decipiens",
+      "common_name": "Mourning Collared Dove",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Merops_bullockoides",
+      "common_name": "White-fronted Bee-eater",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Halcyon_leucocephala",
+      "common_name": "Grey-headed Kingfisher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Melierax_poliopterus",
+      "common_name": "Eastern Chanting Goshawk",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Terpsiphone_viridis",
+      "common_name": "African Paradise Flycatcher",
       "difference": null,
       "times_confused": 1
     }

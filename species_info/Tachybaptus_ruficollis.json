@@ -38,7 +38,7 @@
       "label": "Anas_undulata",
       "common_name": "Yellow-billed Duck",
       "difference": null,
-      "times_confused": 1
+      "times_confused": 2
     },
     {
       "label": "Burhinus_vermiculatus",
@@ -85,6 +85,42 @@
     {
       "label": "Ploceus_baglafecht",
       "common_name": "Baglafecht Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Passer_eminibey",
+      "common_name": "Chestnut Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Burhinus_capensis",
+      "common_name": "Spotted Thick-knee",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Gelochelidon_nilotica",
+      "common_name": "Gull-billed Tern",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Microcarbo_africanus",
+      "common_name": "Reed Cormorant",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Spatula_hottentota",
+      "common_name": "Blue-billed Teal",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Circaetus_cinereus",
+      "common_name": "Brown Snake Eagle",
       "difference": null,
       "times_confused": 1
     }

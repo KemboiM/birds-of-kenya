@@ -37,16 +37,16 @@
       "times_confused": 5
     },
     {
-      "label": "Tockus_erythrorhynchus",
-      "common_name": "Northern Red-billed Hornbill",
-      "difference": null,
-      "times_confused": 4
-    },
-    {
       "label": "Tockus_flavirostris",
       "common_name": "Eastern Yellow-billed Hornbill",
       "difference": null,
-      "times_confused": 3
+      "times_confused": 5
+    },
+    {
+      "label": "Tockus_erythrorhynchus",
+      "common_name": "Northern Red-billed Hornbill",
+      "difference": null,
+      "times_confused": 1
     },
     {
       "label": "Clamator_glandarius",
@@ -57,6 +57,24 @@
     {
       "label": "Vidua_paradisaea",
       "common_name": "Long-tailed Paradise Whydah",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lonchura_bicolor",
+      "common_name": "Black-and-white Mannikin",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Anhinga_rufa",
+      "common_name": "African Darter",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lophoceros_nasutus",
+      "common_name": "African Grey Hornbill",
       "difference": null,
       "times_confused": 1
     }

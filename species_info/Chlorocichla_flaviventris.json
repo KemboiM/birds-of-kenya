@@ -1,0 +1,63 @@
+{
+  "label": "Chlorocichla_flaviventris",
+  "scientific_name": "Chlorocichla flaviventris",
+  "common_name": "Yellow-bellied Greenbul",
+  "other_names": {},
+  "family": "Pycnonotidae",
+  "summary": "The yellow-bellied greenbul (Chlorocichla flaviventris) is a species of songbird in the bulbul family, Pycnonotidae. It is found in eastern, southern and west-central Africa. Its natural habitats are subtropical or tropical dry forests, subtropical or tropical moist lowland forests, and dry savanna.",
+  "appearance": {
+    "description": null,
+    "colors": "The yellow-bellied greenbul (Chlorocichla flaviventris) is a species of songbird in the bulbul family, Pycnonotidae.",
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Coast",
+      "Kenya",
+      "Eastern",
+      "Coast prov",
+      "Kilifi",
+      "Nairobi"
+    ],
+    "gbif_records_in_kenya": 5029
+  },
+  "look_alikes": [
+    {
+      "label": "Muscicapa_adusta",
+      "common_name": "African Dusky Flycatcher",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Bradornis_microrhynchus",
+      "common_name": "African Grey Flycatcher",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Yellow-bellied greenbul",
+      "url": "https://en.wikipedia.org/wiki/Yellow-bellied_greenbul",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2486173"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

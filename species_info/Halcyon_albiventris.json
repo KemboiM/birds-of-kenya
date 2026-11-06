@@ -38,8 +38,44 @@
   },
   "look_alikes": [
     {
+      "label": "Halcyon_senegalensis",
+      "common_name": "Woodland Kingfisher",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
       "label": "Vidua_paradisaea",
       "common_name": "Long-tailed Paradise Whydah",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Corvus_albus",
+      "common_name": "Pied Crow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Hedydipna_collaris",
+      "common_name": "Collared Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Phoeniculus_purpureus",
+      "common_name": "Green Wood Hoopoe",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Halcyon_senegaloides",
+      "common_name": "Mangrove Kingfisher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Halcyon_chelicuti",
+      "common_name": "Striped Kingfisher",
       "difference": null,
       "times_confused": 1
     }

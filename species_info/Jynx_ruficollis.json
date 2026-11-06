@@ -1,0 +1,78 @@
+{
+  "label": "Jynx_ruficollis",
+  "scientific_name": "Jynx ruficollis",
+  "common_name": "Red-throated Wryneck",
+  "other_names": {},
+  "family": "Picidae",
+  "summary": "The red-throated wryneck (Jynx ruficollis), also known as the rufous-necked wryneck or red-breasted wryneck, is a species of wryneck in the woodpecker family closely related to the Eurasian wryneck. Its three subspecies are resident in much of sub-Saharan Africa in open habitats with some trees. It is a slim, elongated bird about 19 cm (7.5 in) in length, with a small head, fine bill, long fan-shaped tail and cryptic plumage intricately patterned in greys and browns.",
+  "appearance": {
+    "description": "The red-throated wryneck grows to about 19 cm (7.5 in) in length. The sexes are very similar in appearance, and cannot be distinguished in the field, but the male averages 2–3% larger than the female, has a shorter tail, and is heavier at 52–59 g (1.8–2.1 oz) against her 46–52 g (1.6–1.8 oz). It is a slim, elongated bird with a small head, fine bill, long fan-shaped tail and a body shape unlike that of a typical woodpecker.",
+    "colors": "The red-throated wryneck (Jynx ruficollis), also known as the rufous-necked wryneck or red-breasted wryneck, is a species of wryneck in the woodpecker family closely related to the Eurasian wryneck. It is a slim, elongated bird about 19 cm (7.5 in) in length, with a small head, fine bill, long fan-shaped tail and cryptic plumage intricately patterned in greys and browns.",
+    "wings": "The wings are brown above and more buff-toned below."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        19.0,
+        19.0
+      ]
+    },
+    "juvenile": {
+      "notes": "Young birds resemble adults after 20 days, but are darker and more barred above, and lightly barred below with a smaller and darker red patch."
+    },
+    "chick": {
+      "notes": "Both sexes incubate the eggs for 12–15 days until hatching. The chicks are initially pink, naked and blind, but after about eight days their eyes open, and their feathers are growing."
+    }
+  },
+  "behaviour": "The red-throated wryneck normally perches upright on a branch with its tail and wings pointing vertically down and its head pulled into its shoulders, although when it calls it raises its head and stretches its neck out. When displaying at another wryneck, it leans forward with its tail pointing vertically upright and its bill raised while it calls loudly and sways from side to side. Like its Eurasian cousin, when threatened the red-throated wryneck will twist its neck and head in a snake-like manner while making a hissing sound, presumably to deter predators.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The rufous-necked wryneck has a distribution confined to sub-Saharan Africa. It occurs in about 20 countries in disjunct areas ranging from Nigeria, Cameroon, Central African Republic and Ethiopia in the north down to South Africa and Eswatini in the south.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Central",
+      "Nairobi",
+      "Eastern",
+      "Nyeri"
+    ],
+    "gbif_records_in_kenya": 1370
+  },
+  "look_alikes": [
+    {
+      "label": "Campethera_nubica",
+      "common_name": "Nubian Woodpecker",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Passer_griseus",
+      "common_name": "Northern Grey-headed Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Passer_rufocinctus",
+      "common_name": "Kenya Sparrow",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Red-throated wryneck",
+      "url": "https://en.wikipedia.org/wiki/Red-throated_wryneck",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2478160"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

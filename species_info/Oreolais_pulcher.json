@@ -35,6 +35,12 @@
       "common_name": "Little Rock Thrush",
       "difference": null,
       "times_confused": 1
+    },
+    {
+      "label": "Cinnyris_venustus",
+      "common_name": "Variable Sunbird",
+      "difference": null,
+      "times_confused": 1
     }
   ],
   "sources": [

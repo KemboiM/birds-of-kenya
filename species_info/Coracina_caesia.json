@@ -1,0 +1,76 @@
+{
+  "label": "Coracina_caesia",
+  "scientific_name": "Coracina caesia",
+  "common_name": "Grey Cuckooshrike",
+  "other_names": {},
+  "family": "Campephagidae",
+  "summary": "The grey cuckooshrike (Ceblepyris caesius) is a species of bird in the cuckooshrike family Campephagidae. It is a medium-sized forest bird, with grey to blue-grey plumage and large black eyes. There are two subspecies that occur in forest patches of southern and central Africa respectively.",
+  "appearance": {
+    "description": "The grey cuckooshrike is a medium-sized bird; with a body length of 25–27 cm (10–10.5 in) and weighing between 53–68 g (1.9–2.4 oz). These birds exhibit sexual dimorphism. They both have a blue-grey head and body, with a large jet-black eye with a thin white eye-ring.",
+    "colors": "The grey cuckooshrike (Ceblepyris caesius) is a species of bird in the cuckooshrike family Campephagidae. It is a medium-sized forest bird, with grey to blue-grey plumage and large black eyes.",
+    "wings": null
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        25.0,
+        27.0
+      ],
+      "mass_g": [
+        53.0,
+        68.0
+      ]
+    },
+    "juvenile": {
+      "notes": "The juveniles are a dark brown with grey-white barring above, white underparts with brown barring, and have black tails with white edges on the tips as well as on their flight feathers."
+    },
+    "chick": {
+      "notes": "The chicks are black with grey down when they hatch, and remain in the nest until the following breeding season. Both the male and female incubate the eggs, but little else is known about the incubation or fledging periods."
+    }
+  },
+  "behaviour": "=== Feeding === The grey cuckooshrike is insectivorous; feeding mostly on crickets, caterpillars and locusts. Spiders, winged termites and beetles also form a part of their diet. They forage in the upper forest canopy, looking for insects in the foliage and on tree trunks.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The preferred habitat of the grey cuckooshrike is Afromontane forests, lowland forests, coastal forests and dense woodland areas near rivers. They have also been observed foraging in pine and wattle plantations and trees in the trees of small towns in winter.",
+    "kenya_regions": [
+      "Central",
+      "Kenya",
+      "Rift Valley",
+      "Eastern",
+      "Nairobi",
+      "Western"
+    ],
+    "gbif_records_in_kenya": 1823
+  },
+  "look_alikes": [
+    {
+      "label": "Dioptrornis_fischeri",
+      "common_name": "White-eyed Slaty Flycatcher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Platysteira_cyanea",
+      "common_name": "Brown-throated Wattle-eye",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Grey cuckooshrike",
+      "url": "https://en.wikipedia.org/wiki/Grey_cuckooshrike",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2486771"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

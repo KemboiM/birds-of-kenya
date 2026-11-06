@@ -31,22 +31,22 @@
   },
   "look_alikes": [
     {
+      "label": "Ploceus_baglafecht",
+      "common_name": "Baglafecht Weaver",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
       "label": "Ploceus_cucullatus",
       "common_name": "Village Weaver",
       "difference": null,
-      "times_confused": 4
+      "times_confused": 1
     },
     {
       "label": "Ploceus_nigricollis",
       "common_name": "Black-necked Weaver",
       "difference": null,
-      "times_confused": 2
-    },
-    {
-      "label": "Ploceus_baglafecht",
-      "common_name": "Baglafecht Weaver",
-      "difference": null,
-      "times_confused": 2
+      "times_confused": 1
     },
     {
       "label": "Nigrita_canicapillus",
@@ -111,6 +111,42 @@
     {
       "label": "Vidua_macroura",
       "common_name": "Pin-tailed Whydah",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Drepanorhynchus_reichenowi",
+      "common_name": "Golden-winged Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bubalornis_niger",
+      "common_name": "Red-billed Buffalo Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cossypha_heuglini",
+      "common_name": "White-browed Robin-chat",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Crithagra_citrinelloides",
+      "common_name": "African Citril",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Oriolus_percivali",
+      "common_name": "Mountain Oriole",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cinnyris_venustus",
+      "common_name": "Variable Sunbird",
       "difference": null,
       "times_confused": 1
     }

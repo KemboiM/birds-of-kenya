@@ -31,14 +31,26 @@
   },
   "look_alikes": [
     {
+      "label": "Platysteira_cyanea",
+      "common_name": "Brown-throated Wattle-eye",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
       "label": "Dryoscopus_cubla",
       "common_name": "Black-backed Puffback",
       "difference": null,
       "times_confused": 1
     },
     {
-      "label": "Platysteira_cyanea",
-      "common_name": "Brown-throated Wattle-eye",
+      "label": "Notopholia_corrusca",
+      "common_name": "Black-bellied Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Vidua_macroura",
+      "common_name": "Pin-tailed Whydah",
       "difference": null,
       "times_confused": 1
     }

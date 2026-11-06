@@ -33,6 +33,18 @@
   },
   "look_alikes": [
     {
+      "label": "Phoeniculus_purpureus",
+      "common_name": "Green Wood Hoopoe",
+      "difference": null,
+      "times_confused": 3
+    },
+    {
+      "label": "Bubalornis_niger",
+      "common_name": "Red-billed Buffalo Weaver",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
       "label": "Amblyospiza_albifrons",
       "common_name": "Thick-billed Weaver",
       "difference": null,
@@ -65,6 +77,30 @@
     {
       "label": "Vidua_paradisaea",
       "common_name": "Long-tailed Paradise Whydah",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Buphagus_africanus",
+      "common_name": "Yellow-billed Oxpecker",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lamprotornis_chalybaeus",
+      "common_name": "Greater Blue-eared Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Vidua_fischeri",
+      "common_name": "Straw-tailed Whydah",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Zosterops_kikuyuensis",
+      "common_name": "Kikuyu White-eye",
       "difference": null,
       "times_confused": 1
     }

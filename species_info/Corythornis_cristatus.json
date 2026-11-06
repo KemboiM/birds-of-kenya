@@ -41,7 +41,7 @@
       "label": "Ispidina_picta",
       "common_name": "African Pygmy Kingfisher",
       "difference": null,
-      "times_confused": 4
+      "times_confused": 2
     },
     {
       "label": "Phoeniculus_purpureus",
@@ -58,6 +58,24 @@
     {
       "label": "Vidua_paradisaea",
       "common_name": "Long-tailed Paradise Whydah",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Empidornis_semipartitus",
+      "common_name": "Silverbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Phalacrocorax_carbo",
+      "common_name": "Great Cormorant",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Halcyon_leucocephala",
+      "common_name": "Grey-headed Kingfisher",
       "difference": null,
       "times_confused": 1
     }

@@ -1,0 +1,68 @@
+{
+  "label": "Campethera_maculosa",
+  "scientific_name": "Campethera maculosa",
+  "common_name": "Little Green Woodpecker",
+  "other_names": {},
+  "family": "Picidae",
+  "summary": "The little green woodpecker, or green-backed woodpecker (Campethera maculosa) is a species of bird in the family Picidae. It is widely distributed in tropical Africa, living in forest edges, clearings, and forest-shrub mosaics. The International Union for Conservation of Nature (IUCN) has assessed it as a least-concern species.",
+  "appearance": {
+    "description": "The little green woodpecker is about 16 cm (6.3 in) long and weighs about 54 g (1.9 oz). The male's crown is olive-blackish with an indistinct reddish colour, and the nape is red. The head, neck and throat are buff, with brown spots.",
+    "colors": "The little green woodpecker, or green-backed woodpecker (Campethera maculosa) is a species of bird in the family Picidae. The little green woodpecker is about 16 cm (6.3 in) long and weighs about 54 g (1.9 oz).",
+    "wings": null
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        16.0,
+        16.0
+      ],
+      "mass_g": [
+        54.0,
+        54.0
+      ]
+    },
+    "juvenile": {
+      "notes": "The juvenile bird has greener upperparts with pale streaks, and its underparts are paler."
+    },
+    "chick": null
+  },
+  "behaviour": "This woodpecker eats arboreal ants. Its calls are a plaintive huweeeeh, a harsh whee, kewik, three to four teeay notes, and teerweet. It excavates nests in nests of ants and termites.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The little green woodpecker is widely distributed across tropical Africa. Its habitat is edges of primary and secondary forests, clearings, and mosaics of forest and shrub, at elevations up to 1,000 m (3,300 ft).",
+    "kenya_regions": [
+      "Coast",
+      "Rift Valley",
+      "Narok",
+      "Nyanza",
+      "Kwale",
+      "Tana River"
+    ],
+    "gbif_records_in_kenya": 428
+  },
+  "look_alikes": [
+    {
+      "label": "Chalcomitra_senegalensis",
+      "common_name": "Scarlet-chested Sunbird",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Little green woodpecker",
+      "url": "https://en.wikipedia.org/wiki/Little_green_woodpecker",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2478202"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

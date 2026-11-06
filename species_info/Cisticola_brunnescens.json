@@ -1,0 +1,68 @@
+{
+  "label": "Cisticola_brunnescens",
+  "scientific_name": "Cisticola brunnescens",
+  "common_name": "Pectoral-patch Cisticola",
+  "other_names": {},
+  "family": "Cisticolidae",
+  "summary": "The pectoral-patch cisticola (Cisticola brunnescens) is a species of bird in the family Cisticolidae. It is native to the Adamawa Massif, Gabon, the Congo and highlands of East Africa. Its natural habitats are damp or wet areas in upland grassland.",
+  "appearance": {
+    "description": "At 9–10 cm this is a small, streak-backed cisticola with short or medium tail, which may get longer in the breeding season. It differs from the pale-crowned cisticola in having a pale rufous (not buff) crown and forehead in the breeding season. The pectoral patches become darker in the breeding season, but even then they may not be easy to see.",
+    "colors": "It differs from the pale-crowned cisticola in having a pale rufous (not buff) crown and forehead in the breeding season.",
+    "wings": null
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        9.0,
+        10.0
+      ]
+    },
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": "The voice is stonechat-like in quality with harsh tssk tssk or szisk szisk notes given in display flight.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Nairobi",
+      "Eastern",
+      "Central",
+      "Narok"
+    ],
+    "gbif_records_in_kenya": 4161
+  },
+  "look_alikes": [
+    {
+      "label": "Cisticola_chiniana",
+      "common_name": "Rattling Cisticola",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Macronyx_ameliae",
+      "common_name": "Rosy-throated Longclaw",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Pectoral-patch cisticola",
+      "url": "https://en.wikipedia.org/wiki/Pectoral-patch_cisticola",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2492811"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

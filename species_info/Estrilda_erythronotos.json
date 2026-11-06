@@ -1,0 +1,63 @@
+{
+  "label": "Estrilda_erythronotos",
+  "scientific_name": "Estrilda erythronotos",
+  "common_name": "Black-faced Waxbill",
+  "other_names": {},
+  "family": "Estrildidae",
+  "summary": "The black-faced waxbill (Brunhilda erythronotos) is a common species of estrildid finch found in southern Africa. It is found in Angola, Botswana, Kenya, Namibia, Rwanda, South Africa, Tanzania, Uganda, Zambia and Zimbabwe. The IUCN has classified the species as being of least concern.",
+  "appearance": {
+    "description": null,
+    "colors": "The black-faced waxbill (Brunhilda erythronotos) is a common species of estrildid finch found in southern Africa.",
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Kenya",
+      "Rift Valley",
+      "Nairobi",
+      "Eastern",
+      "Western",
+      "Nyanza"
+    ],
+    "gbif_records_in_kenya": 1510
+  },
+  "look_alikes": [
+    {
+      "label": "Estrilda_astrild",
+      "common_name": "Common Waxbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Hirundo_rustica",
+      "common_name": "Barn Swallow",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Black-faced waxbill",
+      "url": "https://en.wikipedia.org/wiki/Black-faced_waxbill",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2493651"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

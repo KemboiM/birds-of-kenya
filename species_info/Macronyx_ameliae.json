@@ -67,6 +67,24 @@
       "common_name": "White-browed Scrub Robin",
       "difference": null,
       "times_confused": 1
+    },
+    {
+      "label": "Cisticola_brunnescens",
+      "common_name": "Pectoral-patch Cisticola",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Macronyx_aurantiigula",
+      "common_name": "Pangani Longclaw",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Turdus_abyssinicus",
+      "common_name": "Abyssinian Thrush",
+      "difference": null,
+      "times_confused": 1
     }
   ],
   "sources": [

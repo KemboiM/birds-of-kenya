@@ -50,6 +50,24 @@
       "common_name": "Red-chested Cuckoo",
       "difference": null,
       "times_confused": 1
+    },
+    {
+      "label": "Campethera_nubica",
+      "common_name": "Nubian Woodpecker",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Halcyon_senegalensis",
+      "common_name": "Woodland Kingfisher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tauraco_hartlaubi",
+      "common_name": "Hartlaub's Turaco",
+      "difference": null,
+      "times_confused": 1
     }
   ],
   "sources": [

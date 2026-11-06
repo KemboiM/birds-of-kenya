@@ -31,10 +31,28 @@
   },
   "look_alikes": [
     {
+      "label": "Lamprotornis_purpuroptera",
+      "common_name": "Rüppell's Starling",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Myrmecocichla_nigra",
+      "common_name": "Sooty Chat",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Laniarius_funebris",
+      "common_name": "Slate-colored Boubou",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
       "label": "Dicrurus_adsimilis",
       "common_name": "Fork-tailed Drongo",
       "difference": null,
-      "times_confused": 3
+      "times_confused": 1
     },
     {
       "label": "Corvus_albus",
@@ -45,12 +63,6 @@
     {
       "label": "Lamprotornis_chalybaeus",
       "common_name": "Greater Blue-eared Starling",
-      "difference": null,
-      "times_confused": 1
-    },
-    {
-      "label": "Lamprotornis_purpuroptera",
-      "common_name": "Rüppell's Starling",
       "difference": null,
       "times_confused": 1
     },
@@ -67,8 +79,20 @@
       "times_confused": 1
     },
     {
-      "label": "Myrmecocichla_nigra",
-      "common_name": "Sooty Chat",
+      "label": "Bycanistes_brevis",
+      "common_name": "Silvery-cheeked Hornbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Myrmecocichla_aethiops",
+      "common_name": "Anteater Chat",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Terpsiphone_viridis",
+      "common_name": "African Paradise Flycatcher",
       "difference": null,
       "times_confused": 1
     }

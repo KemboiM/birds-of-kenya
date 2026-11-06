@@ -43,7 +43,7 @@
       "label": "Batis_molitor",
       "common_name": "Chinspot Batis",
       "difference": null,
-      "times_confused": 2
+      "times_confused": 3
     },
     {
       "label": "Nilaus_afer",
@@ -72,6 +72,24 @@
     {
       "label": "Ceryle_rudis",
       "common_name": "Pied Kingfisher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Dessonornis_caffer",
+      "common_name": "Cape Robin-chat",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tricholaema_lacrymosa",
+      "common_name": "Spot-flanked Barbet",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Sylvia_boehmi",
+      "common_name": "Banded Parisoma",
       "difference": null,
       "times_confused": 1
     }

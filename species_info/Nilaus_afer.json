@@ -56,6 +56,24 @@
       "common_name": "African Pied Wagtail",
       "difference": null,
       "times_confused": 1
+    },
+    {
+      "label": "Apalis_flavida",
+      "common_name": "Yellow-breasted Apalis",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lanius_collurio",
+      "common_name": "Red-backed Shrike",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Emberiza_flaviventris",
+      "common_name": "Golden-breasted Bunting",
+      "difference": null,
+      "times_confused": 1
     }
   ],
   "sources": [

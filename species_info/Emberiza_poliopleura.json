@@ -1,0 +1,80 @@
+{
+  "label": "Emberiza_poliopleura",
+  "scientific_name": "Emberiza poliopleura",
+  "common_name": "Somali Bunting",
+  "other_names": {},
+  "family": "Emberizidae",
+  "summary": "The Somali bunting or Somali golden-breasted bunting (Fringillaria poliopleura) is a species of bird in the Old World bunting family, Emberizidae, found in dry, semi-open subtropical & tropical shrubland habitats of Ethiopia, Kenya, Somalia, South Sudan, Tanzania, and Uganda.",
+  "appearance": {
+    "description": "The Somali bunting is a medium-large bunting, reaching about 14–15 cm (5.5–5.9 in) in length and 14–18 g (0.49–0.63 oz) in weight. It is an attractive passerine, with distinctive features. Adult males sport a striking black-and-white facial pattern, with the black stripes having a strong brown wash in females and juveniles.",
+    "colors": "The lower part of the beak is pink, and the upper part dusky with a pink cutting edge. The back of their neck is grey, fading into chestnut mantle feathers with pale grey margins & russet streaking, and a grey lower back and rump.",
+    "wings": "Two white bars are visible on the wing when folded."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        14.0,
+        15.0
+      ],
+      "mass_g": [
+        14.0,
+        18.0
+      ]
+    },
+    "juvenile": {
+      "notes": "Adult males sport a striking black-and-white facial pattern, with the black stripes having a strong brown wash in females and juveniles. Adult female and juvenile plumage is similar, but overall duller than that of males."
+    },
+    "chick": null
+  },
+  "behaviour": "The Somali bunting is a primarily ground-feeding bird, tending to stay low in the bushes. Their diet is primarily grass seeds, with some soft green leaves and insects such as termites (Isoptera), beetle larvae (Coleoptera), and moths (Lepidoptera). They are often seen in pairs or small groups.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "Found from eastern and southern Ethiopia, far southeastern South Sudan and Somalia through northeastern Uganda, Kenya & northeastern Tanzania, the Somali bunting is a bird of semi-arid and arid shrublands and dry savanna, particularly acacia (Acacia) and Commiphora scrub. In north Kenya and Somalia, it is found at elevations up to 1,500 m (4,900 ft), and can be found at elevations of 2,000 m (6,600 ft) in the Ethiopian Rift Valley.",
+    "kenya_regions": [
+      "Coast",
+      "Rift Valley",
+      "Kenya",
+      "Eastern",
+      "North-Eastern",
+      "Samburu"
+    ],
+    "gbif_records_in_kenya": 2365
+  },
+  "look_alikes": [
+    {
+      "label": "Ceryle_rudis",
+      "common_name": "Pied Kingfisher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Emberiza_flaviventris",
+      "common_name": "Golden-breasted Bunting",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_cucullatus",
+      "common_name": "Village Weaver",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Somali bunting",
+      "url": "https://en.wikipedia.org/wiki/Somali_bunting",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2491576"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

@@ -65,6 +65,54 @@
       "common_name": "Common Waxbill",
       "difference": null,
       "times_confused": 1
+    },
+    {
+      "label": "Nigrita_canicapillus",
+      "common_name": "Grey-headed Nigrita",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cinnyricinclus_leucogaster",
+      "common_name": "Violet-backed Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Colius_striatus",
+      "common_name": "Speckled Mousebird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Euplectes_albonotatus",
+      "common_name": "White-winged Widowbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Laniarius_major",
+      "common_name": "Tropical Boubou",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tockus_jacksoni",
+      "common_name": "Jackson's Hornbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bradornis_microrhynchus",
+      "common_name": "African Grey Flycatcher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Dicrurus_adsimilis",
+      "common_name": "Fork-tailed Drongo",
+      "difference": null,
+      "times_confused": 1
     }
   ],
   "sources": [

@@ -42,16 +42,22 @@
   },
   "look_alikes": [
     {
+      "label": "Dioptrornis_fischeri",
+      "common_name": "White-eyed Slaty Flycatcher",
+      "difference": null,
+      "times_confused": 3
+    },
+    {
       "label": "Muscicapa_striata",
       "common_name": "Spotted Flycatcher",
       "difference": null,
-      "times_confused": 3
+      "times_confused": 2
     },
     {
       "label": "Bradornis_microrhynchus",
       "common_name": "African Grey Flycatcher",
       "difference": null,
-      "times_confused": 3
+      "times_confused": 2
     },
     {
       "label": "Pinarochroa_sordida",
@@ -62,6 +68,12 @@
     {
       "label": "Camaroptera_brachyura",
       "common_name": "Green-backed Camaroptera",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Chlorocichla_flaviventris",
+      "common_name": "Yellow-bellied Greenbul",
       "difference": null,
       "times_confused": 2
     },
@@ -122,6 +134,78 @@
     {
       "label": "Dicrurus_adsimilis",
       "common_name": "Fork-tailed Drongo",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Stelgidillas_gracilirostris",
+      "common_name": "Slender-billed Greenbul",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Oenanthe_scotocerca",
+      "common_name": "Brown-tailed Rock Chat",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cyanomitra_olivacea",
+      "common_name": "Olive Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Gymnoris_pyrgita",
+      "common_name": "Yellow-spotted Bush Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Crithagra_reichenowi",
+      "common_name": "Reichenow's Seedeater",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Andropadus_importunus",
+      "common_name": "Sombre Greenbul",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Myrmecocichla_aethiops",
+      "common_name": "Anteater Chat",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Plegadis_falcinellus",
+      "common_name": "Glossy Ibis",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Prionops_scopifrons",
+      "common_name": "Chestnut-fronted Helmetshrike",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Upupa_africana",
+      "common_name": "Eurasian Hoopoe",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pseudonigrita_arnaudi",
+      "common_name": "Grey-capped Social Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pycnonotus_barbatus",
+      "common_name": "Common Bulbul",
       "difference": null,
       "times_confused": 1
     }

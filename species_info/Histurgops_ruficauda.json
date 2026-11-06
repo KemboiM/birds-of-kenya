@@ -44,6 +44,18 @@
       "common_name": "Hamerkop",
       "difference": null,
       "times_confused": 1
+    },
+    {
+      "label": "Plocepasser_donaldsoni",
+      "common_name": "Donaldson Smith's Sparrow-weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Streptopelia_lugens",
+      "common_name": "Dusky Turtle Dove",
+      "difference": null,
+      "times_confused": 1
     }
   ],
   "sources": [

@@ -41,6 +41,24 @@
       "common_name": "Mocking Cliff Chat",
       "difference": null,
       "times_confused": 1
+    },
+    {
+      "label": "Chamaetylas_poliocephala",
+      "common_name": "Brown-chested Alethe",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cinnyris_venustus",
+      "common_name": "Variable Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cossypha_heuglini",
+      "common_name": "White-browed Robin-chat",
+      "difference": null,
+      "times_confused": 1
     }
   ],
   "sources": [

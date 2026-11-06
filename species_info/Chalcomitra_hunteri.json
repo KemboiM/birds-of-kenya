@@ -34,7 +34,7 @@
       "label": "Chalcomitra_senegalensis",
       "common_name": "Scarlet-chested Sunbird",
       "difference": null,
-      "times_confused": 3
+      "times_confused": 4
     },
     {
       "label": "Chalcomitra_amethystina",
@@ -51,6 +51,24 @@
     {
       "label": "Ploceus_spekei",
       "common_name": "Speke's Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bradornis_microrhynchus",
+      "common_name": "African Grey Flycatcher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Coracias_caudatus",
+      "common_name": "Lilac-breasted Roller",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Micronisus_gabar",
+      "common_name": "Gabar Goshawk",
       "difference": null,
       "times_confused": 1
     }

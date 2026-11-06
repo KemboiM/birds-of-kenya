@@ -44,6 +44,12 @@
   },
   "look_alikes": [
     {
+      "label": "Leptoptilos_crumenifer",
+      "common_name": "Marabou Stork",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
       "label": "Ciconia_ciconia",
       "common_name": "White Stork",
       "difference": null,
@@ -82,6 +88,30 @@
     {
       "label": "Lanius_excubitoroides",
       "common_name": "Grey-backed Fiscal",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Myrmecocichla_nigra",
+      "common_name": "Sooty Chat",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Anastomus_lamelligerus",
+      "common_name": "African Openbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lanius_cabanisi",
+      "common_name": "Long-tailed Fiscal",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Plocepasser_mahali",
+      "common_name": "White-browed Sparrow-weaver",
       "difference": null,
       "times_confused": 1
     }

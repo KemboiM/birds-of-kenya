@@ -37,8 +37,8 @@
   },
   "look_alikes": [
     {
-      "label": "Actitis_hypoleucos",
-      "common_name": "Common Sandpiper",
+      "label": "Tringa_nebularia",
+      "common_name": "Common Greenshank",
       "difference": null,
       "times_confused": 4
     },
@@ -49,8 +49,14 @@
       "times_confused": 2
     },
     {
-      "label": "Tringa_nebularia",
-      "common_name": "Common Greenshank",
+      "label": "Actitis_hypoleucos",
+      "common_name": "Common Sandpiper",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Spilopelia_senegalensis",
+      "common_name": "Laughing Dove",
       "difference": null,
       "times_confused": 1
     }

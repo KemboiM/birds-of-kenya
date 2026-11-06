@@ -118,6 +118,48 @@
       "common_name": "Superb Starling",
       "difference": null,
       "times_confused": 1
+    },
+    {
+      "label": "Gallus_gallus",
+      "common_name": "Red Junglefowl",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tricholaema_diademata",
+      "common_name": "Red-fronted Barbet",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Dendrocygna_viduata",
+      "common_name": "White-faced Whistling Duck",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Laniarius_funebris",
+      "common_name": "Slate-colored Boubou",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lophaetus_occipitalis",
+      "common_name": "Long-crested Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_cucullatus",
+      "common_name": "Village Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tringa_glareola",
+      "common_name": "Wood Sandpiper",
+      "difference": null,
+      "times_confused": 1
     }
   ],
   "sources": [

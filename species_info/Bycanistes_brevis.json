@@ -34,23 +34,41 @@
       "label": "Bycanistes_subcylindricus",
       "common_name": "Black-and-white-casqued Hornbill",
       "difference": null,
-      "times_confused": 5
-    },
-    {
-      "label": "Corvus_albus",
-      "common_name": "Pied Crow",
-      "difference": null,
-      "times_confused": 4
-    },
-    {
-      "label": "Lophoceros_alboterminatus",
-      "common_name": "Crowned Hornbill",
-      "difference": null,
       "times_confused": 2
     },
     {
       "label": "Bycanistes_bucinator",
       "common_name": "Trumpeter Hornbill",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Amblyospiza_albifrons",
+      "common_name": "Thick-billed Weaver",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Megaceryle_maxima",
+      "common_name": "Giant Kingfisher",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Polyboroides_typus",
+      "common_name": "African Harrier-hawk",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Corvus_albus",
+      "common_name": "Pied Crow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lophoceros_alboterminatus",
+      "common_name": "Crowned Hornbill",
       "difference": null,
       "times_confused": 1
     },
@@ -159,6 +177,72 @@
     {
       "label": "Milvus_migrans",
       "common_name": "Black Kite",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Turdoides_rubiginosa",
+      "common_name": "Rufous Chatterer",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Chalcomitra_amethystina",
+      "common_name": "Amethyst Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Melaenornis_pammelaina",
+      "common_name": "Southern Black Flycatcher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tockus_deckeni",
+      "common_name": "Von Der Decken's Hornbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tockus_erythrorhynchus",
+      "common_name": "Northern Red-billed Hornbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Anastomus_lamelligerus",
+      "common_name": "African Openbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cinnyricinclus_leucogaster",
+      "common_name": "Violet-backed Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Hedydipna_collaris",
+      "common_name": "Collared Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Circaetus_pectoralis",
+      "common_name": "Black-chested Snake Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Nectarinia_kilimensis",
+      "common_name": "Bronze Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Polemaetus_bellicosus",
+      "common_name": "Martial Eagle",
       "difference": null,
       "times_confused": 1
     }

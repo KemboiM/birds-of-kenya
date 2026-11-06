@@ -50,10 +50,22 @@
   },
   "look_alikes": [
     {
+      "label": "Platalea_alba",
+      "common_name": "African Spoonbill",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Bubulcus_ibis",
+      "common_name": "Western Cattle Egret",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
       "label": "Phalacrocorax_carbo",
       "common_name": "Great Cormorant",
       "difference": null,
-      "times_confused": 2
+      "times_confused": 1
     },
     {
       "label": "Cypsiurus_parvus",
@@ -130,6 +142,66 @@
     {
       "label": "Bostrychia_hagedash",
       "common_name": "Hadada Ibis",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Creatophora_cinerea",
+      "common_name": "Wattled Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Sagittarius_serpentarius",
+      "common_name": "Secretarybird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ardea_cinerea",
+      "common_name": "Grey Heron",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bubo_lacteus",
+      "common_name": "Verreaux's Eagle-owl",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Anhinga_rufa",
+      "common_name": "African Darter",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Coracias_garrulus",
+      "common_name": "European Roller",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Motacilla_clara",
+      "common_name": "Mountain Wagtail",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Mycteria_ibis",
+      "common_name": "Yellow-billed Stork",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Parus_albiventris",
+      "common_name": "White-bellied Tit",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tringa_glareola",
+      "common_name": "Wood Sandpiper",
       "difference": null,
       "times_confused": 1
     }

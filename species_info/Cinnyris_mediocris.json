@@ -34,7 +34,7 @@
       "label": "Cinnyris_reichenowi",
       "common_name": "Northern Double-collared Sunbird",
       "difference": null,
-      "times_confused": 3
+      "times_confused": 2
     },
     {
       "label": "Cinnyris_nectarinioides",
@@ -51,6 +51,18 @@
     {
       "label": "Cinnyris_pulchellus",
       "common_name": "Beautiful Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cinnyris_bifasciatus",
+      "common_name": "Purple-banded Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Nectarinia_kilimensis",
+      "common_name": "Bronze Sunbird",
       "difference": null,
       "times_confused": 1
     }

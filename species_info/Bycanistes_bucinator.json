@@ -43,7 +43,7 @@
       "label": "Bycanistes_brevis",
       "common_name": "Silvery-cheeked Hornbill",
       "difference": null,
-      "times_confused": 1
+      "times_confused": 2
     },
     {
       "label": "Creatophora_cinerea",
@@ -66,6 +66,18 @@
     {
       "label": "Chrysococcyx_klaas",
       "common_name": "Klaas's Cuckoo",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Clamator_jacobinus",
+      "common_name": "Jacobin Cuckoo",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lophoceros_alboterminatus",
+      "common_name": "Crowned Hornbill",
       "difference": null,
       "times_confused": 1
     }

@@ -41,7 +41,7 @@
       "label": "Anas_erythrorhyncha",
       "common_name": "Red-billed Teal",
       "difference": null,
-      "times_confused": 2
+      "times_confused": 3
     },
     {
       "label": "Buteo_buteo",
@@ -52,6 +52,42 @@
     {
       "label": "Himantopus_himantopus",
       "common_name": "Black-winged Stilt",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Chroicocephalus_cirrocephalus",
+      "common_name": "Grey-headed Gull",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Limosa_limosa",
+      "common_name": "Black-tailed Godwit",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pelecanus_onocrotalus",
+      "common_name": "Great White Pelican",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Passer_domesticus",
+      "common_name": "House Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tockus_erythrorhynchus",
+      "common_name": "Northern Red-billed Hornbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Turtur_chalcospilos",
+      "common_name": "Emerald-spotted Wood Dove",
       "difference": null,
       "times_confused": 1
     }

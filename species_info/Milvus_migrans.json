@@ -40,6 +40,24 @@
   },
   "look_alikes": [
     {
+      "label": "Hieraaetus_wahlbergi",
+      "common_name": "Wahlberg's Eagle",
+      "difference": null,
+      "times_confused": 6
+    },
+    {
+      "label": "Aquila_rapax",
+      "common_name": "Tawny Eagle",
+      "difference": null,
+      "times_confused": 3
+    },
+    {
+      "label": "Terathopius_ecaudatus",
+      "common_name": "Bateleur",
+      "difference": null,
+      "times_confused": 3
+    },
+    {
       "label": "Anastomus_lamelligerus",
       "common_name": "African Openbill",
       "difference": null,
@@ -48,12 +66,6 @@
     {
       "label": "Elanus_caeruleus",
       "common_name": "Black-winged Kite",
-      "difference": null,
-      "times_confused": 2
-    },
-    {
-      "label": "Aquila_rapax",
-      "common_name": "Tawny Eagle",
       "difference": null,
       "times_confused": 2
     },
@@ -70,10 +82,22 @@
       "times_confused": 2
     },
     {
+      "label": "Gyps_africanus",
+      "common_name": "White-backed Vulture",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Circaetus_pectoralis",
+      "common_name": "Black-chested Snake Eagle",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
       "label": "Dicrurus_adsimilis",
       "common_name": "Fork-tailed Drongo",
       "difference": null,
-      "times_confused": 2
+      "times_confused": 1
     },
     {
       "label": "Circus_aeruginosus",
@@ -112,12 +136,6 @@
       "times_confused": 1
     },
     {
-      "label": "Gyps_africanus",
-      "common_name": "White-backed Vulture",
-      "difference": null,
-      "times_confused": 1
-    },
-    {
       "label": "Aquila_nipalensis",
       "common_name": "Steppe Eagle",
       "difference": null,
@@ -130,14 +148,110 @@
       "times_confused": 1
     },
     {
-      "label": "Hieraaetus_wahlbergi",
-      "common_name": "Wahlberg's Eagle",
+      "label": "Hieraaetus_ayresii",
+      "common_name": "Ayres's Hawk-eagle",
       "difference": null,
       "times_confused": 1
     },
     {
-      "label": "Terathopius_ecaudatus",
-      "common_name": "Bateleur",
+      "label": "Cuculus_solitarius",
+      "common_name": "Red-chested Cuckoo",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Necrosyrtes_monachus",
+      "common_name": "Hooded Vulture",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Colius_striatus",
+      "common_name": "Speckled Mousebird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lanius_humeralis",
+      "common_name": "Northern Fiscal",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lophaetus_occipitalis",
+      "common_name": "Long-crested Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bostrychia_hagedash",
+      "common_name": "Hadada Ibis",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bubo_lacteus",
+      "common_name": "Verreaux's Eagle-owl",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Circaetus_cinereus",
+      "common_name": "Brown Snake Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Corvus_splendens",
+      "common_name": "House Crow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cypsiurus_parvus",
+      "common_name": "African Palm Swift",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Gypohierax_angolensis",
+      "common_name": "Palm-nut Vulture",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Laniarius_major",
+      "common_name": "Tropical Boubou",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lophoceros_alboterminatus",
+      "common_name": "Crowned Hornbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Microcarbo_africanus",
+      "common_name": "Reed Cormorant",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Streptopelia_capicola",
+      "common_name": "Ring-necked Dove",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Myrmecocichla_aethiops",
+      "common_name": "Anteater Chat",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pseudonigrita_arnaudi",
+      "common_name": "Grey-capped Social Weaver",
       "difference": null,
       "times_confused": 1
     }

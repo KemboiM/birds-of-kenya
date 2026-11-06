@@ -31,20 +31,8 @@
   },
   "look_alikes": [
     {
-      "label": "Ploceus_bojeri",
-      "common_name": "Golden Palm Weaver",
-      "difference": null,
-      "times_confused": 3
-    },
-    {
       "label": "Ploceus_xanthops",
       "common_name": "Holub's Golden Weaver",
-      "difference": null,
-      "times_confused": 3
-    },
-    {
-      "label": "Chlorophoneus_sulfureopectus",
-      "common_name": "Orange-breasted Bushshrike",
       "difference": null,
       "times_confused": 2
     },
@@ -59,6 +47,42 @@
       "common_name": "Northern Yellow White-eye",
       "difference": null,
       "times_confused": 2
+    },
+    {
+      "label": "Arizelocichla_kikuyuensis",
+      "common_name": "Kikuyu Mountain Greenbul",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Merops_pusillus",
+      "common_name": "Little Bee-eater",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Ploceus_subaureus",
+      "common_name": "Eastern Golden Weaver",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Ploceus_cucullatus",
+      "common_name": "Village Weaver",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Ploceus_bojeri",
+      "common_name": "Golden Palm Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Chlorophoneus_sulfureopectus",
+      "common_name": "Orange-breasted Bushshrike",
+      "difference": null,
+      "times_confused": 1
     },
     {
       "label": "Ploceus_nigricollis",
@@ -105,6 +129,30 @@
     {
       "label": "Cossypha_heuglini",
       "common_name": "White-browed Robin-chat",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_jacksoni",
+      "common_name": "Golden-backed Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Zosterops_kikuyuensis",
+      "common_name": "Kikuyu White-eye",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Merops_superciliosus",
+      "common_name": "Olive Bee-eater",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Otus_ireneae",
+      "common_name": "Sokoke Scops Owl",
       "difference": null,
       "times_confused": 1
     }

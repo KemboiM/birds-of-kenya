@@ -39,11 +39,23 @@
       "label": "Cursorius_temminckii",
       "common_name": "Temminck's Courser",
       "difference": null,
-      "times_confused": 2
+      "times_confused": 3
     },
     {
       "label": "Buphagus_erythrorhynchus",
       "common_name": "Red-billed Oxpecker",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Buphagus_africanus",
+      "common_name": "Yellow-billed Oxpecker",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lissotis_melanogaster",
+      "common_name": "Black-bellied Bustard",
       "difference": null,
       "times_confused": 1
     }

@@ -42,10 +42,28 @@
   },
   "look_alikes": [
     {
+      "label": "Anthreptes_orientalis",
+      "common_name": "Eastern Violet-backed Sunbird",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Buphagus_erythrorhynchus",
+      "common_name": "Red-billed Oxpecker",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Oena_capensis",
+      "common_name": "Namaqua Dove",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
       "label": "Telophorus_cruentus",
       "common_name": "Rosy-patched Bushshrike",
       "difference": null,
-      "times_confused": 3
+      "times_confused": 1
     },
     {
       "label": "Phyllolais_pulchella",
@@ -152,6 +170,72 @@
     {
       "label": "Cinnyris_venustus",
       "common_name": "Variable Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Speculipastor_bicolor",
+      "common_name": "Magpie Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Estrilda_astrild",
+      "common_name": "Common Waxbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lophoceros_nasutus",
+      "common_name": "African Grey Hornbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Anhinga_rufa",
+      "common_name": "African Darter",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Dinemellia_dinemelli",
+      "common_name": "White-headed Buffalo Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Micronisus_gabar",
+      "common_name": "Gabar Goshawk",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Motacilla_aguimp",
+      "common_name": "African Pied Wagtail",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cinnyricinclus_leucogaster",
+      "common_name": "Violet-backed Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Camaroptera_brachyura",
+      "common_name": "Green-backed Camaroptera",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Quelea_quelea",
+      "common_name": "Red-billed Quelea",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Creatophora_cinerea",
+      "common_name": "Wattled Starling",
       "difference": null,
       "times_confused": 1
     }

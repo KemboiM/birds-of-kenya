@@ -1,0 +1,80 @@
+{
+  "label": "Tauraco_schalowi",
+  "scientific_name": "Tauraco schalowi",
+  "common_name": "Schalow's Turaco",
+  "other_names": {},
+  "family": "Musophagidae",
+  "summary": "Schalow's turaco (Tauraco schalowi) is a frugivorous bird in the family Musophagidae. This bird's common name and Latin binomial commemorate the German banker and amateur ornithologist Herman Schalow.",
+  "appearance": {
+    "description": null,
+    "colors": null,
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": {
+      "notes": "Within 2 to 3 weeks, the chicks are strong enough to climb outside of the nest, and will start flying after another 1 to 2 weeks."
+    }
+  },
+  "behaviour": "Schalows consume mainly fruit and other plant matter, while eating a more insect-based diet as chicks. They will generally feed in large flocks and are social outside of nesting.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "It is distributed mainly in Zambia, central Angola, the southern DRC, and the uplands of southern Kenya, northern and western Tanzania and western Malawi. It occurs very locally in Botswana, Namibia and Zimbabwe, where it frequents riparian habitats of the Zambezi and Cuando Rivers.",
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Narok"
+    ],
+    "gbif_records_in_kenya": 1363
+  },
+  "look_alikes": [
+    {
+      "label": "Merops_pusillus",
+      "common_name": "Little Bee-eater",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Nectarinia_kilimensis",
+      "common_name": "Bronze Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Streptopelia_semitorquata",
+      "common_name": "Red-eyed Dove",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Chalcomitra_amethystina",
+      "common_name": "Amethyst Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Trachyphonus_erythrocephalus",
+      "common_name": "Red-and-yellow Barbet",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Schalow's turaco",
+      "url": "https://en.wikipedia.org/wiki/Schalow%27s_turaco",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2475234"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

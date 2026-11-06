@@ -55,6 +55,24 @@
       "common_name": "Western Yellow Wagtail",
       "difference": null,
       "times_confused": 1
+    },
+    {
+      "label": "Erythropygia_quadrivirgata",
+      "common_name": "Bearded Scrub Robin",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Laniarius_major",
+      "common_name": "Tropical Boubou",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Motacilla_aguimp",
+      "common_name": "African Pied Wagtail",
+      "difference": null,
+      "times_confused": 1
     }
   ],
   "sources": [

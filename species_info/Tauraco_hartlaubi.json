@@ -65,6 +65,42 @@
       "common_name": "Saddle-billed Stork",
       "difference": null,
       "times_confused": 1
+    },
+    {
+      "label": "Tauraco_leucolophus",
+      "common_name": "White-crested Turaco",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Musophaga_rossae",
+      "common_name": "Ross's Turaco",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bycanistes_subcylindricus",
+      "common_name": "Black-and-white-casqued Hornbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Corythaeola_cristata",
+      "common_name": "Great Blue Turaco",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Corythaixoides_leucogaster",
+      "common_name": "White-bellied Go-away-bird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Hedydipna_collaris",
+      "common_name": "Collared Sunbird",
+      "difference": null,
+      "times_confused": 1
     }
   ],
   "sources": [

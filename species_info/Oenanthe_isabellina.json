@@ -34,19 +34,19 @@
       "label": "Oenanthe_oenanthe",
       "common_name": "Northern Wheatear",
       "difference": null,
-      "times_confused": 9
+      "times_confused": 5
     },
     {
       "label": "Bradornis_microrhynchus",
       "common_name": "African Grey Flycatcher",
       "difference": null,
-      "times_confused": 3
+      "times_confused": 2
     },
     {
       "label": "Lamprotornis_fischeri",
       "common_name": "Fischer's Starling",
       "difference": null,
-      "times_confused": 2
+      "times_confused": 1
     },
     {
       "label": "Lophoceros_nasutus",
@@ -81,6 +81,30 @@
     {
       "label": "Creatophora_cinerea",
       "common_name": "Wattled Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Alopochen_aegyptiaca",
+      "common_name": "Egyptian Goose",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Colius_leucocephalus",
+      "common_name": "White-headed Mousebird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Gymnoris_pyrgita",
+      "common_name": "Yellow-spotted Bush Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Passer_gongonensis",
+      "common_name": "Parrot-billed Sparrow",
       "difference": null,
       "times_confused": 1
     }

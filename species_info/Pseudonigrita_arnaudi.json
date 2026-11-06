@@ -48,10 +48,22 @@
       "times_confused": 2
     },
     {
+      "label": "Lonchura_cucullata",
+      "common_name": "Bronze Mannikin",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Colius_leucocephalus",
+      "common_name": "White-headed Mousebird",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
       "label": "Creatophora_cinerea",
       "common_name": "Wattled Starling",
       "difference": null,
-      "times_confused": 2
+      "times_confused": 1
     },
     {
       "label": "Sylvia_boehmi",
@@ -92,12 +104,6 @@
     {
       "label": "Chalcomitra_senegalensis",
       "common_name": "Scarlet-chested Sunbird",
-      "difference": null,
-      "times_confused": 1
-    },
-    {
-      "label": "Lonchura_cucullata",
-      "common_name": "Bronze Mannikin",
       "difference": null,
       "times_confused": 1
     },
@@ -152,6 +158,78 @@
     {
       "label": "Passer_rufocinctus",
       "common_name": "Kenya Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Crithagra_reichenowi",
+      "common_name": "Reichenow's Seedeater",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Micronisus_gabar",
+      "common_name": "Gabar Goshawk",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Gymnoris_pyrgita",
+      "common_name": "Yellow-spotted Bush Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lamprotornis_fischeri",
+      "common_name": "Fischer's Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lanius_humeralis",
+      "common_name": "Northern Fiscal",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Milvus_migrans",
+      "common_name": "Black Kite",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Muscicapa_adusta",
+      "common_name": "African Dusky Flycatcher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Passer_suahelicus",
+      "common_name": "Swahili Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Strix_woodfordii",
+      "common_name": "African Wood Owl",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Sylvietta_whytii",
+      "common_name": "Red-faced Crombec",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Turtur_chalcospilos",
+      "common_name": "Emerald-spotted Wood Dove",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Streptopelia_semitorquata",
+      "common_name": "Red-eyed Dove",
       "difference": null,
       "times_confused": 1
     }

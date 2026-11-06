@@ -33,22 +33,22 @@
   },
   "look_alikes": [
     {
-      "label": "Oriolus_larvatus",
-      "common_name": "Black-headed Oriole",
+      "label": "Ploceus_spekei",
+      "common_name": "Speke's Weaver",
       "difference": null,
-      "times_confused": 4
+      "times_confused": 6
     },
     {
       "label": "Ploceus_vitellinus",
       "common_name": "Vitelline Masked Weaver",
       "difference": null,
-      "times_confused": 3
+      "times_confused": 4
     },
     {
-      "label": "Ploceus_subaureus",
-      "common_name": "Eastern Golden Weaver",
+      "label": "Ploceus_xanthops",
+      "common_name": "Holub's Golden Weaver",
       "difference": null,
-      "times_confused": 2
+      "times_confused": 3
     },
     {
       "label": "Ploceus_intermedius",
@@ -57,16 +57,28 @@
       "times_confused": 2
     },
     {
-      "label": "Ploceus_xanthops",
-      "common_name": "Holub's Golden Weaver",
-      "difference": null,
-      "times_confused": 2
-    },
-    {
       "label": "Serinus_flavivertex",
       "common_name": "Yellow-crowned Canary",
       "difference": null,
       "times_confused": 2
+    },
+    {
+      "label": "Ploceus_ocularis",
+      "common_name": "Spectacled Weaver",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Oriolus_larvatus",
+      "common_name": "Black-headed Oriole",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_subaureus",
+      "common_name": "Eastern Golden Weaver",
+      "difference": null,
+      "times_confused": 1
     },
     {
       "label": "Ploceus_jacksoni",
@@ -117,12 +129,6 @@
       "times_confused": 1
     },
     {
-      "label": "Ploceus_spekei",
-      "common_name": "Speke's Weaver",
-      "difference": null,
-      "times_confused": 1
-    },
-    {
       "label": "Pseudonigrita_cabanisi",
       "common_name": "Black-capped Social Weaver",
       "difference": null,
@@ -137,6 +143,60 @@
     {
       "label": "Streptopelia_decipiens",
       "common_name": "Mourning Collared Dove",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Emberiza_poliopleura",
+      "common_name": "Somali Bunting",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Crithagra_citrinelloides",
+      "common_name": "African Citril",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Gallinula_chloropus",
+      "common_name": "Common Moorhen",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Passer_gongonensis",
+      "common_name": "Parrot-billed Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_baglafecht",
+      "common_name": "Baglafecht Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Corvus_splendens",
+      "common_name": "House Crow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Motacilla_flava",
+      "common_name": "Western Yellow Wagtail",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Streptopelia_semitorquata",
+      "common_name": "Red-eyed Dove",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Uraeginthus_bengalus",
+      "common_name": "Red-cheeked Cordon-bleu",
       "difference": null,
       "times_confused": 1
     }

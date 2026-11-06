@@ -36,7 +36,7 @@
       "label": "Pterocles_decoratus",
       "common_name": "Black-faced Sandgrouse",
       "difference": null,
-      "times_confused": 5
+      "times_confused": 3
     },
     {
       "label": "Charadrius_hiaticula",
@@ -65,6 +65,48 @@
     {
       "label": "Pternistis_leucoscepus",
       "common_name": "Yellow-necked Spurfowl",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Columba_livia",
+      "common_name": "Rock Dove",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Merops_apiaster",
+      "common_name": "European Bee-eater",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Acryllium_vulturinum",
+      "common_name": "Vulturine Guinea Fowl",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Calandrella_cinerea",
+      "common_name": "Red-capped Lark",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Dendrocygna_viduata",
+      "common_name": "White-faced Whistling Duck",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Oena_capensis",
+      "common_name": "Namaqua Dove",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Campethera_nubica",
+      "common_name": "Nubian Woodpecker",
       "difference": null,
       "times_confused": 1
     }

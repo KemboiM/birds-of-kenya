@@ -53,6 +53,18 @@
       "common_name": "Buff-crested Bustard",
       "difference": null,
       "times_confused": 1
+    },
+    {
+      "label": "Dromas_ardeola",
+      "common_name": "Crab-plover",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Oena_capensis",
+      "common_name": "Namaqua Dove",
+      "difference": null,
+      "times_confused": 1
     }
   ],
   "sources": [

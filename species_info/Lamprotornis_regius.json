@@ -36,6 +36,12 @@
   },
   "look_alikes": [
     {
+      "label": "Lamprotornis_hildebrandti",
+      "common_name": "Hildebrandt's Starling",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
       "label": "Corythaeola_cristata",
       "common_name": "Great Blue Turaco",
       "difference": null,
@@ -68,6 +74,24 @@
     {
       "label": "Cinnyris_venustus",
       "common_name": "Variable Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pogonocichla_stellata",
+      "common_name": "White-starred Robin",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Coracias_garrulus",
+      "common_name": "European Roller",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Laniarius_funebris",
+      "common_name": "Slate-colored Boubou",
       "difference": null,
       "times_confused": 1
     }

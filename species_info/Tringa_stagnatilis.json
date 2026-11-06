@@ -49,19 +49,19 @@
       "label": "Tringa_nebularia",
       "common_name": "Common Greenshank",
       "difference": null,
-      "times_confused": 5
+      "times_confused": 7
     },
     {
       "label": "Tringa_glareola",
       "common_name": "Wood Sandpiper",
       "difference": null,
-      "times_confused": 4
+      "times_confused": 1
     },
     {
       "label": "Himantopus_himantopus",
       "common_name": "Black-winged Stilt",
       "difference": null,
-      "times_confused": 2
+      "times_confused": 1
     },
     {
       "label": "Burhinus_capensis",
@@ -78,6 +78,18 @@
     {
       "label": "Creatophora_cinerea",
       "common_name": "Wattled Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Xenus_cinereus",
+      "common_name": "Terek Sandpiper",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Calidris_pugnax",
+      "common_name": "Ruff",
       "difference": null,
       "times_confused": 1
     }

@@ -60,6 +60,12 @@
       "common_name": "White-eyed Slaty Flycatcher",
       "difference": null,
       "times_confused": 1
+    },
+    {
+      "label": "Bubo_lacteus",
+      "common_name": "Verreaux's Eagle-owl",
+      "difference": null,
+      "times_confused": 1
     }
   ],
   "sources": [

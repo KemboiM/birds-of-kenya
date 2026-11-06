@@ -40,6 +40,12 @@
   },
   "look_alikes": [
     {
+      "label": "Rhinopomastus_minor",
+      "common_name": "Abyssinian Scimitarbill",
+      "difference": null,
+      "times_confused": 3
+    },
+    {
       "label": "Chalcomitra_hunteri",
       "common_name": "Hunter's Sunbird",
       "difference": null,
@@ -132,6 +138,96 @@
     {
       "label": "Alopochen_aegyptiaca",
       "common_name": "Egyptian Goose",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Halcyon_albiventris",
+      "common_name": "Brown-hooded Kingfisher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Nectarinia_famosa",
+      "common_name": "Malachite Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Rhinopomastus_cyanomelas",
+      "common_name": "Common Scimitarbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Euplectes_ardens",
+      "common_name": "Red-collared Widowbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Halcyon_senegalensis",
+      "common_name": "Woodland Kingfisher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Halcyon_chelicuti",
+      "common_name": "Striped Kingfisher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Centropus_superciliosus",
+      "common_name": "White-browed Coucal",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Corvus_splendens",
+      "common_name": "House Crow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Corythaixoides_leucogaster",
+      "common_name": "White-bellied Go-away-bird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Laniarius_funebris",
+      "common_name": "Slate-colored Boubou",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pternistis_afer",
+      "common_name": "Red-necked Spurfowl",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Quelea_quelea",
+      "common_name": "Red-billed Quelea",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Terathopius_ecaudatus",
+      "common_name": "Bateleur",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Anas_undulata",
+      "common_name": "Yellow-billed Duck",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lamprotornis_purpuroptera",
+      "common_name": "Rüppell's Starling",
       "difference": null,
       "times_confused": 1
     }

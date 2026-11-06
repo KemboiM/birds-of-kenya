@@ -102,6 +102,48 @@
       "common_name": "Spur-winged Lapwing",
       "difference": null,
       "times_confused": 1
+    },
+    {
+      "label": "Eurillas_latirostris",
+      "common_name": "Yellow-whiskered Greenbul",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Euplectes_macroura",
+      "common_name": "Yellow-mantled Widowbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Spatula_hottentota",
+      "common_name": "Blue-billed Teal",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Anas_erythrorhyncha",
+      "common_name": "Red-billed Teal",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Plectropterus_gambensis",
+      "common_name": "Spur-winged Goose",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Halcyon_leucocephala",
+      "common_name": "Grey-headed Kingfisher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Turtur_chalcospilos",
+      "common_name": "Emerald-spotted Wood Dove",
+      "difference": null,
+      "times_confused": 1
     }
   ],
   "sources": [

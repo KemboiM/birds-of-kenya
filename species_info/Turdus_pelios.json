@@ -98,6 +98,30 @@
       "common_name": "Cape Robin-chat",
       "difference": null,
       "times_confused": 1
+    },
+    {
+      "label": "Andropadus_importunus",
+      "common_name": "Sombre Greenbul",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Quelea_quelea",
+      "common_name": "Red-billed Quelea",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Streptopelia_lugens",
+      "common_name": "Dusky Turtle Dove",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cuculus_solitarius",
+      "common_name": "Red-chested Cuckoo",
+      "difference": null,
+      "times_confused": 1
     }
   ],
   "sources": [

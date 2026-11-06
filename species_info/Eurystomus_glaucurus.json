@@ -54,6 +54,12 @@
       "common_name": "Lappet-faced Vulture",
       "difference": null,
       "times_confused": 1
+    },
+    {
+      "label": "Euplectes_progne",
+      "common_name": "Long-tailed Widowbird",
+      "difference": null,
+      "times_confused": 1
     }
   ],
   "sources": [

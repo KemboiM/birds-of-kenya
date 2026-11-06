@@ -41,13 +41,13 @@
       "label": "Bubo_cinerascens",
       "common_name": "Greyish Eagle-owl",
       "difference": null,
-      "times_confused": 5
+      "times_confused": 1
     },
     {
       "label": "Bubo_lacteus",
       "common_name": "Verreaux's Eagle-owl",
       "difference": null,
-      "times_confused": 3
+      "times_confused": 1
     },
     {
       "label": "Gymnobucco_bonapartei",
@@ -70,6 +70,30 @@
     {
       "label": "Calidris_minuta",
       "common_name": "Little Stint",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Asio_capensis",
+      "common_name": "Marsh Owl",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Corythaixoides_leucogaster",
+      "common_name": "White-bellied Go-away-bird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Otus_ireneae",
+      "common_name": "Sokoke Scops Owl",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lissotis_hartlaubii",
+      "common_name": "Hartlaub's Bustard",
       "difference": null,
       "times_confused": 1
     }

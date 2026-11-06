@@ -31,6 +31,18 @@
   },
   "look_alikes": [
     {
+      "label": "Muscicapa_striata",
+      "common_name": "Spotted Flycatcher",
+      "difference": null,
+      "times_confused": 3
+    },
+    {
+      "label": "Bradornis_microrhynchus",
+      "common_name": "African Grey Flycatcher",
+      "difference": null,
+      "times_confused": 3
+    },
+    {
       "label": "Passer_gongonensis",
       "common_name": "Parrot-billed Sparrow",
       "difference": null,
@@ -127,12 +139,6 @@
       "times_confused": 1
     },
     {
-      "label": "Muscicapa_striata",
-      "common_name": "Spotted Flycatcher",
-      "difference": null,
-      "times_confused": 1
-    },
-    {
       "label": "Anthus_cinnamomeus",
       "common_name": "African Pipit",
       "difference": null,
@@ -151,8 +157,128 @@
       "times_confused": 1
     },
     {
-      "label": "Bradornis_microrhynchus",
-      "common_name": "African Grey Flycatcher",
+      "label": "Crithagra_burtoni",
+      "common_name": "Thick-billed Seedeater",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Andropadus_importunus",
+      "common_name": "Sombre Greenbul",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Phyllolais_pulchella",
+      "common_name": "Buff-bellied Warbler",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Uraeginthus_cyanocephalus",
+      "common_name": "Blue-capped Cordon-bleu",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lanius_phoenicuroides",
+      "common_name": "Red-tailed Shrike",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Corvus_rhipidurus",
+      "common_name": "Fan-tailed Raven",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Anthreptes_orientalis",
+      "common_name": "Eastern Violet-backed Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Halcyon_chelicuti",
+      "common_name": "Striped Kingfisher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Muscicapa_adusta",
+      "common_name": "African Dusky Flycatcher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Nectarinia_kilimensis",
+      "common_name": "Bronze Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Passer_rufocinctus",
+      "common_name": "Kenya Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Sporopipes_frontalis",
+      "common_name": "Speckle-fronted Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Oenanthe_isabellina",
+      "common_name": "Isabelline Wheatear",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bubalornis_niger",
+      "common_name": "Red-billed Buffalo Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lophotis_gindiana",
+      "common_name": "Buff-crested Bustard",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Actitis_hypoleucos",
+      "common_name": "Common Sandpiper",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Coracias_caudatus",
+      "common_name": "Lilac-breasted Roller",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Eremopterix_leucopareia",
+      "common_name": "Fischer's Sparrow-lark",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Myrmecocichla_aethiops",
+      "common_name": "Anteater Chat",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pseudonigrita_arnaudi",
+      "common_name": "Grey-capped Social Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Spilopelia_senegalensis",
+      "common_name": "Laughing Dove",
       "difference": null,
       "times_confused": 1
     }

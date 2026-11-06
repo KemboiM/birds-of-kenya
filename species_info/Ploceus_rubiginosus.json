@@ -31,10 +31,16 @@
   },
   "look_alikes": [
     {
+      "label": "Passer_eminibey",
+      "common_name": "Chestnut Sparrow",
+      "difference": null,
+      "times_confused": 3
+    },
+    {
       "label": "Passer_rufocinctus",
       "common_name": "Kenya Sparrow",
       "difference": null,
-      "times_confused": 3
+      "times_confused": 2
     },
     {
       "label": "Tchagra_australis",
@@ -73,8 +79,38 @@
       "times_confused": 1
     },
     {
-      "label": "Passer_eminibey",
-      "common_name": "Chestnut Sparrow",
+      "label": "Ploceus_jacksoni",
+      "common_name": "Golden-backed Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lamprotornis_hildebrandti",
+      "common_name": "Hildebrandt's Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Merops_superciliosus",
+      "common_name": "Olive Bee-eater",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Terpsiphone_viridis",
+      "common_name": "African Paradise Flycatcher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Uraeginthus_ianthinogaster",
+      "common_name": "Purple Grenadier",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lophoceros_nasutus",
+      "common_name": "African Grey Hornbill",
       "difference": null,
       "times_confused": 1
     }

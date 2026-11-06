@@ -58,6 +58,12 @@
       "common_name": "Speckled Mousebird",
       "difference": null,
       "times_confused": 1
+    },
+    {
+      "label": "Eupodotis_senegalensis",
+      "common_name": "White-bellied Bustard",
+      "difference": null,
+      "times_confused": 1
     }
   ],
   "sources": [

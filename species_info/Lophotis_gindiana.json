@@ -36,7 +36,7 @@
       "label": "Lissotis_melanogaster",
       "common_name": "Black-bellied Bustard",
       "difference": null,
-      "times_confused": 2
+      "times_confused": 3
     },
     {
       "label": "Rhinopomastus_minor",
@@ -77,6 +77,24 @@
     {
       "label": "Ardea_goliath",
       "common_name": "Goliath Heron",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Corvus_albus",
+      "common_name": "Pied Crow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Gymnoris_pyrgita",
+      "common_name": "Yellow-spotted Bush Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Haliaeetus_vocifer",
+      "common_name": "African Fish Eagle",
       "difference": null,
       "times_confused": 1
     }

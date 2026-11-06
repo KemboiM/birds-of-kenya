@@ -46,16 +46,34 @@
   },
   "look_alikes": [
     {
-      "label": "Pelecanus_onocrotalus",
-      "common_name": "Great White Pelican",
-      "difference": null,
-      "times_confused": 4
-    },
-    {
       "label": "Ardea_cinerea",
       "common_name": "Grey Heron",
       "difference": null,
       "times_confused": 2
+    },
+    {
+      "label": "Calidris_pugnax",
+      "common_name": "Ruff",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Mycteria_ibis",
+      "common_name": "Yellow-billed Stork",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Alopochen_aegyptiaca",
+      "common_name": "Egyptian Goose",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Pelecanus_onocrotalus",
+      "common_name": "Great White Pelican",
+      "difference": null,
+      "times_confused": 1
     },
     {
       "label": "Nycticorax_nycticorax",
@@ -72,12 +90,6 @@
     {
       "label": "Gallinula_chloropus",
       "common_name": "Common Moorhen",
-      "difference": null,
-      "times_confused": 1
-    },
-    {
-      "label": "Calidris_pugnax",
-      "common_name": "Ruff",
       "difference": null,
       "times_confused": 1
     },
@@ -114,6 +126,60 @@
     {
       "label": "Leptoptilos_crumenifer",
       "common_name": "Marabou Stork",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Sarkidiornis_melanotos",
+      "common_name": "Knob-billed Duck",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ciconia_ciconia",
+      "common_name": "White Stork",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bubulcus_ibis",
+      "common_name": "Western Cattle Egret",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ardeola_ralloides",
+      "common_name": "Squacco Heron",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bostrychia_hagedash",
+      "common_name": "Hadada Ibis",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Anhinga_rufa",
+      "common_name": "African Darter",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Chroicocephalus_cirrocephalus",
+      "common_name": "Grey-headed Gull",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Columba_guinea",
+      "common_name": "Speckled Pigeon",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tockus_deckeni",
+      "common_name": "Von Der Decken's Hornbill",
       "difference": null,
       "times_confused": 1
     }

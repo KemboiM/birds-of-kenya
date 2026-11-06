@@ -43,11 +43,17 @@
       "label": "Platysteira_cyanea",
       "common_name": "Brown-throated Wattle-eye",
       "difference": null,
-      "times_confused": 2
+      "times_confused": 3
     },
     {
       "label": "Laniarius_major",
       "common_name": "Tropical Boubou",
+      "difference": null,
+      "times_confused": 3
+    },
+    {
+      "label": "Lanius_humeralis",
+      "common_name": "Northern Fiscal",
       "difference": null,
       "times_confused": 2
     },
@@ -124,8 +130,38 @@
       "times_confused": 1
     },
     {
-      "label": "Lanius_humeralis",
-      "common_name": "Northern Fiscal",
+      "label": "Nycticorax_nycticorax",
+      "common_name": "Black-crowned Night Heron",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Halcyon_chelicuti",
+      "common_name": "Striped Kingfisher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Hedydipna_collaris",
+      "common_name": "Collared Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Hirundo_smithii",
+      "common_name": "Wire-tailed Swallow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lybius_leucocephalus",
+      "common_name": "White-headed Barbet",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Nectarinia_kilimensis",
+      "common_name": "Bronze Sunbird",
       "difference": null,
       "times_confused": 1
     }

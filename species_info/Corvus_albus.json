@@ -40,22 +40,10 @@
   },
   "look_alikes": [
     {
-      "label": "Bycanistes_brevis",
-      "common_name": "Silvery-cheeked Hornbill",
+      "label": "Haliaeetus_vocifer",
+      "common_name": "African Fish Eagle",
       "difference": null,
-      "times_confused": 4
-    },
-    {
-      "label": "Ciconia_microscelis",
-      "common_name": "African Woolly-necked Stork",
-      "difference": null,
-      "times_confused": 2
-    },
-    {
-      "label": "Buteo_augur",
-      "common_name": "Augur Buzzard",
-      "difference": null,
-      "times_confused": 2
+      "times_confused": 3
     },
     {
       "label": "Bycanistes_subcylindricus",
@@ -76,6 +64,48 @@
       "times_confused": 2
     },
     {
+      "label": "Corvus_albicollis",
+      "common_name": "White-necked Raven",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Nectarinia_kilimensis",
+      "common_name": "Bronze Sunbird",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Vanellus_armatus",
+      "common_name": "Blacksmith Lapwing",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Terathopius_ecaudatus",
+      "common_name": "Bateleur",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Bycanistes_brevis",
+      "common_name": "Silvery-cheeked Hornbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ciconia_microscelis",
+      "common_name": "African Woolly-necked Stork",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Buteo_augur",
+      "common_name": "Augur Buzzard",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
       "label": "Rhinopomastus_cyanomelas",
       "common_name": "Common Scimitarbill",
       "difference": null,
@@ -84,12 +114,6 @@
     {
       "label": "Psalidoprocne_pristoptera",
       "common_name": "Black Saw-wing",
-      "difference": null,
-      "times_confused": 1
-    },
-    {
-      "label": "Corvus_albicollis",
-      "common_name": "White-necked Raven",
       "difference": null,
       "times_confused": 1
     },
@@ -192,6 +216,102 @@
     {
       "label": "Scopus_umbretta",
       "common_name": "Hamerkop",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Halcyon_albiventris",
+      "common_name": "Brown-hooded Kingfisher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Clamator_jacobinus",
+      "common_name": "Jacobin Cuckoo",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Corvus_capensis",
+      "common_name": "Cape Crow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Euplectes_progne",
+      "common_name": "Long-tailed Widowbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Vidua_paradisaea",
+      "common_name": "Long-tailed Paradise Whydah",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Apus_affinis",
+      "common_name": "Little Swift",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lophotis_gindiana",
+      "common_name": "Buff-crested Bustard",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cecropis_abyssinica",
+      "common_name": "Lesser Striped Swallow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Corvus_splendens",
+      "common_name": "House Crow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Leptoptilos_crumenifer",
+      "common_name": "Marabou Stork",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Onychognathus_morio",
+      "common_name": "Red-winged Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tockus_deckeni",
+      "common_name": "Von Der Decken's Hornbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Vanellus_spinosus",
+      "common_name": "Spur-winged Lapwing",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Himantopus_himantopus",
+      "common_name": "Black-winged Stilt",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lamprotornis_purpuroptera",
+      "common_name": "Rüppell's Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lophaetus_occipitalis",
+      "common_name": "Long-crested Eagle",
       "difference": null,
       "times_confused": 1
     }

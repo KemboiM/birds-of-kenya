@@ -41,11 +41,17 @@
       "label": "Nectarinia_kilimensis",
       "common_name": "Bronze Sunbird",
       "difference": null,
-      "times_confused": 5
+      "times_confused": 2
     },
     {
       "label": "Cinnyris_venustus",
       "common_name": "Variable Sunbird",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Chalcomitra_senegalensis",
+      "common_name": "Scarlet-chested Sunbird",
       "difference": null,
       "times_confused": 2
     },
@@ -62,8 +68,44 @@
       "times_confused": 1
     },
     {
-      "label": "Chalcomitra_senegalensis",
-      "common_name": "Scarlet-chested Sunbird",
+      "label": "Chrysococcyx_cupreus",
+      "common_name": "African Emerald Cuckoo",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Oriolus_percivali",
+      "common_name": "Mountain Oriole",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Oriolus_larvatus",
+      "common_name": "Black-headed Oriole",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_baglafecht",
+      "common_name": "Baglafecht Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_nigricollis",
+      "common_name": "Black-necked Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Poicephalus_meyeri",
+      "common_name": "Meyer's Parrot",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Prinia_subflava",
+      "common_name": "Tawny-flanked Prinia",
       "difference": null,
       "times_confused": 1
     }

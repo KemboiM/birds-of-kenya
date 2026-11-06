@@ -31,6 +31,12 @@
   },
   "look_alikes": [
     {
+      "label": "Tricholaema_lacrymosa",
+      "common_name": "Spot-flanked Barbet",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
       "label": "Coturnix_delegorguei",
       "common_name": "Harlequin Quail",
       "difference": null,
@@ -49,12 +55,6 @@
       "times_confused": 1
     },
     {
-      "label": "Tricholaema_lacrymosa",
-      "common_name": "Spot-flanked Barbet",
-      "difference": null,
-      "times_confused": 1
-    },
-    {
       "label": "Dendropicos_fuscescens",
       "common_name": "Cardinal Woodpecker",
       "difference": null,
@@ -63,6 +63,48 @@
     {
       "label": "Batis_molitor",
       "common_name": "Chinspot Batis",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pogoniulus_bilineatus",
+      "common_name": "Yellow-rumped Tinkerbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Apalis_flavida",
+      "common_name": "Yellow-breasted Apalis",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Buphagus_africanus",
+      "common_name": "Yellow-billed Oxpecker",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Gallinula_chloropus",
+      "common_name": "Common Moorhen",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Vidua_macroura",
+      "common_name": "Pin-tailed Whydah",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Zosterops_senegalensis",
+      "common_name": "Northern Yellow White-eye",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Halcyon_chelicuti",
+      "common_name": "Striped Kingfisher",
       "difference": null,
       "times_confused": 1
     }

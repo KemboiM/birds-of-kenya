@@ -42,20 +42,32 @@
   },
   "look_alikes": [
     {
-      "label": "Coracias_naevius",
-      "common_name": "Purple Roller",
+      "label": "Coracias_garrulus",
+      "common_name": "European Roller",
+      "difference": null,
+      "times_confused": 4
+    },
+    {
+      "label": "Merops_albicollis",
+      "common_name": "White-throated Bee-eater",
       "difference": null,
       "times_confused": 2
     },
     {
-      "label": "Merops_revoilii",
-      "common_name": "Somali Bee-eater",
+      "label": "Uraeginthus_bengalus",
+      "common_name": "Red-cheeked Cordon-bleu",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Coracias_naevius",
+      "common_name": "Purple Roller",
       "difference": null,
       "times_confused": 1
     },
     {
-      "label": "Coracias_garrulus",
-      "common_name": "European Roller",
+      "label": "Merops_revoilii",
+      "common_name": "Somali Bee-eater",
       "difference": null,
       "times_confused": 1
     },
@@ -86,6 +98,48 @@
     {
       "label": "Vidua_macroura",
       "common_name": "Pin-tailed Whydah",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Chalcomitra_hunteri",
+      "common_name": "Hunter's Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Merops_persicus",
+      "common_name": "Blue-cheeked Bee-eater",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Poicephalus_meyeri",
+      "common_name": "Meyer's Parrot",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Gymnoris_pyrgita",
+      "common_name": "Yellow-spotted Bush Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Merops_pusillus",
+      "common_name": "Little Bee-eater",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lamprotornis_purpuroptera",
+      "common_name": "Rüppell's Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Torgos_tracheliotos",
+      "common_name": "Lappet-faced Vulture",
       "difference": null,
       "times_confused": 1
     }

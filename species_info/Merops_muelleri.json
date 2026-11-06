@@ -1,0 +1,68 @@
+{
+  "label": "Merops_muelleri",
+  "scientific_name": "Merops muelleri",
+  "common_name": "Blue-headed Bee-eater",
+  "other_names": {},
+  "family": "Meropidae",
+  "summary": "The blue-headed bee-eater (Merops muelleri) is a species of bird in the family Meropidae. It is found in forest habitats in tropical West and Central Africa, including in Cameroon, Central African Republic, Republic of the Congo, Democratic Republic of the Congo, Gabon, Equatorial Guinea, and Kenya.",
+  "appearance": {
+    "description": "The sexes are similar and the length of the adult is about 19 cm (7.5 in). The back and wings are dark brown while the remaining plumage is mostly ultramarine blue. The crown of birds living in the east of the range is blue fading to white on the forehead; western populations have entirely blue heads.",
+    "colors": "The blue-headed bee-eater (Merops muelleri) is a species of bird in the family Meropidae. The back and wings are dark brown while the remaining plumage is mostly ultramarine blue.",
+    "wings": "The back and wings are dark brown while the remaining plumage is mostly ultramarine blue."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        19.0,
+        19.0
+      ]
+    },
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": "The blue-headed bee-eater is a rainforest bird usually found singly, or sometimes in pairs or trios. It perches on a high branch in the canopy beside tracks and clearings and swoops down on small butterflies, honeybees and other insects before returning to its original perch. The western populations have contracted over the years and the birds are now under threat throughout their range.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Western",
+      "Kenya",
+      "Kakamega",
+      "Rift Valley",
+      "Nandi",
+      "Nyanza"
+    ],
+    "gbif_records_in_kenya": 1084
+  },
+  "look_alikes": [
+    {
+      "label": "Ispidina_picta",
+      "common_name": "African Pygmy Kingfisher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Notopholia_corrusca",
+      "common_name": "Black-bellied Starling",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Blue-headed bee-eater",
+      "url": "https://en.wikipedia.org/wiki/Blue-headed_bee-eater",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2475400"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

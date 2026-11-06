@@ -40,6 +40,12 @@
   },
   "look_alikes": [
     {
+      "label": "Coracias_caudatus",
+      "common_name": "Lilac-breasted Roller",
+      "difference": null,
+      "times_confused": 4
+    },
+    {
       "label": "Elanus_caeruleus",
       "common_name": "Black-winged Kite",
       "difference": null,
@@ -64,12 +70,6 @@
       "times_confused": 1
     },
     {
-      "label": "Coracias_caudatus",
-      "common_name": "Lilac-breasted Roller",
-      "difference": null,
-      "times_confused": 1
-    },
-    {
       "label": "Odontospiza_caniceps",
       "common_name": "Grey-headed Silverbill",
       "difference": null,
@@ -90,6 +90,72 @@
     {
       "label": "Uraeginthus_bengalus",
       "common_name": "Red-cheeked Cordon-bleu",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Falco_naumanni",
+      "common_name": "Lesser Kestrel",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Merops_persicus",
+      "common_name": "Blue-cheeked Bee-eater",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lanius_collurio",
+      "common_name": "Red-backed Shrike",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cisticola_chiniana",
+      "common_name": "Rattling Cisticola",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lamprotornis_regius",
+      "common_name": "Golden-breasted Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Hirundo_rustica",
+      "common_name": "Barn Swallow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Turdoides_rubiginosa",
+      "common_name": "Rufous Chatterer",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Upupa_africana",
+      "common_name": "Eurasian Hoopoe",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Centropus_superciliosus",
+      "common_name": "White-browed Coucal",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cinnyris_venustus",
+      "common_name": "Variable Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Threskiornis_aethiopicus",
+      "common_name": "African Sacred Ibis",
       "difference": null,
       "times_confused": 1
     }

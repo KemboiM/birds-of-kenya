@@ -1,0 +1,69 @@
+{
+  "label": "Bubalornis_albirostris",
+  "scientific_name": "Bubalornis albirostris",
+  "common_name": "White-billed Buffalo Weaver",
+  "other_names": {},
+  "family": "Ploceidae",
+  "summary": "The white-billed buffalo weaver (Bubalornis albirostris) is a resident breeding bird species in most of Africa south of the Sahara Desert. This common weaver occurs in open country, especially cultivation and scrub. It is a communal breeder, building massive untidy stick nests in tree colonies, each of which may have several spherical woven nests within.",
+  "appearance": {
+    "description": null,
+    "colors": "The white-billed buffalo weaver (Bubalornis albirostris) is a resident breeding bird species in most of Africa south of the Sahara Desert. The white-billed buffalo weaver is large and stocky, commonly measuring 23 to 24 centimeters.",
+    "wings": "The adult is mainly black with white flecking on the back and wings."
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Baringo",
+      "Coast prov",
+      "Eastern",
+      "Coast"
+    ],
+    "gbif_records_in_kenya": 1255
+  },
+  "look_alikes": [
+    {
+      "label": "Dicrurus_adsimilis",
+      "common_name": "Fork-tailed Drongo",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Vidua_chalybeata",
+      "common_name": "Village Indigobird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Urolestes_melanoleucus",
+      "common_name": "Magpie Shrike",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "White-billed buffalo weaver",
+      "url": "https://en.wikipedia.org/wiki/White-billed_buffalo_weaver",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2494074"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

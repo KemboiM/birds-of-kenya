@@ -86,6 +86,24 @@
       "common_name": "Yellow-necked Spurfowl",
       "difference": null,
       "times_confused": 1
+    },
+    {
+      "label": "Gallus_gallus",
+      "common_name": "Red Junglefowl",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Quelea_quelea",
+      "common_name": "Red-billed Quelea",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Terathopius_ecaudatus",
+      "common_name": "Bateleur",
+      "difference": null,
+      "times_confused": 1
     }
   ],
   "sources": [

@@ -39,40 +39,52 @@
       "times_confused": 2
     },
     {
-      "label": "Circaetus_pectoralis",
-      "common_name": "Black-chested Snake Eagle",
-      "difference": null,
-      "times_confused": 2
-    },
-    {
       "label": "Milvus_migrans",
       "common_name": "Black Kite",
       "difference": null,
       "times_confused": 2
     },
     {
+      "label": "Circus_macrourus",
+      "common_name": "Pallid Harrier",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Circus_pygargus",
+      "common_name": "Montagu's Harrier",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Circaetus_pectoralis",
+      "common_name": "Black-chested Snake Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
       "label": "Chlidonias_hybrida",
       "common_name": "Whiskered Tern",
       "difference": null,
-      "times_confused": 2
+      "times_confused": 1
     },
     {
       "label": "Chlidonias_leucopterus",
       "common_name": "White-winged Tern",
       "difference": null,
-      "times_confused": 2
+      "times_confused": 1
     },
     {
       "label": "Polihierax_semitorquatus",
       "common_name": "Pygmy Falcon",
       "difference": null,
-      "times_confused": 2
+      "times_confused": 1
     },
     {
       "label": "Buteo_augur",
       "common_name": "Augur Buzzard",
       "difference": null,
-      "times_confused": 2
+      "times_confused": 1
     },
     {
       "label": "Bycanistes_subcylindricus",
@@ -117,12 +129,6 @@
       "times_confused": 1
     },
     {
-      "label": "Circus_macrourus",
-      "common_name": "Pallid Harrier",
-      "difference": null,
-      "times_confused": 1
-    },
-    {
       "label": "Corvus_splendens",
       "common_name": "House Crow",
       "difference": null,
@@ -155,6 +161,72 @@
     {
       "label": "Vidua_macroura",
       "common_name": "Pin-tailed Whydah",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lanius_phoenicuroides",
+      "common_name": "Red-tailed Shrike",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Stephanoaetus_coronatus",
+      "common_name": "Crowned Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Vanellus_melanopterus",
+      "common_name": "Black-winged Lapwing",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ptyonoprogne_fuligula",
+      "common_name": "Large Rock Martin",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ardea_cinerea",
+      "common_name": "Grey Heron",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Centropus_superciliosus",
+      "common_name": "White-browed Coucal",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Circaetus_cinereus",
+      "common_name": "Brown Snake Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Dioptrornis_fischeri",
+      "common_name": "White-eyed Slaty Flycatcher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Gelochelidon_nilotica",
+      "common_name": "Gull-billed Tern",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Plegadis_falcinellus",
+      "common_name": "Glossy Ibis",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Struthio_camelus",
+      "common_name": "Common Ostrich",
       "difference": null,
       "times_confused": 1
     }

@@ -50,20 +50,14 @@
   },
   "look_alikes": [
     {
+      "label": "Cecropis_senegalensis",
+      "common_name": "Mosque Swallow",
+      "difference": null,
+      "times_confused": 3
+    },
+    {
       "label": "Polihierax_semitorquatus",
       "common_name": "Pygmy Falcon",
-      "difference": null,
-      "times_confused": 2
-    },
-    {
-      "label": "Apus_affinis",
-      "common_name": "Little Swift",
-      "difference": null,
-      "times_confused": 2
-    },
-    {
-      "label": "Vidua_macroura",
-      "common_name": "Pin-tailed Whydah",
       "difference": null,
       "times_confused": 2
     },
@@ -78,6 +72,36 @@
       "common_name": "Wire-tailed Swallow",
       "difference": null,
       "times_confused": 2
+    },
+    {
+      "label": "Hirundo_angolensis",
+      "common_name": "Angola Swallow",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Euplectes_progne",
+      "common_name": "Long-tailed Widowbird",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Cecropis_abyssinica",
+      "common_name": "Lesser Striped Swallow",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Apus_affinis",
+      "common_name": "Little Swift",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Vidua_macroura",
+      "common_name": "Pin-tailed Whydah",
+      "difference": null,
+      "times_confused": 1
     },
     {
       "label": "Euplectes_macroura",
@@ -106,12 +130,6 @@
     {
       "label": "Anastomus_lamelligerus",
       "common_name": "African Openbill",
-      "difference": null,
-      "times_confused": 1
-    },
-    {
-      "label": "Cecropis_senegalensis",
-      "common_name": "Mosque Swallow",
       "difference": null,
       "times_confused": 1
     },
@@ -178,6 +196,132 @@
     {
       "label": "Lanius_humeralis",
       "common_name": "Northern Fiscal",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Estrilda_erythronotos",
+      "common_name": "Black-faced Waxbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cypsiurus_parvus",
+      "common_name": "African Palm Swift",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Falco_biarmicus",
+      "common_name": "Lanner Falcon",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Merops_apiaster",
+      "common_name": "European Bee-eater",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bycanistes_subcylindricus",
+      "common_name": "Black-and-white-casqued Hornbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Treron_calvus",
+      "common_name": "African Green Pigeon",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Vidua_paradisaea",
+      "common_name": "Long-tailed Paradise Whydah",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Estrilda_astrild",
+      "common_name": "Common Waxbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Coracias_garrulus",
+      "common_name": "European Roller",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bubalornis_niger",
+      "common_name": "Red-billed Buffalo Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Calidris_pugnax",
+      "common_name": "Ruff",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Buphagus_erythrorhynchus",
+      "common_name": "Red-billed Oxpecker",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Calidris_minuta",
+      "common_name": "Little Stint",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ciconia_ciconia",
+      "common_name": "White Stork",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Merops_nubicus",
+      "common_name": "Northern Carmine Bee-eater",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Nycticorax_nycticorax",
+      "common_name": "Black-crowned Night Heron",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Parus_albiventris",
+      "common_name": "White-bellied Tit",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Rostratula_benghalensis",
+      "common_name": "Greater Painted-snipe",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Colius_striatus",
+      "common_name": "Speckled Mousebird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lonchura_cucullata",
+      "common_name": "Bronze Mannikin",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Merops_albicollis",
+      "common_name": "White-throated Bee-eater",
       "difference": null,
       "times_confused": 1
     }

@@ -38,10 +38,22 @@
   },
   "look_alikes": [
     {
+      "label": "Batis_molitor",
+      "common_name": "Chinspot Batis",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Hirundo_smithii",
+      "common_name": "Wire-tailed Swallow",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
       "label": "Hirundo_rustica",
       "common_name": "Barn Swallow",
       "difference": null,
-      "times_confused": 2
+      "times_confused": 1
     },
     {
       "label": "Urolestes_melanoleucus",
@@ -58,12 +70,6 @@
     {
       "label": "Passer_domesticus",
       "common_name": "House Sparrow",
-      "difference": null,
-      "times_confused": 1
-    },
-    {
-      "label": "Batis_molitor",
-      "common_name": "Chinspot Batis",
       "difference": null,
       "times_confused": 1
     },
@@ -100,6 +106,114 @@
     {
       "label": "Elanus_caeruleus",
       "common_name": "Black-winged Kite",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Emberiza_tahapisi",
+      "common_name": "Cinnamon-breasted Bunting",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lybius_bidentatus",
+      "common_name": "Double-toothed Barbet",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Psalidoprocne_albiceps",
+      "common_name": "White-headed Saw-wing",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Chloropicus_namaquus",
+      "common_name": "Bearded Woodpecker",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tricholaema_diademata",
+      "common_name": "Red-fronted Barbet",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Dinemellia_dinemelli",
+      "common_name": "White-headed Buffalo Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Vanellus_coronatus",
+      "common_name": "Crowned Lapwing",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ardea_alba",
+      "common_name": "Great Egret",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ardea_melanocephala",
+      "common_name": "Black-headed Heron",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Corythaixoides_personatus",
+      "common_name": "Bare-faced Go-away-bird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Creatophora_cinerea",
+      "common_name": "Wattled Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lanius_excubitoroides",
+      "common_name": "Grey-backed Fiscal",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Oena_capensis",
+      "common_name": "Namaqua Dove",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Platysteira_peltata",
+      "common_name": "Black-throated Wattle-eye",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pseudonigrita_cabanisi",
+      "common_name": "Black-capped Social Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Quelea_quelea",
+      "common_name": "Red-billed Quelea",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Streptopelia_capicola",
+      "common_name": "Ring-necked Dove",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Vanellus_tectus",
+      "common_name": "Black-headed Lapwing",
       "difference": null,
       "times_confused": 1
     }

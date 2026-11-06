@@ -42,12 +42,6 @@
   },
   "look_alikes": [
     {
-      "label": "Aquila_spilogaster",
-      "common_name": "African Hawk-eagle",
-      "difference": null,
-      "times_confused": 5
-    },
-    {
       "label": "Circaetus_pectoralis",
       "common_name": "Black-chested Snake Eagle",
       "difference": null,
@@ -63,19 +57,43 @@
       "label": "Polemaetus_bellicosus",
       "common_name": "Martial Eagle",
       "difference": null,
-      "times_confused": 3
+      "times_confused": 2
+    },
+    {
+      "label": "Polyboroides_typus",
+      "common_name": "African Harrier-hawk",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Aquila_rapax",
+      "common_name": "Tawny Eagle",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Corythaixoides_personatus",
+      "common_name": "Bare-faced Go-away-bird",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Aquila_spilogaster",
+      "common_name": "African Hawk-eagle",
+      "difference": null,
+      "times_confused": 1
     },
     {
       "label": "Corvus_albus",
       "common_name": "Pied Crow",
       "difference": null,
-      "times_confused": 2
+      "times_confused": 1
     },
     {
       "label": "Elanus_caeruleus",
       "common_name": "Black-winged Kite",
       "difference": null,
-      "times_confused": 2
+      "times_confused": 1
     },
     {
       "label": "Clamator_glandarius",
@@ -138,20 +156,8 @@
       "times_confused": 1
     },
     {
-      "label": "Polyboroides_typus",
-      "common_name": "African Harrier-hawk",
-      "difference": null,
-      "times_confused": 1
-    },
-    {
       "label": "Circaetus_cinereus",
       "common_name": "Brown Snake Eagle",
-      "difference": null,
-      "times_confused": 1
-    },
-    {
-      "label": "Aquila_rapax",
-      "common_name": "Tawny Eagle",
       "difference": null,
       "times_confused": 1
     },
@@ -200,6 +206,78 @@
     {
       "label": "Haliaeetus_vocifer",
       "common_name": "African Fish Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Circus_aeruginosus",
+      "common_name": "Western Marsh Harrier",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lybius_leucocephalus",
+      "common_name": "White-headed Barbet",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Gypohierax_angolensis",
+      "common_name": "Palm-nut Vulture",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Actitis_hypoleucos",
+      "common_name": "Common Sandpiper",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Apus_affinis",
+      "common_name": "Little Swift",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Chlidonias_hybrida",
+      "common_name": "Whiskered Tern",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Circus_pygargus",
+      "common_name": "Montagu's Harrier",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lanius_cabanisi",
+      "common_name": "Long-tailed Fiscal",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Necrosyrtes_monachus",
+      "common_name": "Hooded Vulture",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Oena_capensis",
+      "common_name": "Namaqua Dove",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pelecanus_onocrotalus",
+      "common_name": "Great White Pelican",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Plocepasser_mahali",
+      "common_name": "White-browed Sparrow-weaver",
       "difference": null,
       "times_confused": 1
     }

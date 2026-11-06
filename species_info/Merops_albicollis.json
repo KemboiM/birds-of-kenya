@@ -36,8 +36,8 @@
   },
   "look_alikes": [
     {
-      "label": "Merops_superciliosus",
-      "common_name": "Olive Bee-eater",
+      "label": "Merops_bullockoides",
+      "common_name": "White-fronted Bee-eater",
       "difference": null,
       "times_confused": 3
     },
@@ -46,6 +46,18 @@
       "common_name": "European Bee-eater",
       "difference": null,
       "times_confused": 2
+    },
+    {
+      "label": "Coracias_caudatus",
+      "common_name": "Lilac-breasted Roller",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Merops_superciliosus",
+      "common_name": "Olive Bee-eater",
+      "difference": null,
+      "times_confused": 1
     },
     {
       "label": "Merops_persicus",
@@ -68,12 +80,6 @@
     {
       "label": "Crithagra_mozambica",
       "common_name": "Yellow-fronted Canary",
-      "difference": null,
-      "times_confused": 1
-    },
-    {
-      "label": "Merops_bullockoides",
-      "common_name": "White-fronted Bee-eater",
       "difference": null,
       "times_confused": 1
     },
@@ -128,6 +134,42 @@
     {
       "label": "Lanius_excubitoroides",
       "common_name": "Grey-backed Fiscal",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Eminia_lepida",
+      "common_name": "Grey-capped Warbler",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pogoniulus_bilineatus",
+      "common_name": "Yellow-rumped Tinkerbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Crithagra_sulphurata",
+      "common_name": "Brimstone Canary",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Hirundo_rustica",
+      "common_name": "Barn Swallow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Passer_griseus",
+      "common_name": "Northern Grey-headed Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Turdus_abyssinicus",
+      "common_name": "Abyssinian Thrush",
       "difference": null,
       "times_confused": 1
     }

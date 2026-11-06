@@ -37,8 +37,20 @@
       "times_confused": 3
     },
     {
+      "label": "Ploceus_spekei",
+      "common_name": "Speke's Weaver",
+      "difference": null,
+      "times_confused": 3
+    },
+    {
       "label": "Creatophora_cinerea",
       "common_name": "Wattled Starling",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Motacilla_flava",
+      "common_name": "Western Yellow Wagtail",
       "difference": null,
       "times_confused": 2
     },
@@ -46,13 +58,13 @@
       "label": "Crithagra_mozambica",
       "common_name": "Yellow-fronted Canary",
       "difference": null,
-      "times_confused": 2
+      "times_confused": 1
     },
     {
       "label": "Tmetothylacus_tenellus",
       "common_name": "Golden Pipit",
       "difference": null,
-      "times_confused": 2
+      "times_confused": 1
     },
     {
       "label": "Plocepasser_donaldsoni",
@@ -73,18 +85,6 @@
       "times_confused": 1
     },
     {
-      "label": "Ploceus_spekei",
-      "common_name": "Speke's Weaver",
-      "difference": null,
-      "times_confused": 1
-    },
-    {
-      "label": "Motacilla_flava",
-      "common_name": "Western Yellow Wagtail",
-      "difference": null,
-      "times_confused": 1
-    },
-    {
       "label": "Ploceus_cucullatus",
       "common_name": "Village Weaver",
       "difference": null,
@@ -99,6 +99,24 @@
     {
       "label": "Ploceus_baglafecht",
       "common_name": "Baglafecht Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_taeniopterus",
+      "common_name": "Northern Masked Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Chlorophoneus_sulfureopectus",
+      "common_name": "Orange-breasted Bushshrike",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Euplectes_capensis",
+      "common_name": "Yellow Bishop",
       "difference": null,
       "times_confused": 1
     }

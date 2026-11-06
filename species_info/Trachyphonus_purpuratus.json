@@ -1,0 +1,50 @@
+{
+  "label": "Trachyphonus_purpuratus",
+  "scientific_name": "Trachyphonus purpuratus",
+  "common_name": "Eastern Yellow-billed Barbet",
+  "other_names": {},
+  "family": "Lybiidae",
+  "summary": "The eastern yellow-billed barbet (Trachylaemus purpuratus) is a species of bird in the Lybiidae family. It was formerly considered to be conspecific with the western yellow-billed barbet. It is found in Angola, Cameroon, Central African Republic, Republic of the Congo, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Nigeria, Uganda, Rwanda, Burundi and western Kenya.",
+  "appearance": {
+    "description": null,
+    "colors": "The eastern yellow-billed barbet (Trachylaemus purpuratus) is a species of bird in the Lybiidae family. It was formerly considered to be conspecific with the western yellow-billed barbet.",
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Western",
+      "Kenya",
+      "Rift Valley",
+      "Kakamega",
+      "Western Province",
+      "Western prov"
+    ],
+    "gbif_records_in_kenya": 1732
+  },
+  "look_alikes": [],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Eastern yellow-billed barbet",
+      "url": "https://en.wikipedia.org/wiki/Eastern_yellow-billed_barbet",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2478850"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

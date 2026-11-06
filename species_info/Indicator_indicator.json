@@ -78,6 +78,42 @@
       "common_name": "Barn Swallow",
       "difference": null,
       "times_confused": 1
+    },
+    {
+      "label": "Cinnyricinclus_leucogaster",
+      "common_name": "Violet-backed Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Coracias_naevius",
+      "common_name": "Purple Roller",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cuculus_solitarius",
+      "common_name": "Red-chested Cuckoo",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Passer_gongonensis",
+      "common_name": "Parrot-billed Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bradornis_pallidus",
+      "common_name": "Pale Flycatcher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Crithagra_reichenowi",
+      "common_name": "Reichenow's Seedeater",
+      "difference": null,
+      "times_confused": 1
     }
   ],
   "sources": [

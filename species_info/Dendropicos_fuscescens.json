@@ -38,7 +38,7 @@
       "label": "Campethera_nubica",
       "common_name": "Nubian Woodpecker",
       "difference": null,
-      "times_confused": 2
+      "times_confused": 3
     },
     {
       "label": "Chloropicus_namaquus",
@@ -91,6 +91,60 @@
     {
       "label": "Tricholaema_diademata",
       "common_name": "Red-fronted Barbet",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ptilopsis_leucotis",
+      "common_name": "Northern White-faced Owl",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Campephaga_flava",
+      "common_name": "Black Cuckooshrike",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Aquila_rapax",
+      "common_name": "Tawny Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Columba_guinea",
+      "common_name": "Speckled Pigeon",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Nectarinia_kilimensis",
+      "common_name": "Bronze Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tockus_erythrorhynchus",
+      "common_name": "Northern Red-billed Hornbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Trachyphonus_darnaudii",
+      "common_name": "D'Arnaud's Barbet",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tricholaema_lacrymosa",
+      "common_name": "Spot-flanked Barbet",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Dendropicos_spodocephalus",
+      "common_name": "Eastern Grey Woodpecker",
       "difference": null,
       "times_confused": 1
     }

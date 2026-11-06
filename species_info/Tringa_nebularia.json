@@ -36,19 +36,31 @@
       "label": "Tringa_stagnatilis",
       "common_name": "Marsh Sandpiper",
       "difference": null,
-      "times_confused": 5
-    },
-    {
-      "label": "Calidris_minuta",
-      "common_name": "Little Stint",
-      "difference": null,
-      "times_confused": 4
+      "times_confused": 7
     },
     {
       "label": "Actitis_hypoleucos",
       "common_name": "Common Sandpiper",
       "difference": null,
+      "times_confused": 5
+    },
+    {
+      "label": "Tringa_ochropus",
+      "common_name": "Green Sandpiper",
+      "difference": null,
       "times_confused": 4
+    },
+    {
+      "label": "Tringa_glareola",
+      "common_name": "Wood Sandpiper",
+      "difference": null,
+      "times_confused": 4
+    },
+    {
+      "label": "Calidris_minuta",
+      "common_name": "Little Stint",
+      "difference": null,
+      "times_confused": 2
     },
     {
       "label": "Recurvirostra_avosetta",
@@ -66,7 +78,13 @@
       "label": "Calidris_ferruginea",
       "common_name": "Curlew Sandpiper",
       "difference": null,
-      "times_confused": 1
+      "times_confused": 2
+    },
+    {
+      "label": "Ichthyaetus_hemprichii",
+      "common_name": "Sooty Gull",
+      "difference": null,
+      "times_confused": 2
     },
     {
       "label": "Pluvialis_squatarola",
@@ -77,12 +95,6 @@
     {
       "label": "Sarkidiornis_melanotos",
       "common_name": "Knob-billed Duck",
-      "difference": null,
-      "times_confused": 1
-    },
-    {
-      "label": "Tringa_ochropus",
-      "common_name": "Green Sandpiper",
       "difference": null,
       "times_confused": 1
     },
@@ -125,6 +137,24 @@
     {
       "label": "Bostrychia_hagedash",
       "common_name": "Hadada Ibis",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Charadrius_leschenaultii",
+      "common_name": "Greater Sand Plover",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Numenius_phaeopus",
+      "common_name": "Eurasian Whimbrel",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lonchura_cucullata",
+      "common_name": "Bronze Mannikin",
       "difference": null,
       "times_confused": 1
     }

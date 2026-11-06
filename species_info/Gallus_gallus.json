@@ -1,0 +1,83 @@
+{
+  "label": "Gallus_gallus",
+  "scientific_name": "Gallus gallus",
+  "common_name": "Red Junglefowl",
+  "other_names": {},
+  "family": "Phasianidae",
+  "summary": "The red junglefowl (Gallus gallus), also known as the Indian red junglefowl (and formerly the bankiva or bankiva-fowl), is a species of tropical, galliform bird in the phasianid family, found across much of Southeast Asia and parts of South Asia. The red junglefowl was the primary species to give rise to today's many breeds of chicken (G. g. domesticus). Lesser contributions came from the grey junglefowl (G. sonneratii), Sri Lankan junglefowl (G. lafayettii) and the Javanese green junglefowl (G. varius).",
+  "appearance": {
+    "description": "The species exhibits significant sexual dimorphism. Males are referred to as \"roosters\", while females are referred to as \"hens\". Compared with the domestic chicken, the red junglefowl has a much smaller body mass.",
+    "colors": "The red junglefowl (Gallus gallus), also known as the Indian red junglefowl (and formerly the bankiva or bankiva-fowl), is a species of tropical, galliform bird in the phasianid family, found across much of Southeast Asia and parts of South Asia. The red junglefowl was the primary species to give rise to today's many breeds of chicken (G. g. domesticus).",
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": {
+      "notes": "Chicks fledge in about 4 to 5 weeks, and at 12 weeks old they are chased out of the group by their mother — at which point they start a new group or join an existing one."
+    }
+  },
+  "behaviour": "The red junglefowl is shy of humans, compared with the domesticated chicken. The eggs and chicks are cared for only by the hens. Male birds announce their presence with the well-known \"cock-a-doodle-doo\" call, referred to as \"crowing\".",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The native geographic range of the red junglefowl extends from Pakistan, India, Nepal, Bhutan, and Bangladesh in the west, eastwards across southern China, to Myanmar, Thailand, Cambodia, Laos, and Vietnam, and south/southeast into Malaysia, Singapore, the Philippines, Indonesia, and Timor-Leste. The species has been introduced in Australia, Dominican Republic, Fiji, Hawaii, Jamaica, Marshall Islands, Micronesia, Nauru, Northern Mariana Islands, Palau, Puerto Rico, and Samoa.",
+    "kenya_regions": [
+      "Baringo",
+      "Nairobi",
+      "Kajiado",
+      "Narok",
+      "Kwale",
+      "Homa Bay"
+    ],
+    "gbif_records_in_kenya": 37
+  },
+  "look_alikes": [
+    {
+      "label": "Eremopterix_leucopareia",
+      "common_name": "Fischer's Sparrow-lark",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Gallinula_chloropus",
+      "common_name": "Common Moorhen",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Gypohierax_angolensis",
+      "common_name": "Palm-nut Vulture",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Neophron_percnopterus",
+      "common_name": "Egyptian Vulture",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pseudonigrita_cabanisi",
+      "common_name": "Black-capped Social Weaver",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Red junglefowl",
+      "url": "https://en.wikipedia.org/wiki/Red_junglefowl",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/9326020"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

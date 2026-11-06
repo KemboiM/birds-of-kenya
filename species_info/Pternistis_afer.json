@@ -39,7 +39,7 @@
       "label": "Pternistis_hildebrandti",
       "common_name": "Hildebrandt's Spurfowl",
       "difference": null,
-      "times_confused": 3
+      "times_confused": 4
     },
     {
       "label": "Laniarius_erythrogaster",
@@ -62,6 +62,66 @@
     {
       "label": "Ephippiorhynchus_senegalensis",
       "common_name": "Saddle-billed Stork",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Porphyrio_porphyrio",
+      "common_name": "Western Swamphen",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pternistis_squamatus",
+      "common_name": "Scaly Spurfowl",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Uraeginthus_cyanocephalus",
+      "common_name": "Blue-capped Cordon-bleu",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pternistis_jacksoni",
+      "common_name": "Jackson's Spurfowl",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Campocolinus_coqui",
+      "common_name": "Coqui Francolin",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Phoeniculus_purpureus",
+      "common_name": "Green Wood Hoopoe",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ortygornis_sephaena",
+      "common_name": "Crested Francolin",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Burhinus_capensis",
+      "common_name": "Spotted Thick-knee",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Numida_meleagris",
+      "common_name": "Helmeted Guinea Fowl",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pternistis_leucoscepus",
+      "common_name": "Yellow-necked Spurfowl",
       "difference": null,
       "times_confused": 1
     }

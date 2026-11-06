@@ -47,13 +47,19 @@
       "label": "Pterocles_exustus",
       "common_name": "Chestnut-bellied Sandgrouse",
       "difference": null,
-      "times_confused": 5
+      "times_confused": 3
     },
     {
       "label": "Pterocles_lichtensteinii",
       "common_name": "Lichtenstein's Sandgrouse",
       "difference": null,
       "times_confused": 3
+    },
+    {
+      "label": "Pternistis_leucoscepus",
+      "common_name": "Yellow-necked Spurfowl",
+      "difference": null,
+      "times_confused": 2
     },
     {
       "label": "Scleroptila_shelleyi",
@@ -74,12 +80,6 @@
       "times_confused": 1
     },
     {
-      "label": "Pternistis_leucoscepus",
-      "common_name": "Yellow-necked Spurfowl",
-      "difference": null,
-      "times_confused": 1
-    },
-    {
       "label": "Pterocles_gutturalis",
       "common_name": "Yellow-throated Sandgrouse",
       "difference": null,
@@ -88,6 +88,48 @@
     {
       "label": "Tachybaptus_ruficollis",
       "common_name": "Little Grebe",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Oenanthe_pleschanka",
+      "common_name": "Pied Wheatear",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Vanellus_tectus",
+      "common_name": "Black-headed Lapwing",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ciconia_abdimii",
+      "common_name": "Abdim's Stork",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Anthus_cinnamomeus",
+      "common_name": "African Pipit",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Falco_rupicoloides",
+      "common_name": "Greater Kestrel",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ortygornis_sephaena",
+      "common_name": "Crested Francolin",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Spilopelia_senegalensis",
+      "common_name": "Laughing Dove",
       "difference": null,
       "times_confused": 1
     }

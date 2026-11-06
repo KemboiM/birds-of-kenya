@@ -41,7 +41,7 @@
       "label": "Oenanthe_isabellina",
       "common_name": "Isabelline Wheatear",
       "difference": null,
-      "times_confused": 2
+      "times_confused": 1
     },
     {
       "label": "Creatophora_cinerea",
@@ -70,6 +70,54 @@
     {
       "label": "Spilopelia_senegalensis",
       "common_name": "Laughing Dove",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Urorhipis_rufifrons",
+      "common_name": "Red-fronted Prinia",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Circus_pygargus",
+      "common_name": "Montagu's Harrier",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Circaetus_pectoralis",
+      "common_name": "Black-chested Snake Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Melierax_poliopterus",
+      "common_name": "Eastern Chanting Goshawk",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Oenanthe_oenanthe",
+      "common_name": "Northern Wheatear",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Streptopelia_decipiens",
+      "common_name": "Mourning Collared Dove",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Upupa_epops",
+      "common_name": "Eurasian Hoopoe",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pseudonigrita_arnaudi",
+      "common_name": "Grey-capped Social Weaver",
       "difference": null,
       "times_confused": 1
     }

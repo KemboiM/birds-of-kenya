@@ -46,16 +46,28 @@
       "times_confused": 2
     },
     {
-      "label": "Turdoides_hypoleuca",
-      "common_name": "Northern Pied Babbler",
-      "difference": null,
-      "times_confused": 2
-    },
-    {
       "label": "Lonchura_cucullata",
       "common_name": "Bronze Mannikin",
       "difference": null,
       "times_confused": 2
+    },
+    {
+      "label": "Amblyospiza_albifrons",
+      "common_name": "Thick-billed Weaver",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Turdoides_jardineii",
+      "common_name": "Arrow-marked Babbler",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Turdoides_hypoleuca",
+      "common_name": "Northern Pied Babbler",
+      "difference": null,
+      "times_confused": 1
     },
     {
       "label": "Andropadus_importunus",
@@ -150,6 +162,66 @@
     {
       "label": "Urocolius_macrourus",
       "common_name": "Blue-naped Mousebird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Stelgidillas_gracilirostris",
+      "common_name": "Slender-billed Greenbul",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cichladusa_guttata",
+      "common_name": "Spotted Palm Thrush",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Camaroptera_brachyura",
+      "common_name": "Green-backed Camaroptera",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cecropis_abyssinica",
+      "common_name": "Lesser Striped Swallow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Hedydipna_collaris",
+      "common_name": "Collared Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Muscicapa_adusta",
+      "common_name": "African Dusky Flycatcher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Passer_griseus",
+      "common_name": "Northern Grey-headed Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pinarochroa_sordida",
+      "common_name": "Moorland Chat",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Riparia_paludicola",
+      "common_name": "Brown-throated Martin",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Scopus_umbretta",
+      "common_name": "Hamerkop",
       "difference": null,
       "times_confused": 1
     }

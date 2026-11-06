@@ -31,6 +31,12 @@
   },
   "look_alikes": [
     {
+      "label": "Cinnyris_pulchellus",
+      "common_name": "Beautiful Sunbird",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
       "label": "Cinnyris_mariquensis",
       "common_name": "Marico Sunbird",
       "difference": null,
@@ -45,6 +51,12 @@
     {
       "label": "Cinnyris_reichenowi",
       "common_name": "Northern Double-collared Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Chalcomitra_senegalensis",
+      "common_name": "Scarlet-chested Sunbird",
       "difference": null,
       "times_confused": 1
     }

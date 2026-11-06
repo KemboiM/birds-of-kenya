@@ -38,11 +38,17 @@
       "label": "Onychognathus_salvadorii",
       "common_name": "Bristle-crowned Starling",
       "difference": null,
-      "times_confused": 4
+      "times_confused": 2
     },
     {
       "label": "Lamprotornis_purpuroptera",
       "common_name": "Rüppell's Starling",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Corvus_splendens",
+      "common_name": "House Crow",
       "difference": null,
       "times_confused": 2
     },
@@ -133,6 +139,66 @@
     {
       "label": "Lamprotornis_chalybaeus",
       "common_name": "Greater Blue-eared Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Columba_livia",
+      "common_name": "Rock Dove",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Acryllium_vulturinum",
+      "common_name": "Vulturine Guinea Fowl",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bubalornis_niger",
+      "common_name": "Red-billed Buffalo Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Burhinus_capensis",
+      "common_name": "Spotted Thick-knee",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Myrmecocichla_aethiops",
+      "common_name": "Anteater Chat",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Turdoides_sharpei",
+      "common_name": "Black-lored Babbler",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Turdus_abyssinicus",
+      "common_name": "Abyssinian Thrush",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Megaceryle_maxima",
+      "common_name": "Giant Kingfisher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Corvus_albus",
+      "common_name": "Pied Crow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lamprotornis_superbus",
+      "common_name": "Superb Starling",
       "difference": null,
       "times_confused": 1
     }

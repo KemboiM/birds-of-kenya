@@ -31,10 +31,16 @@
   },
   "look_alikes": [
     {
+      "label": "Tockus_erythrorhynchus",
+      "common_name": "Northern Red-billed Hornbill",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
       "label": "Bycanistes_brevis",
       "common_name": "Silvery-cheeked Hornbill",
       "difference": null,
-      "times_confused": 2
+      "times_confused": 1
     },
     {
       "label": "Rhinopomastus_minor",
@@ -57,6 +63,48 @@
     {
       "label": "Anhinga_rufa",
       "common_name": "African Darter",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lophoceros_hemprichii",
+      "common_name": "Hemprich's Hornbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bycanistes_bucinator",
+      "common_name": "Trumpeter Hornbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Polyboroides_typus",
+      "common_name": "African Harrier-hawk",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tockus_deckeni",
+      "common_name": "Von Der Decken's Hornbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tricholaema_lacrymosa",
+      "common_name": "Spot-flanked Barbet",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lophoceros_nasutus",
+      "common_name": "African Grey Hornbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Milvus_migrans",
+      "common_name": "Black Kite",
       "difference": null,
       "times_confused": 1
     }

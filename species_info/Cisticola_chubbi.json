@@ -1,0 +1,57 @@
+{
+  "label": "Cisticola_chubbi",
+  "scientific_name": "Cisticola chubbi",
+  "common_name": "Chubb's Cisticola",
+  "other_names": {},
+  "family": "Cisticolidae",
+  "summary": "Chubb's cisticola (Cisticola chubbi) is a species of bird in the family Cisticolidae. It is native to the Western High Plateau, the Albertine Rift montane forests and the East African montane forests. There are four subspecies: C. c. adametzi Reichenow, 1910 – southeastern Nigeria and southwestern Cameroon C. c. discolor Sjöstedt, 1893 – Mount Cameroon (southwest Cameroon) – brown-backed cisticola C. c. chubbi Sharpe, 1892 – eastern DR Congo to western Kenya C. c. marungensis Chapin, 1932 – Marungu highlands (southeastern DR Congo) It is territorial.",
+  "appearance": {
+    "description": null,
+    "colors": "There are four subspecies: C. c. adametzi Reichenow, 1910 – southeastern Nigeria and southwestern Cameroon C. c. discolor Sjöstedt, 1893 – Mount Cameroon (southwest Cameroon) – brown-backed cisticola C. c. chubbi Sharpe, 1892 – eastern DR Congo to western Kenya C. c. marungensis Chapin, 1932 – Marungu highlands (southeastern DR Congo) It is territorial.",
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Western",
+      "Kenya",
+      "Rift Valley",
+      "Kakamega",
+      "Rift valley prov",
+      "Western prov"
+    ],
+    "gbif_records_in_kenya": 1894
+  },
+  "look_alikes": [
+    {
+      "label": "Cisticola_hunteri",
+      "common_name": "Hunter's Cisticola",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Chubb's cisticola",
+      "url": "https://en.wikipedia.org/wiki/Chubb%27s_cisticola",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2492797"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

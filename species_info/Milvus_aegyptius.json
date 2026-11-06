@@ -1,0 +1,68 @@
+{
+  "label": "Milvus_aegyptius",
+  "scientific_name": "Milvus aegyptius",
+  "common_name": "Yellow-billed Kite",
+  "other_names": {},
+  "family": "Accipitridae",
+  "summary": "The yellow-billed kite (Milvus aegyptius) is the Afrotropical counterpart of the black kite (Milvus migrans), of which it is most often considered a subspecies. However, DNA studies suggest that the yellow-billed kite differs significantly from black kites in the Eurasian clade, and should be considered as a separate, allopatric species.",
+  "appearance": {
+    "description": "The yellow-billed kite is a medium-sized, opportunistic raptor, with recorded measurements for an adult male including a weight of 550 g, a wingspan of 398 mm, and a tail length of 255 mm. As suggested by its name, the yellow-billed kite is easily recognized by its entirely yellow bill, unlike that of the black kite (which is present in Africa as a visitor during the North Hemisphere winter). However, immature yellow-billed kites resemble the black kites of the corresponding age.",
+    "colors": "The yellow-billed kite (Milvus aegyptius) is the Afrotropical counterpart of the black kite (Milvus migrans), of which it is most often considered a subspecies. However, DNA studies suggest that the yellow-billed kite differs significantly from black kites in the Eurasian clade, and should be considered as a separate, allopatric species.",
+    "wings": null
+  },
+  "size": {
+    "adult": {
+      "wingspan_cm": [
+        39.8,
+        39.8
+      ],
+      "mass_g": [
+        550.0,
+        550.0
+      ]
+    },
+    "juvenile": {
+      "notes": "However, immature yellow-billed kites resemble the black kites of the corresponding age."
+    },
+    "chick": null
+  },
+  "behaviour": "The yellow-billed kite is generally gregarious during both its breeding and non-breeding periods, although individual breeding pairs are not. They are described as facultative colonial species.. Research conducted in the Albert Falls region of KwaZulu-Natal (KZN), South Africa, found that nesting density increased significantly in proximity to reliable, surplus food sources (specifically crocodile farms) which effectively resulted in the formation of colonies.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "They are found in almost all habitats, including parks in suburbia, but rare in the arid Namib and Karoo. While adaptable, the species is more abundant in higher rainfall regions in addition to woodlands, especially those with dense rural human habitation compared to grasslands and desert areas.",
+    "kenya_regions": [
+      "Kenya",
+      "Nairobi",
+      "Kilifi",
+      "Kiambu",
+      "Nairobi County",
+      "Uasin Gishu"
+    ],
+    "gbif_records_in_kenya": 9290
+  },
+  "look_alikes": [
+    {
+      "label": "Polyboroides_typus",
+      "common_name": "African Harrier-hawk",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Yellow-billed kite",
+      "url": "https://en.wikipedia.org/wiki/Yellow-billed_kite",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/5788522"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

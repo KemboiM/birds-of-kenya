@@ -50,10 +50,22 @@
   },
   "look_alikes": [
     {
+      "label": "Chroicocephalus_cirrocephalus",
+      "common_name": "Grey-headed Gull",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Mycteria_ibis",
+      "common_name": "Yellow-billed Stork",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
       "label": "Pelecanus_rufescens",
       "common_name": "Pink-backed Pelican",
       "difference": null,
-      "times_confused": 4
+      "times_confused": 1
     },
     {
       "label": "Neophron_percnopterus",
@@ -130,6 +142,54 @@
     {
       "label": "Phalacrocorax_carbo",
       "common_name": "Great Cormorant",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ichthyaetus_hemprichii",
+      "common_name": "Sooty Gull",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Anas_capensis",
+      "common_name": "Cape Teal",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Fulica_cristata",
+      "common_name": "Red-knobbed Coot",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Egretta_garzetta",
+      "common_name": "Little Egret",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Phoeniconaias_minor",
+      "common_name": "Lesser Flamingo",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Buteo_augur",
+      "common_name": "Augur Buzzard",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bucorvus_leadbeateri",
+      "common_name": "Southern Ground Hornbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tockus_erythrorhynchus",
+      "common_name": "Northern Red-billed Hornbill",
       "difference": null,
       "times_confused": 1
     }

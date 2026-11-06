@@ -31,14 +31,14 @@
   },
   "look_alikes": [
     {
-      "label": "Calendulauda_poecilosterna",
-      "common_name": "Pink-breasted Lark",
-      "difference": null,
-      "times_confused": 1
-    },
-    {
       "label": "Crithagra_reichenowi",
       "common_name": "Reichenow's Seedeater",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Calendulauda_poecilosterna",
+      "common_name": "Pink-breasted Lark",
       "difference": null,
       "times_confused": 1
     },
@@ -57,6 +57,78 @@
     {
       "label": "Turdoides_hypoleuca",
       "common_name": "Northern Pied Babbler",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cisticola_juncidis",
+      "common_name": "Zitting Cisticola",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_castanops",
+      "common_name": "Northern Brown-throated Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Histurgops_ruficauda",
+      "common_name": "Rufous-tailed Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Aquila_rapax",
+      "common_name": "Tawny Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bradornis_microrhynchus",
+      "common_name": "African Grey Flycatcher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Centropus_superciliosus",
+      "common_name": "White-browed Coucal",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Circaetus_pectoralis",
+      "common_name": "Black-chested Snake Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Eremopterix_leucopareia",
+      "common_name": "Fischer's Sparrow-lark",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Gyps_rueppellii",
+      "common_name": "Rüppell's Vulture",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Myrmecocichla_aethiops",
+      "common_name": "Anteater Chat",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Trachyphonus_darnaudii",
+      "common_name": "D'Arnaud's Barbet",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Anthus_leucophrys",
+      "common_name": "Plain-backed Pipit",
       "difference": null,
       "times_confused": 1
     }

@@ -41,6 +41,18 @@
       "common_name": "Northern Grey-headed Sparrow",
       "difference": null,
       "times_confused": 1
+    },
+    {
+      "label": "Corythaixoides_leucogaster",
+      "common_name": "White-bellied Go-away-bird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Laniarius_funebris",
+      "common_name": "Slate-colored Boubou",
+      "difference": null,
+      "times_confused": 1
     }
   ],
   "sources": [

@@ -41,13 +41,19 @@
       "label": "Anas_capensis",
       "common_name": "Cape Teal",
       "difference": null,
+      "times_confused": 3
+    },
+    {
+      "label": "Dendrocygna_viduata",
+      "common_name": "White-faced Whistling Duck",
+      "difference": null,
       "times_confused": 2
     },
     {
       "label": "Anas_undulata",
       "common_name": "Yellow-billed Duck",
       "difference": null,
-      "times_confused": 2
+      "times_confused": 1
     },
     {
       "label": "Glareola_pratincola",
@@ -112,6 +118,48 @@
     {
       "label": "Vanellus_coronatus",
       "common_name": "Crowned Lapwing",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Numenius_phaeopus",
+      "common_name": "Eurasian Whimbrel",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Parus_albiventris",
+      "common_name": "White-bellied Tit",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Phoenicopterus_roseus",
+      "common_name": "Greater Flamingo",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Platalea_alba",
+      "common_name": "African Spoonbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Torgos_tracheliotos",
+      "common_name": "Lappet-faced Vulture",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Actitis_hypoleucos",
+      "common_name": "Common Sandpiper",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Actophilornis_africanus",
+      "common_name": "African Jacana",
       "difference": null,
       "times_confused": 1
     }

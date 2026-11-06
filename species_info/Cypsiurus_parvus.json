@@ -41,7 +41,7 @@
       "label": "Apus_affinis",
       "common_name": "Little Swift",
       "difference": null,
-      "times_confused": 2
+      "times_confused": 1
     },
     {
       "label": "Riparia_cincta",
@@ -58,6 +58,42 @@
     {
       "label": "Chlidonias_leucopterus",
       "common_name": "White-winged Tern",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Hirundo_rustica",
+      "common_name": "Barn Swallow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Terathopius_ecaudatus",
+      "common_name": "Bateleur",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Vanellus_armatus",
+      "common_name": "Blacksmith Lapwing",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Riparia_paludicola",
+      "common_name": "Brown-throated Martin",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Buphagus_erythrorhynchus",
+      "common_name": "Red-billed Oxpecker",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Milvus_migrans",
+      "common_name": "Black Kite",
       "difference": null,
       "times_confused": 1
     }

@@ -58,6 +58,24 @@
       "common_name": "Red-fronted Barbet",
       "difference": null,
       "times_confused": 1
+    },
+    {
+      "label": "Batis_perkeo",
+      "common_name": "Pygmy Batis",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Oenanthe_lugubris",
+      "common_name": "Abyssinian Wheatear",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Turdoides_hypoleuca",
+      "common_name": "Northern Pied Babbler",
+      "difference": null,
+      "times_confused": 1
     }
   ],
   "sources": [

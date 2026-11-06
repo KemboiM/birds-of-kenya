@@ -49,25 +49,25 @@
       "label": "Ardea_alba",
       "common_name": "Great Egret",
       "difference": null,
-      "times_confused": 4
+      "times_confused": 8
     },
     {
       "label": "Egretta_intermedia",
       "common_name": "Medium Egret",
       "difference": null,
-      "times_confused": 2
+      "times_confused": 4
     },
     {
       "label": "Platalea_alba",
       "common_name": "African Spoonbill",
       "difference": null,
-      "times_confused": 2
+      "times_confused": 3
     },
     {
       "label": "Bubulcus_ibis",
       "common_name": "Western Cattle Egret",
       "difference": null,
-      "times_confused": 1
+      "times_confused": 2
     },
     {
       "label": "Egretta_dimorpha",
@@ -84,6 +84,36 @@
     {
       "label": "Scopus_umbretta",
       "common_name": "Hamerkop",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Coturnix_delegorguei",
+      "common_name": "Harlequin Quail",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pelecanus_onocrotalus",
+      "common_name": "Great White Pelican",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Phoenicopterus_roseus",
+      "common_name": "Greater Flamingo",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ardea_cinerea",
+      "common_name": "Grey Heron",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Chroicocephalus_cirrocephalus",
+      "common_name": "Grey-headed Gull",
       "difference": null,
       "times_confused": 1
     }

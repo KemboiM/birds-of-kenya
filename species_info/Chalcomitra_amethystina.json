@@ -43,6 +43,12 @@
       "times_confused": 2
     },
     {
+      "label": "Nectarinia_kilimensis",
+      "common_name": "Bronze Sunbird",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
       "label": "Nectarinia_famosa",
       "common_name": "Malachite Sunbird",
       "difference": null,
@@ -91,12 +97,6 @@
       "times_confused": 1
     },
     {
-      "label": "Nectarinia_kilimensis",
-      "common_name": "Bronze Sunbird",
-      "difference": null,
-      "times_confused": 1
-    },
-    {
       "label": "Phylloscopus_trochilus",
       "common_name": "Willow Warbler",
       "difference": null,
@@ -105,6 +105,66 @@
     {
       "label": "Quelea_quelea",
       "common_name": "Red-billed Quelea",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Nigrita_canicapillus",
+      "common_name": "Grey-headed Nigrita",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cinnyris_mariquensis",
+      "common_name": "Marico Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bycanistes_brevis",
+      "common_name": "Silvery-cheeked Hornbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Circaetus_cinereus",
+      "common_name": "Brown Snake Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Dicrurus_adsimilis",
+      "common_name": "Fork-tailed Drongo",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Megaceryle_maxima",
+      "common_name": "Giant Kingfisher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Notopholia_corrusca",
+      "common_name": "Black-bellied Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tauraco_schalowi",
+      "common_name": "Schalow's Turaco",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Hedydipna_collaris",
+      "common_name": "Collared Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Terpsiphone_viridis",
+      "common_name": "African Paradise Flycatcher",
       "difference": null,
       "times_confused": 1
     }

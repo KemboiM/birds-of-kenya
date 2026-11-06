@@ -1,0 +1,88 @@
+{
+  "label": "Columba_arquatrix",
+  "scientific_name": "Columba arquatrix",
+  "common_name": "African Olive Pigeon",
+  "other_names": {
+    "sw": "Hua Matembwe"
+  },
+  "family": "Columbidae",
+  "summary": "The African olive pigeon or Rameron pigeon (Columba arquatrix) is a pigeon which is a resident breeding bird in much of eastern and southern Africa from Ethiopia to the Cape. Populations also are found in western Angola, southwestern Saudi Arabia and northern Yemen. It is locally common, although sizeable gaps in its distribution occur due to its habitat requirements.",
+  "appearance": {
+    "description": "The adult male African olive pigeon is a large pigeon at 37 to 42 cm (15 to 17 in) in length and a weight of 300 to 450 g (11 to 16 oz). Its back and wings are maroon, with the shoulders heavily speckled with white spots. The underparts are maroon with heavy white spotting, and the head is grey with yellow patches around the eye, and a yellow bill.",
+    "colors": "The African olive pigeon or Rameron pigeon (Columba arquatrix) is a pigeon which is a resident breeding bird in much of eastern and southern Africa from Ethiopia to the Cape. The adult male African olive pigeon is a large pigeon at 37 to 42 cm (15 to 17 in) in length and a weight of 300 to 450 g (11 to 16 oz).",
+    "wings": "Its back and wings are maroon, with the shoulders heavily speckled with white spots. The neck plumage, used in display, is streaked maroon and white, the underwing and undertail are dark grey, and the feet are yellow."
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        37.0,
+        42.0
+      ],
+      "mass_g": [
+        300.0,
+        450.0
+      ]
+    },
+    "juvenile": {
+      "notes": "Juvenile birds have the maroon and grey replaced with dark brown, the bare parts are a dull greenish-yellow, and the wing feathers have pale fringes."
+    },
+    "chick": null
+  },
+  "behaviour": "=== Breeding === The African olive pigeon builds a large stick nest up to 15 m (50 ft) high in a tree and lays one (rarely two) white eggs. The eggs are incubated for 17–20 days to hatching, and the chicks fledge in another 20 days. The male has a display consisting of deep bows, and a display flight which consists of a climb, wing clapping, and slow glide down.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "This is a species of cool, moist forest canopies above 1,400 m (4,600 ft) altitude, although it occurs locally as low as 700 m (2,300 ft). It will use mountain fynbos, second growth, and clearings, and feed on agricultural land when not persecuted.",
+    "kenya_regions": [
+      "Central",
+      "Kenya",
+      "Rift Valley",
+      "Eastern",
+      "Western",
+      "Nairobi"
+    ],
+    "gbif_records_in_kenya": 2147
+  },
+  "look_alikes": [
+    {
+      "label": "Cecropis_senegalensis",
+      "common_name": "Mosque Swallow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Polemaetus_bellicosus",
+      "common_name": "Martial Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Streptopelia_decipiens",
+      "common_name": "Mourning Collared Dove",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Columba_guinea",
+      "common_name": "Speckled Pigeon",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "African olive pigeon",
+      "url": "https://en.wikipedia.org/wiki/African_olive_pigeon",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/5231873"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

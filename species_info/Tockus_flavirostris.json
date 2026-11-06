@@ -34,7 +34,7 @@
       "label": "Tockus_jacksoni",
       "common_name": "Jackson's Hornbill",
       "difference": null,
-      "times_confused": 3
+      "times_confused": 5
     },
     {
       "label": "Euplectes_capensis",
@@ -45,6 +45,42 @@
     {
       "label": "Motacilla_aguimp",
       "common_name": "African Pied Wagtail",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Chloropicus_namaquus",
+      "common_name": "Bearded Woodpecker",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Euplectes_macroura",
+      "common_name": "Yellow-mantled Widowbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lophaetus_occipitalis",
+      "common_name": "Long-crested Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pternistis_leucoscepus",
+      "common_name": "Yellow-necked Spurfowl",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tockus_deckeni",
+      "common_name": "Von Der Decken's Hornbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tockus_erythrorhynchus",
+      "common_name": "Northern Red-billed Hornbill",
       "difference": null,
       "times_confused": 1
     }

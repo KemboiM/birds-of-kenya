@@ -37,14 +37,26 @@
       "times_confused": 2
     },
     {
-      "label": "Colius_leucocephalus",
-      "common_name": "White-headed Mousebird",
-      "difference": null,
-      "times_confused": 1
-    },
-    {
       "label": "Plocepasser_donaldsoni",
       "common_name": "Donaldson Smith's Sparrow-weaver",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Quelea_quelea",
+      "common_name": "Red-billed Quelea",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Passer_domesticus",
+      "common_name": "House Sparrow",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Colius_leucocephalus",
+      "common_name": "White-headed Mousebird",
       "difference": null,
       "times_confused": 1
     },
@@ -115,8 +127,74 @@
       "times_confused": 1
     },
     {
-      "label": "Quelea_quelea",
-      "common_name": "Red-billed Quelea",
+      "label": "Saxicola_rubetra",
+      "common_name": "Whinchat",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Amblyospiza_albifrons",
+      "common_name": "Thick-billed Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Anthus_leucophrys",
+      "common_name": "Plain-backed Pipit",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Creatophora_cinerea",
+      "common_name": "Wattled Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Indicator_indicator",
+      "common_name": "Greater Honeyguide",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Muscicapa_adusta",
+      "common_name": "African Dusky Flycatcher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_nigricollis",
+      "common_name": "Black-necked Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Prinia_subflava",
+      "common_name": "Tawny-flanked Prinia",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pseudonigrita_arnaudi",
+      "common_name": "Grey-capped Social Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pseudonigrita_cabanisi",
+      "common_name": "Black-capped Social Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Serinus_flavivertex",
+      "common_name": "Yellow-crowned Canary",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Centropus_superciliosus",
+      "common_name": "White-browed Coucal",
       "difference": null,
       "times_confused": 1
     }

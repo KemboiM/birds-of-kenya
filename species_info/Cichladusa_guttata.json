@@ -31,16 +31,16 @@
   },
   "look_alikes": [
     {
-      "label": "Crithagra_striolata",
-      "common_name": "Streaky Seedeater",
-      "difference": null,
-      "times_confused": 3
-    },
-    {
       "label": "Erythropygia_leucophrys",
       "common_name": "White-browed Scrub Robin",
       "difference": null,
       "times_confused": 2
+    },
+    {
+      "label": "Crithagra_striolata",
+      "common_name": "Streaky Seedeater",
+      "difference": null,
+      "times_confused": 1
     },
     {
       "label": "Butastur_rufipennis",
@@ -81,6 +81,78 @@
     {
       "label": "Cecropis_abyssinica",
       "common_name": "Lesser Striped Swallow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Anthus_sokokensis",
+      "common_name": "Sokoke Pipit",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pterocles_lichtensteinii",
+      "common_name": "Lichtenstein's Sandgrouse",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Calendulauda_africanoides",
+      "common_name": "Fawn-coloured Lark",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Trachyphonus_erythrocephalus",
+      "common_name": "Red-and-yellow Barbet",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cinnyricinclus_leucogaster",
+      "common_name": "Violet-backed Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Phyllastrephus_cabanisi",
+      "common_name": "Cabanis's Greenbul",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pycnonotus_barbatus",
+      "common_name": "Common Bulbul",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tricholaema_lacrymosa",
+      "common_name": "Spot-flanked Barbet",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Dessonornis_caffer",
+      "common_name": "Cape Robin-chat",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Megaceryle_maxima",
+      "common_name": "Giant Kingfisher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bubo_lacteus",
+      "common_name": "Verreaux's Eagle-owl",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lonchura_cucullata",
+      "common_name": "Bronze Mannikin",
       "difference": null,
       "times_confused": 1
     }

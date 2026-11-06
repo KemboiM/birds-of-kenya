@@ -40,10 +40,16 @@
   },
   "look_alikes": [
     {
+      "label": "Chroicocephalus_cirrocephalus",
+      "common_name": "Grey-headed Gull",
+      "difference": null,
+      "times_confused": 3
+    },
+    {
       "label": "Tringa_stagnatilis",
       "common_name": "Marsh Sandpiper",
       "difference": null,
-      "times_confused": 2
+      "times_confused": 1
     },
     {
       "label": "Anas_capensis",
@@ -82,12 +88,6 @@
       "times_confused": 1
     },
     {
-      "label": "Chroicocephalus_cirrocephalus",
-      "common_name": "Grey-headed Gull",
-      "difference": null,
-      "times_confused": 1
-    },
-    {
       "label": "Ciconia_microscelis",
       "common_name": "African Woolly-necked Stork",
       "difference": null,
@@ -102,6 +102,60 @@
     {
       "label": "Tringa_nebularia",
       "common_name": "Common Greenshank",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ciconia_nigra",
+      "common_name": "Black Stork",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Anas_sparsa",
+      "common_name": "African Black Duck",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Plectropterus_gambensis",
+      "common_name": "Spur-winged Goose",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Recurvirostra_avosetta",
+      "common_name": "Pied Avocet",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ardea_cinerea",
+      "common_name": "Grey Heron",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Balearica_regulorum",
+      "common_name": "Grey Crowned Crane",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Burhinus_vermiculatus",
+      "common_name": "Water Thick-knee",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Corvus_albus",
+      "common_name": "Pied Crow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Vanellus_armatus",
+      "common_name": "Blacksmith Lapwing",
       "difference": null,
       "times_confused": 1
     }

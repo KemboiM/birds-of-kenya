@@ -39,11 +39,23 @@
       "label": "Melaenornis_edolioides",
       "common_name": "Northern Black Flycatcher",
       "difference": null,
-      "times_confused": 2
+      "times_confused": 5
     },
     {
       "label": "Tauraco_hartlaubi",
       "common_name": "Hartlaub's Turaco",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Melaenornis_pammelaina",
+      "common_name": "Southern Black Flycatcher",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Terpsiphone_viridis",
+      "common_name": "African Paradise Flycatcher",
       "difference": null,
       "times_confused": 2
     },
@@ -110,6 +122,90 @@
     {
       "label": "Lamprotornis_purpuroptera",
       "common_name": "Rüppell's Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Notopholia_corrusca",
+      "common_name": "Black-bellied Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Onychognathus_salvadorii",
+      "common_name": "Bristle-crowned Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Calamonastes_simplex",
+      "common_name": "Grey Wren-warbler",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Gymnobucco_bonapartei",
+      "common_name": "Grey-throated Barbet",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Malaconotus_blanchoti",
+      "common_name": "Grey-headed Bushshrike",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Gallinula_chloropus",
+      "common_name": "Common Moorhen",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Phoeniculus_purpureus",
+      "common_name": "Green Wood Hoopoe",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bubalornis_niger",
+      "common_name": "Red-billed Buffalo Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lagonosticta_senegala",
+      "common_name": "Red-billed Firefinch",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lamprotornis_regius",
+      "common_name": "Golden-breasted Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lonchura_cucullata",
+      "common_name": "Bronze Mannikin",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Passer_gongonensis",
+      "common_name": "Parrot-billed Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Chalcomitra_senegalensis",
+      "common_name": "Scarlet-chested Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Colius_striatus",
+      "common_name": "Speckled Mousebird",
       "difference": null,
       "times_confused": 1
     }

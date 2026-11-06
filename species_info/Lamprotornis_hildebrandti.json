@@ -45,7 +45,31 @@
       "label": "Lamprotornis_superbus",
       "common_name": "Superb Starling",
       "difference": null,
-      "times_confused": 6
+      "times_confused": 4
+    },
+    {
+      "label": "Terpsiphone_viridis",
+      "common_name": "African Paradise Flycatcher",
+      "difference": null,
+      "times_confused": 3
+    },
+    {
+      "label": "Euplectes_axillaris",
+      "common_name": "Fan-tailed Widowbird",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Thamnolaea_cinnamomeiventris",
+      "common_name": "Mocking Cliff Chat",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Lamprotornis_regius",
+      "common_name": "Golden-breasted Starling",
+      "difference": null,
+      "times_confused": 2
     },
     {
       "label": "Ploceus_bicolor",
@@ -72,12 +96,6 @@
       "times_confused": 1
     },
     {
-      "label": "Terpsiphone_viridis",
-      "common_name": "African Paradise Flycatcher",
-      "difference": null,
-      "times_confused": 1
-    },
-    {
       "label": "Trachyphonus_erythrocephalus",
       "common_name": "Red-and-yellow Barbet",
       "difference": null,
@@ -86,6 +104,60 @@
     {
       "label": "Lamprotornis_purpuroptera",
       "common_name": "Rüppell's Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Vidua_fischeri",
+      "common_name": "Straw-tailed Whydah",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Chrysococcyx_caprius",
+      "common_name": "Diederik Cuckoo",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_rubiginosus",
+      "common_name": "Chestnut Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cinnyris_pulchellus",
+      "common_name": "Beautiful Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cossypha_heuglini",
+      "common_name": "White-browed Robin-chat",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cecropis_semirufa",
+      "common_name": "Red-breasted Swallow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Corythaixoides_leucogaster",
+      "common_name": "White-bellied Go-away-bird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Megaceryle_maxima",
+      "common_name": "Giant Kingfisher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Merops_oreobates",
+      "common_name": "Cinnamon-chested Bee-eater",
       "difference": null,
       "times_confused": 1
     }

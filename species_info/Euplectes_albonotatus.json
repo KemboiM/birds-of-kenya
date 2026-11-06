@@ -40,16 +40,22 @@
   },
   "look_alikes": [
     {
-      "label": "Euplectes_axillaris",
-      "common_name": "Fan-tailed Widowbird",
-      "difference": null,
-      "times_confused": 3
-    },
-    {
       "label": "Myrmecocichla_nigra",
       "common_name": "Sooty Chat",
       "difference": null,
       "times_confused": 2
+    },
+    {
+      "label": "Dicrurus_adsimilis",
+      "common_name": "Fork-tailed Drongo",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Euplectes_axillaris",
+      "common_name": "Fan-tailed Widowbird",
+      "difference": null,
+      "times_confused": 1
     },
     {
       "label": "Euplectes_afer",
@@ -96,6 +102,42 @@
     {
       "label": "Passer_rufocinctus",
       "common_name": "Kenya Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lonchura_bicolor",
+      "common_name": "Black-and-white Mannikin",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Campephaga_flava",
+      "common_name": "Black Cuckooshrike",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Euplectes_progne",
+      "common_name": "Long-tailed Widowbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Myrmecocichla_aethiops",
+      "common_name": "Anteater Chat",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Quelea_quelea",
+      "common_name": "Red-billed Quelea",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Terpsiphone_viridis",
+      "common_name": "African Paradise Flycatcher",
       "difference": null,
       "times_confused": 1
     }

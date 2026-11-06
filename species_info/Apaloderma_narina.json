@@ -68,6 +68,30 @@
       "common_name": "Violet-backed Starling",
       "difference": null,
       "times_confused": 1
+    },
+    {
+      "label": "Apaloderma_vittatum",
+      "common_name": "Bar-tailed Trogon",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Chrysococcyx_klaas",
+      "common_name": "Klaas's Cuckoo",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cossypha_natalensis",
+      "common_name": "Red-capped Robin-chat",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Merops_nubicus",
+      "common_name": "Northern Carmine Bee-eater",
+      "difference": null,
+      "times_confused": 1
     }
   ],
   "sources": [

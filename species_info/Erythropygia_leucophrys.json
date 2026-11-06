@@ -35,6 +35,12 @@
   },
   "look_alikes": [
     {
+      "label": "Plocepasser_mahali",
+      "common_name": "White-browed Sparrow-weaver",
+      "difference": null,
+      "times_confused": 3
+    },
+    {
       "label": "Passer_domesticus",
       "common_name": "House Sparrow",
       "difference": null,
@@ -43,6 +49,12 @@
     {
       "label": "Cichladusa_guttata",
       "common_name": "Spotted Palm Thrush",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Emberiza_flaviventris",
+      "common_name": "Golden-breasted Bunting",
       "difference": null,
       "times_confused": 2
     },
@@ -95,8 +107,56 @@
       "times_confused": 1
     },
     {
-      "label": "Plocepasser_mahali",
-      "common_name": "White-browed Sparrow-weaver",
+      "label": "Erythropygia_quadrivirgata",
+      "common_name": "Bearded Scrub Robin",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tchagra_australis",
+      "common_name": "Brown-crowned Tchagra",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Calendulauda_africanoides",
+      "common_name": "Fawn-coloured Lark",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Amadina_fasciata",
+      "common_name": "Cut-throat Finch",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Calendulauda_poecilosterna",
+      "common_name": "Pink-breasted Lark",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Oena_capensis",
+      "common_name": "Namaqua Dove",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Terpsiphone_viridis",
+      "common_name": "African Paradise Flycatcher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Telophorus_cruentus",
+      "common_name": "Rosy-patched Bushshrike",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Centropus_superciliosus",
+      "common_name": "White-browed Coucal",
       "difference": null,
       "times_confused": 1
     }

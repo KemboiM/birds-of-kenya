@@ -37,6 +37,12 @@
       "times_confused": 2
     },
     {
+      "label": "Passer_griseus",
+      "common_name": "Northern Grey-headed Sparrow",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
       "label": "Prinia_subflava",
       "common_name": "Tawny-flanked Prinia",
       "difference": null,
@@ -51,6 +57,30 @@
     {
       "label": "Cisticola_chiniana",
       "common_name": "Rattling Cisticola",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bradypterus_cinnamomeus",
+      "common_name": "Cinnamon Bracken Warbler",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Laniarius_luehderi",
+      "common_name": "Lühder's Bushshrike",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Camaroptera_brachyura",
+      "common_name": "Green-backed Camaroptera",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cisticola_hunteri",
+      "common_name": "Hunter's Cisticola",
       "difference": null,
       "times_confused": 1
     }

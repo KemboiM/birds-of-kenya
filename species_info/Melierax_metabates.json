@@ -41,13 +41,25 @@
       "label": "Melierax_poliopterus",
       "common_name": "Eastern Chanting Goshawk",
       "difference": null,
-      "times_confused": 4
+      "times_confused": 3
+    },
+    {
+      "label": "Polyboroides_typus",
+      "common_name": "African Harrier-hawk",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Micronisus_gabar",
+      "common_name": "Gabar Goshawk",
+      "difference": null,
+      "times_confused": 2
     },
     {
       "label": "Kaupifalco_monogrammicus",
       "common_name": "Lizard Buzzard",
       "difference": null,
-      "times_confused": 3
+      "times_confused": 1
     },
     {
       "label": "Colius_leucocephalus",
@@ -56,14 +68,26 @@
       "times_confused": 1
     },
     {
-      "label": "Polyboroides_typus",
-      "common_name": "African Harrier-hawk",
+      "label": "Circaetus_cinerascens",
+      "common_name": "Western Banded Snake Eagle",
       "difference": null,
       "times_confused": 1
     },
     {
-      "label": "Micronisus_gabar",
-      "common_name": "Gabar Goshawk",
+      "label": "Bubalornis_niger",
+      "common_name": "Red-billed Buffalo Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Estrilda_astrild",
+      "common_name": "Common Waxbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Turdus_abyssinicus",
+      "common_name": "Abyssinian Thrush",
       "difference": null,
       "times_confused": 1
     }

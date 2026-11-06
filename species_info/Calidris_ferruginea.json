@@ -51,7 +51,13 @@
       "label": "Calidris_minuta",
       "common_name": "Little Stint",
       "difference": null,
-      "times_confused": 3
+      "times_confused": 2
+    },
+    {
+      "label": "Tringa_nebularia",
+      "common_name": "Common Greenshank",
+      "difference": null,
+      "times_confused": 2
     },
     {
       "label": "Creatophora_cinerea",
@@ -60,14 +66,32 @@
       "times_confused": 1
     },
     {
-      "label": "Tringa_nebularia",
-      "common_name": "Common Greenshank",
+      "label": "Dendrocygna_viduata",
+      "common_name": "White-faced Whistling Duck",
       "difference": null,
       "times_confused": 1
     },
     {
-      "label": "Dendrocygna_viduata",
-      "common_name": "White-faced Whistling Duck",
+      "label": "Neotis_heuglinii",
+      "common_name": "Heuglin's Bustard",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pluvialis_squatarola",
+      "common_name": "Grey Plover",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Circus_macrourus",
+      "common_name": "Pallid Harrier",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Charadrius_hiaticula",
+      "common_name": "Common Ringed Plover",
       "difference": null,
       "times_confused": 1
     }

@@ -33,22 +33,28 @@
   },
   "look_alikes": [
     {
+      "label": "Egretta_garzetta",
+      "common_name": "Little Egret",
+      "difference": null,
+      "times_confused": 3
+    },
+    {
       "label": "Mycteria_ibis",
       "common_name": "Yellow-billed Stork",
       "difference": null,
-      "times_confused": 3
+      "times_confused": 2
+    },
+    {
+      "label": "Threskiornis_aethiopicus",
+      "common_name": "African Sacred Ibis",
+      "difference": null,
+      "times_confused": 2
     },
     {
       "label": "Bubulcus_ibis",
       "common_name": "Western Cattle Egret",
       "difference": null,
-      "times_confused": 2
-    },
-    {
-      "label": "Egretta_garzetta",
-      "common_name": "Little Egret",
-      "difference": null,
-      "times_confused": 2
+      "times_confused": 1
     },
     {
       "label": "Ardea_alba",
@@ -71,6 +77,36 @@
     {
       "label": "Ardea_cinerea",
       "common_name": "Grey Heron",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Chrysococcyx_caprius",
+      "common_name": "Diederik Cuckoo",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Anas_erythrorhyncha",
+      "common_name": "Red-billed Teal",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Phoeniconaias_minor",
+      "common_name": "Lesser Flamingo",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Alopochen_aegyptiaca",
+      "common_name": "Egyptian Goose",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Chroicocephalus_cirrocephalus",
+      "common_name": "Grey-headed Gull",
       "difference": null,
       "times_confused": 1
     }

@@ -35,20 +35,26 @@
   },
   "look_alikes": [
     {
-      "label": "Lissotis_melanogaster",
-      "common_name": "Black-bellied Bustard",
+      "label": "Ardeotis_kori",
+      "common_name": "Kori Bustard",
       "difference": null,
-      "times_confused": 4
+      "times_confused": 2
     },
     {
-      "label": "Struthio_molybdophanes",
-      "common_name": "Somali Ostrich",
+      "label": "Lissotis_hartlaubii",
+      "common_name": "Hartlaub's Bustard",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Lissotis_melanogaster",
+      "common_name": "Black-bellied Bustard",
       "difference": null,
       "times_confused": 1
     },
     {
-      "label": "Ardeotis_kori",
-      "common_name": "Kori Bustard",
+      "label": "Struthio_molybdophanes",
+      "common_name": "Somali Ostrich",
       "difference": null,
       "times_confused": 1
     },
@@ -67,6 +73,60 @@
     {
       "label": "Streptopelia_capicola",
       "common_name": "Ring-necked Dove",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Neotis_heuglinii",
+      "common_name": "Heuglin's Bustard",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Merops_revoilii",
+      "common_name": "Somali Bee-eater",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cursorius_temminckii",
+      "common_name": "Temminck's Courser",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Calidris_pugnax",
+      "common_name": "Ruff",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Alopochen_aegyptiaca",
+      "common_name": "Egyptian Goose",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Centropus_superciliosus",
+      "common_name": "White-browed Coucal",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Gyps_africanus",
+      "common_name": "White-backed Vulture",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Telophorus_cruentus",
+      "common_name": "Rosy-patched Bushshrike",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ortygornis_sephaena",
+      "common_name": "Crested Francolin",
       "difference": null,
       "times_confused": 1
     }

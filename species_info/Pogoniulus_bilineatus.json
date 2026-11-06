@@ -31,6 +31,12 @@
   },
   "look_alikes": [
     {
+      "label": "Passer_domesticus",
+      "common_name": "House Sparrow",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
       "label": "Buteo_augur",
       "common_name": "Augur Buzzard",
       "difference": null,
@@ -57,6 +63,42 @@
     {
       "label": "Tricholaema_lacrymosa",
       "common_name": "Spot-flanked Barbet",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lophoceros_hemprichii",
+      "common_name": "Hemprich's Hornbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Laniarius_major",
+      "common_name": "Tropical Boubou",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Merops_albicollis",
+      "common_name": "White-throated Bee-eater",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Terpsiphone_viridis",
+      "common_name": "African Paradise Flycatcher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tricholaema_diademata",
+      "common_name": "Red-fronted Barbet",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_baglafecht",
+      "common_name": "Baglafecht Weaver",
       "difference": null,
       "times_confused": 1
     }

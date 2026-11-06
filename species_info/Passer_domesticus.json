@@ -64,6 +64,36 @@
       "times_confused": 2
     },
     {
+      "label": "Passer_griseus",
+      "common_name": "Northern Grey-headed Sparrow",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Sporopipes_frontalis",
+      "common_name": "Speckle-fronted Weaver",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Crithagra_reichenowi",
+      "common_name": "Reichenow's Seedeater",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Pogoniulus_bilineatus",
+      "common_name": "Yellow-rumped Tinkerbird",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Lonchura_cucullata",
+      "common_name": "Bronze Mannikin",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
       "label": "Muscicapa_aquatica",
       "common_name": "Swamp Flycatcher",
       "difference": null,
@@ -94,20 +124,8 @@
       "times_confused": 1
     },
     {
-      "label": "Passer_griseus",
-      "common_name": "Northern Grey-headed Sparrow",
-      "difference": null,
-      "times_confused": 1
-    },
-    {
       "label": "Ptyonoprogne_fuligula",
       "common_name": "Large Rock Martin",
-      "difference": null,
-      "times_confused": 1
-    },
-    {
-      "label": "Sporopipes_frontalis",
-      "common_name": "Speckle-fronted Weaver",
       "difference": null,
       "times_confused": 1
     },
@@ -180,6 +198,108 @@
     {
       "label": "Vidua_macroura",
       "common_name": "Pin-tailed Whydah",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Vidua_chalybeata",
+      "common_name": "Village Indigobird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Calendulauda_africanoides",
+      "common_name": "Fawn-coloured Lark",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cisticola_hunteri",
+      "common_name": "Hunter's Cisticola",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pseudonigrita_cabanisi",
+      "common_name": "Black-capped Social Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Anas_capensis",
+      "common_name": "Cape Teal",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bradornis_pallidus",
+      "common_name": "Pale Flycatcher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Colius_striatus",
+      "common_name": "Speckled Mousebird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Eremopterix_leucopareia",
+      "common_name": "Fischer's Sparrow-lark",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Fulica_cristata",
+      "common_name": "Red-knobbed Coot",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lagonosticta_senegala",
+      "common_name": "Red-billed Firefinch",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Motacilla_clara",
+      "common_name": "Mountain Wagtail",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Oenanthe_lugubris",
+      "common_name": "Abyssinian Wheatear",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Passer_eminibey",
+      "common_name": "Chestnut Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Creatophora_cinerea",
+      "common_name": "Wattled Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Circaetus_pectoralis",
+      "common_name": "Black-chested Snake Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Motacilla_aguimp",
+      "common_name": "African Pied Wagtail",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pternistis_leucoscepus",
+      "common_name": "Yellow-necked Spurfowl",
       "difference": null,
       "times_confused": 1
     }

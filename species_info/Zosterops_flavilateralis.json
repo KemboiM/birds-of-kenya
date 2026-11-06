@@ -1,0 +1,63 @@
+{
+  "label": "Zosterops_flavilateralis",
+  "scientific_name": "Zosterops flavilateralis",
+  "common_name": "Pale White-eye",
+  "other_names": {},
+  "family": "Zosteropidae",
+  "summary": "The pale white-eye also known as Kenya white-eye (Zosterops flavilateralis) is a bird species in the family Zosteropidae. It is found in Kenya, eastern Tanzania, southern Ethiopia and southern Somalia.",
+  "appearance": {
+    "description": null,
+    "colors": "The pale white-eye also known as Kenya white-eye (Zosterops flavilateralis) is a bird species in the family Zosteropidae.",
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Nairobi",
+      "Rift Valley",
+      "Coast",
+      "Eastern",
+      "Central",
+      "Taita-Taveta"
+    ],
+    "gbif_records_in_kenya": 2969
+  },
+  "look_alikes": [
+    {
+      "label": "Apalis_flavida",
+      "common_name": "Yellow-breasted Apalis",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Zosterops_kikuyuensis",
+      "common_name": "Kikuyu White-eye",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Pale white-eye",
+      "url": "https://en.wikipedia.org/wiki/Pale_white-eye",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/7783565"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

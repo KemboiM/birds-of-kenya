@@ -1,0 +1,62 @@
+{
+  "label": "Apalis_porphyrolaema",
+  "scientific_name": "Apalis porphyrolaema",
+  "common_name": "Chestnut-throated Apalis",
+  "other_names": {},
+  "family": "Cisticolidae",
+  "summary": "The chestnut-throated apalis (Apalis porphyrolaema) is a species of bird in the cisticola family Cisticolidae. The Kabobo apalis, originally described as a distinct species, is usually treated as a subspecies A. p. kaboboensis of the chestnut-throated apalis today. It is itself sometimes considered to be the same species as the Chapin's apalis.",
+  "appearance": {
+    "description": "The chestnut-throated apalis is a 12 cm long apalis with mostly grey plumage. The nominate subspecies and the subspecies affinis both have chestnut throats, whereas the Kabobo apalis has an entirely grey throat but paler undersides.",
+    "colors": "The chestnut-throated apalis (Apalis porphyrolaema) is a species of bird in the cisticola family Cisticolidae. The Kabobo apalis, originally described as a distinct species, is usually treated as a subspecies A. p. kaboboensis of the chestnut-throated apalis today.",
+    "wings": null
+  },
+  "size": {
+    "adult": {
+      "length_cm": [
+        12.0,
+        12.0
+      ]
+    },
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": "The chestnut-throated apalis feeds on insects and other small invertebrates, which are obtained by gleaning from leaves and twigs, hover gleaning and hawking in the air.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The species is found in Burundi, Democratic Republic of the Congo, Kenya, Rwanda, Tanzania and Uganda, where it is a species of highland forests above 1600 m.",
+    "kenya_regions": [
+      "Central",
+      "Kenya",
+      "Rift Valley",
+      "Eastern",
+      "Western",
+      "Kiambu"
+    ],
+    "gbif_records_in_kenya": 2562
+  },
+  "look_alikes": [
+    {
+      "label": "Turdoides_rubiginosa",
+      "common_name": "Rufous Chatterer",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Chestnut-throated apalis",
+      "url": "https://en.wikipedia.org/wiki/Chestnut-throated_apalis",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2492720"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

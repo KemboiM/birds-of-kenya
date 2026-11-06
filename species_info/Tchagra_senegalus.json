@@ -41,7 +41,7 @@
       "label": "Tchagra_australis",
       "common_name": "Brown-crowned Tchagra",
       "difference": null,
-      "times_confused": 4
+      "times_confused": 3
     },
     {
       "label": "Bubo_lacteus",
@@ -64,6 +64,12 @@
     {
       "label": "Poicephalus_rufiventris",
       "common_name": "Red-bellied Parrot",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Emberiza_flaviventris",
+      "common_name": "Golden-breasted Bunting",
       "difference": null,
       "times_confused": 1
     }

@@ -40,22 +40,34 @@
   },
   "look_alikes": [
     {
-      "label": "Tringa_ochropus",
-      "common_name": "Green Sandpiper",
-      "difference": null,
-      "times_confused": 4
-    },
-    {
       "label": "Tringa_nebularia",
       "common_name": "Common Greenshank",
       "difference": null,
-      "times_confused": 4
+      "times_confused": 5
     },
     {
       "label": "Tringa_glareola",
       "common_name": "Wood Sandpiper",
       "difference": null,
       "times_confused": 2
+    },
+    {
+      "label": "Calidris_minuta",
+      "common_name": "Little Stint",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Creatophora_cinerea",
+      "common_name": "Wattled Starling",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Tringa_ochropus",
+      "common_name": "Green Sandpiper",
+      "difference": null,
+      "times_confused": 1
     },
     {
       "label": "Lybius_leucocephalus",
@@ -78,12 +90,6 @@
     {
       "label": "Burhinus_vermiculatus",
       "common_name": "Water Thick-knee",
-      "difference": null,
-      "times_confused": 1
-    },
-    {
-      "label": "Calidris_minuta",
-      "common_name": "Little Stint",
       "difference": null,
       "times_confused": 1
     },
@@ -150,6 +156,60 @@
     {
       "label": "Himantopus_himantopus",
       "common_name": "Black-winged Stilt",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Burhinus_senegalensis",
+      "common_name": "Senegal Thick-knee",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Charadrius_asiaticus",
+      "common_name": "Caspian Plover",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Xenus_cinereus",
+      "common_name": "Terek Sandpiper",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Calidris_pugnax",
+      "common_name": "Ruff",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Oena_capensis",
+      "common_name": "Namaqua Dove",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Anas_erythrorhyncha",
+      "common_name": "Red-billed Teal",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Buteo_augur",
+      "common_name": "Augur Buzzard",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Corvus_splendens",
+      "common_name": "House Crow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Gymnoris_pyrgita",
+      "common_name": "Yellow-spotted Bush Sparrow",
       "difference": null,
       "times_confused": 1
     }

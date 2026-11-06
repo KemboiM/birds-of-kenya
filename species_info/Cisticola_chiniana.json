@@ -49,10 +49,16 @@
       "times_confused": 2
     },
     {
+      "label": "Prinia_subflava",
+      "common_name": "Tawny-flanked Prinia",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
       "label": "Bradornis_microrhynchus",
       "common_name": "African Grey Flycatcher",
       "difference": null,
-      "times_confused": 2
+      "times_confused": 1
     },
     {
       "label": "Phyllolais_pulchella",
@@ -121,12 +127,6 @@
       "times_confused": 1
     },
     {
-      "label": "Prinia_subflava",
-      "common_name": "Tawny-flanked Prinia",
-      "difference": null,
-      "times_confused": 1
-    },
-    {
       "label": "Pycnonotus_barbatus",
       "common_name": "Common Bulbul",
       "difference": null,
@@ -159,6 +159,66 @@
     {
       "label": "Quelea_quelea",
       "common_name": "Red-billed Quelea",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cisticola_brunnescens",
+      "common_name": "Pectoral-patch Cisticola",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cisticola_juncidis",
+      "common_name": "Zitting Cisticola",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Falco_subbuteo",
+      "common_name": "Eurasian Hobby",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Phylloscopus_trochilus",
+      "common_name": "Willow Warbler",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cisticola_cinereolus",
+      "common_name": "Ashy Cisticola",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Coracias_garrulus",
+      "common_name": "European Roller",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Vidua_fischeri",
+      "common_name": "Straw-tailed Whydah",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Passer_griseus",
+      "common_name": "Northern Grey-headed Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Creatophora_cinerea",
+      "common_name": "Wattled Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Passer_rufocinctus",
+      "common_name": "Kenya Sparrow",
       "difference": null,
       "times_confused": 1
     }

@@ -90,6 +90,24 @@
       "common_name": "Grey-backed Fiscal",
       "difference": null,
       "times_confused": 1
+    },
+    {
+      "label": "Calidris_ferruginea",
+      "common_name": "Curlew Sandpiper",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Charadrius_leschenaultii",
+      "common_name": "Greater Sand Plover",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Phoenicopterus_roseus",
+      "common_name": "Greater Flamingo",
+      "difference": null,
+      "times_confused": 1
     }
   ],
   "sources": [

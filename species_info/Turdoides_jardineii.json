@@ -45,6 +45,12 @@
       "label": "Turdoides_sharpei",
       "common_name": "Black-lored Babbler",
       "difference": null,
+      "times_confused": 6
+    },
+    {
+      "label": "Pycnonotus_barbatus",
+      "common_name": "Common Bulbul",
+      "difference": null,
       "times_confused": 2
     },
     {
@@ -104,6 +110,54 @@
     {
       "label": "Dioptrornis_fischeri",
       "common_name": "White-eyed Slaty Flycatcher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Indicator_minor",
+      "common_name": "Lesser Honeyguide",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Nigrita_canicapillus",
+      "common_name": "Grey-headed Nigrita",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Eurillas_latirostris",
+      "common_name": "Yellow-whiskered Greenbul",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Campephaga_flava",
+      "common_name": "Black Cuckooshrike",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pandion_haliaetus",
+      "common_name": "Osprey",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pinarochroa_sordida",
+      "common_name": "Moorland Chat",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Strix_woodfordii",
+      "common_name": "African Wood Owl",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Uraeginthus_ianthinogaster",
+      "common_name": "Purple Grenadier",
       "difference": null,
       "times_confused": 1
     }

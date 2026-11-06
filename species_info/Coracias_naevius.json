@@ -43,7 +43,7 @@
       "label": "Coracias_caudatus",
       "common_name": "Lilac-breasted Roller",
       "difference": null,
-      "times_confused": 2
+      "times_confused": 1
     },
     {
       "label": "Cecropis_senegalensis",
@@ -72,6 +72,24 @@
     {
       "label": "Turdoides_hypoleuca",
       "common_name": "Northern Pied Babbler",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cecropis_semirufa",
+      "common_name": "Red-breasted Swallow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Indicator_indicator",
+      "common_name": "Greater Honeyguide",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Uraeginthus_bengalus",
+      "common_name": "Red-cheeked Cordon-bleu",
       "difference": null,
       "times_confused": 1
     }

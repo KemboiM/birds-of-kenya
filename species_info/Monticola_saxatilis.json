@@ -38,6 +38,12 @@
   },
   "look_alikes": [
     {
+      "label": "Myrmecocichla_aethiops",
+      "common_name": "Anteater Chat",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
       "label": "Columba_livia",
       "common_name": "Rock Dove",
       "difference": null,
@@ -64,6 +70,30 @@
     {
       "label": "Tringa_glareola",
       "common_name": "Wood Sandpiper",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cuculus_solitarius",
+      "common_name": "Red-chested Cuckoo",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Circaetus_pectoralis",
+      "common_name": "Black-chested Snake Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Gyps_africanus",
+      "common_name": "White-backed Vulture",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Struthio_molybdophanes",
+      "common_name": "Somali Ostrich",
       "difference": null,
       "times_confused": 1
     }

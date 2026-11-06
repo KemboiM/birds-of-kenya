@@ -47,6 +47,18 @@
       "common_name": "Amethyst Sunbird",
       "difference": null,
       "times_confused": 1
+    },
+    {
+      "label": "Amblyospiza_albifrons",
+      "common_name": "Thick-billed Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Laniarius_funebris",
+      "common_name": "Slate-colored Boubou",
+      "difference": null,
+      "times_confused": 1
     }
   ],
   "sources": [

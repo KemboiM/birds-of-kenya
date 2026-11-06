@@ -33,16 +33,28 @@
   },
   "look_alikes": [
     {
+      "label": "Gelochelidon_nilotica",
+      "common_name": "Gull-billed Tern",
+      "difference": null,
+      "times_confused": 4
+    },
+    {
+      "label": "Chroicocephalus_cirrocephalus",
+      "common_name": "Grey-headed Gull",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
       "label": "Chlidonias_hybrida",
       "common_name": "Whiskered Tern",
       "difference": null,
-      "times_confused": 4
+      "times_confused": 1
     },
     {
       "label": "Elanus_caeruleus",
       "common_name": "Black-winged Kite",
       "difference": null,
-      "times_confused": 2
+      "times_confused": 1
     },
     {
       "label": "Pluvialis_squatarola",
@@ -89,6 +101,66 @@
     {
       "label": "Pelecanus_rufescens",
       "common_name": "Pink-backed Pelican",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Dromas_ardeola",
+      "common_name": "Crab-plover",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Buphagus_erythrorhynchus",
+      "common_name": "Red-billed Oxpecker",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Glareola_pratincola",
+      "common_name": "Collared Pratincole",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Oena_capensis",
+      "common_name": "Namaqua Dove",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Recurvirostra_avosetta",
+      "common_name": "Pied Avocet",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Apus_affinis",
+      "common_name": "Little Swift",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Creatophora_cinerea",
+      "common_name": "Wattled Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Hirundo_smithii",
+      "common_name": "Wire-tailed Swallow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Numida_meleagris",
+      "common_name": "Helmeted Guinea Fowl",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Turtur_chalcospilos",
+      "common_name": "Emerald-spotted Wood Dove",
       "difference": null,
       "times_confused": 1
     }

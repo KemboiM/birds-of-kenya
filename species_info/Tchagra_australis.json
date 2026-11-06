@@ -34,7 +34,13 @@
       "label": "Tchagra_senegalus",
       "common_name": "Black-crowned Tchagra",
       "difference": null,
-      "times_confused": 4
+      "times_confused": 3
+    },
+    {
+      "label": "Terpsiphone_viridis",
+      "common_name": "African Paradise Flycatcher",
+      "difference": null,
+      "times_confused": 2
     },
     {
       "label": "Emberiza_tahapisi",
@@ -81,6 +87,42 @@
     {
       "label": "Telophorus_cruentus",
       "common_name": "Rosy-patched Bushshrike",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tchagra_jamesi",
+      "common_name": "Three-streaked Tchagra",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Platysteira_cyanea",
+      "common_name": "Brown-throated Wattle-eye",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Centropus_superciliosus",
+      "common_name": "White-browed Coucal",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cossypha_heuglini",
+      "common_name": "White-browed Robin-chat",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Erythropygia_leucophrys",
+      "common_name": "White-browed Scrub Robin",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Uraeginthus_ianthinogaster",
+      "common_name": "Purple Grenadier",
       "difference": null,
       "times_confused": 1
     }

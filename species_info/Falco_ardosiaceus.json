@@ -70,6 +70,24 @@
       "common_name": "African Harrier-hawk",
       "difference": null,
       "times_confused": 1
+    },
+    {
+      "label": "Circaetus_cinerascens",
+      "common_name": "Western Banded Snake Eagle",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Kaupifalco_monogrammicus",
+      "common_name": "Lizard Buzzard",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Melierax_poliopterus",
+      "common_name": "Eastern Chanting Goshawk",
+      "difference": null,
+      "times_confused": 1
     }
   ],
   "sources": [

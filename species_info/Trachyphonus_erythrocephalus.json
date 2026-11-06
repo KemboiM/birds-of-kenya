@@ -36,7 +36,7 @@
       "label": "Trachyphonus_darnaudii",
       "common_name": "D'Arnaud's Barbet",
       "difference": null,
-      "times_confused": 2
+      "times_confused": 3
     },
     {
       "label": "Buphagus_erythrorhynchus",
@@ -77,6 +77,24 @@
     {
       "label": "Lamprotornis_hildebrandti",
       "common_name": "Hildebrandt's Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cichladusa_guttata",
+      "common_name": "Spotted Palm Thrush",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Merops_bullockoides",
+      "common_name": "White-fronted Bee-eater",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tauraco_schalowi",
+      "common_name": "Schalow's Turaco",
       "difference": null,
       "times_confused": 1
     }

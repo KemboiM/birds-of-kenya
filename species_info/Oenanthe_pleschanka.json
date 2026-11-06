@@ -38,6 +38,12 @@
   },
   "look_alikes": [
     {
+      "label": "Oenanthe_oenanthe",
+      "common_name": "Northern Wheatear",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
       "label": "Motacilla_capensis",
       "common_name": "Cape Wagtail",
       "difference": null,
@@ -76,6 +82,42 @@
     {
       "label": "Oenanthe_lugubris",
       "common_name": "Abyssinian Wheatear",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pandion_haliaetus",
+      "common_name": "Osprey",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bradornis_microrhynchus",
+      "common_name": "African Grey Flycatcher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bubo_cinerascens",
+      "common_name": "Greyish Eagle-owl",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ciconia_abdimii",
+      "common_name": "Abdim's Stork",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Eurocephalus_ruppelli",
+      "common_name": "Northern White-crowned Shrike",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pterocles_decoratus",
+      "common_name": "Black-faced Sandgrouse",
       "difference": null,
       "times_confused": 1
     }

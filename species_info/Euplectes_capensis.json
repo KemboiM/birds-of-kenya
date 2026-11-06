@@ -67,6 +67,54 @@
       "common_name": "Golden-breasted Starling",
       "difference": null,
       "times_confused": 1
+    },
+    {
+      "label": "Euplectes_afer",
+      "common_name": "Yellow-crowned Bishop",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Euplectes_progne",
+      "common_name": "Long-tailed Widowbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lonchura_cucullata",
+      "common_name": "Bronze Mannikin",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Macronyx_croceus",
+      "common_name": "Yellow-throated Longclaw",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Phyllastrephus_cabanisi",
+      "common_name": "Cabanis's Greenbul",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Poicephalus_meyeri",
+      "common_name": "Meyer's Parrot",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Polyboroides_typus",
+      "common_name": "African Harrier-hawk",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Haliaeetus_vocifer",
+      "common_name": "African Fish Eagle",
+      "difference": null,
+      "times_confused": 1
     }
   ],
   "sources": [

@@ -31,12 +31,6 @@
   },
   "look_alikes": [
     {
-      "label": "Urocolius_macrourus",
-      "common_name": "Blue-naped Mousebird",
-      "difference": null,
-      "times_confused": 3
-    },
-    {
       "label": "Turdoides_rubiginosa",
       "common_name": "Rufous Chatterer",
       "difference": null,
@@ -47,6 +41,18 @@
       "common_name": "Crimson-rumped Waxbill",
       "difference": null,
       "times_confused": 2
+    },
+    {
+      "label": "Quelea_quelea",
+      "common_name": "Red-billed Quelea",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Urocolius_macrourus",
+      "common_name": "Blue-naped Mousebird",
+      "difference": null,
+      "times_confused": 1
     },
     {
       "label": "Batis_perkeo",
@@ -85,14 +91,68 @@
       "times_confused": 1
     },
     {
-      "label": "Quelea_quelea",
-      "common_name": "Red-billed Quelea",
+      "label": "Colius_striatus",
+      "common_name": "Speckled Mousebird",
       "difference": null,
       "times_confused": 1
     },
     {
-      "label": "Colius_striatus",
-      "common_name": "Speckled Mousebird",
+      "label": "Phyllastrephus_strepitans",
+      "common_name": "Northern Brownbul",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Circus_macrourus",
+      "common_name": "Pallid Harrier",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Upupa_epops",
+      "common_name": "Eurasian Hoopoe",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Corythaixoides_personatus",
+      "common_name": "Bare-faced Go-away-bird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Amadina_fasciata",
+      "common_name": "Cut-throat Finch",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Creatophora_cinerea",
+      "common_name": "Wattled Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Erythropygia_leucophrys",
+      "common_name": "White-browed Scrub Robin",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Passer_gongonensis",
+      "common_name": "Parrot-billed Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Ploceus_xanthops",
+      "common_name": "Holub's Golden Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Eupodotis_senegalensis",
+      "common_name": "White-bellied Bustard",
       "difference": null,
       "times_confused": 1
     }

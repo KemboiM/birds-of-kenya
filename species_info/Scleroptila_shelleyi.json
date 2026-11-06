@@ -31,6 +31,12 @@
   },
   "look_alikes": [
     {
+      "label": "Campocolinus_coqui",
+      "common_name": "Coqui Francolin",
+      "difference": null,
+      "times_confused": 3
+    },
+    {
       "label": "Ortygornis_sephaena",
       "common_name": "Crested Francolin",
       "difference": null,
@@ -39,6 +45,12 @@
     {
       "label": "Pterocles_decoratus",
       "common_name": "Black-faced Sandgrouse",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Calidris_pugnax",
+      "common_name": "Ruff",
       "difference": null,
       "times_confused": 1
     }

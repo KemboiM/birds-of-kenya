@@ -57,7 +57,7 @@
       "label": "Merops_superciliosus",
       "common_name": "Olive Bee-eater",
       "difference": null,
-      "times_confused": 2
+      "times_confused": 1
     },
     {
       "label": "Merops_oreobates",
@@ -68,6 +68,24 @@
     {
       "label": "Passer_gongonensis",
       "common_name": "Parrot-billed Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Hirundo_rustica",
+      "common_name": "Barn Swallow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pterocles_exustus",
+      "common_name": "Chestnut-bellied Sandgrouse",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Merops_persicus",
+      "common_name": "Blue-cheeked Bee-eater",
       "difference": null,
       "times_confused": 1
     }

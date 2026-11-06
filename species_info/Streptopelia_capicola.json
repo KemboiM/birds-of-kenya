@@ -47,13 +47,25 @@
       "label": "Streptopelia_semitorquata",
       "common_name": "Red-eyed Dove",
       "difference": null,
-      "times_confused": 9
+      "times_confused": 10
     },
     {
       "label": "Streptopelia_decipiens",
       "common_name": "Mourning Collared Dove",
       "difference": null,
-      "times_confused": 4
+      "times_confused": 3
+    },
+    {
+      "label": "Spilopelia_senegalensis",
+      "common_name": "Laughing Dove",
+      "difference": null,
+      "times_confused": 3
+    },
+    {
+      "label": "Turtur_chalcospilos",
+      "common_name": "Emerald-spotted Wood Dove",
+      "difference": null,
+      "times_confused": 2
     },
     {
       "label": "Vanellus_melanopterus",
@@ -112,6 +124,84 @@
     {
       "label": "Tockus_deckeni",
       "common_name": "Von Der Decken's Hornbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Phyllolais_pulchella",
+      "common_name": "Buff-bellied Warbler",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Turdoides_hypoleuca",
+      "common_name": "Northern Pied Babbler",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Halcyon_chelicuti",
+      "common_name": "Striped Kingfisher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Milvus_migrans",
+      "common_name": "Black Kite",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Corvus_albicollis",
+      "common_name": "White-necked Raven",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Corythaixoides_personatus",
+      "common_name": "Bare-faced Go-away-bird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lamprotornis_purpuroptera",
+      "common_name": "Rüppell's Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pterocles_gutturalis",
+      "common_name": "Yellow-throated Sandgrouse",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Riparia_paludicola",
+      "common_name": "Brown-throated Martin",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Treron_calvus",
+      "common_name": "African Green Pigeon",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Vanellus_crassirostris",
+      "common_name": "Long-toed Lapwing",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Terathopius_ecaudatus",
+      "common_name": "Bateleur",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Vidua_macroura",
+      "common_name": "Pin-tailed Whydah",
       "difference": null,
       "times_confused": 1
     }

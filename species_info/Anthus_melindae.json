@@ -1,0 +1,63 @@
+{
+  "label": "Anthus_melindae",
+  "scientific_name": "Anthus melindae",
+  "common_name": "Malindi Pipit",
+  "other_names": {},
+  "family": "Motacillidae",
+  "summary": "The Malindi pipit (Anthus melindae) is a species of bird in the family Motacillidae. It is found in Kenya and Somalia. Its natural habitats are subtropical or tropical dry lowland grassland and subtropical or tropical seasonally wet or flooded lowland grassland.",
+  "appearance": {
+    "description": null,
+    "colors": null,
+    "wings": null
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Coast",
+      "Kenya",
+      "Kilifi",
+      "Coast Province",
+      "Coast prov",
+      "Lamu"
+    ],
+    "gbif_records_in_kenya": 1080
+  },
+  "look_alikes": [
+    {
+      "label": "Anhinga_rufa",
+      "common_name": "African Darter",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Calandrella_cinerea",
+      "common_name": "Red-capped Lark",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Malindi pipit",
+      "url": "https://en.wikipedia.org/wiki/Malindi_pipit",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2490286"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

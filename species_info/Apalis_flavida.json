@@ -31,14 +31,14 @@
   },
   "look_alikes": [
     {
-      "label": "Creatophora_cinerea",
-      "common_name": "Wattled Starling",
-      "difference": null,
-      "times_confused": 2
-    },
-    {
       "label": "Camaroptera_brachyura",
       "common_name": "Green-backed Camaroptera",
+      "difference": null,
+      "times_confused": 3
+    },
+    {
+      "label": "Creatophora_cinerea",
+      "common_name": "Wattled Starling",
       "difference": null,
       "times_confused": 2
     },
@@ -105,6 +105,66 @@
     {
       "label": "Terpsiphone_viridis",
       "common_name": "African Paradise Flycatcher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Zosterops_flavilateralis",
+      "common_name": "Pale White-eye",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Clamator_glandarius",
+      "common_name": "Great Spotted Cuckoo",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Nilaus_afer",
+      "common_name": "Brubru",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Tricholaema_diademata",
+      "common_name": "Red-fronted Barbet",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Crithagra_dorsostriata",
+      "common_name": "White-bellied Canary",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Motacilla_flava",
+      "common_name": "Western Yellow Wagtail",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Sylvietta_whytii",
+      "common_name": "Red-faced Crombec",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Uraeginthus_bengalus",
+      "common_name": "Red-cheeked Cordon-bleu",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Hedydipna_collaris",
+      "common_name": "Collared Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Bradornis_microrhynchus",
+      "common_name": "African Grey Flycatcher",
       "difference": null,
       "times_confused": 1
     }

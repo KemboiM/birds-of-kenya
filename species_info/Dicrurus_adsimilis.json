@@ -56,28 +56,46 @@
       "times_confused": 3
     },
     {
+      "label": "Nectarinia_kilimensis",
+      "common_name": "Bronze Sunbird",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Euplectes_albonotatus",
+      "common_name": "White-winged Widowbird",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Parus_albiventris",
+      "common_name": "White-bellied Tit",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
       "label": "Melaenornis_pammelaina",
       "common_name": "Southern Black Flycatcher",
       "difference": null,
-      "times_confused": 3
+      "times_confused": 1
     },
     {
       "label": "Myrmecocichla_nigra",
       "common_name": "Sooty Chat",
       "difference": null,
-      "times_confused": 2
+      "times_confused": 1
     },
     {
       "label": "Melaenornis_edolioides",
       "common_name": "Northern Black Flycatcher",
       "difference": null,
-      "times_confused": 2
+      "times_confused": 1
     },
     {
       "label": "Milvus_migrans",
       "common_name": "Black Kite",
       "difference": null,
-      "times_confused": 2
+      "times_confused": 1
     },
     {
       "label": "Ploceus_taeniopterus",
@@ -164,8 +182,74 @@
       "times_confused": 1
     },
     {
-      "label": "Nectarinia_kilimensis",
-      "common_name": "Bronze Sunbird",
+      "label": "Bubalornis_albirostris",
+      "common_name": "White-billed Buffalo Weaver",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Apalis_cinerea",
+      "common_name": "Grey Apalis",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Psalidoprocne_pristoptera",
+      "common_name": "Black Saw-wing",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Chalcomitra_amethystina",
+      "common_name": "Amethyst Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Oenanthe_lugubris",
+      "common_name": "Abyssinian Wheatear",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Corvus_splendens",
+      "common_name": "House Crow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Creatophora_cinerea",
+      "common_name": "Wattled Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Buphagus_africanus",
+      "common_name": "Yellow-billed Oxpecker",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Falco_tinnunculus",
+      "common_name": "Common Kestrel",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Leptoptilos_crumenifer",
+      "common_name": "Marabou Stork",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lonchura_bicolor",
+      "common_name": "Black-and-white Mannikin",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Myrmecocichla_aethiops",
+      "common_name": "Anteater Chat",
       "difference": null,
       "times_confused": 1
     }

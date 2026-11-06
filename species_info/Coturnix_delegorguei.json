@@ -41,6 +41,12 @@
       "common_name": "Red-fronted Barbet",
       "difference": null,
       "times_confused": 1
+    },
+    {
+      "label": "Egretta_garzetta",
+      "common_name": "Little Egret",
+      "difference": null,
+      "times_confused": 1
     }
   ],
   "sources": [

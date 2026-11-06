@@ -1,0 +1,61 @@
+{
+  "label": "Apaloderma_vittatum",
+  "scientific_name": "Apaloderma vittatum",
+  "common_name": "Bar-tailed Trogon",
+  "other_names": {
+    "sw": "Lukungu Mkia-miraba"
+  },
+  "family": "Trogonidae",
+  "summary": "The bar-tailed trogon (Apaloderma vittatum) is a species of bird in the family Trogonidae. It is a resident bird native to central Africa that eats primarily insects and fruit.",
+  "appearance": {
+    "description": "The bar-tailed trogon averages about 28 centimetres (11 in) long. The bill and feet are yellow, and the tail, long and broad as usual for trogons, has the underside narrowly barred with black and white. The male's head is blue-black with bronze iridescence.",
+    "colors": "The bill and feet are yellow, and the tail, long and broad as usual for trogons, has the underside narrowly barred with black and white. The male's head is blue-black with bronze iridescence.",
+    "wings": "The immature is similar to the female, but has a white belly and pale spots on the wings formed by the tips of the wing coverts and inner secondaries."
+  },
+  "size": {
+    "adult": null,
+    "juvenile": {
+      "notes": "The immature is similar to the female, but has a white belly and pale spots on the wings formed by the tips of the wing coverts and inner secondaries."
+    },
+    "chick": null
+  },
+  "behaviour": "=== Feeding === The bar-tailed trogon, similar to other trogons, feeds on insects and fruit.",
+  "can_fly": true,
+  "where_found": {
+    "habitat": "The bar-tailed trogon is found in Angola, Burundi, Cameroon, the Congo, Equatorial Guinea, Kenya, Malawi, Mozambique, Nigeria, Rwanda, Tanzania, Uganda, and Zambia. It lives in forests; at altitudes between 900 and 3,000 m (3,000 and 9,800 ft), is typically higher than that of the Narina trogon, but the two occur together in some places.",
+    "kenya_regions": [
+      "Western",
+      "Central",
+      "Kenya",
+      "Rift Valley",
+      "Kakamega",
+      "Eastern"
+    ],
+    "gbif_records_in_kenya": 932
+  },
+  "look_alikes": [
+    {
+      "label": "Apaloderma_narina",
+      "common_name": "Narina Trogon",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Bar-tailed trogon",
+      "url": "https://en.wikipedia.org/wiki/Bar-tailed_trogon",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/2496630"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

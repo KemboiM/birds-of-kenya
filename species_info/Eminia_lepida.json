@@ -66,6 +66,48 @@
       "common_name": "Black-backed Puffback",
       "difference": null,
       "times_confused": 1
+    },
+    {
+      "label": "Zosterops_silvanus",
+      "common_name": "Taita White-eye",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Lanius_mackinnoni",
+      "common_name": "Mackinnon's Shrike",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Camaroptera_brachyura",
+      "common_name": "Green-backed Camaroptera",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Coccopygia_quartinia",
+      "common_name": "Yellow-bellied Waxbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Emberiza_flaviventris",
+      "common_name": "Golden-breasted Bunting",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Merops_albicollis",
+      "common_name": "White-throated Bee-eater",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Oenanthe_oenanthe",
+      "common_name": "Northern Wheatear",
+      "difference": null,
+      "times_confused": 1
     }
   ],
   "sources": [

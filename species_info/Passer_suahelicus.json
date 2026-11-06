@@ -1,0 +1,69 @@
+{
+  "label": "Passer_suahelicus",
+  "scientific_name": "Passer suahelicus",
+  "common_name": "Swahili Sparrow",
+  "other_names": {},
+  "family": "Passeridae",
+  "summary": "The Swahili sparrow (Passer suahelicus) is a passerine bird of the sparrow family Passeridae. It lives in the savanna of southern Kenya and Tanzania. Until recently, it was usually treated as a subspecies of the northern grey-headed sparrow (Passer griseus), with which it hybridizes in southern Tanzania and possibly elsewhere.",
+  "appearance": {
+    "description": null,
+    "colors": "Until recently, it was usually treated as a subspecies of the northern grey-headed sparrow (Passer griseus), with which it hybridizes in southern Tanzania and possibly elsewhere. It has a more rounded head profile however, a smaller eye and the grey head plumage extends unto the mantle.",
+    "wings": "Following the breeding season they form nomadic flocks, and the bill colour will change from black to horn-coloured."
+  },
+  "size": {
+    "adult": null,
+    "juvenile": null,
+    "chick": null
+  },
+  "behaviour": null,
+  "can_fly": true,
+  "where_found": {
+    "habitat": null,
+    "kenya_regions": [
+      "Rift Valley",
+      "Kenya",
+      "Narok",
+      "Taita-Taveta",
+      "Kajiado",
+      "Machakos"
+    ],
+    "gbif_records_in_kenya": 1068
+  },
+  "look_alikes": [
+    {
+      "label": "Bradornis_microrhynchus",
+      "common_name": "African Grey Flycatcher",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Passer_griseus",
+      "common_name": "Northern Grey-headed Sparrow",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Pseudonigrita_arnaudi",
+      "common_name": "Grey-capped Social Weaver",
+      "difference": null,
+      "times_confused": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "title": "Swahili sparrow",
+      "url": "https://en.wikipedia.org/wiki/Swahili_sparrow",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "GBIF",
+      "url": "https://www.gbif.org/species/5789135"
+    }
+  ],
+  "review": {
+    "auto_generated": true,
+    "verified_by": null,
+    "note": "Check sizes and text against a field guide, then set verified_by."
+  }
+}

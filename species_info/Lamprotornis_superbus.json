@@ -41,13 +41,25 @@
       "label": "Lamprotornis_hildebrandti",
       "common_name": "Hildebrandt's Starling",
       "difference": null,
-      "times_confused": 6
+      "times_confused": 4
+    },
+    {
+      "label": "Cossypha_heuglini",
+      "common_name": "White-browed Robin-chat",
+      "difference": null,
+      "times_confused": 2
+    },
+    {
+      "label": "Uraeginthus_ianthinogaster",
+      "common_name": "Purple Grenadier",
+      "difference": null,
+      "times_confused": 2
     },
     {
       "label": "Lamprotornis_purpuroptera",
       "common_name": "Rüppell's Starling",
       "difference": null,
-      "times_confused": 2
+      "times_confused": 1
     },
     {
       "label": "Empidornis_semipartitus",
@@ -82,6 +94,48 @@
     {
       "label": "Tockus_deckeni",
       "common_name": "Von Der Decken's Hornbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Coccopygia_quartinia",
+      "common_name": "Yellow-bellied Waxbill",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Thamnolaea_cinnamomeiventris",
+      "common_name": "Mocking Cliff Chat",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Cinnyris_reichenowi",
+      "common_name": "Northern Double-collared Sunbird",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Columba_guinea",
+      "common_name": "Speckled Pigeon",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Onychognathus_morio",
+      "common_name": "Red-winged Starling",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Turdoides_rubiginosa",
+      "common_name": "Rufous Chatterer",
+      "difference": null,
+      "times_confused": 1
+    },
+    {
+      "label": "Uraeginthus_bengalus",
+      "common_name": "Red-cheeked Cordon-bleu",
       "difference": null,
       "times_confused": 1
     }

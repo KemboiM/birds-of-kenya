@@ -34,7 +34,13 @@
       "label": "Sylvietta_whytii",
       "common_name": "Red-faced Crombec",
       "difference": null,
-      "times_confused": 2
+      "times_confused": 1
+    },
+    {
+      "label": "Prinia_subflava",
+      "common_name": "Tawny-flanked Prinia",
+      "difference": null,
+      "times_confused": 1
     }
   ],
   "sources": [
