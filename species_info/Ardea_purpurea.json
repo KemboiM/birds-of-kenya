@@ -15,12 +15,16 @@
   "size": {
     "adult": {
       "length_cm": [
-        70.0,
-        152.0
+        78.0,
+        97.0
       ],
       "mass_g": [
         500.0,
         1350.0
+      ],
+      "wingspan_cm": [
+        120.0,
+        152.0
       ]
     },
     "juvenile": null,

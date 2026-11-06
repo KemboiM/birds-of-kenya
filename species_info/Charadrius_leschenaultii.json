@@ -11,7 +11,12 @@
     "wings": null
   },
   "size": {
-    "adult": null,
+    "adult": {
+      "length_cm": [
+        19.0,
+        22.0
+      ]
+    },
     "juvenile": {
       "notes": "The female is duller and greyer, and winter and juvenile birds are browner, apart from a hint of rufous on the head."
     },
