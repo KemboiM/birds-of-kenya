@@ -1,0 +1,26 @@
+name: Wrong species details
+description: A size, name, description or look-alike in species_info/ is wrong
+title: "Species details: "
+labels: ["species info"]
+body:
+  - type: input
+    id: species
+    attributes:
+      label: Species
+      placeholder: e.g. Struthio_camelus (Common Ostrich)
+    validations:
+      required: true
+  - type: textarea
+    id: wrong
+    attributes:
+      label: What is wrong
+      placeholder: e.g. adult length is 5-280 cm; should be 175-275 cm standing height
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Source
+      description: Field guide, paper or web page for the correct value
+    validations:
+      required: true
