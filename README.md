@@ -17,6 +17,20 @@ Scan a code with your phone camera.
 The models download once (about 23 MB). After that, everything runs on the phone, even
 offline, and photos are never uploaded.
 
+## Results by version
+
+| Version | Species | Test photos | Accuracy | Top-5 | Macro F1 | What changed |
+|---|---:|---:|---:|---:|---:|---|
+| [0.9](reports/0.9/) | 50 | 1,500 | 72.2% | 90.1% | 72.3% | Baseline: the 50 most-photographed species, whole photos |
+| [1.0](reports/1.0/) | 467 | 7,277 | 44.9% | 69.3% | 38.4% | All species with 20+ usable photos, whole photos, frozen MobileNetV2 |
+| [1.1](reports/1.1/) | 467 | 7,199 | 63.2% | 83.0% | 56.9% | Trained on the boxed birds, top layers fine-tuned |
+| [2.0](reports/2.0/) | 547 | 7,815 | 44.9% | 69.3% | 34.8% | Species with 10+ photos, whole photos, frozen MobileNetV2 |
+| [2.1](reports/2.1/) | 547 | 7,815 | 60.8% | 80.4% | 49.4% | Boxed birds, fine-tuned; in use |
+
+Versions with different species lists are not directly comparable: 2.0 and 2.1 share the same
+547 species and test photos, as do 1.0 and 1.1 (467 species). Training on the boxed birds
+instead of whole photos added about 16 to 18 points of accuracy each time.
+
 ## How it works
 
 1. **Find the birds.** YOLO11n, pretrained on COCO, draws a box around every bird.
