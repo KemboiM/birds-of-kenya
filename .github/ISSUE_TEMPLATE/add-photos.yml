@@ -1,0 +1,37 @@
+name: Add photos
+description: Offer your own bird photos from Kenya for training
+title: "Photos: "
+labels: ["photos"]
+body:
+  - type: input
+    id: species
+    attributes:
+      label: Species
+      description: One species per issue; scientific name if you know it
+    validations:
+      required: true
+  - type: input
+    id: count
+    attributes:
+      label: Number of photos and where they were taken
+      placeholder: e.g. 25 photos, Lake Nakuru, March 2026
+    validations:
+      required: true
+  - type: dropdown
+    id: license
+    attributes:
+      label: License for training
+      description: The model is trained on openly licensed photos only
+      options:
+        - CC0 (no rights reserved)
+        - CC BY (credit me)
+        - CC BY-NC (credit me, non-commercial)
+    validations:
+      required: true
+  - type: checkboxes
+    id: own
+    attributes:
+      label: Confirmation
+      options:
+        - label: I took these photos myself
+          required: true

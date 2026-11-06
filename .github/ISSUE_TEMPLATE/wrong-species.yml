@@ -1,0 +1,39 @@
+name: Wrong species
+description: Birdiie or identify.py named a bird wrongly
+title: "Wrong species: "
+labels: ["wrong species"]
+body:
+  - type: input
+    id: predicted
+    attributes:
+      label: What the tool said
+      placeholder: e.g. African Hoopoe, 78% sure
+    validations:
+      required: true
+  - type: input
+    id: actual
+    attributes:
+      label: What the bird really is
+      description: Common or scientific name, and how sure you are
+      placeholder: e.g. Eurasian Hoopoe (Upupa epops), certain
+    validations:
+      required: true
+  - type: textarea
+    id: photo
+    attributes:
+      label: Photo
+      description: Attach the photo if you are happy to share it. Only photos you took yourself, please.
+  - type: dropdown
+    id: where
+    attributes:
+      label: Where did you run it?
+      options:
+        - Birdiie phone app
+        - identify.py on a computer
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Model version
+      description: Shown at the top of the app, e.g. Classifier v2.1
