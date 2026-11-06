@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this software or its models, please cite it as below."
+title: "Birds of Kenya: a bird identification tool for Kenyan species (Birdiie)"
+type: software
+authors:
+  - family-names: Kemboi
+    given-names: Milsort
+version: "2.1"
+date-released: 2026-10-24
+license: AGPL-3.0
+repository-code: "https://github.com/KemboiM/birds-of-kenya"
+url: "https://kemboim.github.io/birds-of-kenya/"
+keywords:
+  - bird identification
+  - Kenya
+  - computer vision
+  - object detection
+  - image classification
+  - YOLO
+  - MobileNetV2
+  - biodiversity
+abstract: >-
+  A two-stage bird identification tool for Kenyan species. A YOLO detector finds every
+  bird in a photo and a MobileNetV2 classifier, trained on GBIF photos of 547 Kenyan
+  species, names each one. It counts birds by species, describes each species and
+  estimates distance. The Birdiie web app runs the models on Android and iOS phones.
