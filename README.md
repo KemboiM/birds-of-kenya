@@ -5,6 +5,19 @@ names the species, counts them ("12 Marabou Storks, 3 Hadada Ibises"), describes
 species, and estimates how far away the birds are. It runs on a computer or, through the
 web app, on Android and iOS phones.
 
+## Try it on your phone
+
+<img src="docs/images/app_qr.svg" alt="QR code for the Birds of Kenya phone app" width="160" align="right">
+
+Scan the QR code with your phone camera, or open
+**[kemboim.github.io/birds-of-kenya](https://kemboim.github.io/birds-of-kenya/)**.
+
+- **iPhone (Safari):** tap Share, then **Add to Home Screen**.
+- **Android (Chrome):** tap ⋮, then **Add to Home screen** or **Install app**.
+
+The models download once (about 23 MB). After that, everything runs on the phone and
+photos are never uploaded.
+
 **Status (October 2026):** version 2.1 is in use. It covers 547 species with 60.8% accuracy
 (top-5 80.4%) on 7,815 held-out test photos. It is trained on the birds boxed in each photo,
 with fine-tuning, and replaced 2.0 (44.9% on the same test photos) under the promotion rules
